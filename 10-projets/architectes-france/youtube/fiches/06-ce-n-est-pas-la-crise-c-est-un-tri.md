@@ -1,130 +1,217 @@
 # EP06 — Ce n'est pas la crise. C'est un tri.
 
-| | |
-|---|---|
-| **Épisode** | 06 / 20 · semaine 6 |
-| **Famille** | CONSTAT |
-| **Audience** | 🅐🅑 |
-| **Situations ciblées** | S2 dépendant du bouche-à-oreille · S4 équipe de 2 à 5 |
-| **Durée cible** | 13-15 min |
-| **Production** | ★★☆ — presse et données publiques à l'écran |
+Épisode 06/20 · CONSTAT · architecte DE et architecte d'intérieur · 13-15 min
 
-> La vidéo qui installe **l'urgence datée** sans rien vendre. Elle repose entièrement sur
-> des faits vérifiables : c'est ce qui permet d'être dur sans être un marchand de peur.
 
----
+## AVANT DE TOURNER — ce que tu dois savoir et que tu ne diras pas
 
-## Le titre
+Ce qui est établi et vérifiable :
 
-**Principal :** `Ce n'est pas la crise. C'est un TRI.`
+Les organisations professionnelles constatent une hausse inédite des plans de
+licenciement et des liquidations dans le secteur. Le Moniteur titre sur « une crise
+inédite » dans les agences d'architecture.
+https://www.lemoniteur.fr/article/defaillances-d-entreprises-4-5-dans-les-agences-d-architecture-une-crise-inedite.2347934
 
-Variantes :
-- `Les liquidations d'agences ont TRIPLÉ — et ce n'est pas la conjoncture`
-- `50 % des agences ont perdu du chiffre en 2025. Pas toutes.`
+Trois causes documentées, à citer dans cet ordre :
 
-## La miniature
+La commande publique se contracte, et les élections municipales de 2026 gèlent
+mécaniquement les projets — un maire sortant n'engage pas un programme qu'il ne mènera
+peut-être pas.
 
-**Texte :** `50 %` en très gros · dessous : `des agences`
+Les retards de paiement, y compris de grandes collectivités, assèchent la trésorerie des
+petites structures qui n'ont pas le matelas pour tenir.
 
-**Composition :** deux courbes qui divergent, l'une vers le bas en rouge, l'autre vers le
-haut en vert. Ton visage à gauche, fermé, sérieux. **Pas de sourire sur cette vignette.**
+Le décalage : les architectes encaissent un retournement après les entreprises de
+construction, parce qu'ils doivent d'abord terminer les projets en cours. Pendant que le
+bâtiment montre des signes de reprise, la conception continue d'annoncer des fermetures.
 
-**Image :** graphique fait dans Canva à partir des chiffres ci-dessous.
+Mesure de soutien existante, à connaître car elle prouve la gravité : un accord de branche
+de juillet 2025 facilite l'accès à l'activité partielle de longue durée « rebond », les
+agences pouvant en faire la demande jusqu'au 28 février 2026.
 
-## La grande idée
+Le fait qui fait basculer la vidéo, et il vient d'Archigraphie : pendant que le premier
+quartile perd 10 % en deux ans, le troisième quartile monte. Le rapport entre les deux
+passe de 4,2 à 4,5.
 
-> Une crise frappe tout le monde. Un tri sépare. Ce qui se passe depuis 2023 sépare — donc
-> ce n'est pas une crise, et attendre la reprise est une stratégie perdante. La preuve :
-> le quart du haut de la profession gagne plus qu'avant.
 
-## Le chapitrage et le contenu
+## LE PIÈGE — les chiffres que tu ne peux pas avancer
 
-| Timecode | Bloc | Ce que tu dis | Ce qu'on montre |
-|---|---|---|---|
-| 00:00 | **HOOK** | « 50 % des agences ont perdu du chiffre d'affaires en 2025. Les liquidations ont triplé depuis 2020. Et pendant ce temps, le quart du haut de la profession gagne plus qu'avant. » | Plein cadre |
-| 00:30 | **INTRO** | « Si c'était la conjoncture, tout le monde baisserait. » Open loop : « il y a une raison pour laquelle beaucoup d'entre vous ne l'ont pas encore senti, et c'est la partie la plus inquiétante » | — |
-| 01:00 | **① RÊVE** | Le cabinet qui a de la visibilité sur son second semestre : il sait combien de projets il a, il peut refuser, il peut embaucher sans se demander si ça tiendra | B-roll : planning rempli |
-| 02:00 | **② EXCUSE** | Personne n'a mal travaillé. Les permis de construire ont chuté de **23,7 % en 2023**, les ventes de logements collectifs neufs de 25 %, les maisons individuelles de plus de 30 %. Aucun cabinet ne compense ça avec du talent | Graphique SDES |
-| 03:30 | **③ PEUR — le décalage** | **Les architectes encaissent la crise avec environ neuf mois de retard.** Vous finissez les projets en cours avant de sentir le vide. Mi-2025, le BTP remontait déjà pendant que la conception continuait de licencier. Beaucoup de cabinets ne savent pas encore qu'ils vont manquer de travail | Frise : commande → chantier → facturation |
-| 05:00 | **④ ENNEMI** | L'ennemi, c'est la phrase **« ça reviendra »**. Elle est confortable, elle coûte un an. Et deux faits l'attaquent : les municipales de 2026 gèlent la commande publique, et les grands donneurs d'ordres publics paient très tard — ce qui tue les structures sans trésorerie | Articles de presse à l'écran |
-| 06:30 | **⑤ DOUTE** | « Je n'ai pas la trésorerie pour investir maintenant. » C'est vrai, et c'est exactement pour ça qu'il faut le faire maintenant plutôt que dans six mois : l'acquisition met du temps à produire. Celui qui commence quand il n'a plus rien commence trop tard | Face caméra |
-| 08:00 | **⑥ PREUVE** | Les sources, une par une : l'enquête du CROA Nouvelle-Aquitaine (50 % en baisse, 80 % inquiets pour la pérennité), le triplement des liquidations depuis 2020, les plans de licenciement mensuels dans le secteur, et l'existence même de l'**APLD-R** — un dispositif d'activité partielle longue durée, signé en juillet 2025, inspiré du Covid. « On ne crée pas ça pour un mauvais trimestre » | Captures des articles |
-| 10:00 | **⑦ MÉCANISME** | Les 3 choses à mettre en place **avant** que le carnet ne se vide : **(1)** savoir d'où viennent vos 10 derniers clients — la plupart ne le savent pas · **(2)** être trouvable sur votre zone (fiche Google, page qui dit où vous travaillez) · **(3)** un canal que vous contrôlez, même petit | Les 3 points |
-| 12:00 | **★ PITCH** | Le document gratuit. 15 secondes | — |
-| 12:30 | **⑧ ESCALIER** | Cette semaine : la liste des 10 derniers clients et leur origine · ce mois-ci : la fiche Google · ce trimestre : le premier canal payant | — |
-| 13:30 | **OUTRO** | « Il y a un marché qui ne baisse pas en ce moment. Il est même financé par l'État à hauteur de 3,6 milliards. » → **épisode 15** | Miniature EP15 |
+La version précédente de cette fiche annonçait « 50 % des agences ont perdu du chiffre en
+2025 » et « les liquidations ont triplé depuis 2020 ». Vérification faite :
 
-## Les liens à l'écran
+Le triplement des liquidations vient d'un article de France 3 portant sur la Gironde, et
+relayant le CROA Nouvelle-Aquitaine. C'est un chiffre régional. Le présenter comme
+national est faux.
+https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/ils-font-face-a-une-chute-abyssale-des-commandes-l-inquietude-des-architectes-qui-voient-le-nombre-de-liquidations-judiciaires-multiplie-par-trois-3313596.html
 
-| Moment | Lien |
-|---|---|
-| 02:00 | [SDES — données des permis de construire](https://www.statistiques.developpement-durable.gouv.fr/donnees-des-permis-de-construire-et-autres-autorisations-durbanisme) |
-| 08:00 | [France 3 — « liquidations multipliées par trois »](https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/ils-font-face-a-une-chute-abyssale-des-commandes-l-inquietude-des-architectes-qui-voient-le-nombre-de-liquidations-judiciaires-multiplie-par-trois-3313596.html) |
-| 08:00 | [Le Moniteur — « une crise inédite dans les agences »](https://www.lemoniteur.fr/article/defaillances-d-entreprises-4-5-dans-les-agences-d-architecture-une-crise-inedite.2347934) |
-| 08:00 | [Archigraphie 2024-2026](https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf) — quartiles de revenu |
-| 12:00 | <https://essort.agency/plan-acquisition> |
+Les 50 % ne sont sourcés nulle part. Ne pas les citer.
 
-## Les chiffres exacts
+Il n'existe pas de statistique nationale publique et à jour des défaillances d'agences
+d'architecture en accès libre. Les données du code NAF 71.11Z sont diffusées sous forme
+de graphiques sans totaux bruts.
 
-| Donnée | Valeur | Source |
-|---|---|---|
-| Permis de construire | **−23,7 % en 2023**, baisse prolongée en 2024-2025 | SDES / Le Moniteur |
-| Ventes de logements collectifs neufs | **−25 %** | Archigraphie |
-| Ventes de maisons individuelles neuves | **−30 %** | Archigraphie |
-| Liquidations / redressements d'agences | **×3 depuis 2020** | CROA Nouvelle-Aquitaine, via France 3 |
-| Agences en baisse d'activité en 2025 | **50 %** | enquête CROA Nouvelle-Aquitaine |
-| Architectes inquiets pour la pérennité | **80 %** | idem |
-| Plans de licenciement dans le secteur | **2 à 5 par mois** depuis début 2025 | Le Moniteur |
-| Dispositif | **APLD-R**, accord de branche juillet 2025 | Le Moniteur |
+Donc la vidéo repose sur la divergence des quartiles, qui est solide, et sur la presse
+citée comme presse — titre, date, média, une phrase entre guillemets, jamais l'article
+recopié.
 
-## La description YouTube
+
+## LES OBJECTIONS QUI ARRIVERONT EN COMMENTAIRE
+
+« Tout le monde souffre, y compris les gros. »
+Les données de la CIPAV disent le contraire sur le champ des libéraux et associés non
+salariés : le troisième quartile progresse pendant que le premier recule. Si quelqu'un a
+une source qui montre l'inverse, je la prends.
+
+« Un chiffre régional ne prouve rien. »
+Exact, et c'est pour ça que je le présente comme régional. Il illustre, il ne démontre pas.
+
+« La commande publique va repartir après les municipales. »
+Peut-être. Un nouveau conseil municipal met généralement de douze à dix-huit mois avant
+d'engager ses premiers programmes. Ça fait long à traverser sans autre source de projets.
+
+« Je n'ai pas de trésorerie pour investir maintenant. »
+C'est l'objection la plus légitime de toute la chaîne, et elle est traitée dans la vidéo :
+on commence par ce qui ne coûte rien.
+
+
+## LE DÉROULÉ — ce que le spectateur doit comprendre, chapitre par chapitre
+
+
+### Ouverture
+
+Qu'une crise et un tri ne se ressemblent pas. Une crise frappe tout le monde. Un tri
+sépare. Et ce qui se passe dans la profession sépare.
+
+
+### Ce qui est vraiment documenté
+
+Que je distingue ce qui est prouvé de ce qui circule. Prouvé : les organisations
+professionnelles constatent des liquidations et des licenciements inédits, et Le Moniteur
+titre sur une crise inédite. Non prouvé : les chiffres nationaux précis, qui n'existent pas
+en accès libre.
+
+Preuve — le titre, la date, le média, une phrase. Pas l'article.
+
+
+### Les trois causes, dans l'ordre
+
+Que ce n'est pas une fatalité mais un enchaînement identifiable : la commande publique
+gelée par l'approche des municipales de 2026, les retards de paiement qui assèchent les
+petites structures, et le décalage propre au métier — on termine les projets en cours
+avant de sentir le vide.
+
+Ce troisième point est le plus important pour lui : il explique pourquoi il peut se sentir
+épargné aujourd'hui et ne plus l'être dans neuf mois.
+
+
+### Pourquoi ce n'est pas une crise
+
+Que le mot est faux, et que ça change tout. Si c'était la conjoncture, les deux extrémités
+de la distribution baisseraient ensemble. Or le premier quartile perd 10 % en deux ans
+pendant que le troisième monte, et l'écart entre les deux passe de 4,2 à 4,5.
+
+Un phénomène qui écarte n'est pas un phénomène qui frappe. Et surtout : attendre la
+reprise n'a de sens que dans une crise. Dans un tri, attendre est une position.
+
+Preuve — Archigraphie, graphique 19. Citer le rapport sans redévelopper la distribution,
+qui appartient à l'EP02.
+https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
+
+
+### Ce que fait le quart qui monte
+
+Qu'il ne fait rien d'extraordinaire : il ne dépend pas d'une seule source de projets. Ce
+n'est pas une question de taille ni de prestige, c'est une question de nombre d'entrées.
+
+
+### L'objection de la trésorerie
+
+Que c'est l'objection la plus sérieuse, et qu'elle a une réponse honnête : on ne commence
+pas par dépenser. On commence par ce qui ne coûte que du temps — revendiquer sa fiche
+Google, rappeler les demandes déjà reçues et jamais relancées, reformuler la page
+d'accueil pour qu'elle dise enfin où et pour qui.
+
+Ce qui coûte de l'argent vient après, quand les trois premiers sont faits.
+
+
+### LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+
+Que dans un tri, la variable qui décide n'est pas la qualité du travail mais le nombre de
+portes d'entrée. Ceux qui traversent ont plusieurs sources de projets ; ceux qui tombent en
+avaient une seule, et elle s'est fermée.
+
+Que la commande publique et la recommandation ont un défaut commun : on ne les commande
+pas. On les subit. La publicité en ligne est la seule source de demandes qu'on peut ouvrir
+volontairement, un mardi matin, sur une zone choisie — et fermer quand le carnet est plein.
+C'est exactement ce qui manque à un cabinet qui vient de perdre un appel d'offres et n'a
+rien derrière.
+
+Et que le moment est contre-intuitif mais logique : quand le marché se vide, les enchères
+publicitaires baissent parce que les annonceurs coupent leurs budgets. C'est mécaniquement
+le moment où le coût d'une demande est le plus bas.
+
+Puis, au nous : chez Essort, les cabinets qui nous appellent le font presque toujours au
+mauvais moment — quand le carnet est déjà vide. On travaille alors dans l'urgence, avec
+la trésorerie la plus tendue. Ceux qui s'y prennent quand ça va encore obtiennent le même
+résultat sans la pression.
+
+Enchaîner sans respirer sur le document : les leviers d'acquisition, ce que chacun coûte
+et dans quel ordre les monter, 57 pages, gratuit, lien en description. Pas de carte
+bancaire, pas d'appel commercial.
+https://essort.agency/ressources
+
+
+### Sortie
+
+Qu'il peut compter ses sources de projets ce soir. La plupart en ont une.
+
+Puis rouvrir vers l'EP07 : s'il pense que la publicité ne lui est pas permise, le texte
+dit exactement l'inverse depuis 1992.
+
+
+## TITRE ET MINIATURE
+
+Principal : Ce n'est pas la crise. C'est un tri.
+Variante : Pourquoi certains cabinets gagnent plus qu'avant pendant que d'autres ferment
+
+Miniature : deux courbes qui divergent, l'une vers le haut l'autre vers le bas. Texte
+« TRI » en très gros. Visage à droite.
+
+
+## DESCRIPTION YOUTUBE
 
 ```
-50 % des agences d'architecture ont perdu du chiffre en 2025. Les liquidations ont
-triplé depuis 2020. Et le quart le mieux payé de la profession gagne plus qu'avant.
-Une crise frappe tout le monde — ça, c'est un tri.
+Une crise frappe tout le monde. Un tri sépare. Dans la profession, le premier quartile de
+revenus a perdu 10 % en deux ans pendant que le troisième montait — le rapport entre les
+deux est passé de 4,2 à 4,5. Ce n'est pas le profil d'une crise.
 
-📄 Le document gratuit : https://essort.agency/plan-acquisition
+Chiffres CIPAV 2022, publiés par l'Ordre des architectes. Les données nationales de
+défaillances du secteur ne sont pas disponibles en accès libre : je le dis dans la vidéo.
 
-Sources :
-• Permis de construire, SDES / Sitadel
-  https://www.statistiques.developpement-durable.gouv.fr/donnees-des-permis-de-construire-et-autres-autorisations-durbanisme
-• « Liquidations judiciaires multipliées par trois », France 3 Nouvelle-Aquitaine
-  https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/ils-font-face-a-une-chute-abyssale-des-commandes-l-inquietude-des-architectes-qui-voient-le-nombre-de-liquidations-judiciaires-multiplie-par-trois-3313596.html
-• « Dans les agences d'architecture, une crise inédite », Le Moniteur
-  https://www.lemoniteur.fr/article/defaillances-d-entreprises-4-5-dans-les-agences-d-architecture-une-crise-inedite.2347934
-• Archigraphie 2024-2026, Ordre des architectes
-  https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
+Je ne suis pas architecte : je fais de l'acquisition pour des cabinets d'architecture.
 
-CHAPITRES
-00:00 Un tri, pas une crise
-01:00 Le cabinet qui voit son second semestre
-02:00 -23,7 % de permis en 2023
-03:30 Le décalage de neuf mois
-05:00 « Ça reviendra »
-06:30 « Je n'ai pas la trésorerie »
-08:00 Les sources, une par une
-10:00 Les 3 choses à faire avant le vide
-13:30 La suite
+Les leviers d'acquisition, ce que chacun coûte et dans quel ordre les monter — 57 pages,
+gratuit : https://essort.agency/ressources
 
-Essort accompagne les architectes et architectes d'intérieur indépendants ou en
-équipe de 1 à 5 personnes sur leur acquisition de projets.
-Échanger 30 min : https://cal.com/essort/30min
+SOURCES
+Archigraphie 2024-2026, CNOA : https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
+Le Moniteur, crise inédite dans les agences : https://www.lemoniteur.fr/article/defaillances-d-entreprises-4-5-dans-les-agences-d-architecture-une-crise-inedite.2347934
+France 3 Nouvelle-Aquitaine, liquidations en Gironde : https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/ils-font-face-a-une-chute-abyssale-des-commandes-l-inquietude-des-architectes-qui-voient-le-nombre-de-liquidations-judiciaires-multiplie-par-trois-3313596.html
+
 Instagram : https://instagram.com/essort.architectes
 ```
 
-## Mots-clés
+Mots-clés : crise architectes 2026 · liquidation agence architecture · commande publique
+municipales · défaillances architecture
 
-`crise architecture 2026` · `agences d'architecture difficultés` · `liquidation agence
-architecture` · `permis de construire baisse` · `marché construction France` · `APLD
-rebond architecture`
 
-## Garde-fous propres à cet épisode
+## GARDE-FOUS
 
-- **Sourcer chaque chiffre à voix haute**, avec le média et l'année. C'est une vidéo qui
-  parle de faillites : sans source, elle devient du catastrophisme commercial.
-- **Ne jamais nommer un cabinet en difficulté.** Ni en exemple, ni en illustration.
-- **Ne pas transformer la crise en argument de vente direct.** Le pitch reste à
-  15 secondes, aux deux tiers. La vidéo informe ; c'est l'épisode 19 qui vend.
-- L'enquête « 50 % / 80 % » est régionale (Nouvelle-Aquitaine) : **le dire**. L'annoncer
-  comme un chiffre national serait faux.
+Ne jamais présenter le triplement des liquidations comme national : c'est la Gironde.
+Ne jamais citer « 50 % des agences » : non sourcé.
+Droit de citation : titre, date, média, une phrase entre guillemets, le lien. Jamais
+l'article entier, jamais un paywall contourné.
+Ne pas redévelopper la distribution des revenus, elle appartient à l'EP02.
+Ton mesuré : des gens de l'audience ont fermé leur agence cette année.
+Aucun cabinet nommé. Article 17.
+Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.
