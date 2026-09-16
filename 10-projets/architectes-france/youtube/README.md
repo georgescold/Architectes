@@ -180,21 +180,32 @@ affichable, cette preuve a-t-elle deja ete montree ailleurs.
 
 ---
 
-### ⚠️ Ta position — tu n'es PAS architecte
+### TA POSITION — l'expert acquisition des architectes
 
-**La règle la plus importante du dossier.** Tu es prestataire en acquisition marketing.
-Tu ne dessines pas, tu n'as jamais déposé un permis, tu n'as pas de cabinet. Ta
-légitimité ne vient pas de l'expérience du métier : elle vient d'**ailleurs**, et c'est
-précisément ce qui la rend utile.
+Tu n'es pas architecte, et tu n'es pas non plus en dessous d'un architecte. Tu es
+l'expert d'un domaine qu'il ne maîtrise pas : l'acquisition. Tu t'adresses à lui d'égal
+à égal, chacun sur son terrain.
+
+La phrase qui porte toute l'autorité, à dire une fois par vidéo dans les deux premières
+minutes, affirmative et sans préambule :
+
+> « Je fais de l'acquisition pour des cabinets d'architecture. C'est mon métier d'aller
+> chercher des clients pour les vôtres. »
+
+Elle se suffit. On ne l'accompagne d'aucune excuse, d'aucun « je ne suis pas
+architecte mais », d'aucun « je ne vais pas vous apprendre votre travail ».
 
 | ❌ Jamais | ✅ Toujours |
 |---|---|
+| « Vous connaissez ça mieux que moi » | « Ce qui m'intéresse, c'est la conséquence commerciale » |
+| « Je ne suis pas légitime pour en parler » | « Voilà ce que je vois passer toutes les semaines » |
+| « Je ne vais pas vous faire un cours » | « Je passe directement à ce qui vous concerne » |
+| « Je ne suis qu'un prestataire » | « C'est mon métier » |
 | « Je ne ferais plus que du professionnel » | « Les cabinets qui y vont signent autrement » |
-| « Quand je facturais mes honoraires… » | « Quand je regarde les grilles d'honoraires du marché… » |
+| « Quand je facturais mes honoraires… » | « Quand je regarde les grilles du marché… » |
 | « Nous, architectes… » | « Vous, les architectes… » / « votre métier » |
-| « J'ai arrêté de faire ça » | « Ce que je vois passer, c'est… » |
 | « Mon cabinet » | « Les cabinets que j'accompagne » |
-| Se faire passer pour un pair | Assumer le regard extérieur |
+| Se faire passer pour un pair | Assumer l'expertise d'à côté |
 
 **D'où vient ton autorité, concrètement :**
 
@@ -203,16 +214,12 @@ précisément ce qui la rend utile.
 2. **Tu vois ce qu'un architecte seul ne voit pas :** ce que font les constructeurs, les
    cuisinistes et les plateformes, parce que tu ouvres leurs campagnes toutes les semaines.
 3. **Tu as lu ce que personne ne lit** : Archigraphie en entier, le code de déontologie,
-   3 778 messages d'architectes sous anonymat.
+   des milliers de messages d'architectes sous anonymat.
 
-La phrase de cadrage, à dire une fois par vidéo, dans les deux premières minutes :
-
-> « Je ne suis pas architecte. Je fais de l'acquisition pour des cabinets d'architecture
-> — c'est mon métier d'aller chercher des clients pour les vôtres. Et de là où je suis,
-> il y a des choses qui sautent aux yeux. »
-
-**Ne jamais s'en excuser.** Un regard extérieur qui s'excuse d'être extérieur perd les
-deux : il n'est ni pair, ni expert.
+**Les deux erreurs symétriques.** Se faire passer pour un architecte te disqualifie en
+une phrase. Te placer en dessous d'un architecte te fait perdre l'autorité qui justifie
+qu'on t'écoute — et qu'on t'achète. Tu n'es ni au-dessus ni en dessous : tu es à côté,
+sur un domaine dont il a besoin.
 
 ---
 

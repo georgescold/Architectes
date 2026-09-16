@@ -88,11 +88,11 @@ quelques centaines d'euros et tranche en trois semaines.
 ne fait de publicité.
 
 Exemple de formulation :
-« Je fais de l'acquisition pour des cabinets d'architecture, donc je passe mes journées à
-regarder qui dépense de l'argent pour trouver des clients. Et il y a un segment, en
-architecture d'intérieur, où je ne trouve strictement personne. Pas un annonceur. Alors
-que c'est le seul endroit du marché où votre travail n'est pas offert gratuitement par
-quelqu'un d'autre. »
+« Je fais de l'acquisition pour des cabinets d'architecture. C'est mon métier d'aller
+chercher des clients pour les vôtres, donc je passe mes journées à regarder qui dépense
+de l'argent sur ce marché. Et il y a un segment, en architecture d'intérieur, où je ne
+trouve strictement personne. Pas un annonceur. Alors que c'est le seul endroit où votre
+travail n'est pas offert gratuitement par quelqu'un d'autre. »
 
 
 ### 2. Le problème du marché sur lequel il est
@@ -118,14 +118,14 @@ C'est le seul passage « métier » de la vidéo, il est court et sourcé.
 
 Exemple de formulation :
 « Un restaurant, une boutique, un cabinet médical reçoivent du public. Avant d'y toucher,
-il faut une autorisation de travaux, avec une notice de sécurité, une notice
-d'accessibilité et des plans cotés. Les commissions rendent leur avis sous deux mois,
-l'instruction peut aller à quatre, et rien ne commence avant. Un avis défavorable, c'est
-redéposer, et jusqu'à six mois de chiffre d'affaires perdus avec le loyer qui court.
+il faut une autorisation de travaux : notice de sécurité, notice d'accessibilité, plans
+cotés. Les commissions rendent leur avis sous deux mois, l'instruction peut aller à
+quatre, et rien ne commence avant. Un avis défavorable, c'est redéposer, et jusqu'à six
+mois de chiffre d'affaires perdus avec le loyer qui court.
 
-Vous connaissez tout ça mieux que moi, je ne vais pas vous faire un cours. Ce qui
-m'intéresse, moi, c'est la conséquence commerciale : aucun cuisiniste n'offre ce dossier.
-Personne ne l'offre. C'est le seul endroit de votre marché où le gratuit n'existe pas. »
+Ça, c'est votre terrain. Moi ce que je regarde, c'est la conséquence commerciale, et elle
+est énorme : aucun cuisiniste n'offre ce dossier. Personne ne l'offre. C'est le seul
+endroit de votre marché où le gratuit n'existe pas. »
 
 Preuve, affichée pendant qu'il parle :
 https://www.aube.gouv.fr/Actions-de-l-Etat/Amenagement-du-territoire-urbanisme-construction-logement/Accessibilite/Un-gestionnaire-d-ERP/Constitution-d-un-dossier-d-accessibilite/L-AUTORISATION-DE-TRAVAUX-SUR-UN-ERP
@@ -270,9 +270,8 @@ gratuitement et où personne ne fait de publicité. Le client professionnel — 
 boutique, cabinet médical — n'achète pas un style : il achète le respect d'une date
 contrainte par une procédure. Et il ne vous trouvera jamais tout seul.
 
-Je ne suis pas architecte d'intérieur : je fais de l'acquisition pour des cabinets
-d'architecture. Je parle de ce que je connais — où sont les clients et comment on va les
-chercher.
+Je fais de l'acquisition pour des cabinets d'architecture. Je parle de ce que je
+connais : où sont les clients, ce qu'ils coûtent, et comment on va les chercher.
 
 Les leviers d'acquisition, ce que chacun coûte et dans quel ordre les monter — 57 pages,
 gratuit : https://essort.agency/ressources
@@ -295,8 +294,8 @@ restaurant
 
 Le passage réglementaire ne dépasse pas deux minutes. Au-delà, on fait le métier des
 autres.
-Dire explicitement « vous connaissez ça mieux que moi » au chapitre 3 : ça désamorce et
-c'est vrai.
+Ne jamais se placer en dessous de l'architecte. Au chapitre 3, la bascule est « ça c'est
+votre terrain, moi je regarde la conséquence commerciale » — à côté, pas en dessous.
 Ne jamais dire que le restaurateur est obligé de passer par un architecte d'intérieur.
 Ne jamais annoncer un multiplicateur d'honoraires.
 Dire la nuance sur le zéro publicité, et celle sur les 47 590 créations.

@@ -42,6 +42,10 @@ ERREURS = [
     (r"paie\s+le\s+double|×\s?2\b", "Aucun multiplicateur d'honoraires n'est sourcable"),
     (r"oblig[ée]\s+de\s+passer\s+par\s+(?:vous|un\s+architecte\s+d'int)",
      "Aucun monopole legal pour l'architecte d'interieur"),
+    (r"mieux\s+que\s+moi|je\s+ne\s+suis\s+pas\s+l[ée]gitime|je\s+ne\s+vais\s+pas\s+vous\s+(?:faire\s+un\s+cours|apprendre)|je\s+ne\s+suis\s+qu'un|pardon(?:nez)?\s+si",
+     "Posture : ne jamais se placer en dessous de l'architecte"),
+    (r"Je\s+ne\s+suis\s+pas\s+architecte\s*[:,]",
+     "Posture : la phrase d'autorite commence par « Je fais de l'acquisition pour », pas par une negation"),
 ]
 
 DOUTES = [
