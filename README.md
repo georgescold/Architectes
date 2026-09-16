@@ -1,4 +1,8 @@
-# Process Valere
+# Architectes — Essort et base Valère
+
+**Projet actuel :** [Essort — guide, VSL, offre, cible et avatar](10-projets/architectes-france/README.md).
+
+Les sections ci-dessous décrivent la base méthodologique Valère conservée pour le copywriting.
 
 Base de connaissance **processisée** pour automatiser la création de funnels
 infoproduit — de l'ad copy jusqu'à l'offre.

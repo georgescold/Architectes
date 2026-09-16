@@ -24,3 +24,29 @@ PROJET-HERITAGE-INTACT/
 
 # Reglages locaux de Claude Code : propres a cette machine.
 .claude/
+.mcp.json
+
+# Le site Essort a son PROPRE depot git (Enzdo/essort), clone dans
+# 10-projets/architectes-france/site/. Meme raison que Heritage Intact plus
+# haut : sans cette ligne, `git add -A` l'embarquerait comme depot imbrique.
+# On le clone ici pour travailler le copy et le funnel avec la base sous la
+# main ; les commits du site se font DANS ce dossier, sur son propre remote.
+10-projets/architectes-france/site/
+
+# Archives techniques du nettoyage du 16/09/2026 : 3 659 fichiers de dependances
+# Python (cv2, mediapipe, fontTools) et d'exports intermediaires. Aucune valeur
+# editoriale, et cv2.pyd pese 86 Mo a lui seul.
+_archives-techniques/
+
+# Dossier de travail temporaire. Contient en plus tmp/leadmagnet-final/crm-source/,
+# qui est un depot git a part : `git add -A` l'embarquerait comme gitlink casse.
+tmp/
+
+# Rendus video et audio : 686 Mo pour la VSL source, 286 et 283 Mo pour les
+# montages V11, 106 Mo par piste voix. GitHub REFUSE tout fichier de plus de
+# 100 Mo : les committer rend le push impossible. Ils restent sur le disque.
+# Pour les versionner un jour : Git LFS, pas le depot standard.
+*.mp4
+*.wav
+*.mov
+*.mkv

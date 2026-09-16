@@ -180,6 +180,16 @@ avatar, payer sa communauté en affiliation.
 | Doc de travail Avatar + Offre | `07-templates/doc-travail-avatar-offre.md` |
 | Livres, outils, fournisseurs, marchés | `02-acquisition/ressources-fournisseurs.md` |
 
+## Je travaille sur le projet Essort
+| Référence | Fichier |
+|---|---|
+| Point d’entrée actuel | `10-projets/architectes-france/README.md` |
+| Offre Meta 999 € et accompagnement global sur mesure | `10-projets/architectes-france/offre-actuelle.md` |
+| Cible et avatar, indépendants et équipes 1–5 | `10-projets/architectes-france/cible-avatar.md` |
+| Recherche marché détaillée | `10-projets/architectes-france/10-marche-et-cible.md` |
+| Lead magnet final, 57 pages | `output/pdf/Essort-Guide-acquisition-et-marketing-architectes-2026.pdf` |
+| VSL V11 et fichiers de lecture | `output/vsl-essort/v11/LIRE-MOI-V11.md` |
+
 ---
 
 ## Ordre de lecture recommandé (première fois)
