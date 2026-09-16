@@ -248,4 +248,3 @@ Afficher la date d'extraction des données à l'écran.
 Ne pas transformer l'épisode en cours de statistiques : trois minutes de manipulation
 maximum.
 Ne nommer aucun cabinet implanté dans les départements cités.
-Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.

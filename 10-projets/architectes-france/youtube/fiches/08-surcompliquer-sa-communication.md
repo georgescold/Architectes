@@ -250,4 +250,3 @@ Ne rien dire sur l'esthétique, les polices ou les couleurs : ce n'est pas le su
 n'est pas ton domaine.
 Ne jamais présenter le perfectionnisme comme un défaut de caractère.
 Aucun chiffre avancé : cet épisode n'en a pas besoin, et n'en invente pas.
-Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.

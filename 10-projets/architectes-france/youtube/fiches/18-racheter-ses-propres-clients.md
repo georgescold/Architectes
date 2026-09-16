@@ -266,4 +266,3 @@ Annoncer son propre conflit d'intérêt dès le début de la vidéo.
 Donner la formule de calcul, pas la conclusion.
 Ne pas faire passer pour naïfs ceux qui utilisent ces plateformes.
 Les plateformes ne sont pas des confrères : on peut les nommer, le droit commun s'applique.
-Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.

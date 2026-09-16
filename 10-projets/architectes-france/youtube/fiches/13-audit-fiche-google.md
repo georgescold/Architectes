@@ -253,4 +253,3 @@ publique. Sans les trois accords en main le jour du tournage, c'est la version B
 Aucun cabinet identifiable en version B : ni nom, ni adresse, ni capture reconnaissable.
 Ne pas faire un tutoriel d'interface : le « où cliquer » va en description.
 Ne jamais dire qu'une bonne fiche remplace une campagne.
-Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.

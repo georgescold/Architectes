@@ -270,4 +270,3 @@ capture où un pseudo est lisible.
 Ne pas montrer de message d'un architecte français identifiable.
 Ne promettre que ce qui est vrai : deux douleurs sur cinq se règlent par l'acquisition.
 Dire explicitement que les trois autres ne se règlent pas comme ça.
-Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.

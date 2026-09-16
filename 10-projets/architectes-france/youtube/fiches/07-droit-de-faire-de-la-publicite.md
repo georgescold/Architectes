@@ -271,4 +271,3 @@ Ne jamais dire « vous pouvez tout dire » : confraternité et droit commun deme
 Montrer Légifrance et les pages de l'Ordre, pas une paraphrase.
 Rappeler que la limite L. 121-2 s'applique aussi à Essort.
 Ne pas développer le comptage publicitaire, il appartient à l'EP03 : une phrase suffit.
-Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.

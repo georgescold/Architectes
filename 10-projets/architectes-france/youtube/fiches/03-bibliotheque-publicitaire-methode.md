@@ -302,4 +302,3 @@ Ne pas présenter l'arrêt de Berkail comme un échec : donner les deux lectures
 Constructeurs, cuisinistes et plateformes ne sont pas des confrères, on peut les nommer.
 Les cabinets d'architecture d'intérieur sont des pairs du spectateur : on les cite sans
 jamais les juger.
-Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.

@@ -272,4 +272,3 @@ Aucun cabinet identifiable à l'écran : ni nom, ni logo, ni capture reconnaissa
 de projet. Noms masqués dans le tableur.
 Aucun avis esthétique : on parle d'information présente ou absente.
 Ne pas généraliser : quarante pages montrent une régularité, pas une statistique nationale.
-Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.

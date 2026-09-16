@@ -44,19 +44,18 @@ contenu en dernier parce qu'il demande une régularité que personne ne tient le
 mois.
 
 
-## LE PIÈGE — ne pas vendre l'offre dans la vidéo
+## LE PIÈGE — ne pas présenter la publicité comme supérieure
 
-L'ancienne version de cette fiche plaçait le tarif à 999 euros et la garantie dans le corps
-de l'épisode. C'est interdit : l'offre ne se vend jamais dans une vidéo. Elle vit dans la
-description et dans la séquence qui suit le téléchargement du document.
+Elle est la plus rapide et la plus mesurable des quatre. Elle est aussi la seule qui coûte
+de l'argent tous les mois, et la seule qui s'arrête net quand on coupe le budget.
 
-La raison est simple : une chaîne à zéro abonné qui annonce un tarif mensuel dans sa
-quatorzième vidéo ne fait ni du contenu ni de la vente. Le pilier 4 se décrit comme un
-levier, pas comme un produit.
+Dis-le dans la vidéo. Un modèle à quatre piliers dont un serait manifestement meilleur que
+les autres ne serait pas un modèle, ce serait un argumentaire — et ça s'entend.
 
-Second piège : ne pas présenter la publicité comme supérieure aux autres piliers. Elle est
-la plus rapide et la plus mesurable. Elle est aussi la seule qui coûte de l'argent tous les
-mois, et la seule qui s'arrête net quand on coupe le budget. Dis-le.
+Second point sur l'ordre de montage : la trouvabilité locale passe avant la publicité parce
+qu'elle est gratuite, pas parce qu'elle est plus efficace. Payer pour envoyer des gens vers
+une fiche Google vide n'a aucun sens.
+
 
 
 ## LES OBJECTIONS QUI ARRIVERONT EN COMMENTAIRE
@@ -244,9 +243,7 @@ d'acquisition · bouche-à-oreille architecte
 
 ## GARDE-FOUS
 
-Ne jamais citer le tarif ni la garantie dans la vidéo : l'offre ne se vend pas ici.
 Ne pas présenter la publicité comme supérieure : dire sa faiblesse, elle s'arrête quand on
 coupe le budget.
 Aucun chiffre de résultat client.
 Aucun cabinet nommé.
-Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.

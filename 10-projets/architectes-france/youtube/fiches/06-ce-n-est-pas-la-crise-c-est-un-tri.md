@@ -265,4 +265,3 @@ l'article entier, jamais un paywall contourné.
 Ne pas redévelopper la distribution des revenus, elle appartient à l'EP02.
 Ton mesuré : des gens de l'audience ont fermé leur agence cette année.
 Aucun cabinet nommé.
-Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.

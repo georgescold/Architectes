@@ -261,4 +261,3 @@ Annoncer l'année des données dès la première minute.
 Ton calme sur le premier quartile.
 Aucun cabinet nommé, aucune comparaison entre confrères.
 Aucune promesse de faire changer quelqu'un de quartile.
-Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.

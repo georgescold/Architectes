@@ -259,4 +259,3 @@ Ne pas terminer la saison sur une vente : le document gratuit, rien d'autre.
 Ne pas promettre que la publicité remplace la recommandation : dire explicitement qu'elle
 ne la remplacera jamais.
 Citer les chiffres d'Archigraphie sans les développer, ils appartiennent à l'EP02.
-Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.

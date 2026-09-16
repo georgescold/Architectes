@@ -39,19 +39,19 @@ aucune source publique et fiable sur le coût d'un contact en architecture, et i
 un chiffre à recopier.
 
 
-## LE PIÈGE — l'épisode où l'on peut basculer dans la vente
+## LE PIÈGE — aucun chiffre de référence n'existe
 
-C'est la vidéo la plus proche du commercial de toute la chaîne, et c'est là que la règle
-tient le plus : l'offre ne se vend pas dans un épisode. L'ancienne version de cette fiche
-plaçait le tarif, la garantie et l'appel dans le corps de la vidéo. Tout cela sort.
+Tu ne peux annoncer aucun coût par demande de référence pour le secteur. Il n'existe pas de
+source publique et fiable sur le coût d'un contact en architecture, et il varie énormément
+selon le département, la saison et le type de projet. Tu donnes la méthode, jamais un
+chiffre à recopier.
 
-Le raisonnement se suffit : si un projet rapporte 30 000 euros d'honoraires, la question
-n'est pas de savoir si une dépense d'acquisition est « chère » dans l'absolu, mais quelle
-part de ces 30 000 elle représente. C'est au spectateur de conclure, pas à toi.
+Même chose pour les seuils de lecture de la case 6 : présente-les comme ta lecture de
+praticien, pas comme une norme du secteur. Personne n'a publié de référentiel là-dessus.
 
-Second piège : ne promets aucun seuil de rentabilité. Dis que sous un certain pourcentage
-c'est confortable et au-dessus d'un autre c'est un signal, en présentant ça comme ta
-lecture de praticien, pas comme une norme du secteur.
+Et l'exemple d'ouverture — 250 000 euros de travaux à 12 % — est de l'arithmétique avec des
+chiffres ronds, pas une statistique. Annonce-le.
+
 
 
 ## LES OBJECTIONS QUI ARRIVERONT EN COMMENTAIRE
@@ -268,7 +268,6 @@ par lead · combien coûte un client
 
 ## GARDE-FOUS
 
-Ne jamais citer le tarif, la garantie ni l'appel dans la vidéo.
 Ne jamais annoncer un coût par demande de référence pour le secteur : aucune source
 publique fiable n'existe.
 Présenter 12 % comme un ordre de grandeur, jamais comme un barème.

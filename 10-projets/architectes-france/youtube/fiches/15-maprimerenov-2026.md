@@ -259,4 +259,3 @@ N'annoncer aucune échéance future non sourcée : la mention d'une obligation a
 Toujours dire la nuance volume contre valeur : 62 % en volume, 38 % en valeur.
 Ne pas présenter la rénovation comme un eldorado.
 Ne pas confondre rénovation par geste et rénovation d'ampleur.
-Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.

@@ -259,4 +259,3 @@ N'annoncer aucune date ni échéance parlementaire : l'état du dossier n'est pa
 Toujours écrire et dire « architecte d'intérieur » en entier.
 Rappeler que le droit commun s'applique même sans code de déontologie.
 Ne pas dénigrer les personnes sans formation qui exercent : on décrit un marché.
-Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.

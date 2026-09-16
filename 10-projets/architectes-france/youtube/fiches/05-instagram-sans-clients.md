@@ -256,4 +256,3 @@ architecte inscrit à l'Ordre ».
 Le droit commun s'applique : publicité trompeuse, droit d'auteur, droit à l'image.
 Ne pas développer la méthode de recherche dans la bibliothèque : elle appartient à l'EP03.
 Recapturer les comptages le jour du tournage.
-Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.

@@ -45,17 +45,19 @@ Pour la phase esquisse, les données de territoire sont publiques :
 https://www.observatoire-des-territoires.gouv.fr/nombre-de-logements-commences-constructions-neuves-par-pour-1-000-habitants
 
 
-## LE PIÈGE — ne pas vendre l'offre, et ne pas jouer à l'architecte
+## LE PIÈGE — une analogie qui doit rester juste
 
-L'ancienne version de cette fiche plaçait le tarif à 999 euros et la garantie dans le corps
-de l'épisode. C'est interdit : l'offre ne se vend jamais dans une vidéo.
+Les phases d'une mission de maîtrise d'œuvre sont esquisse, avant-projet sommaire,
+avant-projet définitif, permis, projet, assistance aux contrats, direction de l'exécution,
+réception.
 
-Et sur l'analogie : tu l'utilises comme structure, pas comme démonstration de connaissance
-du métier. Deux phrases sur les phases de mission suffisent. Si tu t'étends, tu expliques
-leur travail à des gens qui le font tous les jours.
+Ne cherche pas à faire correspondre chacune une à une avec une phase d'acquisition : tu te
+tromperas, et un architecte le verra immédiatement. Prends quatre phases, nomme-les
+clairement, et annonce toi-même que l'analogie est volontairement simplifiée.
 
-Troisième point : la phase la plus sautée est la quatrième, celle du suivi des demandes.
-C'est l'open loop de l'épisode, garde-la pour la fin.
+Second point : la phase la plus sautée est la quatrième, le suivi des demandes reçues.
+C'est l'open loop de l'épisode — garde-la pour la fin.
+
 
 
 ## LES OBJECTIONS QUI ARRIVERONT EN COMMENTAIRE
@@ -266,11 +268,9 @@ département prospection · plan d'acquisition
 
 ## GARDE-FOUS
 
-Ne jamais citer le tarif ni la garantie dans la vidéo.
 Deux phrases maximum sur les phases de mission : c'est une analogie, pas une démonstration
 de connaissance du métier.
 Dire explicitement que l'analogie est simplifiée.
 Ne pas promettre de délai de résultat : dire ce qu'on sait en trois semaines, pas ce qu'on
 gagne.
 Aucun chiffre de résultat client.
-Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.

@@ -253,4 +253,3 @@ Ne pas chiffrer la sous-cotation entre confrères : c'est un ressenti de la prof
 une donnée mesurée.
 Aucune technique de négociation ni script de vente : ce n'est pas ton domaine.
 Aucun cabinet nommé, aucune comparaison entre confrères.
-Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.

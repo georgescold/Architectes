@@ -45,18 +45,29 @@ architecte inscrit à l'Ordre dès que le demandeur est une société, sans seui
 https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037667650
 
 
-## LE PIÈGE — ne pas jouer à l'architecte
+## LE PIÈGE — la frontière entre les deux métiers
 
-Le vrai risque de cet épisode n'est pas de se tromper sur un CERFA. C'est de passer vingt
-minutes à expliquer une procédure à des gens dont c'est le métier quotidien. Ils
-décrochent, et ils ont raison.
+Trois autorisations existent, et elles décident qui a le droit de signer.
 
-Tu n'es pas là pour leur apprendre la réglementation. Tu es là pour leur montrer un
-segment de marché et comment l'atteindre. Le dossier ERP n'est pas ton sujet : c'est la
-raison pour laquelle ce segment est protégé. Tu la donnes, tu la sources, tu avances.
+Travaux intérieurs seuls, sans surface créée ni façade touchée : autorisation de travaux
+ERP. Pas d'architecte obligatoire.
 
-Et deux formulations à ne jamais employer : « il est obligé de passer par vous », qui est
-faux, et « vous devriez savoir que », qui est condescendant.
+Devanture modifiée : il faut en plus une déclaration préalable, CERFA 13404*07. Toujours
+pas d'architecte obligatoire.
+https://www.pariscommerces.fr/developper-son-commerce/regles-devanture-commerce-equipements
+
+Plus de 20 m² créés, ou changement de destination avec façade ou mur porteur : permis de
+construire. L'article L431-3 impose alors un architecte inscrit à l'Ordre dès que le
+demandeur est une personne morale, sans aucun seuil de surface. Les 150 m² ne valent que
+pour les particuliers qui construisent pour eux-mêmes — or un restaurant est presque
+toujours une SARL ou une SAS.
+https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037667650
+
+Et aucun monopole légal n'existe sur le dossier ERP : la notice peut être rédigée par un
+maître d'œuvre ou un bureau d'études, et le restaurateur peut la faire lui-même. « Les
+mieux placés », jamais « obligé de passer par vous ».
+https://boussoluss.fr/notice-securite-erp-5eme-categorie/
+
 
 
 ## LES OBJECTIONS QUI ARRIVERONT EN COMMENTAIRE
@@ -301,4 +312,3 @@ Ne jamais annoncer un multiplicateur d'honoraires.
 Dire la nuance sur le zéro publicité, et celle sur les 47 590 créations.
 Aucune photo de projet d'un confrère.
 Recapturer les comptages le jour du tournage.
-Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.
