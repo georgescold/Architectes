@@ -176,8 +176,8 @@ Le pilier 2 d'abord, la trouvabilité locale. Quelques heures de travail, aucun 
 en quelques semaines. C'est du gratuit qu'on laisse par terre, et ça n'a aucun sens de
 payer pour de la visibilité tant que celle-là n'est pas prise.
 
-Le pilier 4 ensuite, la publicité. Et voilà pourquoi il passe avant le contenu : c'est le
-seul qui produit vite, et surtout le seul qui se mesure. Vous savez en trois semaines
+Le pilier 4 ensuite : la publicité en ligne. Et voilà pourquoi elle passe avant le
+contenu : c'est le seul levier qui produit vite, et surtout le seul qui se mesure. Vous savez en trois semaines
 combien vous coûte une demande, combien de demandes deviennent des rendez-vous, et combien
 de rendez-vous deviennent des projets. Aucun autre levier ne vous donne ces chiffres.
 

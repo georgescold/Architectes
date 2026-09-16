@@ -1,119 +1,269 @@
-# EP18 — Les architectes en ont marre de racheter leurs propres clients
+# EP18 — Sur une plateforme, vous n'achetez pas un client : vous achetez le droit d'enchérir
 
-| | |
-|---|---|
-| **Épisode** | 18 / 20 · semaine 18 |
-| **Famille** | CONSTAT |
-| **Audience** | 🅐🅑 |
-| **Situations ciblées** | S2 bouche-à-oreille · S4 équipe de 2 à 5 |
-| **Durée cible** | 12-14 min |
-| **Production** | ★★☆ — captures de plateformes publiques, **sans dénigrement** |
+Épisode 18/20 · CONSTAT · architecte DE et architecte d'intérieur · 13-15 min
 
-> Reprend le pattern « Les clients de formation en ont marre de se faire pigeonner » de
-> Franck Marc. **L'ennemi le plus fédérateur du marché** : c'est le seul sujet où
-> architectes DE et architectes d'intérieur sont dans le même camp.
 
----
+## LA BIG IDEA
 
-## Le titre
+Une plateforme de mise en relation est payée au contact vendu, pas au projet signé. Son
+intérêt économique est donc de vendre chaque contact au plus grand nombre de professionnels
+possible.
 
-**Principal :** `Les architectes en ont marre de racheter leurs propres clients`
+Conséquence mécanique, et elle n'a rien d'un accident : le client se retrouve avec plusieurs
+propositions comparables, il les compare sur le seul critère qui le soit — le prix — et
+l'ensemble des honoraires du marché se tasse.
 
-Variantes :
-- `Le contact que vous venez de payer a déjà été vendu trois fois`
-- `Pourquoi les plateformes de mise en relation font baisser vos honoraires`
+Le vrai calcul n'est donc pas le nombre de projets obtenus. C'est le coût par signature, et
+ce qu'il vous reste après. Le comparer à un canal direct change la décision.
 
-## La miniature
 
-**Texte :** `vendu 4 fois` · dessous, petit : `le même contact`
+## AVANT DE TOURNER — pour toi, pas pour la vidéo
 
-**Composition :** une fiche contact dupliquée quatre fois, avec des flèches partant vers
-quatre cabinets différents. Ton visage à gauche.
+hemea, l'acteur le plus visible du secteur en ce moment : 120 publicités actives en France
+au 16 septembre 2026, avec la promesse « budget, délais et entreprises verrouillés dès le
+départ ».
+https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&q=hemea&search_type=keyword_unordered&media_type=all
 
-**Image :** schéma maison · `site/frontend/build/cards/probleme-plateformes.jpg`
+C'est la description exacte d'une mission de maîtrise d'œuvre, vendue au client final par
+un tiers. Voilà ce qui est en jeu : pas seulement des contacts revendus, mais le
+positionnement lui-même.
 
-## La grande idée
+Les plateformes ne sont pas des confrères. La confraternité ne les couvre pas, on peut les
+nommer. Le droit commun s'applique quand même : pas de dénigrement, pas d'affirmation
+fausse.
 
-> Sur une plateforme de mise en relation, vous n'achetez pas un client. Vous achetez le
-> droit d'enchérir contre vos confrères sur le même client — et c'est structurellement
-> ce qui fait baisser les honoraires de toute la profession.
 
-## Le chapitrage et le contenu
+## LE PIÈGE — décrire un modèle, pas attaquer une entreprise
 
-| Timecode | Bloc | Ce que tu dis | Ce qu'on montre |
-|---|---|---|---|
-| 00:00 | **HOOK** | « Le contact que vous venez de payer a déjà été vendu à trois autres cabinets. Ce n'est pas un accident : c'est le modèle économique. » | Plein cadre, puis le schéma |
-| 00:30 | **INTRO** | « Je ne vais taper sur personne — je vais juste vous expliquer comment ces boîtes gagnent de l'argent, et ce que ça produit mécaniquement sur vos honoraires. » Open loop | — |
-| 01:00 | **① RÊVE** | Recevoir une demande qui ne va qu'à vous. Le client n'a pas trois devis ouverts, il ne compare pas encore : **il vous parle à vous** | — |
-| 02:00 | **② EXCUSE** | Vous y êtes allés parce qu'on ne vous a proposé que ça. Quand on ne sait pas d'où viendra le prochain projet et qu'un commercial vous propose « des demandes qualifiées, payées à la performance », c'est une décision rationnelle | — |
-| 03:30 | **③ PEUR — l'effet en cascade** | Ce qui se passe quand quatre cabinets reçoivent le même contact : le client obtient quatre propositions, il les compare **sur le prix** — c'est la seule ligne comparable pour quelqu'un qui ne connaît pas le métier. Trois cabinets perdent en ayant travaillé. Le quatrième gagne **en ayant baissé.** Et ça recommence la semaine suivante | Schéma de l'enchère |
-| 05:00 | **④ ENNEMI** | Le modèle économique, expliqué simplement : la plateforme est payée **par lead vendu**, pas par projet signé. Son intérêt est donc de vendre **chaque** contact au plus grand nombre de professionnels possible. Ce n'est pas de la malhonnêteté, c'est la mécanique : **leurs intérêts et les vôtres ne sont pas alignés** | Schéma des flux |
-| 06:30 | **⑤ DOUTE** | « Au moins ça m'a apporté deux projets. » Le vrai calcul n'est pas le nombre de projets, c'est le **coût par signature** : combien de contacts achetés, à quel prix, pour combien de signatures — et à quel niveau d'honoraires par rapport à vos affaires directes. Faites-le une fois, honnêtement. Beaucoup ne l'ont jamais fait | Tableur simple à l'écran |
-| 08:00 | **⑥ PREUVE** | Ouvrir deux ou trois plateformes grand public et lire **leur propre promesse aux professionnels** : « recevez des demandes », « payez à la demande », « comparez plusieurs professionnels ». Ce n'est pas une accusation — **c'est écrit sur leurs pages** | Captures de pages publiques |
-| 10:00 | **⑦ MÉCANISME** | Ce que change un contact qui arrive directement : **(1)** il vous a trouvé, donc il a déjà un a priori positif · **(2)** il n'a pas trois autres devis ouverts · **(3)** vous posez le cadre — zone, type de projet, enveloppe — avant de parler d'honoraires · **(4)** le coût est fixe et connu à l'avance, pas à l'enchère | Les 4 points |
-| 11:30 | **★ PITCH** | L'appel de 30 min. 15 secondes | — |
-| 12:00 | **⑧ ESCALIER** | Ce soir : faire le calcul du coût par signature sur vos plateformes · ce mois-ci : un canal direct, même petit | — |
-| 13:00 | **OUTRO** | « Vous savez maintenant ce que coûte un contact acheté. Reste à savoir ce que coûte un contact que vous allez chercher vous-même. » → **épisode 19** | Miniature EP19 |
+La ligne est nette. Tu expliques un modèle économique, en t'appuyant sur ce que ces
+entreprises disent elles-mêmes publiquement. Tu ne prêtes aucune intention, tu n'accuses
+personne de tromperie, tu ne cites aucun litige.
 
-## Les liens à l'écran
+Formulation juste : « leur intérêt est de vendre chaque contact plusieurs fois, c'est leur
+modèle ». Formulation à proscrire : « ils vous arnaquent ».
 
-| Moment | Lien |
-|---|---|
-| 08:00 | Pages professionnelles publiques des plateformes de mise en relation (à ouvrir en direct) |
-| 06:30 | [Blog — trouver des clients architecte](https://essort.agency/blog/trouver-des-clients-architecte) |
-| 11:30 | <https://cal.com/essort/30min> |
-| 12:00 | <https://essort.agency/plan-acquisition> |
+Second piège : ne cite aucun chiffre de prix de lead ni de nombre de professionnels par
+contact. Je n'ai trouvé aucune source publique et fiable pour les étayer. L'ancienne fiche
+du dossier avait déjà dû retirer une phrase de ce type.
 
-## La description YouTube
+Troisième point : beaucoup de spectateurs utilisent ces plateformes et certaines leur
+apportent des projets. Ne les fais pas passer pour des naïfs.
+
+
+## LES OBJECTIONS QUI ARRIVERONT EN COMMENTAIRE
+
+« Au moins ça m'a apporté deux projets. »
+Peut-être. La question n'est pas combien de projets, c'est combien vous a coûté chaque
+signature et à quel niveau d'honoraires vous l'avez emportée.
+
+« Tu dis ça parce que tu vends un service concurrent. »
+Oui, et je le dis dans la vidéo. Faites le calcul vous-même : c'est justement pour ça que
+je donne la formule plutôt que la conclusion.
+
+« Certaines plateformes ne revendent pas le contact. »
+Il en existe, et leur modèle est différent — parfois une commission sur le projet. Vérifiez
+laquelle vous utilisez, c'est écrit dans leurs conditions professionnelles.
+
+« Sans elles, je n'ai rien. »
+C'est exactement le problème que la vidéo traite : le canal unique. La réponse n'est pas de
+les quitter du jour au lendemain, c'est d'en monter un deuxième.
+
+
+## LE DÉROULÉ
+
+
+### 1. Ouverture
+
+À faire comprendre : que la mise en concurrence n'est pas un effet de bord mais le produit.
+
+Exemple de formulation :
+« Quand vous achetez un contact sur une plateforme de mise en relation, vous n'achetez pas
+un client. Vous achetez le droit d'enchérir contre vos confrères sur le même client.
+
+Ce n'est pas un accident. C'est le modèle. »
+
+
+### 2. D'où je parle, et mon conflit d'intérêt
+
+À faire comprendre : ma position, annoncée franchement — ce qui la neutralise.
+
+Exemple de formulation :
+« Je fais de l'acquisition pour des cabinets d'architecture. Autant le dire tout de suite :
+j'ai un intérêt à ce que vous n'utilisiez pas ces plateformes, puisque je propose autre
+chose.
+
+C'est précisément pour ça que je ne vais pas vous donner ma conclusion. Je vais vous donner
+le calcul, et vous le ferez avec vos chiffres. »
+
+
+### 3. Pourquoi vous y êtes allé
+
+À faire comprendre : que ce n'était pas une erreur de jugement.
+
+Exemple de formulation :
+« Vous y êtes allé parce qu'on ne vous a proposé que ça. Quand on ne sait pas d'où viendra
+le prochain projet et qu'un commercial appelle en proposant des demandes qualifiées tout de
+suite, on essaie. N'importe qui essaierait.
+
+Ce n'est pas une faute de gestion. C'est l'absence d'alternative connue. »
+
+
+### 4. Le modèle économique, expliqué simplement
+
+À faire comprendre : le mécanisme, sans prêter d'intention.
+
+Exemple de formulation :
+« Comment ces entreprises gagnent-elles de l'argent ? Elles sont payées au contact vendu,
+pas au projet signé. C'est leur modèle, et il est parfaitement légal.
+
+Mais il a une conséquence mathématique : leur intérêt est que chaque contact soit vendu au
+plus grand nombre de professionnels possible. Plus il est vendu, plus il rapporte. Le fait
+que vous signiez ou non ne change rien à leur chiffre d'affaires.
+
+Ce n'est pas de la malhonnêteté. C'est une structure d'incitation, et elle ne va pas dans
+votre sens. »
+
+
+### 5. L'effet en cascade sur les honoraires
+
+À faire comprendre : que ça dépasse son cas personnel.
+
+Exemple de formulation :
+« Maintenant ce que ça produit. Plusieurs cabinets reçoivent le même contact. Le client
+obtient plusieurs propositions, sur le même projet, à quelques jours d'intervalle.
+
+Qu'est-ce qu'il compare ? Il ne peut pas comparer la qualité, il n'a pas les moyens de la
+juger. Il ne peut pas comparer la relation, il n'a vu personne. Il compare la seule chose
+comparable : le prix.
+
+C'est la définition d'une mise en concurrence sur les honoraires. Et elle ne concerne pas
+que vous : elle tire le niveau de tout le monde, projet après projet. »
+
+
+### 6. Ce que vendent réellement ces plateformes
+
+À faire comprendre : que l'enjeu dépasse le contact, il porte sur le positionnement.
+
+Exemple de formulation :
+« Et il y a autre chose, plus important à mon avis. Regardez ce que la plus visible d'entre
+elles promet au client final, je cite : "budget, délais et entreprises verrouillés dès le
+départ".
+
+Lisez cette phrase. C'est la description de votre mission de maîtrise d'œuvre. Elle est
+vendue au client par quelqu'un qui ne dessinera jamais un plan — et en ce moment, avec
+120 publicités actives en France.
+
+Ce ne sont pas seulement des contacts qu'on vous revend. C'est votre positionnement qu'on
+occupe. »
+
+Preuve, à l'écran :
+https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&q=hemea&search_type=keyword_unordered&media_type=all
+
+
+### 7. Le seul calcul qui compte
+
+À faire comprendre : la formule, pour qu'il tranche lui-même.
+
+Exemple de formulation :
+« Le calcul, et faites-le ce soir.
+
+Sur les douze derniers mois : combien de contacts achetés, à quel prix total. Combien sont
+devenus des rendez-vous. Combien de rendez-vous sont devenus des projets. Et à quel niveau
+d'honoraires vous les avez emportés, comparé à vos projets venus autrement.
+
+Divisez la dépense totale par le nombre de signatures : c'est votre coût par signature.
+Comparez-le à vos honoraires moyens sur ces projets.
+
+Je ne vous donne pas de seuil, parce que je ne connais pas votre structure. Vous verrez
+tout de suite si c'est tenable. »
+
+
+### 8. LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+
+À faire comprendre : ce que change un contact qui arrive directement, et pourquoi la
+publicité en ligne est la seule façon d'en produire.
+
+Exemple de formulation :
+« Maintenant, ce que change une demande qui arrive directement chez vous.
+
+Elle vous a trouvé, donc elle arrive avec un a priori positif — ce n'est pas une liste, c'est
+un choix. Elle n'a pas trois autres devis ouverts. Elle a lu votre page, elle connaît votre
+zone et votre ordre de grandeur. Et personne ne l'a mise en situation de comparer : vous
+n'êtes pas en concurrence, vous êtes en conversation.
+
+La différence sur le taux de signature est considérable, et elle se voit encore plus sur le
+niveau d'honoraires — parce que le prix n'est plus le premier sujet.
+
+Comment on produit ce genre de demande ? Il n'y a que deux façons : attendre qu'on vous
+recommande, ce que vous ne pilotez pas, ou diffuser vous-même. La publicité en ligne est le
+seul levier où le contact vous appartient, où il n'est vendu à personne d'autre, et où vous
+savez exactement ce qu'il vous a coûté.
+
+C'est la différence entre louer un accès à des clients et posséder son canal. »
+
+Puis, au nous :
+« Chez Essort, c'est le sujet qui revient le plus : des cabinets qui ont dépensé plusieurs
+milliers d'euros en contacts achetés et qui n'ont jamais fait le calcul. On commence
+toujours par le leur faire faire, avec leurs chiffres — parfois ça dit que leur plateforme
+est rentable, et dans ce cas on le dit. »
+
+Puis le document, enchaîné sans respirer :
+« Les leviers d'acquisition, ce que chacun coûte, dans quel ordre les monter : 57 pages,
+gratuit, lien en description. Pas de carte bancaire, pas d'appel commercial. »
+https://essort.agency/ressources
+
+
+### 9. Sortie
+
+Exemple de formulation :
+« Ce soir : le calcul du coût par signature sur vos plateformes. Douze mois, quatre
+chiffres.
+
+Et ne les quittez pas demain matin. Montez d'abord un canal direct, même petit. On ne coupe
+pas une source de projets quand c'est la seule. »
+
+
+## TITRE ET MINIATURE
+
+Principal : Sur une plateforme, vous achetez le droit d'enchérir contre vos confrères
+Variante : Les architectes en ont marre de racheter leurs propres clients
+
+Miniature : un contact au centre, quatre flèches vers quatre cabinets. Texte « ×4 » en très
+gros. Visage à droite.
+
+
+## DESCRIPTION YOUTUBE
 
 ```
-Sur une plateforme de mise en relation, le même contact est vendu à plusieurs
-cabinets. Ce n'est pas un accident, c'est le modèle économique — et voici ce que
-ça produit mécaniquement sur les honoraires de toute la profession.
+Une plateforme de mise en relation est payée au contact vendu, pas au projet signé. Son
+intérêt est donc de vendre chaque contact au plus grand nombre de professionnels — et la
+conséquence mécanique est une mise en concurrence sur le prix.
 
-📄 Le document gratuit : https://essort.agency/plan-acquisition
-🔗 Aller plus loin : https://essort.agency/blog/trouver-des-clients-architecte
+Je vends un service concurrent, je le dis dans la vidéo. C'est pour ça que je donne le
+calcul plutôt que la conclusion : faites-le avec vos chiffres.
 
-CHAPITRES
-00:00 Vendu trois fois avant vous
-01:00 Une demande qui ne va qu'à vous
-02:00 Pourquoi vous y êtes allés
-03:30 L'effet en cascade sur les honoraires
-05:00 Le modèle économique, expliqué
-06:30 « Au moins ça m'a apporté deux projets »
-08:00 Ce qu'elles écrivent elles-mêmes
-10:00 Ce que change un contact direct
-13:00 La suite
+Je fais de l'acquisition pour des cabinets d'architecture.
 
-Essort accompagne les architectes et architectes d'intérieur indépendants ou en
-équipe de 1 à 5 personnes sur leur acquisition de projets.
-Échanger 30 min : https://cal.com/essort/30min
+Les leviers d'acquisition, ce que chacun coûte et dans quel ordre les monter — 57 pages,
+gratuit : https://essort.agency/ressources
+
+SOURCES
+Bibliothèque publicitaire Meta : https://www.facebook.com/ads/library
+
 Instagram : https://instagram.com/essort.architectes
 ```
 
-## Mots-clés
+Mots-clés : plateforme mise en relation architecte · acheter des leads architecte · coût
+par signature · trouver des clients sans plateforme
 
-`plateforme mise en relation architecte` · `acheter des leads architecte` · `lead
-travaux` · `coût par signature` · `trouver des clients sans plateforme` · `devis
-architecte en ligne`
 
-## Garde-fous propres à cet épisode
+## GARDE-FOUS
 
-- ✅ **Nuance juridique, ajoutée le 16/09/2026 :** une plateforme de mise en relation
-  **n'est pas un confrère**. Le devoir de confraternité de l'article 17 ne s'applique
-  donc pas ici, et en parler n'est pas interdit par la déontologie.
-- ⚠️ **En revanche le droit commun s'applique pleinement, et c'est lui le vrai risque.**
-  Une plateforme est une entreprise : des propos inexacts sur son fonctionnement sont
-  attaquables en dénigrement commercial, et une affirmation fausse dans une vidéo qui
-  promeut vos services relève de la pratique commerciale trompeuse (L. 121-2 — peines
-  L. 132-2 : cinq ans et 750 000 € en ligne).
-- **Ne décris que ce qui est écrit sur leurs propres pages publiques.** Si tu affirmes
-  « ils vendent à quatre », il faut que ce soit documenté sur leur page ou dans leurs CGV.
-  Sinon, formule en conditionnel et en général : « le modèle courant consiste à… ».
-- **Ne pas nommer une plateforme pour l'accuser.** Les citer neutrement en montrant leur
-  page est acceptable ; les qualifier (« arnaque », « pigeonner » dans le corps de la
-  vidéo) ne l'est pas. Le titre porte la colère **des architectes**, pas une accusation
-  de ta part — garde cette nuance à l'oral.
-- **Ne pas présenter Essort comme « l'inverse d'une plateforme »** en promettant
-  l'exclusivité : elle n'est plus un engagement public. Dire « un contact qui arrive
-  directement chez vous », c'est exact et suffisant.
+Décrire un modèle économique, jamais attaquer une entreprise. Pas de « ils vous arnaquent »,
+pas d'intention prêtée, aucun litige cité.
+Ne citer aucun prix de lead ni nombre de professionnels par contact : non sourçable.
+Annoncer son propre conflit d'intérêt dès le début de la vidéo.
+Donner la formule de calcul, pas la conclusion.
+Ne pas faire passer pour naïfs ceux qui utilisent ces plateformes.
+Les plateformes ne sont pas des confrères : on peut les nommer, le droit commun s'applique.
+Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.

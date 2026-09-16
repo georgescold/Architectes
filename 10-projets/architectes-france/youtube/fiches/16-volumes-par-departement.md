@@ -210,7 +210,7 @@ Principal : Combien de chantiers démarrent vraiment près de chez vous
 Variante : La carte publique qui devrait décider de votre zone de prospection
 
 Miniature : une carte de France en dégradé, deux départements voisins entourés. Texte
-« ×2 ? » en très gros. Visage à droite.
+« ET À CÔTÉ ? » en très gros. Visage à droite.
 
 
 ## DESCRIPTION YOUTUBE

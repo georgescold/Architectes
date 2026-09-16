@@ -1,114 +1,262 @@
-# EP20 — Faut-il ARRÊTER d'attendre le bouche-à-oreille avant qu'il ne soit TROP TARD ?
+# EP20 — Vos cinq derniers clients vous ont été envoyés par quelqu'un. Quel âge a-t-il ?
 
-| | |
-|---|---|
-| **Épisode** | 20 / 20 · semaine 20 |
-| **Famille** | CONSTAT |
-| **Audience** | 🅐🅑 |
-| **Situations ciblées** | S2 dépendant du bouche-à-oreille · S4 équipe de 2 à 5 |
-| **Durée cible** | 13-15 min |
-| **Production** | ★☆☆ — tournable seul |
+Épisode 20/20 · CONSTAT · architecte DE et architecte d'intérieur · 13-15 min
+Dernier épisode de la saison : il referme la boucle ouverte par le premier.
 
-> Dernier épisode du cycle. Il **boucle la chaîne** : l'outro renvoie vers l'épisode 02,
-> ce qui crée une boucle de visionnage et alimente le session watch time pour les
-> nouveaux arrivants.
 
----
+## LA BIG IDEA
 
-## Le titre
+Le bouche-à-oreille fonctionne. C'est même le canal le plus rentable du métier : coût nul,
+taux de signature imbattable, clients pré-qualifiés par celui qui recommande.
 
-**Principal :** `Faut-il ARRÊTER d'attendre le bouche-à-oreille avant qu'il ne soit TROP TARD ?`
+Mais il fait trois choses qu'aucun cabinet ne mesure : il ne franchit pas une frontière
+départementale, il ne s'accélère pas quand on en a besoin, et il vieillit avec ceux qui le
+font vivre.
 
-Variantes :
-- `Vos cinq derniers clients : qui vous les a envoyés, et quel âge a cette personne ?`
-- `Le bouche-à-oreille a marché 25 ans. Ce n'est pas une raison.`
+Ce n'est donc pas une stratégie, c'est un héritage — et un héritage se consomme. La question
+n'est pas de l'abandonner, elle est de savoir ce qu'on met à côté avant qu'il ne baisse.
 
-## La miniature
 
-**Texte :** `25 ans` · dessous, petit : `et après ?`
+## AVANT DE TOURNER — pour toi, pas pour la vidéo
 
-**Composition :** un carnet d'adresses papier en train de se refermer, en gros plan. Ton
-visage à gauche, expression interrogative — pas accusatrice.
+Cet épisode referme la saison. Il peut rappeler en une phrase les constats des autres
+épisodes, sans jamais rouvrir une démonstration ni remontrer une capture : à zéro abonné,
+la plupart des spectateurs n'auront vu aucune des précédentes.
 
-**Image :** [Unsplash — vieux carnet](https://unsplash.com/fr/s/photos/old-notebook) ·
-`site/frontend/build/blog/carnet-de-commandes.svg`
+Le rappel utile, en une ligne : le quart du haut de la profession est au-dessus de 59 931
+euros et progresse, le quart du bas sous 13 342 euros et perd 10 % en deux ans. Ces chiffres
+appartiennent à l'EP02, on les cite sans les développer.
+https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
-## La grande idée
+L'exercice central — lister ses dix derniers clients et l'origine de chacun — appartient à
+cet épisode. L'EP14 pose la même question sur l'âge des prescripteurs : ici on la déroule
+en entier, là-bas elle est un déclencheur. Ne pas inverser.
 
-> La question n'est pas de savoir si le bouche-à-oreille fonctionne. Il fonctionne. La
-> question est de savoir combien de temps il vous reste avant que ceux qui vous
-> recommandent ne partent à la retraite à peu près en même temps que vous.
 
-## Le chapitrage et le contenu
+## LE PIÈGE — ne pas attaquer le bouche-à-oreille
 
-| Timecode | Bloc | Ce que tu dis | Ce qu'on montre |
-|---|---|---|---|
-| 00:00 | **HOOK** | « Vos cinq derniers clients vous ont été envoyés par quelqu'un. Prenez trente secondes : quel âge a ce quelqu'un ? » | Plein cadre, silence de deux secondes après la question |
-| 00:30 | **INTRO** | « Je ne vais pas vous dire que le bouche-à-oreille ne marche pas. Il marche — c'est le canal le plus rentable du métier. Je vais vous dire pourquoi ça ne suffit plus. » Open loop : « et il y a trois choses qu'il ne fait pas, dont une qui bloque tous les cabinets qui veulent grandir » | — |
-| 01:00 | **① RÊVE** | Un carnet qui ne dépend plus d'une seule génération de prescripteurs. Le même métier, la même exigence — juste plusieurs sources | — |
-| 02:00 | **② EXCUSE** | **Ce n'était pas de la paresse.** Pendant vingt-cinq ans, le bouche-à-oreille a été objectivement le canal le plus rentable du marché : coût nul, taux de transformation très élevé, clients pré-vendus. Quelqu'un qui a un canal à coût nul qui fonctionne ne construit pas un deuxième canal. C'est rationnel | B-roll : agenda, carnet |
-| 03:30 | **③ PEUR — les trois choses qu'il ne fait pas** | **(1) Il ne franchit pas une frontière départementale.** Le jour où vous ouvrez un second secteur, il ne vous suit pas · **(2) Il ne se transmet pas.** Votre réseau prescripteur est **votre** réseau : il ne passe pas à votre associé, ni à votre successeur · **(3) Il ne s'accélère pas.** Vous ne pouvez pas décider d'avoir 30 % de recommandations en plus le mois prochain | Les 3 limites à l'écran |
-| 05:30 | **④ ENNEMI** | L'ennemi : **la phrase « ça a toujours marché comme ça ».** Elle n'est pas fausse, elle est datée. Et elle a un coût particulier : elle empêche de voir que le carnet se vide **avant** qu'il se vide, à cause du décalage de neuf mois entre la commande et la facturation | — |
-| 07:00 | **⑤ DOUTE** | « Je ne veux pas devenir un commercial. » On ne vous le demande pas. On vous demande d'être **trouvable** par des gens qui vous cherchent déjà. Ce n'est pas la même chose que d'aller déranger quelqu'un qui ne vous a rien demandé — et c'est précisément la différence entre la prospection et l'acquisition | Face caméra |
-| 08:30 | **⑥ PREUVE** | Retour sur les chiffres de la chaîne : le quart du haut au-dessus de 59 931 € et qui monte, le quart du bas sous 13 342 € et qui perd 10 % en deux ans. **Le tri ne se joue pas sur le talent.** Il se joue sur le nombre de sources de projets | Graphique des quartiles |
-| 10:30 | **⑦ MÉCANISME — le premier pas, gratuit** | **(1)** Lister vos dix derniers clients et l'origine de chacun. La plupart des cabinets ne l'ont jamais fait, et c'est un choc · **(2)** Repérer les trois noms qui expliquent la majorité · **(3)** Revendiquer la fiche Google — quelques minutes, effet en semaines. Rien de tout ça ne coûte d'argent, et ça suffit à sortir du canal unique | Les 3 étapes |
-| 12:00 | **★ PITCH** | « Si vous voulez le plan complet, le document est gratuit. Et si vous voulez qu'on regarde votre situation, il y a sept jours d'essai avant tout engagement. » 20 secondes | — |
-| 12:45 | **⑧ ESCALIER** | Ce soir : la liste des dix clients · cette semaine : la fiche Google · ce mois-ci : le premier canal que vous contrôlez | — |
-| 13:30 | **OUTRO — boucle** | « Si vous arrivez sur cette chaîne, commencez par celle-ci : le chiffre qui a fait réagir le plus d'architectes, et il vient de votre propre Ordre. » → **épisode 02** | Miniature EP02 |
+C'est le piège principal, et il est facile à éviter en le disant d'emblée : le
+bouche-à-oreille est excellent. Toute vidéo qui laisse entendre le contraire perd son
+audience dans la première minute, parce que chacun sait très bien que ses meilleurs clients
+viennent de là.
 
-## Les liens à l'écran
+La thèse n'est pas « arrêtez ». Elle est « ça ne suffit plus, et voici les trois raisons
+précises ».
 
-| Moment | Lien |
-|---|---|
-| 08:30 | [Archigraphie 2024-2026](https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf) — quartiles de revenu |
-| 10:30 | [Google Business Profile](https://www.google.com/business/) |
-| 12:00 | <https://essort.agency/plan-acquisition> · <https://cal.com/essort/30min> |
+Second piège : ne pas terminer la saison sur une vente. C'est le dernier épisode, la
+tentation est grande de pousser l'offre. La règle ne change pas : le document gratuit, rien
+d'autre.
 
-## La description YouTube
+
+## LES OBJECTIONS QUI ARRIVERONT EN COMMENTAIRE
+
+« Le bouche-à-oreille m'a fait vivre vingt-cinq ans. »
+Et c'était le bon choix. La question n'est pas ce qu'il a fait, c'est ce qu'il fera quand
+ceux qui vous recommandent seront à la retraite.
+
+« Je ne veux pas devenir un commercial. »
+On ne vous le demande pas. On vous demande d'être trouvable par des gens qui cherchent
+déjà. Ce n'est pas la même chose que démarcher.
+
+« Mes clients viennent aussi de mon site. »
+Alors vous avez deux canaux, et c'est déjà mieux que la plupart. La vidéo vous concerne
+quand même : la question est de savoir lequel des deux vous pilotez.
+
+« C'est une vidéo pour vendre de la publicité. »
+Le premier pas que je propose est gratuit et ne me rapporte rien : lister vos dix derniers
+clients.
+
+
+## LE DÉROULÉ
+
+
+### 1. Ouverture
+
+À faire comprendre : que son canal principal a un âge, par une question plutôt que par une
+affirmation.
+
+Exemple de formulation :
+« Vos cinq derniers clients vous ont été envoyés par quelqu'un. Prenez trente secondes :
+quel âge a ce quelqu'un ? »
+
+Laisser deux secondes de silence avant d'enchaîner.
+
+
+### 2. D'où je parle, et ce que je ne vais pas dire
+
+À faire comprendre : que je ne viens pas attaquer son canal.
+
+Exemple de formulation :
+« Je fais de l'acquisition pour des cabinets d'architecture. Et je ne vais pas vous dire que
+le bouche-à-oreille ne marche pas — ce serait faux, et vous le sauriez.
+
+C'est le canal le plus rentable de votre métier. Coût nul, taux de signature qu'aucune
+publicité n'atteindra jamais, et des clients qui arrivent déjà convaincus. Je vais vous
+dire pourquoi ça ne suffit plus. »
+
+
+### 3. Pourquoi ce n'était pas de la paresse
+
+À faire comprendre : que le monocanal a été un choix rationnel.
+
+Exemple de formulation :
+« Pendant vingt-cinq ans, c'était objectivement le meilleur canal du marché. Un marché
+porteur, des prescripteurs installés, moins de concurrence sur l'attention.
+
+Personne n'a fait d'erreur. Ce qui a changé, ce n'est pas votre travail : c'est le
+contexte. »
+
+
+### 4. Les trois choses qu'il ne fait pas
+
+À faire comprendre : les limites structurelles, précisément nommées. C'est le cœur.
+
+Exemple de formulation :
+« Trois choses, et elles sont structurelles.
+
+La première : il ne franchit pas une frontière départementale. Le jour où vous voulez
+ouvrir un second secteur, il ne vous suit pas. Vos prescripteurs n'y connaissent personne.
+
+La deuxième : il ne s'accélère pas. Quand votre carnet se vide, vous ne pouvez pas décider
+d'avoir trois recommandations cette semaine. Il arrive quand il arrive — c'est-à-dire
+rarement au moment où vous en avez besoin.
+
+La troisième, la plus dure : il vieillit. Votre réseau de prescripteurs a un âge, et cet
+âge est souvent le vôtre. Ils partiront à la retraite en même temps que vous. »
+
+
+### 5. Ce que ça donne quand ça baisse
+
+À faire comprendre : que la baisse est invisible jusqu'à ce qu'il soit tard.
+
+Exemple de formulation :
+« Et voilà ce qui rend ça dangereux : un canal qui baisse ne prévient pas.
+
+Il n'y a pas d'alerte, pas de tableau de bord, pas de mail qui dit "vous avez reçu deux
+recommandations de moins ce trimestre". Il y a juste un téléphone qui sonne un peu moins,
+et vous mettez ça sur le compte de la saison. Puis de la conjoncture.
+
+Quand vous le constatez vraiment, c'est installé depuis plusieurs trimestres — et remplir
+un carnet prend des mois de plus. »
+
+
+### 6. Le tri, rappelé en une phrase
+
+À faire comprendre : que la différence entre ceux qui traversent et les autres n'est pas le
+talent.
+
+Exemple de formulation :
+« Un chiffre que je ne vais pas développer parce qu'il mérite sa propre vidéo : dans cette
+profession, le quart du haut gagne plus de 59 931 euros et progresse, pendant que le quart
+du bas est sous 13 342 euros et perd 10 % en deux ans.
+
+Ce qui sépare les deux, ce n'est pas le talent. C'est le nombre de canaux. »
+
+
+### 7. Le premier pas, gratuit
+
+À faire comprendre : l'exercice qui rend tout concret, et qui ne coûte rien.
+
+Exemple de formulation :
+« Faites ça ce soir, ça prend vingt minutes et ça ne coûte rien.
+
+Listez vos dix derniers clients. En face de chacun, écrivez d'où il venait : quelle
+personne, quel canal. Puis regardez la colonne.
+
+Dans la plupart des cabinets, il y a un seul nom qui revient, ou un seul type d'origine. Et
+c'est un choc, parce qu'on croyait en avoir plusieurs. »
+
+
+### 8. LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+
+À faire comprendre : que le deuxième canal doit être pilotable, et pourquoi c'est la
+publicité en ligne.
+
+Exemple de formulation :
+« Maintenant, quel deuxième canal.
+
+Le critère n'est pas "lequel rapporte le plus" — la recommandation gagnera toujours sur ce
+terrain. Le critère, c'est "lequel je peux ouvrir quand j'en ai besoin". Parce que le
+problème du bouche-à-oreille n'est pas son rendement, c'est que vous n'avez pas de bouton.
+
+De ce point de vue, il n'y a qu'un seul candidat sérieux : la publicité en ligne. C'est le
+seul canal que vous ouvrez un mardi matin, sur la zone que vous choisissez, et que vous
+fermez quand le carnet est plein. C'est aussi le seul qui franchit une frontière
+départementale sans réseau sur place, et le seul dont vous connaissez le coût exact.
+
+Je ne vous dis pas qu'il remplace le bouche-à-oreille. Il ne le remplacera jamais : le taux
+de signature d'un client recommandé restera toujours supérieur. Je vous dis qu'il fait
+exactement les trois choses que le bouche-à-oreille ne sait pas faire — franchir une
+frontière, accélérer sur commande, et ne pas vieillir avec vous.
+
+C'est pour ça que c'est le bon deuxième appui. Pas parce qu'il est meilleur. Parce qu'il
+est complémentaire. »
+
+Puis, au nous :
+« Chez Essort, on ne demande jamais à un cabinet d'arrêter quoi que ce soit. On ajoute un
+canal à côté de celui qui marche déjà, et on le mesure. Si au bout de trois mois il coûte
+plus qu'il ne rapporte, on le dit et on arrête. »
+
+Puis le document, enchaîné sans respirer :
+« Les leviers d'acquisition, ce que chacun coûte, dans quel ordre les monter : 57 pages,
+gratuit, lien en description. Pas de carte bancaire, pas d'appel commercial. »
+https://essort.agency/ressources
+
+
+### 9. Sortie de saison
+
+À faire comprendre : que la série se termine et ce qu'il en reste, sans mendier
+d'abonnement.
+
+Exemple de formulation :
+« Ce soir : la liste des dix clients. Cette semaine : votre fiche Google, c'est gratuit et
+ça prend une soirée. Ce mois-ci : le premier canal que vous contrôlez.
+
+Et si vous ne retenez qu'une chose de tout ce que j'ai raconté : votre métier ne manque pas
+de talent. Il manque d'un bouton. »
+
+
+## TITRE ET MINIATURE
+
+Principal : Vos cinq derniers clients vous ont été envoyés par quelqu'un. Quel âge a-t-il ?
+Variante : Faut-il arrêter d'attendre le bouche-à-oreille ?
+
+Miniature : un carnet de commandes avec une courbe qui s'effrite. Texte « QUEL ÂGE ? » en
+très gros. Visage à droite.
+
+
+## DESCRIPTION YOUTUBE
 
 ```
-Le bouche-à-oreille fonctionne : c'est le canal le plus rentable du métier. Mais
-il ne franchit pas un département, il ne se transmet pas, et il ne s'accélère pas.
-Voici pourquoi ça ne suffit plus — et le premier pas, qui ne coûte rien.
+Le bouche-à-oreille est le canal le plus rentable de l'architecture : coût nul, taux de
+signature imbattable, clients déjà convaincus. Il fait pourtant trois choses qu'aucun
+cabinet ne mesure — il ne franchit pas une frontière départementale, il ne s'accélère pas,
+et il vieillit avec ceux qui le font vivre.
 
-📄 Le document gratuit : https://essort.agency/plan-acquisition
-📅 Échanger 30 min : https://cal.com/essort/30min
+Le premier pas que je propose est gratuit : listez vos dix derniers clients et l'origine
+de chacun.
 
-Sources :
-• Archigraphie 2024-2026, Ordre des architectes
-  https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
+Je fais de l'acquisition pour des cabinets d'architecture.
 
-CHAPITRES
-00:00 Quel âge a la personne qui vous a envoyé vos clients ?
-01:00 Un carnet qui ne dépend plus d'une génération
-02:00 Ce n'était pas de la paresse
-03:30 Les 3 choses que le bouche-à-oreille ne fait pas
-05:30 « Ça a toujours marché comme ça »
-07:00 « Je ne veux pas devenir un commercial »
-08:30 Le tri ne se joue pas sur le talent
-10:30 Le premier pas, gratuit
-13:30 Par où commencer sur cette chaîne
+Les leviers d'acquisition, ce que chacun coûte et dans quel ordre les monter — 57 pages,
+gratuit : https://essort.agency/ressources
 
-Essort accompagne les architectes et architectes d'intérieur indépendants ou en
-équipe de 1 à 5 personnes sur leur acquisition de projets.
+SOURCES
+Archigraphie 2024-2026, CNOA : https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
+
 Instagram : https://instagram.com/essort.architectes
 ```
 
-## Mots-clés
+Mots-clés : bouche-à-oreille architecte · trouver des clients architecte · recommandation
+prescripteur · canaux acquisition cabinet
 
-`bouche à oreille architecte` · `trouver des clients architecte` · `carnet de commandes
-architecture` · `prescripteurs architecte` · `développer son cabinet d'architecture`
 
-## Garde-fous propres à cet épisode
+## GARDE-FOUS
 
-- **Le bloc ② est le plus important de la vidéo.** Sans lui, le sujet devient un reproche
-  adressé à des gens qui ont bien travaillé pendant vingt-cinq ans — et c'est la vérité
-  la plus difficile à entendre pour l'avatar « libéral installé ». Ne jamais le couper au
-  montage pour raccourcir.
-- **Ne pas dramatiser l'âge des prescripteurs.** On pose la question, on laisse le
-  spectateur répondre dans sa tête. Le silence de deux secondes après le hook fait plus
-  que n'importe quelle statistique.
-- **Pas de promesse chiffrée** dans le pitch de cette vidéo : elle clôt le cycle, elle ne
-  vend pas. Les sept jours d'essai suffisent.
-- L'outro renvoie vers **l'épisode 02**, volontairement : un nouvel arrivant tombe
-  souvent d'abord sur la dernière vidéo publiée. On le renvoie vers la porte d'entrée.
+Ne jamais attaquer le bouche-à-oreille : le dire excellent dès la première minute.
+Ne pas rouvrir les démonstrations des autres épisodes : une phrase de rappel, sans capture.
+Ne pas terminer la saison sur une vente : le document gratuit, rien d'autre.
+Ne pas promettre que la publicité remplace la recommandation : dire explicitement qu'elle
+ne la remplacera jamais.
+Citer les chiffres d'Archigraphie sans les développer, ils appartiennent à l'EP02.
+Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.

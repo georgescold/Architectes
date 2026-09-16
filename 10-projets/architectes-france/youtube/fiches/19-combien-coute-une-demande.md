@@ -1,127 +1,278 @@
-# EP19 — Combien coûte vraiment une demande de projet (les chiffres)
+# EP19 — Combien coûte vraiment une demande de projet
 
-| | |
-|---|---|
-| **Épisode** | 19 / 20 · semaine 19 |
-| **Famille** | SYSTÈME |
-| **Audience** | 🅐🅑 |
-| **Situations ciblées** | S4 équipe de 2 à 5 · S2 bouche-à-oreille |
-| **Durée cible** | 14-16 min |
-| **Production** | ★★☆ — un tableur construit en direct |
+Épisode 19/20 · SYSTÈME · architecte DE et architecte d'intérieur · 15-17 min
+L'épisode le plus proche de la vente. Il arrive tard pour cette raison.
 
-> **La vidéo la plus vendeuse de la chaîne**, et donc la dernière de la famille SYSTÈME.
-> Elle ne vend pas en argumentant : elle vend parce que **le spectateur fait le calcul
-> lui-même**, à l'écran, avec ses propres chiffres.
 
----
+## LA BIG IDEA
 
-## Le titre
+Tant qu'on raisonne en dépense mensuelle, la publicité est un coût. Dès qu'on raisonne en
+coût par signature, c'est une ligne de compte de résultat comme une autre — et elle se
+compare aux autres canaux, y compris au temps passé en prospection.
 
-**Principal :** `Combien coûte vraiment une demande de projet en architecture (les chiffres)`
+La bonne unité n'est pas l'euro par mois. C'est le pourcentage des honoraires d'un projet
+que l'acquisition consomme. Un cabinet qui ne connaît pas ce chiffre ne peut arbitrer
+aucune décision commerciale.
 
-Variantes :
-- `Le seul chiffre qui décide si la publicité vaut le coup pour un cabinet`
-- `J'ai mis vos chiffres dans un tableur — voilà ce que ça donne`
+Et la plupart ne le connaissent pas, parce qu'on ne leur a jamais appris à raisonner en
+coût de conquête : dans leur formation, un projet a un coût de construction, pas un coût
+d'acquisition.
 
-## La miniature
 
-**Texte :** `30 000 €` · dessous, petit : `un seul projet`
+## AVANT DE TOURNER — pour toi, pas pour la vidéo
 
-**Composition :** un tableur à l'écran avec une cellule entourée en rouge. Ton visage à
-gauche, main sur le clavier. Fond clair pour une fois — c'est une vidéo d'outil.
+Le tableur se construit à l'écran, case par case, avec les chiffres du spectateur et non
+les tiens. Six cases :
 
-**Image :** capture de ton propre tableur.
+Honoraires moyens par projet signé. Taux de transformation d'une demande en rendez-vous.
+Taux de transformation d'un rendez-vous en signature. Coût d'une demande. Puis, par calcul :
+coût par signature, et coût par signature rapporté aux honoraires moyens.
 
-## La grande idée
+L'exemple d'ouverture est de l'arithmétique, pas une statistique : 250 000 euros de travaux
+à 12 % d'honoraires donnent 30 000 euros. Annonce que ce sont des chiffres ronds choisis
+pour la démonstration, et que 12 % est un ordre de grandeur de marché, pas un barème.
+https://www.hemea.com/fr/architecture/architecte-interieur/prix
 
-> Tant que vous raisonnez en dépense mensuelle, la publicité est un coût. Dès que vous
-> raisonnez en coût par signature, c'est une ligne de compte de résultat comme une autre —
-> et un seul projet signé dans l'année peut suffire à rendre l'opération très largement
-> positive.
+⚠️ Tu ne peux annoncer aucun coût par demande de référence pour le secteur. Il n'existe
+aucune source publique et fiable sur le coût d'un contact en architecture, et il varie
+énormément selon le département, la saison et le type de projet. Tu donnes la méthode, pas
+un chiffre à recopier.
 
-## Le chapitrage et le contenu
 
-| Timecode | Bloc | Ce que tu dis | Ce qu'on montre |
-|---|---|---|---|
-| 00:00 | **HOOK** | « Une rénovation à 250 000 euros de travaux, à 12 % d'honoraires, c'est 30 000 euros pour votre cabinet. Un seul projet. Faisons le calcul ensemble. » | Plein cadre, puis le tableur vide |
-| 00:30 | **INTRO** | « On va construire le tableau ensemble, case par case. À la fin vous aurez votre chiffre, pas le mien. » Open loop : « et il y a une case que presque personne ne sait remplir — c'est celle qui explique pourquoi les cabinets se trompent » | Le tableur |
-| 01:00 | **① RÊVE** | Un semestre dont on connaît le remplissage à l'avance. Ce n'est pas de la croissance, c'est de la **visibilité** | — |
-| 02:00 | **② EXCUSE** | On ne vous a jamais appris à raisonner en coût d'acquisition. Dans votre formation, un projet a un coût de construction, pas un coût de **conquête**. Le mot n'existe pas dans le vocabulaire du métier | — |
-| 03:30 | **③ PEUR** | Ce que coûte un trimestre vide, charges fixes comprises : local, assurance, logiciels, charges sociales, et le salaire de ceux qui restent. Le calcul, fait honnêtement, donne souvent un chiffre plus élevé que n'importe quel budget d'acquisition | Tableur : colonne « trimestre vide » |
-| 05:00 | **④ ENNEMI** | L'ennemi : **le raisonnement à la dépense mensuelle.** « 999 euros par mois, c'est 12 000 euros par an, c'est cher. » C'est la mauvaise unité. La bonne question n'est pas « combien ça coûte par mois », c'est **« combien me coûte une signature, et combien me rapporte-t-elle »** | Les deux raisonnements côte à côte |
-| 06:30 | **⑤ DOUTE — traité par la garantie** | « Et si aucune demande ne se transforme ? » C'est la bonne objection, et c'est exactement ce que la garantie couvre : **quatre opportunités commerciales par mois, sinon Essort n'est pas payé.** Mais je précise tout de suite : **une opportunité n'est pas un contrat signé**, et le budget publicitaire reste distinct, y compris pendant les sept jours d'essai | Face caméra, ton net |
-| 08:00 | **⑥ LE TABLEUR, EN DIRECT** | Les six cases : **(1)** honoraires moyens par projet signé · **(2)** taux de transformation demande → rendez-vous · **(3)** taux rendez-vous → signature · **(4)** nombre de demandes nécessaires pour une signature · **(5)** coût total mensuel — prestation **plus** budget publicitaire · **(6)** coût par signature. Faire varier les hypothèses en direct, y compris les mauvaises | Tableur, formules visibles |
-| 11:30 | **⑦ MÉCANISME — le seul chiffre à suivre** | **Coût par signature ÷ honoraires moyens.** Sous 10 %, c'est très bon. Entre 10 et 25 %, ça se pilote. Au-dessus de 30 %, il y a un problème — et il est presque toujours **en aval** : les demandes ne sont pas rappelées assez vite, ou pas rappelées du tout. C'est la phase DET de l'épisode 17 | Le ratio en grand |
-| 13:00 | **★ PITCH** | « Si vous voulez qu'on fasse ce calcul avec vos vrais chiffres, c'est un appel de 30 minutes, le lien est en description. **999 euros par mois, quatre opportunités garanties sinon on n'est pas payé, mise en place sous 48 h, sept jours d'essai gratuit, budget publicitaire à part.** » 30 secondes | Écran de l'offre |
-| 14:00 | **⑧ ESCALIER** | Ce soir : remplir les cases 1 à 4 avec vos chiffres des deux dernières années · cette semaine : votre coût par signature actuel, tous canaux confondus | — |
-| 14:45 | **OUTRO** | « Il reste une question : est-ce qu'on est vraiment obligé de faire tout ça, ou est-ce que le bouche-à-oreille peut encore suffire ? » → **épisode 20** | Miniature EP20 |
+## LE PIÈGE — l'épisode où l'on peut basculer dans la vente
 
-## Les liens à l'écran
+C'est la vidéo la plus proche du commercial de toute la chaîne, et c'est là que la règle
+tient le plus : l'offre ne se vend pas dans un épisode. L'ancienne version de cette fiche
+plaçait le tarif, la garantie et l'appel dans le corps de la vidéo. Tout cela sort.
 
-| Moment | Lien |
-|---|---|
-| 08:00 | Ordres de grandeur d'honoraires : [Ootravaux](https://www.ootravaux.fr/guide-construction/definition-projet/tarifs-architecte.html) |
-| 13:00 | <https://cal.com/essort/30min> |
-| 14:00 | <https://essort.agency/plan-acquisition> |
+Le raisonnement se suffit : si un projet rapporte 30 000 euros d'honoraires, la question
+n'est pas de savoir si une dépense d'acquisition est « chère » dans l'absolu, mais quelle
+part de ces 30 000 elle représente. C'est au spectateur de conclure, pas à toi.
 
-## Le tableur à préparer avant tournage
+Second piège : ne promets aucun seuil de rentabilité. Dis que sous un certain pourcentage
+c'est confortable et au-dessus d'un autre c'est un signal, en présentant ça comme ta
+lecture de praticien, pas comme une norme du secteur.
 
-| Case | Libellé | Exemple d'hypothèse |
-|---|---|---|
-| 1 | Honoraires moyens par projet signé | 18 000 € |
-| 2 | Demande → rendez-vous | 40 % |
-| 3 | Rendez-vous → signature | 25 % |
-| 4 | **Demandes nécessaires par signature** | = 1 ÷ (2 × 3) = **10** |
-| 5 | Coût mensuel total (prestation + budget publicitaire) | 999 € + budget |
-| 6 | **Coût par signature** | = (5 × nombre de mois) ÷ signatures |
-| 7 | **Ratio** = 6 ÷ 1 | à interpréter |
 
-> **Les chiffres du tableau sont des hypothèses d'exemple.** Le dire explicitement à
-> l'oral : « je prends des chiffres ronds pour l'exemple, mettez les vôtres ».
+## LES OBJECTIONS QUI ARRIVERONT EN COMMENTAIRE
 
-## La description YouTube
+« Je n'ai pas ces chiffres. »
+C'est le vrai sujet de la vidéo. Les cases 1 à 3 se remplissent avec deux ans d'historique
+et une heure de travail.
+
+« Un projet n'est pas l'autre, la moyenne ne veut rien dire. »
+Pour une décision d'investissement, une moyenne sur deux ans suffit. On ne cherche pas la
+précision comptable, on cherche un ordre de grandeur.
+
+« Et si aucune demande ne se transforme ? »
+Alors le coût par signature est infini et la réponse est claire. C'est exactement pourquoi
+on mesure avant de dépenser davantage.
+
+« Vous allez me vendre votre service à la fin. »
+Non, et vous le verrez. Je donne le tableur, il fonctionne avec n'importe quel canal, y
+compris ceux qui ne sont pas les miens.
+
+
+## LE DÉROULÉ
+
+
+### 1. Ouverture
+
+À faire comprendre : l'ordre de grandeur d'un seul projet, qui change la perspective.
+
+Exemple de formulation :
+« Une rénovation à 250 000 euros de travaux, avec des honoraires à 12 %, ça fait 30 000
+euros pour votre cabinet. Un seul projet.
+
+Gardez ce chiffre en tête. Ce sont des chiffres ronds que je prends pour l'exemple, et 12 %
+est un ordre de grandeur de marché, pas un barème. »
+
+
+### 2. D'où je parle
+
+Exemple de formulation :
+« Je fais de l'acquisition pour des cabinets d'architecture. C'est mon métier d'aller
+chercher des clients pour les vôtres, donc je paie des demandes toutes les semaines et je
+sais exactement ce qu'elles coûtent.
+
+On va construire un tableau ensemble, case par case. À la fin vous aurez votre chiffre, pas
+le mien. »
+
+
+### 3. Pourquoi personne ne connaît ce chiffre
+
+À faire comprendre : que l'absence de ce réflexe vient de la formation, pas de la
+négligence.
+
+Exemple de formulation :
+« On ne vous a jamais appris à raisonner en coût d'acquisition. Dans votre formation, un
+projet a un coût de construction. Il n'a pas de coût de conquête — le mot n'existe pas dans
+le vocabulaire du métier.
+
+C'est pour ça que la question "combien vous coûte un client" met presque tout le monde mal
+à l'aise. Ce n'est pas une question qu'on vous a apprise à vous poser. »
+
+
+### 4. La mauvaise unité
+
+À faire comprendre : que raisonner en dépense mensuelle mène à une décision fausse.
+
+Exemple de formulation :
+« L'erreur de raisonnement la plus fréquente : "mille euros par mois, ça fait douze mille
+euros par an, c'est cher".
+
+C'est la mauvaise unité. Personne ne raisonne comme ça sur les autres postes. Vous ne dites
+pas "mon assurance décennale me coûte tant par an, c'est cher" — vous dites qu'elle est
+nécessaire à l'exercice.
+
+La bonne question, c'est : combien de projets faut-il pour couvrir cette dépense, et
+combien en produit-elle ? Si un projet rapporte 30 000 euros d'honoraires, vous voyez tout
+de suite que le raisonnement change. »
+
+
+### 5. Le tableur, en direct
+
+À faire comprendre : les six cases, remplies devant lui.
+
+Exemple de formulation :
+« Six cases. Ouvrez un tableur en même temps que moi.
+
+Case 1 : vos honoraires moyens par projet signé, sur les deux dernières années.
+Case 2 : sur dix demandes reçues, combien deviennent un rendez-vous ?
+Case 3 : sur dix rendez-vous, combien deviennent un projet signé ?
+Case 4 : combien vous coûte une demande — en euros si vous l'achetez, en heures si vous la
+prospectez.
+
+Et maintenant les deux cases calculées.
+Case 5 : le coût par signature. C'est le coût d'une demande divisé par le produit de vos
+deux taux.
+Case 6 : ce coût par signature rapporté à vos honoraires moyens, en pourcentage.
+
+C'est cette dernière case qui décide tout. »
+
+
+### 6. La case que personne ne sait remplir
+
+À faire comprendre : que la case 4 est le vrai angle mort, y compris pour la prospection
+gratuite.
+
+Exemple de formulation :
+« La case 4 est celle qui coince, et pas seulement pour la publicité.
+
+Parce que la prospection, elle aussi, a un coût. Une demi-journée passée à relancer
+d'anciens contacts n'est pas gratuite : c'est une demi-journée que vous n'avez pas passée à
+produire. Valorisez-la à votre taux horaire, même approximativement.
+
+Beaucoup de cabinets découvrent à ce moment-là que leur canal "gratuit" est le plus cher de
+tous. »
+
+
+### 7. Le seul chiffre à suivre
+
+À faire comprendre : la lecture du résultat, présentée comme une lecture de praticien.
+
+Exemple de formulation :
+« Regardez votre case 6. Je vous donne ma lecture, et c'est la mienne, pas une norme du
+secteur.
+
+Sous 10 % des honoraires, c'est confortable : l'acquisition est un poste mineur. Entre 10 et
+25 %, ça se pilote — c'est le cas de la plupart des activités de service. Au-dessus de
+30 %, il y a un problème quelque part : soit le coût de la demande, soit un de vos deux
+taux de transformation.
+
+Et quand il y a un problème, il est presque toujours dans les taux, pas dans le coût. C'est
+une bonne nouvelle : les taux, vous pouvez les améliorer sans dépenser un euro de plus. »
+
+
+### 8. LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+
+À faire comprendre : que seule la publicité en ligne rend ce calcul possible, et pourquoi
+c'est son avantage décisif.
+
+Exemple de formulation :
+« Maintenant, l'argument qui compte vraiment, et il n'est pas celui qu'on attend.
+
+Prenez vos canaux actuels. La recommandation : quel est son coût par signature ? Vous ne
+pouvez pas le savoir. Le bouche-à-oreille ne vous envoie pas de facture, mais il ne vous
+envoie pas de statistiques non plus. Vous ne savez pas combien il vous amène, ni pourquoi
+il baisse quand il baisse.
+
+La publicité en ligne a une propriété que les autres n'ont pas : elle est entièrement
+mesurable. Vous savez combien vous avez dépensé, combien de demandes vous avez reçues,
+combien coûte chacune. Vous pouvez la comparer à tous les autres canaux — et parfois, la
+comparaison lui est défavorable, auquel cas vous le savez en trois semaines.
+
+C'est ça, son avantage réel. Pas d'être moins chère. D'être le seul canal dont vous
+connaissez le prix.
+
+Et un canal dont on connaît le prix est un canal qu'on peut décider d'augmenter ou
+d'arrêter. C'est exactement ce qui manque à un cabinet aujourd'hui : un bouton. »
+
+Puis, au nous :
+« Chez Essort, la première chose qu'on fait avec un cabinet, c'est ce tableau-là, avec ses
+chiffres. Parfois il montre que ce qu'il fait déjà est rentable et qu'il n'a pas besoin de
+nous. On le lui dit. »
+
+Puis le document, enchaîné sans respirer :
+« Le tableau complet et les leviers d'acquisition, ce que chacun coûte et dans quel ordre
+les monter : 57 pages, gratuit, lien en description. Pas de carte bancaire, pas d'appel
+commercial. »
+https://essort.agency/ressources
+
+
+### 9. Sortie
+
+Exemple de formulation :
+« Ce soir : les cases 1 à 3, avec vos chiffres des deux dernières années. Une heure de
+travail, et vous saurez des choses sur votre activité que vous ne savez pas aujourd'hui.
+
+Cette semaine : votre coût par signature actuel, tous canaux confondus, y compris le temps
+de prospection valorisé.
+
+C'est le chiffre qui rend toutes les décisions suivantes évidentes. »
+
+
+## TITRE ET MINIATURE
+
+Principal : Combien coûte vraiment une demande de projet en architecture
+Variante : Le seul chiffre qui rend vos décisions commerciales évidentes
+
+Miniature : un tableur avec six cases dont deux surlignées. Texte « CASE 6 » en très gros.
+Visage à droite.
+
+
+## DESCRIPTION YOUTUBE
 
 ```
-Tant que vous raisonnez en dépense mensuelle, la publicité est un coût. Dès que
-vous raisonnez en coût par signature, c'est une ligne de compte de résultat. On
-construit le tableau ensemble, case par case.
+Tant qu'on raisonne en dépense mensuelle, la publicité est un coût. Dès qu'on raisonne en
+coût par signature rapporté aux honoraires, c'est une ligne de compte de résultat comme
+une autre. Voici le tableau en six cases, construit à l'écran.
 
-📄 Le document gratuit : https://essort.agency/plan-acquisition
-📅 Faire le calcul avec vos chiffres : https://cal.com/essort/30min
+Les chiffres d'exemple sont ronds et volontairement simples. Il n'existe aucun coût par
+demande de référence pour le secteur : je donne la méthode, pas un chiffre à recopier.
 
-CHAPITRES
-00:00 250 000 € de travaux, 30 000 € d'honoraires
-01:00 Un semestre dont on connaît le remplissage
-02:00 Le mot « coût d'acquisition » n'existe pas dans la formation
-03:30 Ce que coûte un trimestre vide
-05:00 La mauvaise unité de mesure
-06:30 « Et si aucune demande ne se transforme ? »
-08:00 Le tableur, en direct
-11:30 Le seul chiffre à suivre
-14:45 La suite
+Je fais de l'acquisition pour des cabinets d'architecture.
 
-Essort accompagne les architectes et architectes d'intérieur indépendants ou en
-équipe de 1 à 5 personnes sur leur acquisition de projets.
+Les leviers d'acquisition, ce que chacun coûte et dans quel ordre les monter — 57 pages,
+gratuit : https://essort.agency/ressources
+
+SOURCES
+Ordres de grandeur d'honoraires : https://www.hemea.com/fr/architecture/architecte-interieur/prix
+
 Instagram : https://instagram.com/essort.architectes
 ```
 
-## Mots-clés
+Mots-clés : coût acquisition client architecte · rentabilité publicité architecte · coût
+par lead · combien coûte un client
 
-`coût acquisition client architecte` · `budget publicité architecte` · `rentabilité
-publicité travaux` · `coût par lead architecte` · `honoraires architecte rentabilité`
 
-## Garde-fous propres à cet épisode
+## GARDE-FOUS
 
-- ⚠️ **Toutes les valeurs du tableur sont des hypothèses.** Le dire au moins deux fois.
-  Un architecte qui reprend tes chiffres comme des moyennes de marché et se trompe te le
-  reprochera publiquement.
-- ⚠️ **Les quatre mentions obligatoires sont dans le pitch** : 999 € · 4 opportunités
-  garanties sinon non payé · budget publicitaire à part · **une opportunité n'est pas un
-  contrat signé**. Ici elles sont d'autant plus nécessaires que la vidéo parle d'argent
-  pendant quinze minutes.
-- **Ne citer aucun coût par demande observé chez un client Essort** tant qu'il n'est pas
-  documenté et autorisé.
-- **Ne pas promettre de coût par signature.** On donne une grille de lecture, pas une
-  performance.
-- Les seuils d'interprétation (10 % / 25 % / 30 %) sont des repères de pilotage : les
-  présenter comme tels, pas comme des standards de marché.
+Ne jamais citer le tarif, la garantie ni l'appel dans la vidéo.
+Ne jamais annoncer un coût par demande de référence pour le secteur : aucune source
+publique fiable n'existe.
+Présenter 12 % comme un ordre de grandeur, jamais comme un barème.
+Annoncer que les chiffres d'exemple sont ronds et choisis pour la démonstration.
+Présenter les seuils de lecture comme une lecture personnelle, pas comme une norme.
+Valoriser le temps de prospection : un canal gratuit n'est pas un canal sans coût.
+Aucun chiffre de résultat client.
