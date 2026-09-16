@@ -101,6 +101,62 @@ mais le volume compte plus que la perfection.
 14:30  OUTRO             Rouvre une tension → renvoie vers une AUTRE vidéo
 ```
 
+### ⚠️ Ta position — tu n'es PAS architecte
+
+**La règle la plus importante du dossier.** Tu es prestataire en acquisition marketing.
+Tu ne dessines pas, tu n'as jamais déposé un permis, tu n'as pas de cabinet. Ta
+légitimité ne vient pas de l'expérience du métier : elle vient d'**ailleurs**, et c'est
+précisément ce qui la rend utile.
+
+| ❌ Jamais | ✅ Toujours |
+|---|---|
+| « Je ne ferais plus que du professionnel » | « Les cabinets qui y vont signent autrement » |
+| « Quand je facturais mes honoraires… » | « Quand je regarde les grilles d'honoraires du marché… » |
+| « Nous, architectes… » | « Vous, les architectes… » / « votre métier » |
+| « J'ai arrêté de faire ça » | « Ce que je vois passer, c'est… » |
+| « Mon cabinet » | « Les cabinets que j'accompagne » |
+| Se faire passer pour un pair | Assumer le regard extérieur |
+
+**D'où vient ton autorité, concrètement :**
+
+1. **Tu achètes de l'attention pour vivre.** Tu sais ce que coûte un clic, une demande,
+   un rendez-vous — pas en théorie, parce que tu paies la facture.
+2. **Tu vois ce qu'un architecte seul ne voit pas :** ce que font les constructeurs, les
+   cuisinistes et les plateformes, parce que tu ouvres leurs campagnes toutes les semaines.
+3. **Tu as lu ce que personne ne lit** : Archigraphie en entier, le code de déontologie,
+   3 778 messages d'architectes sous anonymat.
+
+La phrase de cadrage, à dire une fois par vidéo, dans les deux premières minutes :
+
+> « Je ne suis pas architecte. Je fais de l'acquisition pour des cabinets d'architecture
+> — c'est mon métier d'aller chercher des clients pour les vôtres. Et de là où je suis,
+> il y a des choses qui sautent aux yeux. »
+
+**Ne jamais s'en excuser.** Un regard extérieur qui s'excuse d'être extérieur perd les
+deux : il n'est ni pair, ni expert.
+
+---
+
+### Les 3 moments Essort — où le lien se fait
+
+L'agence apparaît **trois fois**, à des endroits précis. Jamais plus, jamais ailleurs.
+
+| # | Moment | Où | Durée | Ce que ça fait |
+|---|---|---|---|---|
+| **①** | **L'ancrage** | 00:20-01:00, dans l'intro | 10-15 s | Dit d'où tu parles. Pas une offre : une position. C'est la phrase de cadrage ci-dessus. |
+| **②** | **La preuve d'usage** | Dans ⑥ PREUVE ou ⑦ MÉCANISME | 20-30 s | « Voilà ce qu'on fait quand un cabinet nous arrive avec ce problème. » Le mécanisme devient réel parce que quelqu'un l'opère. Toujours au **nous**, jamais au **je**. |
+| **③** | **Le pitch** | Aux ⅔, ~12:00 | 15 s max | Le document gratuit. Jamais l'offre à 999 €, jamais l'appel. |
+
+**L'offre commerciale n'est jamais vendue dans une vidéo.** Elle vit dans la description
+et dans la séquence email qui suit le téléchargement du document. Une chaîne à zéro
+abonné qui vend un accompagnement à 999 € dans sa sixième vidéo ne fait ni l'un ni l'autre.
+
+⚠️ Le moment ② est celui qu'on rate. Sans lui, la vidéo est un bon contenu gratuit que
+personne ne relie à une entreprise. Avec lui, le spectateur comprend **qu'un métier
+existe derrière** — et c'est ce qui fait cliquer sur la description trois vidéos plus tard.
+
+---
+
 ### Titre et miniature
 
 - **Le texte de la miniature ne répète jamais le titre.** L'œil lit la miniature, puis
