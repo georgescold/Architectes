@@ -124,7 +124,8 @@ l'intro dynamique suivie d'un corps plat. Une open loop toutes les ~3 minutes.
 | « On se retrouve dans cette nouvelle vidéo » | Zéro information, zéro tension |
 | « Comme je disais dans ma dernière vidéo » | **À zéro abonné, tu disqualifies 100 % des spectateurs** |
 | Un CTA vers le site à la fin | Fait sortir de YouTube, coûte du watch time |
-| Nommer un confrère négativement, comparer deux cabinets | Articles 17 à 19 du code de déontologie |
+| Nommer un confrère négativement, comparer deux cabinets | **Article 17** du code de déontologie (confraternité). ⚠️ Ne vise que les **confrères** : un constructeur de maisons ou une plateforme n'en est pas un |
+| Avancer un chiffre ou une promesse qu'on ne peut pas prouver | Pratique commerciale trompeuse, **L. 121-2** du code de la consommation. Peines **L. 132-2** : 5 ans et 750 000 € quand c'est en ligne. C'est la limite la plus sérieuse de toute la chaîne |
 | Citer un résultat client non documenté | [`cible-avatar.md`](../strategie/cible-avatar.md) |
 | Dire « 1 000 € » | C'est **999 €** — [`offre-actuelle.md`](../strategie/offre-actuelle.md) |
 | Promettre l'exclusivité départementale | Retirée des engagements publics |

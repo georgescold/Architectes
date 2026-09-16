@@ -99,10 +99,14 @@ architecte en ligne`
 
 ## Garde-fous propres à cet épisode
 
-- ⚠️ **Le sujet le plus glissant de la chaîne côté droit.** Une plateforme est une
-  entreprise : des propos inexacts sur son fonctionnement sont attaquables en
-  dénigrement commercial, et le code de déontologie n'est pas le seul texte qui
-  s'applique.
+- ✅ **Nuance juridique, ajoutée le 16/09/2026 :** une plateforme de mise en relation
+  **n'est pas un confrère**. Le devoir de confraternité de l'article 17 ne s'applique
+  donc pas ici, et en parler n'est pas interdit par la déontologie.
+- ⚠️ **En revanche le droit commun s'applique pleinement, et c'est lui le vrai risque.**
+  Une plateforme est une entreprise : des propos inexacts sur son fonctionnement sont
+  attaquables en dénigrement commercial, et une affirmation fausse dans une vidéo qui
+  promeut vos services relève de la pratique commerciale trompeuse (L. 121-2 — peines
+  L. 132-2 : cinq ans et 750 000 € en ligne).
 - **Ne décris que ce qui est écrit sur leurs propres pages publiques.** Si tu affirmes
   « ils vendent à quatre », il faut que ce soit documenté sur leur page ou dans leurs CGV.
   Sinon, formule en conditionnel et en général : « le modèle courant consiste à… ».

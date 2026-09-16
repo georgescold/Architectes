@@ -111,8 +111,10 @@ Instagram : https://instagram.com/essort.architectes
 - ⚠️ **Le point le plus sensible de toute la chaîne.** Tu montres à l'écran des
   annonceurs qui sont des confrères. **Aucun commentaire de valeur sur la qualité de leur
   travail, de leurs visuels ou de leur cabinet.** On décrit des faits publics et
-  horodatés : depuis quand, combien, où va le clic. Articles 17 à 19 du code de
-  déontologie — dénigrement et comparaison interdits.
+  horodatés : depuis quand, combien, où va le clic. **Article 17 du code de
+  déontologie** (réécrit le 1er juillet 2026) : la confraternité interdit toute publicité
+  qui compare vos prestations à celles d'un confrère identifié, même implicitement.
+  Ici ce sont bien des confrères : la règle s'applique pleinement.
 - Si tu cites un annonceur, **cite-le comme un exemple de constance, jamais comme un
   contre-exemple.** Les « faux amis » du bloc ⑤ se montrent **sans nommer** : floute le
   nom, dis « un compte connu », ça suffit à faire le point.

@@ -138,7 +138,8 @@ Instagram : https://instagram.com/essort.architectes
 
 - ⚠️ **Accord écrit archivé, ou anonymisation totale.** Pas d'entre-deux.
 - ⚠️ **Aucun commentaire sur le travail des cabinets audités.** On parle de paramétrage
-  de fiche, uniquement. Articles 17 à 19.
+  de fiche, uniquement. **Article 17 du code de déontologie** : pas de comparaison avec
+  un confrère identifié, même implicitement.
 - **Ne pas comparer deux cabinets entre eux à l'écran** — c'est de la publicité
   comparative. On compare une fiche à une grille, jamais à un confrère.
 - **Ne pas conseiller d'acheter des avis**, ni de les solliciter contre contrepartie :

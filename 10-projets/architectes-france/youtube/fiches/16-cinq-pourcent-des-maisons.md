@@ -128,3 +128,11 @@ architecte` · `marché de la maison France` · `faire construire architecte ou 
 - Insister sur la lecture du bloc ⑥ : ce sont les **particuliers** qui ont perdu des
   parts, pas les architectes. C'est ce détail qui rend la vidéo juste plutôt que
   victimaire.
+- ✅ **Nuance juridique, ajoutée le 16/09/2026 :** un constructeur de maisons
+  **n'est pas un confrère**. Le devoir de confraternité de l'article 17 ne le couvre
+  pas, et se comparer à cette catégorie d'acteurs reste permis, sous le droit commun de
+  la publicité comparative — strict, mais pas prohibitif. La vraie limite ici est
+  **l'exactitude** : toute affirmation sur leurs prix, leurs délais ou leur qualité doit
+  être sourcée, sous peine de tomber sous la pratique commerciale trompeuse
+  (L. 121-2, peines L. 132-2). D'où la règle : **on cite Archigraphie, on n'improvise
+  pas.**

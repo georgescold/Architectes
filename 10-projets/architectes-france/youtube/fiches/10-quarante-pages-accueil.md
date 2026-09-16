@@ -116,7 +116,9 @@ site agence architecture`
 - ⚠️ **Flouter tous les noms, logos et URL.** Aucune identification possible, même
   indirecte (une photo de projet reconnaissable suffit à identifier un cabinet).
 - **Ne porter aucun jugement esthétique** sur les sites montrés. On parle de ce qui est
-  écrit, pas de ce qui est joli. Articles 17 à 19.
+  écrit, pas de ce qui est joli — et jamais en nommant qui que ce soit. **Article 17 du
+  code de déontologie** : la confraternité interdit la comparaison avec un confrère
+  identifié, même implicitement.
 - **Le chiffre du hook doit venir de ton relevé**, pas d'une estimation. Si tu trouves
   31 sur 40, tu dis 31.
 - Dire que le relevé date de [mois / année] : un site peut changer.

@@ -25,7 +25,7 @@
 
 | Texte | Usage | Lien | État |
 |---|---|---|---|
-| **Code de déontologie des architectes** (décret 80-217) | **Article 10 bis : la publicité est autorisée.** Articles 17 à 19 : confraternité, interdiction du comparatif et du dénigrement | [Légifrance](https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006074232/) | bloque les robots |
+| **Code de déontologie des architectes** | **Article 10 bis, rédaction en vigueur depuis le 1er juillet 2026 :** « La publicité est autorisée aux architectes dans le respect de la législation et de la réglementation en vigueur. » **Article 17** : confraternité — pas de comparaison avec un confrère identifié | [Légifrance](https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006074232/) | bloque les robots |
 | Loi du 3 janvier 1977 sur l'architecture | Titre protégé, Ordre, recours obligatoire | [Légifrance](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000522423/) | bloque les robots |
 | **Ordre — « Un architecte peut-il faire de la publicité ? »** | La réponse officielle, plus lisible que le décret. **À montrer avant Légifrance** | [architectes.org](https://www.architectes.org/actualites/un-architecte-peut-il-faire-de-la-publicite-et-sous-quelles-formes-92103) | 200 |
 | **Service-Public — « Dans quel cas doit-on faire appel à un architecte ? »** | Le seuil de 150 m², dit par l'État | [service-public.gouv.fr](https://www.service-public.gouv.fr/particuliers/vosdroits/F20568) | 200 |
@@ -91,7 +91,9 @@ Dans `10-projets/architectes-france/site/frontend/build/` :
 - **Les photos de projets d'un cabinet** sans autorisation écrite — c'est du droit
   d'auteur, et sur ce marché ça se voit en une journée.
 - **Les captures de publicités de confrères présentées comme de mauvais exemples** —
-  articles 17 à 19 du code de déontologie.
+  l'article 17 du code de déontologie (confraternité). À noter : un constructeur de
+  maisons ou une plateforme **n'est pas un confrère** — la confraternité ne les couvre
+  pas, seul le droit commun s'applique.
 - **Les images générées** pour illustrer un « projet réalisé ». Jamais.
 - Les logos de plateformes dans un contexte dénigrant.
 

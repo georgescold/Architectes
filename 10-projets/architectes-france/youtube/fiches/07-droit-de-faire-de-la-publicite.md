@@ -44,15 +44,16 @@ Ton visage à gauche, expression « je viens de comprendre un truc ».
 
 | Timecode | Bloc | Ce que tu dis | Ce qu'on montre |
 |---|---|---|---|
-| 00:00 | **HOOK** | « Depuis 1992, un architecte a le droit de faire de la publicité. C'est écrit noir sur blanc à l'article 10 bis du décret 80-217. La plupart d'entre vous croient l'inverse. » | Plein cadre, puis le texte |
+| 00:00 | **HOOK** | « La publicité est autorisée aux architectes. Une phrase, article 10 bis du code de déontologie — et cette phrase a été réécrite il y a trois mois. » | Plein cadre, puis le texte |
 | 00:30 | **INTRO** | « Je ne suis pas juriste, je vais donc vous montrer les textes eux-mêmes et vous laisser lire. » Open loop : « et il y a deux interdits réels que presque personne ne connaît, et ceux-là, ils peuvent vous coûter cher » | — |
 | 01:00 | **① RÊVE** | Ce que ça ouvre : pouvoir dire où vous travaillez, montrer vos réalisations, décrire vos missions, aller chercher un client plutôt que l'attendre | — |
-| 02:00 | **② EXCUSE** | Pourquoi tout le monde croit l'inverse : **l'interdiction a existé.** Elle a été levée, et la levée n'a jamais été communiquée avec la même force que l'interdit. Résultat, une rumeur professionnelle se transmet de confrère en confrère depuis trente ans | Chronologie simple |
+| 02:00 | **② EXCUSE** | Pourquoi tout le monde croit l'inverse : **l'interdiction a existé.** Elle a été levée **en 1992**, et la levée n'a jamais été communiquée avec la même force que l'interdit. Pire : si vous avez cherché la réponse il y a un an, vous êtes tombé sur un texte qui **n'existe plus** — le décret du 26 juin 2026 a réécrit l'article et rebaptisé le code, qui ne s'appelle plus « devoirs professionnels » mais « déontologie » | Chronologie : 1992 → 30 juin 2026 → 1er juillet 2026 |
 | 03:30 | **③ PEUR** | Ce que coûtent trente ans passés à croire que c'était interdit : pendant ce temps, les constructeurs de maisons, les cuisinistes et les plateformes ont acheté toute l'attention disponible | — |
 | 05:00 | **④ ENNEMI** | L'ennemi : **la rumeur**, et le confort qu'elle procure. « Je n'ai pas le droit » est une phrase qui dispense d'essayer | Face caméra |
 | 06:30 | **⑤ DOUTE** | « Mon conseil régional ne verra pas ça d'un bon œil. » Réponse : la page de l'Ordre elle-même explique ce qui est possible — insertions dans des revues, journaux locaux, sites web, prospectus, véhicules personnalisés. **Ce n'est pas une interprétation, c'est leur page** | La page de l'Ordre à l'écran |
-| 08:00 | **⑥ PREUVE — les textes** | Ouvrir les sources dans l'ordre : **(1)** la page de l'Ordre « Un architecte peut-il faire de la publicité ? » · **(2)** le code de déontologie sur Légifrance, article 10 bis. Lire l'article à voix haute, lentement, sans commentaire | Défilement lent, texte agrandi |
-| 10:00 | **⑦ MÉCANISME — les 2 interdits** | **(1) La publicité comparative est interdite** : comparer des biens ou services en identifiant un confrère, explicitement ou implicitement. **(2) Le dénigrement est interdit** : articles 17 à 19, devoir de confraternité. Traduction opérationnelle : vous parlez de **vous**, de votre zone, de vos missions, de vos réalisations. Jamais des autres | Les 2 interdits, en grand |
+| 08:00 | **⑥ PREUVE — le texte** | Ouvrir Légifrance et lire l'article 10 bis à voix haute, lentement : **« La publicité est autorisée aux architectes dans le respect de la législation et de la réglementation en vigueur. »** Une phrase. Pas de régime d'autorisation préalable, pas de liste de supports, pas de quota. Préciser : rédaction en vigueur **depuis le 1er juillet 2026**. Jusqu'au 30 juin, le texte renvoyait à l'article 44 de la loi du 27 décembre 1973 ; le décret du 26 juin 2026 a supprimé ce renvoi. **Le sens ne bouge pas, la lecture devient plus difficile à contester** | Défilement lent, texte agrandi |
+| 10:00 | **⑦ MÉCANISME — les 2 vraies limites** | **(1) Ne pas mentir.** C'est le droit commun de la consommation, pas la déontologie : la pratique commerciale trompeuse, article L. 121-2. Les peines de l'article L. 132-2 : deux ans et 300 000 €, **portés à cinq ans et 750 000 € quand c'est en ligne** — une publicité Facebook tombe dans cette catégorie — et jusqu'à 10 % du chiffre d'affaires annuel moyen ou 50 % des sommes dépensées. Concrètement : pas de permis « garanti », pas de délai qu'on ne tiendra pas, pas de réalisation qu'on n'a pas signée. **(2) Ne pas citer un confrère.** Article 17, réécrit lui aussi le 1er juillet 2026 : les architectes se doivent assistance et conseils. L'Ordre en tire que la confraternité est incompatible avec une publicité qui compare vos prestations à celles d'un confrère identifié, même implicitement. **Vous pouvez dire ce que vous faites de bien ; pas ce qu'un autre fait mal** | Les 2 limites, en grand |
+| 10:45 | **⑦ bis — la nuance qui change tout** | **Un constructeur de maisons ou une plateforme de mise en relation n'est pas un confrère.** La confraternité ne les couvre pas. Se comparer à eux reste soumis au droit commun de la publicité comparative, qui l'encadre strictement mais **ne l'interdit pas**. Deuxième nuance : **aucune déclaration préalable à l'Ordre.** Aucun visa, aucune autorisation. L'Ordre intervient a posteriori, par la voie disciplinaire | Les deux nuances à l'écran |
 | 11:30 | **★ PITCH** | Le document gratuit. 15 secondes | — |
 | 12:00 | **⑧ ESCALIER** | Ce soir : relire le texte vous-même · cette semaine : écrire la phrase qui dit où vous travaillez · ce mois-ci : la première diffusion | — |
 | 12:30 | **OUTRO** | « Vous avez le droit. Reste à savoir si la place est prise — et j'ai vérifié, elle ne l'est pas. » → **épisode 03** | Miniature EP03 |
@@ -71,11 +72,20 @@ Ton visage à gauche, expression « je viens de comprendre un truc ».
 
 | À vérifier | Pourquoi |
 |---|---|
-| La rédaction exacte de **l'article 10 bis** et sa date d'introduction | Le cœur de la vidéo |
-| Le fait que la levée date bien de **1992** | Si la date est fausse, tout tombe |
-| Le périmètre exact des **articles 17 à 19** | Ce sont les deux interdits annoncés |
-| Le renvoi à l'**article 44 de la loi 73-1193** (orientation du commerce et de l'artisanat), cité par l'Ordre | Cadre de droit commun applicable |
+| Que l'article 10 bis est **toujours** dans sa rédaction du 1er juillet 2026 | Le texte a déjà bougé une fois en 2026 : il peut rebouger |
+| Les montants de **l'article L. 132-2** du code de la consommation | Ce sont des peines : une erreur ici est grave |
+| Le périmètre exact de **l'article 17** (confraternité) | C'est la seconde limite annoncée |
 | L'existence d'éventuelles **règles régionales** ajoutées par un CROA | Une nuance locale rendrait la vidéo incomplète |
+
+> ✅ **Déjà vérifié et sourcé** dans notre propre article de blog, qui fait foi pour
+> cette vidéo : [« Un architecte peut-il faire de la publicité ? »](https://essort.agency/blog/un-architecte-peut-il-faire-de-la-publicite).
+> Le script doit en reprendre les formulations, pas les reformuler.
+
+> ⚠️ **Correction du 16/09/2026.** Une version antérieure de cette fiche annonçait
+> comme « deux interdits » la publicité comparative **et** le dénigrement, en citant les
+> articles 17 à 19. C'était faux : la première limite n'est pas déontologique, elle est
+> **consumériste** (pratique commerciale trompeuse), et c'est elle qui porte les peines.
+> Ne pas revenir à l'ancienne version.
 
 > Formulation de sécurité à dire à l'oral, une fois : *« Je ne suis pas juriste. Je vous
 > montre les textes, les liens sont en description, et si vous avez un doute sur un cas
@@ -85,8 +95,8 @@ Ton visage à gauche, expression « je viens de comprendre un truc ».
 
 ```
 « Je n'ai pas le droit de faire de la publicité. » C'est l'objection numéro un de
-la profession, et elle est fausse depuis 1992. Voici les textes, et les deux seuls
-interdits qui existent vraiment.
+la profession, et elle est fausse depuis 1992. L'article a même été réécrit le
+1er juillet 2026. Voici le texte, et les deux seules limites qui existent vraiment.
 
 📄 Le document gratuit : https://essort.agency/plan-acquisition
 🔗 L'article complet : https://essort.agency/blog/un-architecte-peut-il-faire-de-la-publicite
@@ -105,12 +115,13 @@ régional de l'Ordre est l'interlocuteur.
 CHAPITRES
 00:00 Article 10 bis
 01:00 Ce que ça ouvre concrètement
-02:00 Pourquoi tout le monde croit l'inverse
+02:00 1992, puis la réécriture du 1er juillet 2026
 03:30 Ce que coûtent trente ans de rumeur
 05:00 « Je n'ai pas le droit » dispense d'essayer
 06:30 « Mon conseil régional ne verra pas ça d'un bon œil »
-08:00 Les textes, lus à l'écran
-10:00 Les 2 vrais interdits
+08:00 Le texte, lu à l'écran
+10:00 Les 2 vraies limites
+10:45 Un constructeur n'est pas un confrère
 12:30 La suite
 
 Essort accompagne les architectes et architectes d'intérieur indépendants ou en
