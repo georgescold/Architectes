@@ -1,135 +1,262 @@
-# EP11 — Le titre d'architecte d'intérieur ne sera pas protégé
+# EP11 — Votre légitimité ne viendra pas d'une loi
 
-| | |
-|---|---|
-| **Épisode** | 11 / 20 · semaine 11 |
-| **Famille** | RÈGLE |
-| **Audience** | 🅑 architecte d'intérieur |
-| **Situations ciblées** | S1 installation récente · S3 beaux contenus |
-| **Durée cible** | 12-14 min |
-| **Production** | ★★★ — **points juridiques à vérifier avant tournage** |
+Épisode 11/20 · RÈGLE · architecte d'intérieur · 12-14 min
 
-> ⚠️ **La vidéo la plus délicate de la chaîne.** Elle dit à une profession que son combat
-> identitaire ne sera pas gagné. Ton d'allié du début à la fin. Une seule phrase
-> condescendante et tu perds définitivement cette audience.
 
----
+## LA BIG IDEA
 
-## Le titre
+Le titre d'architecte d'intérieur n'est pas protégé, et beaucoup attendent qu'une loi
+règle le problème de légitimité. Elle ne le réglera pas cette année, ni la prochaine.
 
-**Principal :** `Le titre d'architecte d'intérieur ne sera pas protégé (et ce n'est pas votre vrai problème)`
+Mais surtout, elle ne réglerait pas le vrai problème. Un client ne connaît ni le CFAI, ni
+les écoles reconnues, ni la différence entre un architecte DE et un architecte d'intérieur.
+Il ne vérifie pas un titre : il regarde si quelqu'un a déjà fait ce qu'il veut faire, près
+de chez lui, et si d'autres en ont dit du bien.
 
-Variantes :
-- `Arrêtez d'attendre une loi qui ne viendra pas`
-- `Architecte d'intérieur : ce que vous avez le droit d'écrire, et ce qui vous expose`
+La légitimité qu'on cherche dans un texte de loi se fabrique en trois preuves, et elles
+sont toutes à portée de main.
 
-## La miniature
 
-**Texte :** `pas protégé` · dessous, petit : `et alors ?`
+## AVANT DE TOURNER — pour toi, pas pour la vidéo
 
-**Composition :** un tampon rouge « NON PROTÉGÉ » posé de travers sur un diplôme
-générique. Ton visage à gauche, calme, pas moqueur.
+Le titre d'architecte n'est protégé que par la loi du 3 janvier 1977 : il suppose un
+diplôme d'État et l'inscription à l'Ordre. Rien n'a jamais défini « architecte
+d'intérieur ».
+https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000522423/
 
-**Image :** maquette Canva · `site/frontend/build/blog/droit-publicite.svg`
+Ce qui existe en revanche : le CFAI reconnaît une liste d'écoles et délivre la dénomination
+« Architecte d'Intérieur CFAI ». C'est une reconnaissance professionnelle, pas une
+protection légale.
+https://www.cfai.fr/en/se-former-a-l-architecture-interieure/les-ecoles-reconnues
 
-## La grande idée
+Conséquence utile et souvent ignorée : le code de déontologie des architectes ne s'applique
+pas à l'architecte d'intérieur. Il est donc moins contraint pour communiquer — seul le
+droit commun s'applique.
 
-> Vous attendez une reconnaissance légale qui ne viendra pas cette année, ni la
-> prochaine. La légitimité que vous cherchez ne s'obtient pas par une loi — elle
-> s'obtient en étant celui qu'on trouve en premier sur sa zone. Et elle s'obtient
-> beaucoup plus vite.
+Point juridique à manier avec précaution : utiliser le titre « architecte » seul, sans être
+inscrit à l'Ordre, expose à des poursuites. « Architecte d'intérieur » écrit en entier ne
+pose pas ce problème.
 
-## Le chapitrage et le contenu
 
-| Timecode | Bloc | Ce que tu dis | Ce qu'on montre |
-|---|---|---|---|
-| 00:00 | **HOOK** | « Le Conseil français des architectes d'intérieur demande une dénomination réservée depuis des années. Il ne l'obtiendra pas cette année. Je sais que ce n'est pas ce que vous voulez entendre. » | Plein cadre, ton posé |
-| 00:30 | **INTRO** | « Je ne suis pas là pour trancher si c'est juste. Je suis là pour parler de ce que vous pouvez faire en attendant. » Open loop : « et il y a une chose qui change en 2027 dont presque personne ne parle » | — |
-| 01:00 | **① RÊVE** | Être celui qu'on cite en premier dans sa ville. Ce n'est pas le titre qui fait qu'on vous recommande, c'est d'être le nom qui vient en premier | — |
-| 02:00 | **② EXCUSE** | Le flou n'est pas de votre faute : **la loi de 1977 sur l'architecture n'a jamais défini ce métier.** Elle a protégé « architecte » et n'a rien dit du reste. Tout le flou vient de là, et vous n'y êtes pour rien | Loi de 1977 à l'écran |
-| 03:30 | **③ PEUR — le cadre réel, sans dramatiser** | Utiliser le titre « architecte » sans être inscrit à l'Ordre est un délit, et des condamnations existent. Ce n'est pas une menace, c'est une information : **ce que vous écrivez sur votre site et vos cartes compte.** « Architecte d'intérieur » en entier, jamais « architecte » seul | Article de presse sur une condamnation |
-| 05:00 | **④ ENNEMI** | L'ennemi n'est **pas** le décorateur d'à côté, ni les architectes DE. C'est **la conception gratuite des enseignes** : cuisinistes, grandes surfaces de bricolage et d'ameublement, qui font des plans 3D offerts. C'est eux qui fixent, dans la tête du client, l'idée qu'un plan ne se paie pas | Schéma : qui prend la place |
-| 06:30 | **⑤ DOUTE** | « Je ne suis pas assez légitime pour me montrer. » Le client ne connaît ni le CFAI, ni les seize écoles reconnues, ni la différence DE / intérieur. Il regarde une chose : est-ce que cette personne a déjà fait ce que je veux faire | Face caméra |
-| 08:00 | **⑥ PREUVE — ce qui existe vraiment** | Ce qui est protégé et ce qui ne l'est pas : la dénomination **« Architecte d'Intérieur CFAI »** est, elle, réservée aux professionnels reconnus par le CFAI · seize écoles sont reconnues · et **un code d'activité propre arrive** — l'activité d'aménagement d'intérieur sort du fourre-tout 74.10Z où elle est classée avec le graphisme. *(Vérifier la date exacte d'entrée en vigueur avant de l'annoncer.)* | Pages CFAI et INSEE |
-| 10:00 | **⑦ MÉCANISME — les 3 preuves qui remplacent un titre** | **(1) Une réalisation comparable** au projet du client, montrée en premier · **(2) Des avis vérifiables** — la fiche Google, pas les témoignages sur votre propre site · **(3) Un périmètre écrit** : ce que vous faites, ce que vous ne faites pas, avec ou sans suivi de chantier. Le périmètre écrit fait plus pour votre légitimité qu'un titre | Les 3 preuves |
-| 11:30 | **★ PITCH** | Le document gratuit. 15 secondes | — |
-| 12:00 | **⑧ ESCALIER** | Ce soir : vérifier que « architecte d'intérieur » est écrit en entier partout · cette semaine : le périmètre écrit · ce mois-ci : les trois premiers avis | — |
-| 12:30 | **OUTRO** | « Votre légitimité, elle se joue sur ce que les gens trouvent quand ils cherchent votre nom. Et ça commence par une fiche que la plupart n'ont jamais revendiquée. » → **épisode 13** | Miniature EP13 |
+## LE PIÈGE — ne pas se prononcer sur le fond du débat
 
-## Les liens à l'écran
+Tu n'es ni juriste ni porte-parole de la profession. Tu ne dis pas si la protection du
+titre serait juste, souhaitable ou méritée. Ce n'est ni ton domaine ni ton rôle, et
+n'importe quelle position te fera perdre une moitié de l'audience.
 
-| Moment | Lien |
-|---|---|
-| 02:00 | [Loi du 3 janvier 1977 sur l'architecture](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000522423/) |
-| 03:30 | [France Bleu — condamnation pour usurpation du titre d'architecte](https://www.francebleu.fr/infos/faits-divers-justice/cher-une-femme-condamnee-pour-usurpation-du-titre-d-architecte-et-pour-avoir-utilise-des-faux-1810820) |
-| 00:00, 08:00 | [Batiactu — « Nous demandons une réglementation et une dénomination réservée »](https://www.batiactu.com/edito/loi-1977-sur-architecture-n-a-pas-defini-notre-metier-70563.php) |
-| 08:00 | [CFAI — les écoles reconnues](https://www.cfai.fr/en/se-former-a-l-architecture-interieure/les-ecoles-reconnues) |
-| 08:00 | [INSEE — NAF 74.10Z](https://www.insee.fr/fr/metadonnees/nafr2/sousClasse/74.10Z) |
-| 11:30 | <https://essort.agency/plan-acquisition> |
+Tu dis une seule chose : quel que soit l'avenir du dossier, voilà ce qui produit des
+clients en attendant.
 
-## Les points à vérifier AVANT tournage
+Second piège : n'annonce aucune date, aucune échéance parlementaire, aucun « ça arrive en
+2027 ». Je n'ai pas trouvé de source fiable sur l'état d'avancement du dossier, et un
+calendrier inventé se retourne immédiatement.
 
-| À vérifier | Pourquoi |
-|---|---|
-| **La date d'entrée en vigueur du code d'activité dédié** à l'aménagement d'intérieur | Les sources hésitent entre 2026 et 2027. **Si le doute persiste, ne pas donner de date** : dire « il arrive » |
-| Le statut exact de la dénomination « Architecte d'Intérieur CFAI » | C'est le seul élément protégé que tu cites |
-| Le nombre d'écoles reconnues par le CFAI | 16 au 30/01/2026 — revérifier sur leur page |
-| L'obligation d'assurance selon le type de mission | Sujet sensible : **ne l'aborder que si c'est vérifié** |
 
-## La description YouTube
+## LES OBJECTIONS QUI ARRIVERONT EN COMMENTAIRE
+
+« Tu minimises un vrai combat professionnel. »
+Je ne me prononce pas dessus. Je dis juste que la reconnaissance légale et le carnet de
+commandes sont deux sujets différents, et que le second ne dépend pas du premier.
+
+« Sans protection, n'importe qui se dit architecte d'intérieur. »
+C'est vrai, et c'est précisément pour ça que les preuves visibles — réalisations
+comparables, avis, périmètre écrit — comptent davantage chez vous que chez un architecte
+inscrit.
+
+« Le CFAI protège déjà la dénomination. »
+Il reconnaît des écoles et délivre une dénomination professionnelle. Ce n'est pas une
+protection légale du titre, et le client ne connaît pas le sigle.
+
+« Un architecte DE a plus de légitimité que moi. »
+Auprès de l'administration, oui, sur ce qui relève du permis de construire. Auprès d'un
+particulier qui veut refaire son appartement, il n'a aucun avantage.
+
+
+## LE DÉROULÉ
+
+
+### 1. Ouverture
+
+À faire comprendre : que l'attente d'une loi est une impasse pour son activité.
+
+Exemple de formulation :
+« Beaucoup d'architectes d'intérieur attendent que le titre soit protégé pour se sentir
+légitimes. Je ne vais pas vous dire si ça arrivera — je n'en sais rien, et personne ne le
+sait.
+
+Ce que je peux vous dire, c'est que même si ça arrivait demain, ça ne changerait presque
+rien à votre nombre de demandes. Et je vais vous expliquer pourquoi. »
+
+
+### 2. D'où je parle
+
+Exemple de formulation :
+« Je fais de l'acquisition pour des cabinets d'architecture. C'est mon métier d'aller
+chercher des clients pour les vôtres — donc je vois exactement ce que les gens regardent
+avant de décrocher leur téléphone. Et le titre n'en fait pas partie. »
+
+
+### 3. Ce qui est protégé, et ce qui ne l'est pas — deux minutes maximum
+
+À faire comprendre : la situation juridique réelle, sans prendre position.
+
+Exemple de formulation :
+« Les faits, rapidement. Le titre d'architecte est protégé par la loi de 1977 : diplôme
+d'État et inscription à l'Ordre. Cette loi n'a jamais défini "architecte d'intérieur", et
+tout le flou vient de là.
+
+Ce qui existe : le CFAI reconnaît des écoles et délivre une dénomination, "Architecte
+d'Intérieur CFAI". C'est une reconnaissance professionnelle, ce n'est pas une protection
+légale.
+
+Un point pratique au passage : écrivez toujours "architecte d'intérieur" en entier.
+Utiliser "architecte" seul sans être inscrit à l'Ordre vous expose. »
+
+Preuve :
+https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000522423/
+https://www.cfai.fr/en/se-former-a-l-architecture-interieure/les-ecoles-reconnues
+
+
+### 4. Ce qu'un client vérifie vraiment
+
+À faire comprendre : que le titre n'entre pas dans sa décision. C'est le pivot de
+l'épisode.
+
+Exemple de formulation :
+« Maintenant la partie qui est mon métier. Quand quelqu'un cherche à refaire son
+appartement, il ne vérifie pas votre diplôme. Il ne connaît pas le CFAI. Il ne sait pas
+qu'il existe seize écoles reconnues. Il ne fait même pas la différence entre un architecte
+DE et vous.
+
+Il regarde trois choses : est-ce que cette personne a déjà fait quelque chose qui ressemble
+à mon projet, est-ce qu'elle travaille près de chez moi, et est-ce que d'autres en ont dit
+du bien.
+
+Votre légitimité ne se joue pas au Journal officiel. Elle se joue dans les trois premiers
+résultats quand quelqu'un tape votre nom. »
+
+
+### 5. L'avantage que vous avez et que vous n'utilisez pas
+
+À faire comprendre : qu'il est moins contraint qu'un architecte inscrit pour communiquer.
+
+Exemple de formulation :
+« Et il y a une conséquence que presque personne ne relève. Le code de déontologie des
+architectes, avec ses règles de confraternité, ne s'applique qu'aux inscrits à l'Ordre.
+Votre titre n'étant pas protégé, ce code ne vous concerne pas.
+
+Vous avez bien sûr des règles — le droit commun s'applique : pas de publicité trompeuse,
+pas de photo d'un projet qui n'est pas le vôtre. Mais vous êtes, au sens strict, moins
+empêché de communiquer qu'un architecte inscrit. Ce statut que vous vivez comme une
+faiblesse est aussi une liberté que vous n'exercez pas. »
+
+
+### 6. Les trois preuves qui remplacent un titre
+
+À faire comprendre : quoi construire concrètement, dès cette semaine.
+
+Exemple de formulation :
+« Trois preuves, et elles valent mieux qu'un texte de loi.
+
+Une réalisation comparable au projet du visiteur, montrée en premier. Pas votre plus belle :
+la plus proche de ce qu'il veut faire.
+
+Des avis vérifiables, sur votre fiche Google — pas des témoignages recopiés sur votre site,
+que personne ne croit. Un avis que le client peut lire ailleurs que chez vous vaut dix
+témoignages que vous avez écrits.
+
+Et un périmètre écrit : ce que vous faites, où, à partir de quelle enveloppe. C'est ce qui
+vous distingue de celui qui se dit architecte d'intérieur sans formation — lui n'écrira
+jamais un périmètre, parce qu'il prend tout. »
+
+
+### 7. LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+
+À faire comprendre : que la visibilité est le vrai substitut à la protection du titre, et
+que la publicité en ligne en est le levier le plus rapide.
+
+Exemple de formulation :
+« Je vais formuler ça autrement, parce que c'est le cœur du sujet.
+
+Ce que la protection du titre vous apporterait, c'est une barrière : quelqu'un sans
+formation ne pourrait plus se présenter comme vous. Sauf que cette barrière, même si elle
+existait, ne ferait pas sonner votre téléphone. Elle empêcherait juste l'autre de
+répondre — et seulement s'il est déjà en concurrence avec vous, c'est-à-dire seulement si
+vous êtes visible.
+
+La vraie barrière, aujourd'hui, elle est là : être celui qu'on trouve en premier sur sa
+zone. Parce qu'un client qui vous a trouvé, lu, et vu des avis sur vous ne va pas chercher
+un troisième nom. Il ne compare plus.
+
+Et pour être ce premier nom sur une zone, sans attendre dix ans de réputation, il n'y a
+qu'un levier immédiat : la publicité en ligne. C'est le seul endroit où vous décidez d'être
+devant les gens de votre département qui ont un projet maintenant. Le référencement mettra
+des mois ; la recommandation, des années. »
+
+Puis, au nous :
+« Chez Essort, on travaille avec des architectes d'intérieur qui n'ont pas de titre protégé
+et qui remplissent leur carnet. Ce qui les distingue, ce n'est jamais leur diplôme : c'est
+qu'on les trouve, et qu'en les trouvant on voit tout de suite ce qu'ils font et pour qui. »
+
+Puis le document, enchaîné sans respirer :
+« Les leviers d'acquisition, ce que chacun coûte, dans quel ordre les monter : 57 pages,
+gratuit, lien en description. Pas de carte bancaire, pas d'appel commercial. »
+https://essort.agency/ressources
+
+
+### 8. Sortie
+
+Exemple de formulation :
+« Ce soir, dix minutes : vérifiez que "architecte d'intérieur" est écrit en entier partout,
+et que votre périmètre apparaît quelque part. Cette semaine : demandez trois avis à des
+clients contents.
+
+Et votre légitimité, elle se joue surtout sur ce que les gens trouvent en cherchant votre
+nom. Ça commence par une fiche que la plupart n'ont jamais revendiquée — c'est la vidéo
+suivante. »
+
+
+## TITRE ET MINIATURE
+
+Principal : Votre légitimité ne viendra pas d'une loi
+Variante : Le titre d'architecte d'intérieur n'est pas protégé, et ce n'est pas votre vrai
+problème
+
+Miniature : « PAS PROTÉGÉ » barré, dessous en petit « et alors ? ». Visage à droite.
+
+
+## DESCRIPTION YOUTUBE
 
 ```
-Le CFAI demande une dénomination réservée depuis des années. En attendant, voici
-ce que vous avez le droit d'écrire, ce qui vous expose, et les trois preuves qui
-font plus pour votre légitimité qu'un titre protégé.
+Le titre d'architecte d'intérieur n'est pas protégé. Beaucoup attendent une loi pour se
+sentir légitimes — et cette loi, même si elle arrivait, ne ferait pas sonner leur
+téléphone. Un client ne vérifie pas un titre : il regarde trois choses, et elles sont
+toutes à portée de main.
 
-📄 Le document gratuit : https://essort.agency/plan-acquisition
+Je ne prends pas position sur le fond du débat. Je parle de ce qui produit des clients en
+attendant.
 
-Sources :
-• « La loi de 1977 sur l'architecture n'a pas défini notre métier », Batiactu
-  https://www.batiactu.com/edito/loi-1977-sur-architecture-n-a-pas-defini-notre-metier-70563.php
-• Loi n° 77-2 du 3 janvier 1977 sur l'architecture
-  https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000522423/
-• CFAI — les écoles reconnues
-  https://www.cfai.fr/en/se-former-a-l-architecture-interieure/les-ecoles-reconnues
-• INSEE — code NAF 74.10Z
-  https://www.insee.fr/fr/metadonnees/nafr2/sousClasse/74.10Z
+Je fais de l'acquisition pour des cabinets d'architecture.
 
-Cette vidéo n'est pas un conseil juridique.
+Les leviers d'acquisition, ce que chacun coûte et dans quel ordre les monter — 57 pages,
+gratuit : https://essort.agency/ressources
 
-CHAPITRES
-00:00 Une dénomination réservée qui ne vient pas
-01:00 Être celui qu'on cite en premier
-02:00 La loi de 1977 n'a jamais défini ce métier
-03:30 Ce que vous écrivez compte
-05:00 Le vrai concurrent : la conception gratuite
-06:30 « Je ne suis pas assez légitime »
-08:00 Ce qui existe vraiment : CFAI, écoles, code d'activité
-10:00 Les 3 preuves qui remplacent un titre
-12:30 La suite
+SOURCES
+Loi du 3 janvier 1977 sur l'architecture : https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000522423/
+Écoles reconnues CFAI : https://www.cfai.fr/en/se-former-a-l-architecture-interieure/les-ecoles-reconnues
 
-Essort accompagne les architectes et architectes d'intérieur indépendants ou en
-équipe de 1 à 5 personnes sur leur acquisition de projets.
-Échanger 30 min : https://cal.com/essort/30min
 Instagram : https://instagram.com/essort.architectes
 ```
 
-## Mots-clés
+Mots-clés : titre architecte d'intérieur protégé · légitimité architecte d'intérieur ·
+CFAI · différence architecte et architecte d'intérieur
 
-`architecte d'intérieur titre protégé` · `CFAI` · `différence architecte et architecte
-d'intérieur` · `usurpation titre architecte` · `réglementation architecture d'intérieur` ·
-`décorateur ou architecte d'intérieur`
 
-## Garde-fous propres à cet épisode
+## GARDE-FOUS
 
-- ⚠️ **Ne jamais laisser entendre que les architectes DE méprisent les architectes
-  d'intérieur**, même si le corpus le documente abondamment. Ouvrir ce front coûte la
-  moitié de l'audience de la chaîne et n'apporte rien.
-- ⚠️ **Ne citer aucun chiffre de population du métier** — non sourçable
-  ([`marche-et-cible.md`](../../strategie/marche-et-cible.md) § 5).
-- **Ne pas nommer la personne condamnée** dans l'affaire d'usurpation. On cite le fait
-  et le lien, on ne fait pas de la reprise de fait divers.
-- **Traiter l'assurance avec précaution.** Beaucoup exercent sans décennale en faisant de
-  la maîtrise d'œuvre : le dire frontalement se retourne. On formule en positif — « ce
-  que couvre quoi » — ou on n'en parle pas.
-- Dire une fois que ce n'est pas un conseil juridique.
+Ne jamais prendre position sur le fond du débat de la protection du titre.
+N'annoncer aucune date ni échéance parlementaire : l'état du dossier n'est pas sourcé.
+Toujours écrire et dire « architecte d'intérieur » en entier.
+Rappeler que le droit commun s'applique même sans code de déontologie.
+Ne pas dénigrer les personnes sans formation qui exercent : on décrit un marché.
+Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.
