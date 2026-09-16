@@ -1,147 +1,256 @@
-# EP13 — J'audite la fiche Google de trois cabinets
+# EP13 — La fiche que Google a créée pour vous sans vous demander
 
-| | |
-|---|---|
-| **Épisode** | 13 / 20 · semaine 13 |
-| **Famille** | PREUVE |
-| **Audience** | 🅐🅑 |
-| **Situations ciblées** | S2 bouche-à-oreille · S3 beaux contenus · S4 équipe |
-| **Durée cible** | 14-16 min |
-| **Production** | ★★★ — **accord écrit de 3 cabinets**, ou version anonymisée |
+Épisode 13/20 · PREUVE · architecte DE et architecte d'intérieur · 14-16 min
 
-> **Placé en semaine 13 pour une raison précise :** tu auras douze vidéos à montrer pour
-> convaincre trois cabinets d'accepter. En semaine 1, tu n'aurais rien.
-> **Plan B intégré ci-dessous** si personne n'accepte — la vidéo reste tournable seul.
 
----
+## LA BIG IDEA
 
-## Les deux versions
+Le premier filtre de crédibilité d'un maître d'ouvrage n'est pas le site du cabinet. C'est
+une fiche que Google a souvent créée tout seul, à partir de données publiques, et que
+beaucoup n'ont jamais revendiquée.
 
-| | **Version A — avec accord** | **Version B — anonymisée** |
-|---|---|---|
-| Ce qu'on montre | Les vraies fiches, nommées | Fiches floutées, ville remplacée par « une ville moyenne » |
-| Ce qu'il faut | **Accord écrit, daté**, précisant : captation d'écran, diffusion publique, durée illimitée, droit de retrait | Rien |
-| Titre | `J'audite la fiche Google de trois cabinets (avec leur accord)` | `J'ai regardé la fiche Google de 20 cabinets. Voilà ce qui cloche.` |
-| Bénéfice | Preuve sociale + les cabinets partagent la vidéo | Aucune dépendance, tournable ce week-end |
+Sur mobile, quand quelqu'un tape « architecte » suivi du nom de sa ville, c'est elle qui
+s'affiche en premier : le nom, la note, le nombre d'avis, une photo, la distance. Le site
+arrive après, et souvent jamais.
 
-> **Ne jamais montrer une fiche identifiable sans accord.** Un logo, une photo de projet
-> ou une rue reconnaissable suffisent à identifier un cabinet.
+Une fiche vide à côté de deux fiches remplies, sur trois noms comparés, ça ne se rattrape
+avec aucun budget publicitaire. C'est le levier le moins cher du métier, et le plus
+négligé.
 
----
 
-## Le titre
+## AVANT DE TOURNER — pour toi, pas pour la vidéo
 
-**Principal (version A) :** `J'audite la fiche Google de 3 cabinets d'architecture (avec leur accord)`
-**Principal (version B) :** `J'ai regardé la fiche Google de 20 cabinets. Voilà ce qui cloche.`
+L'outil s'appelle Google Business Profile. La fiche peut exister sans que le professionnel
+l'ait créée : Google l'alimente à partir de données publiques et des contributions des
+utilisateurs. N'importe qui peut y proposer une modification, une photo ou un avis.
+https://www.google.com/business/
 
-Variante commune :
-- `La première chose qu'un client voit de vous — et que vous n'avez jamais revendiquée`
+La grille d'audit en six points, dans l'ordre d'impact : la catégorie principale, la zone
+desservie, les horaires, les photos, le nombre et la fraîcheur des avis, et la présence
+d'un numéro et d'un site.
 
-## La miniature
+La catégorie principale est le point le plus souvent faux et le plus coûteux : une fiche
+classée « entrepreneur » ou « bureau d'études » ne remonte pas sur la recherche
+« architecte + ville ».
 
-**Texte :** `0 avis` · dessous, petit : `sur 3 cabinets`
 
-**Composition :** trois fiches Google côte à côte, la zone des avis entourée en rouge.
-Ton visage à gauche, expression consternée.
+## DEUX VERSIONS POSSIBLES — choisis avant de tourner
 
-**Image :** captures maison · `site/frontend/build/blog/visibilite-locale.svg`
+Version A, avec trois cabinets qui acceptent un audit public. Meilleure vidéo, mais elle
+demande un accord écrit de chacun, explicite, mentionnant la diffusion publique sur
+YouTube. Sans cet écrit, on ne tourne pas.
 
-## La grande idée
+Version B, sans aucun cabinet identifiable : tu audites une fiche que tu as créée pour
+l'exercice, ou tu montres la grille appliquée à des captures entièrement anonymisées.
+Moins spectaculaire, tournable immédiatement, aucun risque.
 
-> Le premier filtre de crédibilité d'un maître d'ouvrage n'est pas votre book. C'est une
-> fiche que vous n'avez probablement jamais revendiquée, que Google a créée sans vous
-> demander, et sur laquelle n'importe qui peut écrire.
+⚠️ Si tu n'as pas les trois accords écrits en main le jour du tournage, c'est la version B.
+Pas de négociation sur ce point : auditer publiquement la fiche d'un confrère sans accord
+est du dénigrement, et pour un architecte inscrit c'est un manquement à la confraternité.
 
-## Le chapitrage et le contenu
 
-| Timecode | Bloc | Ce que tu dis | Ce qu'on montre |
-|---|---|---|---|
-| 00:00 | **HOOK** | « Trois cabinets ont accepté que j'audite leur fiche Google en public. Les trois font la même erreur, et elle leur coûte des appels chaque semaine. » *(version B : « J'ai regardé vingt fiches Google de cabinets d'architecture. [Chiffre] font la même erreur. »)* | Plein cadre, puis les fiches |
-| 00:30 | **INTRO** | Pourquoi cette fiche et pas le site : c'est ce qui s'affiche **avant** votre site, sur mobile, quand quelqu'un tape « architecte » + le nom de sa ville. Open loop : « et il y a un champ que personne ne remplit, alors qu'il décide de qui vous voyez apparaître » | Recherche mobile simulée |
-| 01:00 | **① RÊVE** | Être le cabinet qui sort en premier sur sa ville, avec des avis récents et des photos à jour. Le client vous a déjà à moitié choisi avant de cliquer | — |
-| 02:00 | **② EXCUSE** | Personne ne vous a dit que c'était un canal. On vous a vendu un site vitrine ; la fiche, Google l'a créée tout seul à partir de votre SIRET et de données publiques. Beaucoup de cabinets ont une fiche **qu'ils n'ont jamais vue** | Une fiche non revendiquée |
-| 03:30 | **③ PEUR** | Le maître d'ouvrage compare trois noms. Sur mobile, il voit : le nom, la note, le nombre d'avis, une photo, la distance. Une fiche vide à côté de deux fiches remplies, ce n'est pas neutre — **c'est un signal de cabinet inactif** | Comparaison côte à côte |
-| 05:00 | **④ ENNEMI** | L'ennemi : **le site vitrine pensé comme un book**, et l'idée qu'un beau site suffit. Le site arrive en deuxième position dans le parcours réel. La fiche arrive en première | Parcours à l'écran |
-| 06:30 | **⑤ DOUTE** | « Demander des avis, ça ne se fait pas dans notre métier. » Vous ne demandez pas une note, vous demandez à un client satisfait d'écrire trois lignes sur le déroulement du chantier. Ce n'est ni de la publicité comparative ni du dénigrement : c'est un témoignage | Face caméra |
-| 08:00 | **⑥ AUDIT EN DIRECT** | Écran partagé, cabinet par cabinet. **La grille en 6 points : (1) la catégorie principale** — « architecte » vs « architecte d'intérieur » vs « entrepreneur » : c'est elle qui décide des recherches où vous sortez · **(2) la zone desservie** — le champ que personne ne remplit · **(3) les photos** — datées, géolocalisées, avec des chantiers · **(4) les avis** — nombre, fraîcheur, réponses · **(5) les questions-réponses** — vides partout · **(6) les posts** — inexistants | Audit lent, curseur visible |
-| 12:00 | **⑦ MÉCANISME — les 5 corrections par ordre d'impact** | **(1)** revendiquer la fiche · **(2)** corriger la catégorie principale · **(3)** remplir la zone desservie · **(4)** trois avis récents · **(5)** six photos de chantier, pas de rendus 3D | Les 5 points numérotés |
-| 13:30 | **★ PITCH** | Le document gratuit. 15 secondes | — |
-| 14:00 | **⑧ ESCALIER** | Ce soir : revendiquer la fiche · cette semaine : catégorie et zone · ce mois-ci : les trois premiers avis | — |
-| 14:30 | **OUTRO** | « La fiche, c'est un des quatre appuis sur lesquels tient un cabinet. Les trois autres, presque personne ne les a. » → **épisode 14** | Miniature EP14 |
+## LE PIÈGE — ne pas faire un tutoriel Google
 
-## Les liens à l'écran
+Tu n'es pas là pour expliquer où cliquer dans l'interface. Un tutoriel se périme au
+prochain changement de menu et n'apporte aucune autorité.
 
-| Moment | Lien |
-|---|---|
-| 02:00, 12:00 | [Google Business Profile](https://www.google.com/business/) |
-| 12:00 | [Blog — trouver des clients architecte](https://essort.agency/blog/trouver-des-clients-architecte) |
-| 13:30 | <https://essort.agency/plan-acquisition> |
+Tu expliques ce qu'un client voit, pourquoi ça décide, et dans quel ordre corriger. Le
+« comment on clique » va en description, sous forme de lien vers la documentation Google.
 
-## Le modèle d'accord (version A)
+Second piège : ne jamais dire qu'une bonne fiche remplace une campagne. Elle améliore le
+rendement de tout le reste, elle ne crée pas de demande à elle seule.
 
-> À envoyer par mail, réponse écrite suffisante. À archiver avant tournage.
+
+## LES OBJECTIONS QUI ARRIVERONT EN COMMENTAIRE
+
+« Demander des avis, ça ne se fait pas dans notre métier. »
+Vous ne demandez pas une note, vous demandez à un client satisfait d'écrire trois lignes
+sur le déroulement du chantier. Les médecins et les avocats le font désormais aussi.
+
+« Mes clients ne viennent pas de Google. »
+Ils y vérifient quand même. La recommandation donne un nom ; Google décide si on écrit.
+
+« Je n'ai pas de local, je travaille de chez moi. »
+Une fiche peut être configurée en zone desservie, sans adresse affichée. C'est prévu.
+
+« Un avis négatif peut me détruire. »
+Une fiche sans aucun avis est pire qu'une fiche avec un avis moyen et dix bons. Le vide
+n'inspire rien.
+
+
+## LE DÉROULÉ
+
+
+### 1. Ouverture
+
+À faire comprendre : que cette fiche existe déjà, qu'il ne l'a probablement pas créée, et
+qu'elle passe avant son site.
+
+Exemple de formulation :
+« Il existe une page à votre nom que vous n'avez peut-être jamais créée, que Google a
+fabriquée tout seul, sur laquelle n'importe qui peut écrire — et c'est la première chose
+qu'un client voit avant votre site. »
+
+
+### 2. D'où je parle
+
+Exemple de formulation :
+« Je fais de l'acquisition pour des cabinets d'architecture. C'est mon métier d'aller
+chercher des clients pour les vôtres, et avant de dépenser un euro en publicité je regarde
+toujours cette fiche — parce que c'est le seul levier gratuit qui améliore tous les autres. »
+
+
+### 3. Ce que voit vraiment un client sur son téléphone
+
+À faire comprendre : la scène réelle, qui n'est pas celle qu'il imagine.
+
+Exemple de formulation :
+« Quelqu'un tape "architecte" et le nom de sa ville, sur son téléphone, un dimanche soir.
+Ce qui s'affiche, c'est une liste : un nom, une note, un nombre d'avis, une photo, une
+distance.
+
+Il ne voit pas votre site. Il ne voit pas votre book. Il voit trois lignes, et il compare
+trois noms là-dessus. Votre site arrive en deuxième position dans son parcours — quand il
+y arrive. »
+
+
+### 4. Pourquoi personne ne vous en a parlé
+
+À faire comprendre : que ce n'est pas de la négligence.
+
+Exemple de formulation :
+« Personne ne vous a vendu ça, parce que ça ne se vend pas : c'est gratuit. On vous a
+vendu un site. La fiche, Google l'a créée tout seul à partir de votre SIRET et de données
+publiques, et elle vit sa vie depuis.
+
+Ce n'est pas un oubli de votre part. C'est un canal dont personne n'avait intérêt à vous
+parler. »
+
+
+### 5. L'audit en direct
+
+À faire comprendre : les six points de la grille, appliqués devant lui.
+
+Exemple de formulation :
+« Six points, dans l'ordre d'impact.
+
+Un : la catégorie principale. C'est le plus important et c'est presque toujours faux. Si
+votre fiche est classée "entrepreneur" ou "bureau d'études", vous ne remontez pas quand
+quelqu'un tape "architecte". Vous pouvez avoir cent avis, vous n'êtes pas dans la liste.
+
+Deux : la zone desservie. Sans elle, Google ne sait pas jusqu'où vous vous déplacez.
+
+Trois : les horaires. Une fiche sans horaires passe pour une activité arrêtée.
+
+Quatre : les photos. Pas des rendus — des photos de chantier, de l'équipe, du lieu.
+
+Cinq : les avis, leur nombre et surtout leur fraîcheur. Un avis de 2019 dit que plus
+personne ne parle de vous.
+
+Six : le numéro et le lien vers le site, visibles sans cliquer. »
+
+Version A : écran partagé, cabinet par cabinet, avec accord écrit.
+Version B : la grille appliquée à une fiche d'exercice, entièrement anonymisée.
+
+
+### 6. Les cinq corrections, par ordre d'impact
+
+À faire comprendre : quoi faire en premier, et que c'est rapide.
+
+Exemple de formulation :
+« Dans l'ordre : revendiquer la fiche, corriger la catégorie principale, remplir la zone
+desservie, ajouter trois photos récentes, et demander trois avis.
+
+Les quatre premières prennent une soirée et ne coûtent rien. La cinquième prend deux
+semaines et vous coûtera trois messages un peu gênants à écrire. »
+
+Lien vers la documentation en description :
+https://www.google.com/business/
+
+
+### 7. LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+
+À faire comprendre : que cette fiche multiplie le rendement de tout le reste, et pourquoi
+elle ne suffit pas.
+
+Exemple de formulation :
+« Maintenant, soyons honnêtes sur ce que ça fait et ce que ça ne fait pas.
+
+Une fiche bien remplie ne crée pas de demande. Elle capte ceux qui cherchent déjà — les
+gens qui tapent "architecte" plus le nom de leur ville. C'est précieux, c'est gratuit, et
+c'est limité : dans un département donné, ce volume de recherche est ce qu'il est. Vous ne
+pouvez pas le faire grossir.
+
+Ce que ça change en revanche, c'est le rendement de tout le reste. Quelqu'un qui voit votre
+publicité va chercher votre nom avant d'écrire — c'est systématique. S'il tombe sur une
+fiche vide, vous avez payé ce clic pour rien. Si elle est propre, avec des avis récents,
+vous transformez.
+
+C'est pour ça que je commence toujours par là avant de diffuser quoi que ce soit. La fiche
+Google, c'est le sol. La publicité en ligne, c'est ce qui amène les gens dessus, et c'est
+le seul levier qui permette d'augmenter le nombre de personnes qui vous cherchent, au lieu
+d'attendre celles qui vous cherchent déjà. »
+
+Puis, au nous :
+« Chez Essort, la fiche fait partie de la mise en place, avant la première campagne. Ce
+n'est pas un service qu'on facture à part : c'est qu'on refuse de payer des clics qui
+atterrissent sur une fiche vide. »
+
+Puis le document, enchaîné sans respirer :
+« Les leviers d'acquisition, ce que chacun coûte, dans quel ordre les monter : 57 pages,
+gratuit, lien en description. Pas de carte bancaire, pas d'appel commercial. »
+https://essort.agency/ressources
+
+
+### 8. Sortie
+
+Exemple de formulation :
+« Ce soir : revendiquez votre fiche, et regardez votre catégorie principale. Cette semaine :
+la zone desservie et trois photos. Ce mois-ci : vos trois premiers avis.
+
+Vous saurez que ça marche quand quelqu'un vous dira au téléphone "j'ai vu que vous aviez
+fait la maison de untel" — ça veut dire qu'il a lu vos avis avant d'appeler. »
+
+
+## TITRE ET MINIATURE
+
+Principal, version B : La fiche que Google a créée pour vous sans vous demander
+Principal, version A : J'audite la fiche Google de trois cabinets d'architecture
+Variante : Le premier truc qu'un client voit de vous, et ce n'est pas votre site
+
+Miniature : une fiche Google quasi vide, une étoile grise. Texte « 0 AVIS » en très gros.
+Visage à droite.
+
+
+## DESCRIPTION YOUTUBE
 
 ```
-Objet : Autorisation — audit public de votre fiche Google
+Avant votre site, un maître d'ouvrage voit une fiche Google que vous n'avez souvent jamais
+revendiquée. Nom, note, avis, photo, distance : c'est là-dessus qu'il compare trois
+cabinets, sur son téléphone. Voici la grille en six points et les cinq corrections par
+ordre d'impact.
 
-Bonjour [Prénom],
+Je fais de l'acquisition pour des cabinets d'architecture. C'est le premier levier que je
+regarde, parce que c'est le seul qui est gratuit et qui améliore tous les autres.
 
-Je prépare une vidéo pédagogique sur les fiches Google des cabinets
-d'architecture. Je souhaiterais y analyser la vôtre.
+Les leviers d'acquisition, ce que chacun coûte et dans quel ordre les monter — 57 pages,
+gratuit : https://essort.agency/ressources
 
-Concrètement : captation d'écran de votre fiche publique, commentaire de ce qui
-est bien réglé et de ce qui peut l'être mieux. Aucun jugement sur votre travail,
-vos projets ou vos honoraires — uniquement le paramétrage de la fiche.
+SOURCES
+Google Business Profile : https://www.google.com/business/
 
-La vidéo sera publiée publiquement sur YouTube, sans limite de durée. Vous pouvez
-demander le retrait à tout moment et je la retire.
-
-Si vous êtes d'accord, un simple « oui, j'accepte » en réponse à ce mail me suffit.
-
-[Nom], Essort — essort.agency
-```
-
-## La description YouTube
-
-```
-La fiche Google, c'est ce qu'un client voit de vous avant votre site. Voici la
-grille en 6 points pour l'auditer, et les 5 corrections par ordre d'impact.
-
-📄 Le document gratuit : https://essort.agency/plan-acquisition
-🔗 Aller plus loin : https://essort.agency/blog/trouver-des-clients-architecte
-
-Outil : https://www.google.com/business/
-
-CHAPITRES
-00:00 Trois fiches, la même erreur
-01:00 Sortir en premier sur sa ville
-02:00 La fiche que Google a créée sans vous
-03:30 Ce que voit un client qui compare
-05:00 Le site arrive en deuxième
-06:30 « Demander des avis, ça ne se fait pas »
-08:00 L'audit, en direct
-12:00 Les 5 corrections par ordre d'impact
-14:30 La suite
-
-Essort accompagne les architectes et architectes d'intérieur indépendants ou en
-équipe de 1 à 5 personnes sur leur acquisition de projets.
-Échanger 30 min : https://cal.com/essort/30min
 Instagram : https://instagram.com/essort.architectes
 ```
 
-## Mots-clés
+Mots-clés : fiche Google architecte · Google Business Profile · référencement local
+architecte · avis Google cabinet architecture
 
-`fiche Google architecte` · `Google Business Profile` · `référencement local architecte` ·
-`avis Google artisan` · `SEO local cabinet architecture` · `visibilité locale architecte`
 
-## Garde-fous propres à cet épisode
+## GARDE-FOUS
 
-- ⚠️ **Accord écrit archivé, ou anonymisation totale.** Pas d'entre-deux.
-- ⚠️ **Aucun commentaire sur le travail des cabinets audités.** On parle de paramétrage
-  de fiche, uniquement. **Article 17 du code de déontologie** : pas de comparaison avec
-  un confrère identifié, même implicitement.
-- **Ne pas comparer deux cabinets entre eux à l'écran** — c'est de la publicité
-  comparative. On compare une fiche à une grille, jamais à un confrère.
-- **Ne pas conseiller d'acheter des avis**, ni de les solliciter contre contrepartie :
-  c'est interdit par Google et par le droit de la consommation.
-- En version B, flouter aussi les photos de projets : elles identifient un cabinet.
+Version A uniquement avec un accord écrit de chaque cabinet, mentionnant la diffusion
+publique. Sans les trois accords en main le jour du tournage, c'est la version B.
+Aucun cabinet identifiable en version B : ni nom, ni adresse, ni capture reconnaissable.
+Ne pas faire un tutoriel d'interface : le « où cliquer » va en description.
+Ne jamais dire qu'une bonne fiche remplace une campagne.
+Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.
