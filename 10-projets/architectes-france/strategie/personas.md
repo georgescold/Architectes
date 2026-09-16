@@ -77,13 +77,13 @@ l'accompagnement à 999 €/mois — à qualifier en appel, pas à écarter d'av
 > **Levier :** la légitimité + la peur de la commoditisation.
 
 **Son ennemi** : la conception gratuite des enseignes. Preuve chiffrée dans
-`20-preuves-bibliotheque-pub.md` — Cuisines AvivA diffuse « étude et plan 3D offert »
+`preuves-bibliotheque-publicitaire.md` — Cuisines AvivA diffuse « étude et plan 3D offert »
 **sans interruption depuis 19 mois**.
 
 **C'est le meilleur acheteur du backend** : ce persona sait déjà qu'il faut vendre, il ne
 sait juste pas comment. Zéro travail de conviction préalable.
 
-**Confirmé sur pièces** (`12-benchmark-annonceurs-archi.md`) : Samuel Elbilia, 52 600
+**Confirmé sur pièces** (`benchmark-annonceurs.md`) : Samuel Elbilia, 52 600
 abonnés Instagram, **12 publicités en tout**. L'audience existe, elle ne produit pas de
 conversations projet.
 
@@ -99,8 +99,8 @@ conversations projet.
 > touche ni l'un ni l'autre.
 
 Conséquence opérationnelle : **deux séquences email distinctes**
-(`23-sequence-email-architecte-de.md` et `24-sequence-email-archi-interieur.md`) et
-**deux jeux de créatives** (`22-angles-ads.md`).
+(`emails/architecte-de.md` et `emails/architecte-interieur.md`) et
+**deux jeux de créatives** (`angles-publicitaires.md`).
 
 ---
 

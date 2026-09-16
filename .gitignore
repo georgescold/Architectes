@@ -38,9 +38,12 @@ PROJET-HERITAGE-INTACT/
 # editoriale, et cv2.pyd pese 86 Mo a lui seul.
 _archives-techniques/
 
-# Dossier de travail temporaire. Contient en plus tmp/leadmagnet-final/crm-source/,
-# qui est un depot git a part : `git add -A` l'embarquerait comme gitlink casse.
+# Dossier de travail temporaire et jetable. Aucun livrable valide ne doit y rester.
 tmp/
+
+# Clone CRM de référence : dépôt Git séparé utilisé uniquement pour les captures
+# du lead magnet. L'ignorer évite de créer un gitlink inutilisable dans ce dépôt.
+10-projets/architectes-france/leadmagnet/references/crm-essort/
 
 # Rendus video et audio : 686 Mo pour la VSL source, 286 et 283 Mo pour les
 # montages V11, 106 Mo par piste voix. GitHub REFUSE tout fichier de plus de

@@ -1,6 +1,10 @@
-# VSL Essort — version conservée V11
+# VSL Essort — source et version actuelle
 
 Voir [les livrables V11](v11/LIRE-MOI-V11.md). Durée : 6 min 26,4 s. Les vidéos avec et sans sous-titres, les sous-titres, la voix synchronisée, la couverture et le lecteur sont conservés.
+
+La vidéo originale fournie se trouve dans
+[`source/VSL-originale-fournie.mp4`](source/VSL-originale-fournie.mp4). Le site
+utilise sa propre version web compressée dans son dépôt afin de rester rapide.
 
 Les mentions V1 et ses anciens chemins ne sont plus à utiliser. Les assets, transcriptions et données de sélection conservés documentent la provenance. Les scripts dépendant des anciennes versions absentes ont été retirés.
 

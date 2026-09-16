@@ -126,7 +126,7 @@ d'intérieur` · `usurpation titre architecte` · `réglementation architecture 
   d'intérieur**, même si le corpus le documente abondamment. Ouvrir ce front coûte la
   moitié de l'audience de la chaîne et n'apporte rien.
 - ⚠️ **Ne citer aucun chiffre de population du métier** — non sourçable
-  ([`10-marche-et-cible.md`](../../10-marche-et-cible.md) § 5).
+  ([`marche-et-cible.md`](../../strategie/marche-et-cible.md) § 5).
 - **Ne pas nommer la personne condamnée** dans l'affaire d'usurpation. On cite le fait
   et le lien, on ne fait pas de la reprise de fait divers.
 - **Traiter l'assurance avec précaution.** Beaucoup exercent sans décennale en faisant de

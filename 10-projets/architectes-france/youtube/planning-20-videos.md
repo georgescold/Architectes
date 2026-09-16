@@ -1,8 +1,8 @@
 # 20 vidéos YouTube — architectes & architectes d'intérieur
 
-> Dérivé de [`10-marche-et-cible.md`](10-marche-et-cible.md) (§ 8 vérités refusées,
+> Dérivé de [`marche-et-cible.md`](../strategie/marche-et-cible.md) (§ 8 vérités refusées,
 > § 10 déclencheurs, § 13 paysage YouTube, § 15 interdits) et de
-> [`02-acquisition/youtube.md`](../../02-acquisition/youtube.md) (titres, miniatures,
+> [`02-acquisition/youtube.md`](../../../02-acquisition/youtube.md) (titres, miniatures,
 > hook, biais de négativité, session watch time).
 
 ## Les 6 règles appliquées à chaque idée
@@ -272,7 +272,7 @@ l'autorité préalable.
 - Nommer un confrère ou un cabinet concurrent → art. 17-19.
 - Comparer deux cabinets → publicité comparative, interdite.
 - Citer un nombre d'architectes d'intérieur → le chiffre n'est pas sourçable
-  (cf. `10-marche-et-cible.md` § 5).
+  (cf. `marche-et-cible.md` § 5).
 - Dire « vous êtes mauvais en marketing » → *« on ne vous l'a jamais enseigné »*.
 - Mélanger 🅐 et 🅑 en dehors des trois vidéos à ennemi commun (7, 9, 19, 20).
 - Finir par « allez sur mon site » → l'outro rouvre une tension et renvoie vers une

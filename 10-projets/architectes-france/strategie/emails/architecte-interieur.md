@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | **Déclencheur** | Téléchargement du guide gratuit (opt-in email) |
-| **Audience** | Architecte d'intérieur — persona **P3**. Voir `21-personas.md`. |
+| **Audience** | Architecte d'intérieur — persona **P3**. Voir `personas.md`. |
 | **Ton** | **Tutoiement**, phrases courtes, registre visuel. 30-45 ans, souvent en reconversion. C'est le registre que ce marché emploie déjà entre pairs. |
 | **Ennemi** | **La conception gratuite des enseignes** (cuisinistes, grandes surfaces), puis les plateformes. ⚠️ **Jamais le constructeur de maisons** — ce n'est pas son ennemi. |
 | **Durée** | 7 jours · 1 email/jour, **3 le dernier jour** (16 h / 20 h / 21 h) |
@@ -22,7 +22,7 @@
 > (identitaire, bloquant) vers « je ne suis pas assez visible » (mécanique, réparable).
 >
 > Aucun résultat client inventé, aucune statistique de rareté fabriquée. La preuve vient
-> de la bibliothèque publicitaire Meta (`20-preuves-bibliotheque-pub.md`).
+> de la bibliothèque publicitaire Meta (`preuves-bibliotheque-publicitaire.md`).
 
 ---
 

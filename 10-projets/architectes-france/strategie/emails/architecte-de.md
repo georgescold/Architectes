@@ -10,7 +10,7 @@
 | | |
 |---|---|
 | **Déclencheur** | Téléchargement du guide gratuit (opt-in email) |
-| **Audience** | Architecte DE — personas **P1** (libéral installé) et **P2** (jeune installé). Voir `21-personas.md`. |
+| **Audience** | Architecte DE — personas **P1** (libéral installé) et **P2** (jeune installé). Voir `personas.md`. |
 | **Ton** | **Vouvoiement.** P1 a 48-62 ans et fuit le vocabulaire growth, les emojis et le tutoiement. |
 | **Ennemi** | Le constructeur de maisons individuelles, puis la plateforme de mise en relation |
 | **Durée** | 7 jours · 1 email/jour, **3 le dernier jour** (16 h / 20 h / 21 h) |
@@ -21,7 +21,7 @@
 > ⚠️ **Règles de fond** — aucun résultat client inventé, aucune statistique de rareté
 > fabriquée (`cible-avatar.md`). Toute la preuve de cette séquence vient de la
 > **bibliothèque publicitaire Meta**, vérifiable par le lecteur lui-même
-> (`20-preuves-bibliotheque-pub.md`). Ne jamais écrire que nous débutons, ni parler de
+> (`preuves-bibliotheque-publicitaire.md`). Ne jamais écrire que nous débutons, ni parler de
 > cabinet pilote.
 
 ---
@@ -264,7 +264,7 @@
 ## Ce qu'il reste à faire avant envoi
 
 - [ ] **Recapturer les chiffres** du J5 le jour de l'envoi (ils bougent) et intégrer la
-      capture datée. Procédure dans `20-preuves-bibliotheque-pub.md`.
+      capture datée. Procédure dans `preuves-bibliotheque-publicitaire.md`.
 - [ ] Fixer le prénom de l'expéditeur et le paramétrage DNS — **sans délivrabilité,
       le reste ne sert à rien** (`03-marketing-copy/emailing.md`).
 - [ ] Décider si une **urgence de capacité** est ajoutée en J6/J7. Si oui : un nombre de

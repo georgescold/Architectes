@@ -5,7 +5,7 @@
 > arguments de vente. Les chiffres ci-dessous ne doivent pas être transformés en
 > statistiques de rareté dans le guide (cf. `cible-avatar.md`, § *Manière de parler*).
 >
-> Complète `10-marche-et-cible.md` : celui-là décrit la demande (ce que vivent les
+> Complète `marche-et-cible.md` : celui-là décrit la demande (ce que vivent les
 > cabinets), celui-ci décrit l'offre publicitaire réellement diffusée sur Meta.
 
 ## Méthode — reproductible en 10 minutes

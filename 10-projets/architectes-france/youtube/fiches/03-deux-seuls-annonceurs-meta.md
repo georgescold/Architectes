@@ -10,7 +10,7 @@
 | **Production** | ★★☆ — 100 % capture d'écran, aucun accord requis, tout est public |
 
 > **Ta donnée exclusive.** Le relevé de la bibliothèque publicitaire Meta est dans
-> [`12-benchmark-annonceurs-archi.md`](../../12-benchmark-annonceurs-archi.md). Personne
+> [`benchmark-annonceurs.md`](../../strategie/benchmark-annonceurs.md). Personne
 > d'autre ne l'a compilé. C'est la vidéo la plus difficile à contester de la chaîne :
 > le spectateur peut refaire la manipulation en dix minutes pendant qu'il te regarde.
 
@@ -65,7 +65,7 @@ ou `site/frontend/build/blog/bibliotheque-publicitaire.svg`
 | Moment | Lien |
 |---|---|
 | 00:30, 08:00 | [Bibliothèque publicitaire Meta — France](https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=FR&media_type=all) |
-| 10:00 | Gabarit d'URL par annonceur — voir [`12-benchmark-annonceurs-archi.md`](../../12-benchmark-annonceurs-archi.md) § 5 pour les ID de page |
+| 10:00 | Gabarit d'URL par annonceur — voir [`benchmark-annonceurs.md`](../../strategie/benchmark-annonceurs.md) § 5 pour les ID de page |
 | 13:00 | <https://essort.agency/plan-acquisition> |
 | Description | [Blog — bibliothèque publicitaire Meta architecte](https://essort.agency/blog/bibliotheque-publicitaire-meta-architecte) |
 

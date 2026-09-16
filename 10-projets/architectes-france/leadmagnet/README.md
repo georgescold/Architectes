@@ -1,9 +1,14 @@
-# Lead magnet — version conservée
+# Lead magnet — version actuelle
 
-**Le guide d’acquisition et de marketing pour architectes et architectes d’intérieur — 2026.**
+**Le guide d’acquisition et de marketing pour architectes et architectes
+d’intérieur — 2026.**
 
-- [PDF final — 57 pages](../../../output/pdf/Essort-Guide-acquisition-et-marketing-architectes-2026.pdf).
-- `texte-reference.txt` : texte extrait du PDF final pour retrouver les contenus ; ce n’est pas le fichier de composition.
-- La page sur les premières preuves sans réalisations est conservée. La page répétitive sur le déroulement de l’accompagnement a été supprimée. Les offres restent en dernière page.
+- [`guide-acquisition-marketing-architectes-2026.pdf`](guide-acquisition-marketing-architectes-2026.pdf) : PDF final de 57 pages.
+- [`tierlist-acquisition-architectes-2026.png`](tierlist-acquisition-architectes-2026.png) : tier list utilisée dans la conclusion.
+- `texte-reference.txt` : texte extrait du PDF pour rechercher rapidement un passage ; ce n’est pas le fichier de composition.
+- [`references/crm-notes.md`](references/crm-notes.md) : vérifications et limites de la démonstration CRM.
+- `references/crm-essort/` : clone local du CRM utilisé pour préparer les captures du guide ; dépôt Git séparé, non intégré à la base principale.
 
-Le dossier source `guide-2026/` n’était plus présent lors du nettoyage. La dernière modification a été appliquée directement au PDF. Les anciens scripts temporaires qui le cherchaient ont été retirés : ils ne permettaient plus de régénérer cette version. Conserver le PDF comme référence visuelle et éditoriale ; une future refonte nécessitera de reconstituer une source de mise en page.
+Le dossier source de mise en page n’était plus présent lors du dernier nettoyage.
+Le PDF constitue donc la référence visuelle et éditoriale. Une prochaine refonte
+devra recréer une source de composition avant de produire une nouvelle version.

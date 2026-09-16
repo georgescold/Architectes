@@ -74,7 +74,7 @@ la même formule. Noms floutés. Ton visage en petit, incrédule.
 
 | Moment | Lien |
 |---|---|
-| 08:00 | Les 4 profils détaillés : [`10-marche-et-cible.md`](../../10-marche-et-cible.md) § 6 |
+| 08:00 | Les 4 profils détaillés : [`marche-et-cible.md`](../../strategie/marche-et-cible.md) § 6 |
 | 10:00 | [Blog — trouver des clients architecte](https://essort.agency/blog/trouver-des-clients-architecte) |
 | 12:00 | <https://essort.agency/plan-acquisition> |
 

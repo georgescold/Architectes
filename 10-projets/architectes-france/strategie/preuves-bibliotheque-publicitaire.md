@@ -5,7 +5,7 @@
 > autres sont reportées du relevé initial et restent **à revérifier avant usage public**.
 >
 > Ce fichier documente **ceux qui prennent les projets des architectes**. Son pendant est
-> `12-benchmark-annonceurs-archi.md`, qui documente les confrères qui annoncent.
+> `benchmark-annonceurs.md`, qui documente les confrères qui annoncent.
 >
 > Lien vers une publicité précise : `https://www.facebook.com/ads/library/?id=<ID>`
 > (fonctionne encore quand la publicité est devenue inactive).
@@ -115,7 +115,7 @@ juste est : *« leurs noms sont dans des dizaines de publicités payées par d'a
 | Argument archi DE | Maisons HCC : **18 mois de diffusion sans coupure**. Ils ne construisent pas mieux, ils sont visibles plus longtemps. |
 | Argument archi d'intérieur | Cuisines AvivA : **19 mois**, « étude et plan 3D offert », financement à 99 €/mois |
 | Argument anti-plateforme | hemea : **120 publicités actives**, qui promet « budget, délais et entreprises verrouillés » — c'est-à-dire la mission de l'architecte, vendue par un tiers |
-| Preuve que ça marche pour un cabinet | → `12-benchmark-annonceurs-archi.md` (L.Decor, Berkail) |
+| Preuve que ça marche pour un cabinet | → `benchmark-annonceurs.md` (L.Decor, Berkail) |
 
 **Règle** : ne jamais citer un chiffre sans la capture datée correspondante. Les compteurs
 de la bibliothèque bougent de semaine en semaine — « 130 » est vrai le 16/09/2026, pas

@@ -37,9 +37,9 @@
 | Outil | Usage | Lien | État |
 |---|---|---|---|
 | **Bibliothèque publicitaire Meta — France** | La démonstration centrale de l'épisode 03 | [facebook.com/ads/library](https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=FR&media_type=all) | bloque les robots |
-| Historique complet d'un annonceur | Remplacer `<ID>` par l'ID de page (tableau § 5 du [benchmark](../12-benchmark-annonceurs-archi.md)) | `https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=FR&view_all_page_id=<ID>&search_type=page&media_type=all` | — |
+| Historique complet d'un annonceur | Remplacer `<ID>` par l'ID de page (tableau § 5 du [benchmark](../strategie/benchmark-annonceurs.md)) | `https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=FR&view_all_page_id=<ID>&search_type=page&media_type=all` | — |
 | Google Business Profile | L'outil que les cabinets doivent revendiquer | [google.com/business](https://www.google.com/business/) | 200 |
-| **Notre benchmark annonceurs** | Les ID de page, l'ancienneté, les faux amis | [`12-benchmark-annonceurs-archi.md`](../12-benchmark-annonceurs-archi.md) | local |
+| **Notre benchmark annonceurs** | Les ID de page, l'ancienneté, les faux amis | [`benchmark-annonceurs.md`](../strategie/benchmark-annonceurs.md) | local |
 | **Notre corpus Reddit** | 3 778 messages, verbatims classés par thème | [`recherche/`](../recherche/README.md) | local |
 
 ## 4. La presse — à citer, pas à recopier
@@ -125,8 +125,8 @@ de description** : c'est le seul endroit où un lien sortant ne coûte pas de wa
 ## 8. Les chiffres à ne jamais citer
 
 - **Le nombre d'architectes d'intérieur en France** — non sourçable.
-  Cf. [`10-marche-et-cible.md`](../10-marche-et-cible.md) § 5.
+  Cf. [`marche-et-cible.md`](../strategie/marche-et-cible.md) § 5.
 - **Tout résultat client Essort** tant qu'il n'est pas documenté et autorisé.
 - **Toute statistique de rareté** fabriquée (« il ne reste que X places »).
 - **L'exclusivité départementale** — retirée des engagements publics par
-  [`offre-actuelle.md`](../offre-actuelle.md).
+  [`offre-actuelle.md`](../strategie/offre-actuelle.md).

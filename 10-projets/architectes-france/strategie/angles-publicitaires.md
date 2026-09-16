@@ -2,8 +2,8 @@
 
 > **Reconstruit le 16 septembre 2026.** L'ancien `02-angles-ads.md` a été supprimé lors
 > de la restructuration et n'a **pas** pu être récupéré : ce fichier est une reconstruction
-> à partir du positionnement, des personas (`21-personas.md`) et des preuves
-> (`20-preuves-bibliotheque-pub.md`, `12-benchmark-annonceurs-archi.md`), pas une restitution.
+> à partir du positionnement, des personas (`personas.md`) et des preuves
+> (`preuves-bibliotheque-publicitaire.md`, `benchmark-annonceurs.md`), pas une restitution.
 >
 > Destination de tous les angles : **le guide gratuit**, puis la séquence email
 > (`23-`, `24-`), puis l'appel. Jamais l'offre en direct.
@@ -43,7 +43,7 @@ quand tu es architecte » — il est déjà occupé) :
 
 ## 2. Les règles de production
 
-1. **Un angle = un persona.** Jamais P1/P2 et P3 dans la même créative (`21-personas.md` § 5).
+1. **Un angle = un persona.** Jamais P1/P2 et P3 dans la même créative (`personas.md` § 5).
 2. **Un angle = un levier CEO**, pas cinq. La créative ouvre un seul tiroir.
 3. **Le ciblage se fait par la créative**, pas par les intérêts. Le premier mot doit
    disqualifier 99 % du monde : *« Si vous êtes architecte DE… »*.
@@ -163,7 +163,7 @@ explique comment.
 > **Hook :** « Un avant/après. 20 € derrière. Un cabinet du Morbihan fait ça depuis
 > décembre 2024, sans discontinuer. »
 
-Le modèle L.Decor documenté dans `12-benchmark-annonceurs-archi.md`. Angle « premier pas »,
+Le modèle L.Decor documenté dans `benchmark-annonceurs.md`. Angle « premier pas »,
 très peu intimidant — bon pour l'entrée de funnel.
 
 ### B6 — « Votre client n'est pas le même à Lille et à Aix »

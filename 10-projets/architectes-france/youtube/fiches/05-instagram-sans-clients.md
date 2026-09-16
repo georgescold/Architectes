@@ -113,5 +113,5 @@ d'intérieur clients` · `Meta Ads décoration`
   maquettes, les assets du site, ou les banques d'images libres.
 - **Ne pas annoncer de nombre d'architectes d'intérieur en France** — non sourçable.
 - Le chiffre « 52 600 abonnés / 12 publicités » vient du relevé du 16/09/2026
-  ([`12-benchmark-annonceurs-archi.md`](../../12-benchmark-annonceurs-archi.md)) :
+  ([`benchmark-annonceurs.md`](../../strategie/benchmark-annonceurs.md)) :
   **le redater à l'oral**, et ne pas nommer le compte.

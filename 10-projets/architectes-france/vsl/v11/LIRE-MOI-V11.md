@@ -11,4 +11,5 @@ Durée : 6 min 26,400 s. La piste contient uniquement la voix, sans bruitage ni 
 - `Apercu_raccord.mp4` : extrait du raccord corrigé.
 - `lecteur-essort.html` : lecteur avec la photo de couverture.
 
-Le site Essort en ligne n’a pas été modifié.
+Le site Essort utilise désormais une version web compressée de cette VSL et sa
+miniature dédiée. Les fichiers de ce dossier restent les masters de production.

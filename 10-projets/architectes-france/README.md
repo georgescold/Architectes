@@ -1,42 +1,45 @@
-# Essort — références actuelles
+# Essort Architectes — point d’entrée du projet
 
-Mise à jour du 16 septembre 2026. Ce dossier est le point d’entrée du projet. Les décisions ci-dessous remplacent les anciens essais d’offre et de lead magnet.
+Ce dossier regroupe tout le travail destiné aux architectes et architectes
+d’intérieur indépendants ou en petites équipes de 1 à 5 personnes.
 
-## À utiliser
+## Où trouver quoi
 
-| Besoin | Référence |
+| Dossier | Contenu actif |
 |---|---|
-| Guide gratuit final, 57 pages | [PDF actuel](../../output/pdf/Essort-Guide-acquisition-et-marketing-architectes-2026.pdf) |
-| Texte du guide et état des sources | [Lead magnet](leadmagnet/README.md) |
-| Offre commerciale actuelle | [Offre Essort](offre-actuelle.md) |
-| Le site (dépôt séparé) | [Carte du site](site.md) |
-| Cible, difficultés et messages | [Cible et avatar](cible-avatar.md) |
-| Recherche marché détaillée | [Marché et cible](10-marche-et-cible.md) |
-| Qui fait de la pub sur le marché | [Benchmark annonceurs](12-benchmark-annonceurs-archi.md) |
-| Preuves publicitaires (les ennemis) | [Bibliothèque publicitaire](20-preuves-bibliotheque-pub.md) |
-| Personas détaillés (document de travail) | [Les 3 personas](21-personas.md) |
-| Angles publicitaires | [Angles ads](22-angles-ads.md) |
-| Séquence email — architecte DE | [Séquence 7 jours](23-sequence-email-architecte-de.md) |
-| Séquence email — architecte d'intérieur | [Séquence 7 jours](24-sequence-email-archi-interieur.md) |
-| Sources de recherche | [Corpus et verbatims](recherche/README.md) |
-| Montage VSL conservé | [VSL V11](../../output/vsl-essort/v11/LIRE-MOI-V11.md) |
-| Vidéo fournie par le fondateur | [VSL source](../../VSL%20finale%20archi%20.mp4) |
-| Classement des leviers du guide | [Tier list](../../output/images/Essort-tierlist-acquisition-architectes-2026.png) |
+| [`strategie/`](strategie/) | Offre actuelle, cible, marché, personas, preuves, angles publicitaires et emails |
+| [`recherche/`](recherche/) | Corpus Reddit, verbatims et matériaux de recherche |
+| [`youtube/`](youtube/) | Plan de production, 20 fiches source et 20 PDF prêts pour le tournage |
+| [`leadmagnet/`](leadmagnet/) | Guide final, tier list, texte de référence et démonstration CRM |
+| [`vsl/`](vsl/) | Source originale, montage V11, sous-titres, couverture et fichiers de production |
+| [`site/`](site/) | Dépôt Git séparé du site Essort |
+
+La carte technique du site reste dans [`site.md`](site.md).
+
+## Références à utiliser
+
+| Besoin | Fichier |
+|---|---|
+| Offre commerciale actuelle | [`strategie/offre-actuelle.md`](strategie/offre-actuelle.md) |
+| Cible et manière de lui parler | [`strategie/cible-avatar.md`](strategie/cible-avatar.md) |
+| Analyse détaillée du marché | [`strategie/marche-et-cible.md`](strategie/marche-et-cible.md) |
+| Guide gratuit final | [`leadmagnet/guide-acquisition-marketing-architectes-2026.pdf`](leadmagnet/guide-acquisition-marketing-architectes-2026.pdf) |
+| État et sources du guide | [`leadmagnet/README.md`](leadmagnet/README.md) |
+| VSL actuelle et livrables | [`vsl/README.md`](vsl/README.md) |
+| Vidéos YouTube préparées | [`youtube/README.md`](youtube/README.md) |
 
 ## Ligne directrice
 
-Architectes et architectes d’intérieur indépendants ou équipes de 1 à 5 personnes. Le guide explique simplement les leviers, leurs bénéfices, leurs cas d’usage et leurs erreurs : il ne déroule pas les clics des interfaces. Visuels utiles, fond blanc, CTA chaleureux aux moments pertinents. La tier list précède les outils et le plan d’action ; les offres concluent le guide.
+Le guide explique simplement les leviers, leurs bénéfices, leurs cas d’usage et
+leurs erreurs, sans dérouler tous les clics des interfaces. Les visuels doivent
+être utiles, le fond blanc, et les CTA chaleureux aux moments où le lecteur peut
+se sentir dépassé. La tier list précède les outils et le plan d’action ; les
+offres concluent le guide.
 
-Les vidéos pédagogiques sont encore à tourner pour la chaîne « Essort Architectes ». Le guide reste gratuit, avec publication et partage interdits sans autorisation. Aucune publication externe n’est effectuée par ce nettoyage.
+Le guide reste gratuit, avec publication et partage interdits sans autorisation.
+Les vidéos pédagogiques de la chaîne « Essort Architectes » sont préparées mais
+pas encore tournées.
 
-## Fichiers techniques conservés
-
-- Les assets, transcriptions et fichiers de sélection VSL conservent la provenance du montage. La V11 est la version à visionner ; les anciens scripts dépendaient de versions intermédiaires déjà absentes.
-- `tmp/leadmagnet-final/crm-source/` contient une démonstration CRM avec des modifications locales : elle est conservée, avec ses dépendances. Ce n’est pas une ancienne version du guide.
-- La base Valère et ses sources restent disponibles à la racine pour le travail de copywriting.
-
-La recherche marché constitue un document de travail : ses profils sont des hypothèses à confronter aux échanges clients. Pour le prix, le périmètre et les engagements, utiliser `offre-actuelle.md`.
-
-## Nettoyage réalisé
-
-Les anciens brouillons, scripts devenus inutilisables, exports de contrôle et fichiers intermédiaires sont isolés dans [`_archives-techniques/`](../../_archives-techniques/README.md). Leur suppression définitive n’a pas été effectuée : le contrôle automatique l’a refusée pour préserver les sources potentiellement utiles. Ils ne font plus partie des références de travail.
+Le dossier temporaire `tmp/` n’est jamais un espace de conservation : il peut
+être recréé pour un contrôle ponctuel, puis supprimé. Les livrables validés
+doivent toujours revenir dans l’un des six dossiers ci-dessus.

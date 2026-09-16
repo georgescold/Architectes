@@ -16,10 +16,10 @@ youtube/
 └── pdf/                   ← les 20 PDF prêts à imprimer / lire au tournage
 ```
 
-Documents de cadrage : [`offre-actuelle.md`](../offre-actuelle.md) ·
-[`cible-avatar.md`](../cible-avatar.md) · [`10-marche-et-cible.md`](../10-marche-et-cible.md) ·
-[`12-benchmark-annonceurs-archi.md`](../12-benchmark-annonceurs-archi.md) ·
-[`13-youtube-titres-chapitrages.md`](../13-youtube-titres-chapitrages.md) (les 20 sujets,
+Documents de cadrage : [`offre-actuelle.md`](../strategie/offre-actuelle.md) ·
+[`cible-avatar.md`](../strategie/cible-avatar.md) · [`marche-et-cible.md`](../strategie/marche-et-cible.md) ·
+[`benchmark-annonceurs.md`](../strategie/benchmark-annonceurs.md) ·
+[`titres-et-chapitrages.md`](titres-et-chapitrages.md) (les 20 sujets,
 version courte) · [`structure-ceo.md`](../../../03-marketing-copy/structure-ceo.md) ·
 [`youtube.md`](../../../02-acquisition/youtube.md).
 
@@ -123,8 +123,8 @@ l'intro dynamique suivie d'un corps plat. Une open loop toutes les ~3 minutes.
 | « Comme je disais dans ma dernière vidéo » | **À zéro abonné, tu disqualifies 100 % des spectateurs** |
 | Un CTA vers le site à la fin | Fait sortir de YouTube, coûte du watch time |
 | Nommer un confrère négativement, comparer deux cabinets | Articles 17 à 19 du code de déontologie |
-| Citer un résultat client non documenté | [`cible-avatar.md`](../cible-avatar.md) |
-| Dire « 1 000 € » | C'est **999 €** — [`offre-actuelle.md`](../offre-actuelle.md) |
+| Citer un résultat client non documenté | [`cible-avatar.md`](../strategie/cible-avatar.md) |
+| Dire « 1 000 € » | C'est **999 €** — [`offre-actuelle.md`](../strategie/offre-actuelle.md) |
 | Promettre l'exclusivité départementale | Retirée des engagements publics |
 | Annoncer un nombre d'architectes d'intérieur | Non sourçable |
 | Une vanne de type « même avec 60 de QI » | Chez un architecte dont le confrère vient d'être liquidé, ça passe pour de la moquerie |
