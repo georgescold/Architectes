@@ -7,15 +7,13 @@ Controle systematique des fiches video.
     python verifier.py 03 07      # seulement ces episodes
 
 Cherche les erreurs connues, les affirmations non sourcees, les ruptures de
-posture et les sections manquantes. Ne remplace pas la relecture : signale ce
-qui merite un coup d'oeil.
+posture, les redites et les sections manquantes.
 
 Les regles viennent de connaissance-metier.md. En cas de contradiction entre
 une fiche et ce document, c'est la fiche qui a tort.
 
-Deux niveaux :
     ERREUR  -> faux ou interdit, a corriger avant tournage
-    DOUTE   -> probablement un probleme, a verifier a l'oeil
+    doute   -> probablement un probleme, a verifier a l'oeil
 """
 import os, re, sys, io
 
@@ -27,9 +25,8 @@ FICHES = os.path.join(ROOT, "fiches")
 
 # Une occurrence precedee d'une de ces tournures est une CONSIGNE, pas une faute.
 NEGATIONS = re.compile(
-    r"(jamais|ne\s+dis\b|ne\s+pas\b|interdit|c'est\s+faux|ne\s+jamais|"
-    r"erreur|proscri|banni|surtout\s+pas|eviter|évite|ne\s+concerne\s+pas|"
-    r"ne\s+s'applique\s+pas|a\s+ne\s+plus)",
+    r"(jamais|ne\s+dis\b|ne\s+pas\b|interdit|c'est\s+faux|erreur|proscri|banni|"
+    r"surtout\s+pas|eviter|évite|ne\s+concerne\s+pas|ne\s+s'applique\s+pas|a\s+ne\s+plus)",
     re.I,
 )
 
@@ -54,28 +51,30 @@ DOUTES = [
                         "d'interieur : verifier l'audience de l'episode"),
     (r"Archigraphie", "verifier que l'annee des donnees est annoncee : "
                       "revenus 2022, effectifs 2023"),
-    (r"nos\s+clients\s+ont|un\s+cabinet\s+a\s+(?:obtenu|sign[ée])|résultats?\s+obtenus?",
+    (r"nos\s+clients\s+ont|un\s+cabinet\s+a\s+(?:obtenu|sign[ée])",
      "aucun resultat client tant qu'il n'est pas documente et autorise"),
 ]
 
 SECTIONS = [
-    ("## CE QUE LE SPECTATEUR APPREND", "ce que le spectateur apprend"),
-    ("## LES FAITS VÉRIFIÉS", "la liste des faits verifies avec sources"),
-    ("## ORDRE CHRONOLOGIQUE", "le deroule chronologique"),
+    ("## AVANT DE TOURNER", "ce que tu dois savoir hors camera"),
+    ("## LE PIÈGE", "le piege ou l'on se fait reprendre"),
+    ("## LES OBJECTIONS", "les objections previsibles et leurs reponses"),
+    ("## LE DÉROULÉ", "le deroule par chapitre"),
     ("## GARDE-FOUS", "les garde-fous de l'episode"),
 ]
 
-MOMENTS = [
-    (r"ANCRAGE ESSORT", "moment Essort 1, l'ancrage dans l'intro"),
-    (r"PREUVE D'USAGE ESSORT|preuve d'usage Essort", "moment Essort 2, la preuve d'usage"),
-    (r"LE PITCH", "moment Essort 3, le pitch aux deux tiers"),
+OBLIGATOIRES = [
+    (r"BLOC ACQUISITION", "le bloc acquisition, obligatoire dans chaque episode"),
+    (r"publicit[ée] en ligne", "la phrase qui designe la publicite en ligne comme levier"),
+    (r"essort\.agency/ressources", "le lien vers le document gratuit"),
 ]
 
-# Nombres qui n'ont pas besoin d'etre sources a cote : annees, numeros de
-# formulaire, numeros d'article, timecodes, seuils ERP deja documentes.
-NEUTRES = re.compile(
-    r"^(?:19|20)\d\d$|^13824$|^13404$|^431$|^121$|^132$|^10$|^17$|^19$|^13$|^32$"
-)
+# Nombres qui n'ont pas besoin d'un lien a cote : annees, numeros de formulaire,
+# numeros d'article.
+NEUTRES = re.compile(r"^(?:19|20)\d\d$|^13824$|^13404$|^431$|^121$|^132$")
+
+SEPARATEUR = re.compile(r"(?<=[.!?])\s+|[\r\n]+")
+TIMECODE = re.compile(r"^\d\d:\d\d\s*[—-]", re.M)
 
 
 def contexte(t, pos, avant=140, apres=90):
@@ -85,8 +84,7 @@ def contexte(t, pos, avant=140, apres=90):
 def chiffres_sans_source(texte):
     """Un chiffre marquant doit avoir un lien dans la meme section."""
     suspects = []
-    sections = re.split(r"\n(?=#{2,3}\s|\d\d:\d\d\s—)", texte)
-    for s in sections:
+    for s in re.split(r"\n(?=#{2,3}\s)", texte):
         if "http" in s:
             continue
         titre = s.strip().split("\n")[0][:70]
@@ -99,36 +97,53 @@ def chiffres_sans_source(texte):
     return suspects
 
 
+def repetitions(texte):
+    """Deux phrases identiques dans la meme fiche = redite a supprimer."""
+    corps = re.sub(r"```.*?```", "", texte, flags=re.S)
+    vues, doublons = set(), []
+    for ph in SEPARATEUR.split(corps):
+        ph = re.sub(r"\s+", " ", ph).strip()
+        if len(ph) < 60 or ph.startswith("http"):
+            continue
+        cle = ph.lower()
+        if cle in vues:
+            doublons.append(ph[:80])
+        vues.add(cle)
+    return doublons
+
+
 def verifier(chemin):
     nom = os.path.basename(chemin)
     t = io.open(chemin, encoding="utf-8").read()
-    pbs = {"ERREUR": [], "DOUTE": []}
+    pbs = {"ERREUR": [], "doute": []}
 
     for motif, message in ERREURS:
         for m in re.finditer(motif, t, re.I):
             ctx = contexte(t, m.start())
             if NEGATIONS.search(ctx):
-                continue  # c'est une consigne, pas une faute
+                continue
             pbs["ERREUR"].append("%s\n              ...%s..." % (message, ctx[:150]))
 
     for motif, message in DOUTES:
         if re.search(motif, t, re.I):
-            pbs["DOUTE"].append(message)
+            pbs["doute"].append(message)
 
     for marqueur, message in SECTIONS:
         if marqueur not in t:
             pbs["ERREUR"].append("section absente : " + message)
 
-    for motif, message in MOMENTS:
+    for motif, message in OBLIGATOIRES:
         if not re.search(motif, t):
-            pbs["DOUTE"].append("absent : " + message)
+            pbs["ERREUR"].append("absent : " + message)
 
     for val, titre in chiffres_sans_source(t)[:4]:
-        pbs["DOUTE"].append("« %s » sans lien dans sa section (%s)" % (val, titre))
+        pbs["doute"].append("« %s » sans lien dans sa section (%s)" % (val, titre))
 
-    m = re.search(r"Dur[ée]e\s+(\d+)[-–](\d+)\s*min", t)
-    if m and int(m.group(1)) < 10:
-        pbs["DOUTE"].append("duree annoncee sous 10 min, la cible est 10-15")
+    for d in repetitions(t)[:3]:
+        pbs["doute"].append("phrase repetee : « %s… »" % d)
+
+    if TIMECODE.search(t):
+        pbs["doute"].append("timecodes presents : le format n'en veut plus")
 
     return nom, pbs
 
@@ -139,29 +154,28 @@ def main():
     if args:
         fichiers = [f for f in fichiers if f[:2] in args]
 
-    n_err = n_dou = 0
-    prets = []
+    n_err = n_dou = n_prets = 0
     print()
     for f in fichiers:
         nom, pbs = verifier(os.path.join(FICHES, f))
-        e, d = len(pbs["ERREUR"]), len(pbs["DOUTE"])
+        e, d = len(pbs["ERREUR"]), len(pbs["doute"])
         n_err += e
         n_dou += d
         if e == 0 and d == 0:
-            prets.append(nom)
+            n_prets += 1
             print("%-46s pret" % nom)
             continue
         print("%-46s %d erreur(s), %d doute(s)" % (nom, e, d))
         for p in pbs["ERREUR"]:
             print("   ERREUR   %s" % p)
-        for p in pbs["DOUTE"]:
+        for p in pbs["doute"]:
             print("   doute    %s" % p)
         print()
 
     print("%d fiche(s) — %d erreur(s), %d doute(s), %d prete(s)"
-          % (len(fichiers), n_err, n_dou, len(prets)))
-    print("Regles : connaissance-metier.md. Si une fiche le contredit, c'est la fiche")
-    print("qui a tort.\n")
+          % (len(fichiers), n_err, n_dou, n_prets))
+    print("Regles : connaissance-metier.md. Si une fiche le contredit, c'est la")
+    print("fiche qui a tort.\n")
     return 1 if n_err else 0
 
 
