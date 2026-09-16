@@ -1,327 +1,196 @@
 # EP02 — La moitié des architectes gagnent moins que ça
 
-Épisode 02/20 · semaine 2
-Famille CONSTAT · Audience : architecte DE et architecte d'intérieur · Durée 13-15 min
-Production : tournable seul, mais il faut manier le PDF à l'écran
+Épisode 02/20 · CONSTAT · architecte DE et architecte d'intérieur · 13-15 min
+Vidéo de recherche : on la trouve en tapant « salaire architecte », donc elle marche sans
+abonnés.
 
 
-## CE QUE LE SPECTATEUR APPREND
+## AVANT DE TOURNER — ce que tu dois savoir et que tu ne diras pas
 
-Que l'écart de revenus à l'intérieur de la profession se creuse, et de combien
-exactement : le rapport entre le quart du haut et le quart du bas est passé de 4,2 à 4,5
-en trois ans. Donc que ce qu'il vit n'est pas « la conjoncture », puisqu'une conjoncture
-frapperait les deux extrémités de la même façon.
-
-Il apprend aussi à situer son propre revenu dans une distribution officielle qu'il n'a
-jamais ouverte.
-
-
-## CE QU'ON NE REDIT PAS ICI
-
-Cet épisode possède les revenus et les quartiles. Personne d'autre ne remontre le
-graphique 19.
-
-- La part des architectes dans la maison individuelle → EP04
-- Les volumes de construction → EP16
-- L'origine du chiffre d'affaires → EP20
-- Le droit de faire de la publicité → EP07, cité en une phrase ici, jamais démontré
-
-
-## LA BIG IDEA
-
-Tout le monde dans la profession explique la difficulté par la conjoncture. C'est
-rassurant, parce que ça veut dire qu'il n'y a rien à faire d'autre qu'attendre.
-
-Les chiffres de la CIPAV, publiés par l'Ordre, disent autre chose. Entre 2019 et 2022, le
-seuil du premier quartile a baissé de 10 %, pendant que le troisième quartile montait. Le
-rapport entre les deux est passé de 4,2 à 4,5. Ce n'est pas le profil d'une crise, qui
-tire tout le monde vers le bas. C'est le profil d'un écartement.
-
-Et il y a une deuxième information dans le document, plus dérangeante : le revenu moyen
-culmine entre 55 et 64 ans, avec près de 29 000 euros d'écart avec les moins de 35 ans.
-Autrement dit, la seule méthode connue pour bien gagner sa vie dans ce métier demande
-trente ans de carrière. La question de la vidéo devient : est-ce qu'il en existe une
-autre.
-
-
-## LES FAITS VÉRIFIÉS — source ouverte et lue le 16 septembre 2026
-
-Document : Archigraphie 2024-2026, publié par le Conseil national de l'Ordre des
-architectes. 83 pages.
+Le document s'appelle Archigraphie 2024-2026, il est publié par le Conseil national de
+l'Ordre et fait 83 pages. Les revenus qu'il contient datent de 2022, les effectifs de
+2023 — ce sont les derniers états publiés, et tu dois l'annoncer dès la première minute,
+sinon un spectateur qui ouvre le PDF trouve l'écart et tu perds la vidéo.
 https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
-Page d'atterrissage officielle, à montrer avant d'ouvrir le PDF :
-https://www.architectes.org/thematique/politique-institution/chiffres-de-la-profession
+Les données viennent de la CIPAV, leur caisse de retraite, sur le champ des libéraux et
+associés non salariés. Ce n'est donc ni un sondage ni une estimation de l'Ordre.
 
-1. Graphique 19, page 32. Titre exact : « Évolution des seuils revenus par quartile entre
-   2006 et 2022 des cotisants à la CIPAV ».
-   Source indiquée : CIPAV, revenus des professionnels libéraux et associés non salariés,
-   champ hors salariés.
+Erreur à ne pas reproduire : 39 570 euros n'est pas un pic de carrière, c'est le revenu
+moyen des 65 ans et plus en 2022, en baisse. Le vrai sommet est à 57 277 euros chez les
+55-64 ans.
 
-   Phrase à afficher telle quelle :
-   « La moitié des architectes ont un revenu annuel supérieur à 32 983 euros en 2022. »
 
-   Phrase à afficher telle quelle :
-   « En-dessous du premier quartile, le revenu annuel est inférieur à 13 342 euros en
-   2022 et est en baisse par rapport au pic de 2020. En deux ans, le seuil a diminué
-   de 10 %. »
+## LE PIÈGE — le ton, pas les chiffres
 
-   Phrase à afficher telle quelle :
-   « Le rapport Q3/Q1 est passé de 4,2 en 2019 à 4,5 en 2022. »
+Ici le risque n'est pas de se tromper, c'est de blesser. Un quart de la profession vit
+sous 13 342 euros par an. Certains de tes spectateurs en font partie, et certains ont vu
+un confrère être liquidé cette année.
 
-   Troisième quartile 2022 : 59 931 euros.
+Débit ralenti sur ce bloc, aucun commentaire moral, aucune emphase. Le chiffre travaille
+tout seul. Une vanne à cet endroit et tu perds l'audience pour de bon.
 
-2. Graphique 13, page 24. Titre exact : « Évolution des effectifs d'architectes par type
-   d'activité, 2000-2023 ». Source : CNOA.
-   En 2023 : 11 658 libéraux, 15 266 associés, 764 salariés hors associés,
-   863 fonctionnaires, 640 n'exerçant pas actuellement, 330 exerçant exclusivement à
-   l'étranger.
+Second piège : ne jamais nommer un cabinet ni comparer deux confrères. C'est l'article 17
+du code de déontologie, la confraternité. L'ennemi de cette vidéo est une idée, jamais une
+personne.
 
-3. Page 32, sur les revenus par tranche d'âge.
-   Phrase à afficher telle quelle :
-   « Les écarts de revenus entre les plus jeunes et les architectes de 45-54 ans et de
-   55-64 ans sont de plus du double, avec près de 29 000 euros d'écart de revenus annuels
-   en moyenne. »
-   Les 55-64 ans atteignent un pic de revenu moyen à 57 277 euros.
 
+## LES OBJECTIONS QUI ARRIVERONT EN COMMENTAIRE
 
-## LES TROIS ERREURS À NE PLUS REPRODUIRE
+« Ces chiffres sont vieux. »
+Vrai, ils datent de 2022 et je le dis dès le début. Ce sont les derniers publiés par
+l'Ordre. Si quelqu'un a mieux, je prends.
 
-Elles étaient dans la version précédente de cette fiche. Vérification faite :
+« La CIPAV ne couvre pas les architectes en société. »
+Exact, le champ est celui des libéraux et associés non salariés. C'est écrit sous le
+graphique, et c'est précisément pour ça que je montre aussi les effectifs par mode
+d'exercice : 11 658 libéraux contre 15 266 associés en 2023.
 
-- Le document fait 83 pages, pas 162. Ne jamais annoncer un nombre de pages qu'on n'a
-  pas compté.
-- Les revenus sont ceux de 2022, pas de 2024 ni d'aujourd'hui. Les effectifs sont ceux
-  de 2023. Le titre du document dit 2024-2026, les données non. Il faut le dire à l'écran,
-  sinon un spectateur qui ouvre le PDF trouve l'écart et la chaîne perd sa crédibilité.
-- 39 570 euros n'est pas un pic : c'est le revenu moyen des 65 ans et plus en 2022, en
-  baisse. Ne pas le citer comme sommet de carrière.
+« Le revenu déclaré n'est pas le revenu réel dans une société. »
+Argument recevable pour les associés. Il ne change rien à la tendance, qui est un
+écartement entre le haut et le bas sur le même champ, mesuré la même façon chaque année.
 
+« On fait ce métier par passion, pas pour l'argent. »
+Très bien. La passion ne paie pas l'URSSAF, et le premier quartile a perdu 10 % en deux
+ans pendant que le troisième montait.
 
 
-## ORDRE CHRONOLOGIQUE — ce que tu annonces, dans l'ordre
+## LE DÉROULÉ — ce que le spectateur doit comprendre, chapitre par chapitre
 
-00:00 — HOOK, 20 secondes, plein cadre
 
-  32 983 euros, revenu médian d'un architecte libéral. Ce n'est pas mon chiffre, c'est
-  celui de leur caisse de retraite, publié par leur propre Ordre.
+### Ouverture
 
-  Temps d'arrêt. Puis l'open loop : et il y a une autre page dans ce document, que
-  personne ne cite, et qui explique pourquoi certains cabinets s'en sortent très bien en
-  ce moment.
+Que le chiffre ne vient pas de moi mais de sa caisse de retraite, publié par son propre
+Ordre : 32 983 euros de revenu médian.
 
-  À l'écran : le chiffre en incrustation. Rien d'autre.
 
+### De quand datent ces chiffres
 
-00:20 — INTRO ET ANCRAGE ESSORT, 40 secondes
+Que je sais exactement ce que je manipule. Revenus 2022, effectifs 2023, derniers états
+publiés. Cette précision de trente secondes est ce qui rend crédible tout ce qui suit.
 
-  Le contrat : je vous montre la distribution complète. Pas la moyenne, la moyenne écrase
-  les écarts. Les quartiles disent la vérité.
+Preuve — la mention de source sous le graphique 19, page 32 : CIPAV, revenus des
+professionnels libéraux et associés non salariés, champ hors salariés.
 
-  Ancrage, dix secondes : je ne suis pas architecte, je fais de l'acquisition pour des
-  cabinets d'architecture. Ces 83 pages, je les ai lues, parce que c'est mon métier de
-  comprendre qui paie quoi dans ce marché.
 
-  À l'écran : la page officielle de l'Ordre, puis la couverture du PDF.
-  https://www.architectes.org/thematique/politique-institution/chiffres-de-la-profession
+### À quoi ressemble le quart du haut
 
+Qu'au-dessus de 59 931 euros, ce qui change n'est pas le train de vie mais la capacité de
+refuser : refuser un mauvais client, facturer sa mission complète sans se justifier ligne
+à ligne, savoir en septembre ce qu'on fera en mars.
 
-01:00 — PRÉCISION D'HONNÊTETÉ, 30 secondes
 
-  À ne pas sauter. C'est ce qui rend tout le reste crédible.
+### Que ce n'est pas une question de talent
 
-  Le document s'appelle Archigraphie 2024-2026, mais les revenus dedans sont ceux de
-  2022, et les effectifs ceux de 2023. C'est le dernier état disponible. Je le dis
-  maintenant pour que personne ne m'accuse ensuite de vendre du vieux chiffre.
+Qu'il n'existe aucune corrélation entre la qualité de ce qu'on conçoit et ce qu'on gagne.
+Six ans d'études, zéro heure sur la manière de trouver un client. On y forme à défendre un
+projet devant un jury, pas devant un maître d'ouvrage qui hésite entre vous et un
+constructeur — le jury juge l'idée, le client achète la tranquillité.
 
-  À l'écran : la mention de source sous le graphique 19, zoomée.
 
+### Le premier quartile
 
-01:30 — À QUOI RESSEMBLE LE QUART DU HAUT, 1 minute
+Que sous 13 342 euros par an se trouve un quart de la profession libérale, tous âges
+confondus, et que ce seuil a baissé de 10 % en deux ans.
 
-  Il refuse des projets, pas par arrogance mais parce qu'il en a plus qu'il ne peut en
-  faire. Il facture sa mission complète sans se justifier ligne par ligne. Il sait en
-  septembre ce qu'il fera en mars.
+Phrase à afficher et à lire telle quelle : « En-dessous du premier quartile, le revenu
+annuel est inférieur à 13 342 euros en 2022 et est en baisse par rapport au pic de 2020.
+En deux ans, le seuil a diminué de 10 %. »
 
-  Cette visibilité n'est pas du confort : c'est ce qui permet d'embaucher, de refuser un
-  mauvais client, et de dormir en janvier.
+Preuve — graphique 19, page 32, montré dans le PDF, curseur visible. Jamais un graphique
+refait : un graphique refait se conteste, une capture non.
 
-  À l'écran : B-roll agence, libre de droits.
-  https://unsplash.com/fr/s/photos/architecture-office
 
+### Pourquoi « c'est la conjoncture » est faux
 
-02:30 — CE N'EST PAS UNE QUESTION DE TALENT, 1 minute 30
+Qu'une conjoncture frappe tout le monde, et que ce qui frappe le bas pendant que le haut
+monte porte un autre nom. Le troisième quartile est à 59 931 euros et il progresse.
 
-  Six ans d'études. Le projet, la structure, la réglementation, la thermique. Zéro heure
-  sur la manière de trouver un client.
+Phrase à afficher : « Le rapport Q3/Q1 est passé de 4,2 en 2019 à 4,5 en 2022. »
 
-  On y forme à défendre un projet devant un jury, pas devant un maître d'ouvrage qui
-  hésite entre vous et un constructeur. Ce sont deux exercices opposés : le jury juge
-  l'idée, le client achète la tranquillité.
 
-  À l'écran : une grille de cours d'ENSA, prise sur le site d'une école publique, avec le
-  nom de l'école et la date affichés.
+### L'objection du carnet plein
 
+Qu'un cabinet facture aujourd'hui des projets signés l'an dernier, donc qu'il encaisse un
+retournement avec plusieurs trimestres de retard. Quand le vide se sent, il est installé
+depuis longtemps, et le remplir prend des mois de plus.
 
-04:00 — LE PREMIER QUARTILE, 1 minute 30
+La formule à garder : un carnet de commandes n'est pas un thermomètre, c'est un
+rétroviseur.
 
-  Ton calme, débit ralenti. Ce sont des gens réels.
 
-  Moins de 13 342 euros par an. Un quart de la profession libérale, tous âges confondus.
-  Et ce seuil a baissé de 10 % en deux ans.
+### La page que personne ne cite
 
-  Tu affiches la phrase du document, mot pour mot, et tu la lis :
-  « En-dessous du premier quartile, le revenu annuel est inférieur à 13 342 euros en 2022
-  et est en baisse par rapport au pic de 2020. En deux ans, le seuil a diminué de 10 %. »
+Que le métier paie, mais tard. Le revenu moyen culmine à 57 277 euros chez les 55-64 ans,
+avec près de 29 000 euros d'écart avec les moins de 35 ans.
 
-  Aucun commentaire moral. Le chiffre travaille tout seul.
+Phrase à afficher : « Les écarts de revenus entre les plus jeunes et les architectes de
+45-54 ans et de 55-64 ans sont de plus du double, avec près de 29 000 euros d'écart de
+revenus annuels en moyenne. »
 
-  À l'écran : graphique 19, page 32, dans le PDF, curseur visible.
-  https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
+La conséquence, qui est le sommet de la vidéo : ce document ne décrit pas un métier mal
+payé, il décrit un métier dont la seule méthode connue pour bien gagner sa vie demande
+trente ans — le temps de se constituer un réseau de prescripteurs. La question n'est donc
+pas de savoir si le métier paie, mais s'il existe un autre chemin que d'attendre trente ans.
 
 
-05:30 — L'ENNEMI EST UNE PHRASE, 1 minute 30
+### LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
 
-  L'ennemi de cette vidéo, c'est « c'est la conjoncture ».
+Que la différence entre les deux extrémités de la distribution n'est pas le talent ni
+l'ancienneté seule, mais le nombre de canaux. Le bas dépend d'un seul : la recommandation.
+Or la recommandation a un défaut structurel — elle met trente ans à se construire, et elle
+s'éteint quand le réseau prescripteur part à la retraite en même temps que vous.
 
-  Le troisième quartile est à 59 931 euros et il monte pendant que le premier baisse.
-  Affiche la phrase du document : « Le rapport Q3/Q1 est passé de 4,2 en 2019 à 4,5
-  en 2022. »
+Que le seul levier qui ne dépende pas du temps qui passe, c'est la publicité en ligne.
+C'est le seul qui permette d'être devant quelqu'un qui a un projet aujourd'hui, sur votre
+zone, sans avoir attendu vingt ans de réputation. C'est précisément ce qui raccourcit les
+trente ans.
 
-  Une conjoncture frappe tout le monde. Ce qui frappe le bas pendant que le haut monte
-  s'appelle un écartement, et un écartement a des causes qu'on peut nommer.
+Puis, au nous : chez Essort, quand un cabinet arrive, on ne commence jamais par la
+publicité. On regarde d'abord lequel des leviers existe déjà — il y en a presque toujours
+un — et on monte le suivant. C'est moins spectaculaire que de tout refaire, et c'est ce
+qui tient.
 
-  À l'écran : les deux courbes du graphique 19, puis l'incrustation 4,2 → 4,5.
+Enchaîner sans respirer sur le document : les leviers d'acquisition, ce que chacun coûte
+et dans quel ordre les monter, 57 pages, gratuit, lien en description. Pas de carte
+bancaire, pas d'appel commercial.
+https://essort.agency/ressources
 
-  Interdit : nommer un cabinet, comparer deux confrères. Article 17.
-  https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006074232/
 
+### Sortie
 
-07:00 — L'OBJECTION, 1 minute 30
+Que personne ne change de quartile en un trimestre, mais que passer d'un canal à deux se
+fait en un mois et change l'année suivante.
 
-  « Moi j'ai des projets en cours, ça va. »
+Puis rouvrir vers l'EP07 : l'objection que je n'ai pas traitée, et c'est la plus
+fréquente — « de toute façon un architecte n'a pas le droit de faire de la publicité ».
+C'est faux, et le texte a changé le 1er juillet dernier.
 
-  C'est exactement le piège. Un cabinet facture aujourd'hui des projets signés l'an
-  dernier. Quand le vide se sent, il est déjà installé depuis plusieurs trimestres, et
-  remplir un carnet prend lui aussi des mois.
 
-  La phrase à garder : votre carnet de commandes n'est pas un thermomètre, c'est un
-  rétroviseur.
+## TITRE ET MINIATURE
 
-  Deuxième objection, courte : « je n'ai pas de trésorerie pour investir ». Réponse
-  honnête : commencez par ce qui ne coûte rien, la fiche Google et la relance des
-  demandes déjà reçues. On y vient dans une autre vidéo.
+Principal : La moitié des architectes gagnent moins que ça (les chiffres de l'Ordre)
+Variante : Ce que gagne vraiment un architecte libéral (personne ne montre cette page)
 
-  À l'écran : toi, plan serré, puis une frise signature → étude → facturation.
-
-
-08:30 — LA PAGE QUE PERSONNE NE CITE, 2 minutes 30
-
-  C'est le sommet de la vidéo, et c'est l'open loop du début qui se referme.
-
-  Tu ouvres la page des revenus par tranche d'âge et tu lis la phrase du document :
-  « Les écarts de revenus entre les plus jeunes et les architectes de 45-54 ans et de
-  55-64 ans sont de plus du double, avec près de 29 000 euros d'écart de revenus annuels
-  en moyenne. »
-
-  Les 55-64 ans culminent à 57 277 euros de revenu moyen.
-
-  La conséquence, dite lentement : ce document ne décrit pas un métier mal payé. Il décrit
-  un métier où la seule méthode connue pour être payé correctement prend trente ans, parce
-  que c'est le temps qu'il faut pour se constituer un réseau de prescripteurs. La question
-  n'est pas de savoir si le métier paie. C'est de savoir s'il existe un autre chemin que
-  d'attendre trente ans.
-
-  À l'écran : la page 32 du PDF, zoom sur la courbe par âge, puis la phrase citée en
-  incrustation.
-
-
-11:00 — CE QUE FAIT LE QUART DU HAUT, ET LA PREUVE D'USAGE ESSORT, 1 minute 30
-
-  Le bas dépend d'un seul canal : la recommandation. Le haut en a plusieurs.
-
-  Les quatre appuis, énumérés sans les développer, parce que c'est le sujet d'une autre
-  vidéo : la recommandation, la trouvabilité locale, le contenu, la publicité.
-
-  La différence n'est pas que le quart du haut travaille plus. C'est qu'il ne joue pas à
-  un seul numéro : quand un canal se ferme, il lui en reste trois.
-
-  Preuve d'usage Essort, au nous, 20 à 30 secondes : quand un cabinet nous arrive, on ne
-  commence jamais par la publicité. On regarde lequel des appuis existe déjà — il y en a
-  presque toujours un — et on monte le suivant. C'est moins spectaculaire que de tout
-  refaire, et c'est ce qui tient.
-
-  Aucun chiffre de résultat client.
-
-  À l'écran : les quatre appuis qui s'allument un par un.
-
-
-12:30 — LE PITCH, 15 secondes chrono
-
-  Les quatre appuis, ce que chacun coûte et dans quel ordre les monter : document de
-  57 pages, gratuit, lien en description. Pas de carte bancaire, pas d'appel commercial.
-  https://essort.agency/ressources
-
-
-12:45 — CE QUE TU FAIS CETTE SEMAINE, 1 minute
-
-  Ce soir : ouvrir le graphique 19 et situer son propre revenu dans la distribution.
-  Désagréable, dix minutes.
-  7 jours : compter ses canaux, honnêtement. La plupart en ont un.
-  30 jours : en monter un deuxième, le moins cher.
-  90 jours : le troisième.
-
-  Personne ne change de quartile en un trimestre. Passer d'un canal à deux se fait en un
-  mois, et ça change ce qui arrive l'année suivante.
-
-
-13:45 — OUTRO, 45 secondes
-
-  L'objection que je n'ai pas traitée, et c'est la plus fréquente : « de toute façon un
-  architecte n'a pas le droit de faire de la publicité ». C'est faux, et le texte qui le
-  dit est plus clair que ce que la profession en a retenu. Je l'ai lu, c'est la vidéo
-  suivante.
-
-  → renvoie vers l'EP07.
-
-  À l'écran : miniature de l'EP07, 5 secondes.
-
-
-## LA MINIATURE
-
-Texte : « 32 983 € » en très gros, dessous en petit : « source : CIPAV ».
-Bandeau discret « Archigraphie 2024-2026 ».
-Visage à droite, sourcils levés, bouche fermée. Le chiffre est la miniature, aucune photo
-nécessaire. En fond éventuel, très assombri, la couverture du PDF.
+Miniature : « 32 983 € » en très gros, dessous en petit « source : CIPAV ». Bandeau
+discret « Archigraphie 2024-2026 ». Visage à droite, sourcils levés. Le chiffre est la
+miniature, aucune photo nécessaire.
 
 
 ## DESCRIPTION YOUTUBE
 
 ```
 32 983 € : le revenu médian d'un architecte libéral, d'après les données CIPAV publiées
-par l'Ordre des architectes dans Archigraphie 2024-2026. Mais le chiffre intéressant
-n'est pas celui-là : c'est l'écart entre le premier et le troisième quartile, qui est
-passé de 4,2 à 4,5 en trois ans.
+par l'Ordre des architectes. Mais le chiffre intéressant n'est pas celui-là — c'est
+l'écart entre le premier et le troisième quartile, passé de 4,2 à 4,5 en trois ans.
 
 Données de revenus : 2022. Effectifs : 2023. Ce sont les derniers états publiés.
 
 Je ne suis pas architecte : je fais de l'acquisition pour des cabinets d'architecture.
-J'ai lu les 83 pages, voilà ce qu'il y a dedans.
+J'ai lu les 83 pages.
 
-Le document gratuit (57 pages) : https://essort.agency/ressources
-
-CHAPITRES
-00:00 32 983 €
-01:00 De quelle année datent ces chiffres
-01:30 À quoi ressemble le quart du haut
-02:30 6 ans d'études, 0 h d'acquisition
-04:00 Le premier quartile : moins de 13 342 €
-05:30 « C'est la conjoncture » : ce que disent les courbes
-07:00 « Moi j'ai des projets en cours »
-08:30 La page que personne ne cite
-11:00 Ce que fait le quart du haut
-12:45 Par où commencer
-13:45 La suite
+Les leviers d'acquisition, ce que chacun coûte et dans quel ordre les monter — 57 pages,
+gratuit : https://essort.agency/ressources
 
 SOURCES
 Archigraphie 2024-2026, CNOA, 83 p. : https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
@@ -329,25 +198,20 @@ Archigraphie 2024-2026, CNOA, 83 p. : https://www.architectes.org/sites/cnoa/fil
   graphique 13 p. 24 — effectifs par type d'activité, source CNOA
 Chiffres de la profession : https://www.architectes.org/thematique/politique-institution/chiffres-de-la-profession
 
-Essort accompagne les architectes et architectes d'intérieur indépendants ou en
-équipe de 1 à 5 personnes sur leur acquisition de projets.
 Instagram : https://instagram.com/essort.architectes
 ```
 
-
-## MOTS-CLÉS
-
-salaire architecte · revenu architecte France · combien gagne un architecte ·
-Archigraphie · architecte libéral · chiffres Ordre des architectes · revenu médian
-architecte · CIPAV architecte
+Mots-clés : salaire architecte · revenu architecte France · combien gagne un architecte ·
+Archigraphie · architecte libéral · CIPAV architecte
 
 
-## GARDE-FOUS DE CET ÉPISODE
+## GARDE-FOUS
 
-- C'est la vidéo la plus exposée de la chaîne. Un chiffre faux ici et la chaîne est morte.
-- Chaque chiffre est visible à l'écran dans sa source au moment où il est prononcé.
-- Montrer le PDF, jamais un graphique refait. Un graphique refait se conteste.
-- Annoncer l'année des données dès la première minute.
-- Ton calme sur le bloc du premier quartile.
-- Aucun confrère nommé, aucune comparaison. Article 17.
-- Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.
+C'est la vidéo la plus exposée de la chaîne : un chiffre faux ici et tout le reste tombe.
+Chaque chiffre est visible à l'écran dans sa source au moment où il est prononcé.
+Montrer le PDF, jamais un graphique refait.
+Annoncer l'année des données dès la première minute.
+Ton calme sur le premier quartile.
+Aucun cabinet nommé, aucune comparaison entre confrères. Article 17.
+Aucune promesse de faire changer quelqu'un de quartile.
+Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.
