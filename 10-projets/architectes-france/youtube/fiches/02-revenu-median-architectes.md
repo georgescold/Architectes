@@ -98,13 +98,6 @@ Elles étaient dans la version précédente de cette fiche. Vérification faite 
   baisse. Ne pas le citer comme sommet de carrière.
 
 
-## CE QU'ON NE DIT PAS
-
-- « Les architectes gagnent mal leur vie. » On montre une distribution, on ne juge pas.
-- Aucun nom de cabinet, aucune comparaison entre confrères. Article 17, confraternité.
-- Aucune promesse de faire changer quelqu'un de quartile.
-- Aucun chiffre qui ne soit pas visible à l'écran dans sa source au moment où on le dit.
-
 
 ## ORDRE CHRONOLOGIQUE — ce que tu annonces, dans l'ordre
 
