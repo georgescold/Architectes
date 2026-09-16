@@ -1,107 +1,253 @@
-# EP08 — Les architectes SURCOMPLIQUENT leur communication
+# EP08 — Vous n'avez pas un problème de communication, il vous manque trois informations
 
-| | |
-|---|---|
-| **Épisode** | 08 / 20 · semaine 8 |
-| **Famille** | SYSTÈME |
-| **Audience** | 🅐🅑 |
-| **Situations ciblées** | S1 installation récente · S2 bouche-à-oreille |
-| **Durée cible** | 11-13 min |
-| **Production** | ★☆☆ — tournable seul, aucune source sensible |
+Épisode 08/20 · SYSTÈME · architecte DE et architecte d'intérieur · 12-14 min
+Aucune source externe : c'est une démonstration. Tournable en une prise.
 
-> Traite frontalement **l'objection n°2 de la cible** : « je n'ai pas encore de
-> réalisations ». C'est aussi la première vidéo de la chaîne qui donne une action à faire
-> le jour même — bon pour les commentaires.
 
----
+## LA BIG IDEA
 
-## Le titre
+Les cabinets qui n'ont pas de demandes entrantes ne manquent pas de stratégie de
+communication. Il leur manque trois informations, absentes de leur page d'accueil, de leur
+bio et de leur fiche Google : où ils travaillent, ce qu'ils font précisément, et à partir
+de quel ordre de grandeur.
 
-**Principal :** `Les architectes SURCOMPLIQUENT leur communication (faites ça à la place)`
+Tant que ces trois-là manquent, aucun site refait ni aucune charte graphique ne changera
+quoi que ce soit — parce que le visiteur ne peut pas savoir si vous êtes pour lui.
 
-Variantes :
-- `Vous n'avez pas besoin d'une stratégie. Vous avez besoin de 3 informations.`
-- `Le perfectionnisme vous coûte plus cher que la concurrence`
+Et l'obstacle n'est pas la paresse : c'est le perfectionnisme, qu'on leur a noté pendant
+six ans. Attendre que le book soit étoffé, que la charte soit finie, que le site soit
+parfait. Pendant ce temps, zéro demande.
 
-## La miniature
 
-**Texte :** `3 infos` · dessous, petit : `c'est tout`
+## AVANT DE TOURNER — pour toi, pas pour la vidéo
 
-**Composition :** à gauche, un tableau de bord saturé de tâches, barré d'une grande croix
-rouge. À droite, trois lignes simples. Ton visage en petit, expression apaisée.
+Cet épisode ne repose sur aucune donnée externe. Sa force vient de la démonstration : tu
+montres une page générique, tu poses les trois informations, et la différence saute aux
+yeux à l'écran.
 
-**Image :** maquette Canva · `site/frontend/build/blog/acquisition.svg`
+Prépare deux versions d'une même page, fabriquées par toi, sans reprendre aucun site
+existant. Avant : « Atelier X, architecture et maîtrise d'œuvre, à l'écoute de vos
+projets ». Après : « Extensions et rénovations de maisons en Ille-et-Vilaine, à partir de
+80 000 € de travaux. »
 
-## La grande idée
+Interdit absolu : montrer la page d'un cabinet réel comme mauvais exemple, même floutée.
+C'est de la confraternité pour les architectes inscrits, et du dénigrement pour tout le
+monde.
 
-> Vous n'avez pas un problème de stratégie. Vous avez trois informations manquantes. Le
-> perfectionnisme n'est pas un défaut de caractère : c'est exactement ce qu'on vous a noté
-> pendant six ans, et il se retourne contre vous dès que vous devez publier quelque chose
-> d'imparfait.
 
-## Le chapitrage et le contenu
+## LE PIÈGE — ne pas donner une leçon de design
 
-| Timecode | Bloc | Ce que tu dis | Ce qu'on montre |
-|---|---|---|---|
-| 00:00 | **HOOK** | « Vous n'avez pas un problème de stratégie de communication. Vous avez trois informations manquantes. Et tant qu'elles manquent, aucune stratégie ne marchera. » | Plein cadre |
-| 00:25 | **INTRO** | Ce que tu vas donner : les trois informations, et pourquoi elles pèsent plus qu'un site refait. Open loop : « la troisième est celle que presque personne ne veut écrire » | — |
-| 01:00 | **① RÊVE** | Savoir exactement quoi publier lundi matin, sans se poser la question. Ne plus repousser parce que « ce n'est pas encore prêt » | — |
-| 02:00 | **② EXCUSE** | Le perfectionnisme n'est pas un défaut : **c'est ce qu'on vous a noté pendant six ans.** En studio, rendre un travail imparfait, c'est se faire démonter en jury public. On vous a entraîné à ne montrer que le fini. Sauf qu'en acquisition, le fini n'existe jamais | Photos de jurys, planches |
-| 03:30 | **③ PEUR** | Le coût du projet de refonte qui n'aboutit jamais : dix-huit mois, un devis de site à 4 000 €, un book qu'on attend d'étoffer — et pendant ce temps zéro demande entrante. Le perfectionnisme ne protège pas, il reporte | — |
-| 05:00 | **④ ENNEMI** | L'ennemi : **l'hyper-préparation.** Le book qu'on attend d'avoir avant de se montrer, la charte qu'on veut finir avant de publier, le site qu'on veut parfait avant de le mettre en ligne | Texte à l'écran |
-| 06:30 | **⑤ DOUTE** | « Je n'ai pas encore assez de réalisations. » C'est **l'objection n°2 du métier**. Réponse : un maître d'ouvrage ne compte pas vos projets. Il en cherche **un** qui ressemble au sien. Un seul. Et si vous n'en avez aucun, le dessin d'un projet en cours, une coupe, un avant/après de chantier suffisent à montrer comment vous travaillez | Face caméra, sans B-roll |
-| 08:00 | **⑥ PREUVE** | Ce qu'un client regarde vraiment, dans l'ordre : **une réalisation comparable** à son projet · **une zone** — est-ce qu'il travaille chez moi · **un interlocuteur** — à qui je parle. Le reste (la charte, le manifeste, la philosophie) n'est lu par personne | Parcours client à l'écran |
-| 10:00 | **⑦ MÉCANISME — les 3 infos** | **(1) Où vous travaillez** — la zone, écrite, en haut · **(2) Ce que vous faites précisément** — extension bois, rénovation d'appartement, ERP, patrimoine : pas « architecture » · **(3) À partir de quelle enveloppe** — l'ordre de grandeur. C'est la troisième que personne ne veut écrire, et c'est celle qui filtre les appels sans budget | Les 3 infos, en grand |
-| 11:30 | **★ PITCH** | Le document gratuit. 15 secondes | — |
-| 12:00 | **⑧ ESCALIER** | Aujourd'hui, en moins de 3 heures : les trois informations en haut de la page d'accueil, dans la bio, et dans la fiche Google | — |
-| 12:30 | **OUTRO** | « Ces trois informations, presque aucun cabinet ne les a. J'ai lu quarante pages d'accueil pour vérifier. » → **épisode 10** | Miniature EP10 |
+Tu n'es pas graphiste et tu ne parles pas d'esthétique. Tu ne dis rien sur les polices, les
+couleurs ou la mise en page. Tu parles uniquement d'information manquante, c'est-à-dire de
+conversion — ton domaine.
 
-## Les liens à l'écran
+Si un chapitre commence à ressembler à un avis sur le beau, il sort.
 
-| Moment | Lien |
-|---|---|
-| 08:00 | [Blog — trouver des clients architecte](https://essort.agency/blog/trouver-des-clients-architecte) |
-| 11:30 | <https://essort.agency/plan-acquisition> |
+Second piège : le perfectionnisme est un sujet sensible. Ne le présente jamais comme un
+défaut de caractère. C'est un réflexe professionnel acquis, et il est valorisé partout
+ailleurs dans leur métier.
 
-## La description YouTube
+
+## LES OBJECTIONS QUI ARRIVERONT EN COMMENTAIRE
+
+« Mon métier ne se résume pas à une zone et un budget. »
+Évidemment. Mais votre page d'accueil n'est pas votre métier : c'est une porte. On écrit
+sur la porte ce qui permet d'entrer, pas tout ce qu'il y a derrière.
+
+« Annoncer un budget fait fuir les clients. »
+Ça fait fuir ceux qui n'ont pas le budget, et ça n'a jamais fait fuir les autres. La vraie
+question est de savoir combien de rendez-vous vous passez avec des gens qui ne pouvaient
+pas payer.
+
+« Je fais de tout, je ne veux pas me limiter. »
+Vous ne vous limitez pas, vous dites ce que vous faites le plus souvent. Personne ne vous
+empêchera de prendre autre chose.
+
+« J'ai un beau site et je n'ai pas de demandes. »
+C'est exactement le sujet de la vidéo : beau et lisible sont deux choses différentes.
+
+
+## LE DÉROULÉ
+
+
+### 1. Ouverture
+
+À faire comprendre : que le problème n'est pas là où il le cherche.
+
+Exemple de formulation :
+« Vous n'avez pas un problème de stratégie de communication. Il vous manque trois
+informations. Et tant qu'elles manquent, aucun site refait, aucune charte, aucune
+formation Instagram ne changera quoi que ce soit.
+
+La troisième est celle que presque personne ne veut écrire. »
+
+
+### 2. D'où je parle
+
+Exemple de formulation :
+« Je fais de l'acquisition pour des cabinets d'architecture. C'est mon métier d'aller
+chercher des clients pour les vôtres — et avant de dépenser un euro en publicité, je
+regarde toujours la même chose : est-ce qu'un inconnu qui arrive sur votre page comprend
+en cinq secondes si vous êtes pour lui. Neuf fois sur dix, non. »
+
+
+### 3. Pourquoi ce n'est pas de la paresse
+
+À faire comprendre : que le perfectionnisme est un réflexe acquis, pas un défaut.
+
+Exemple de formulation :
+« Et ce n'est pas parce que vous êtes négligent — c'est même l'inverse. Pendant six ans, on
+vous a noté sur le rendu. En studio, présenter un travail inachevé, c'est se faire démonter
+devant tout le monde. On vous a entraîné à ne montrer que du fini.
+
+Le problème, c'est que ce réflexe, excellent en conception, est catastrophique en
+communication. Parce qu'en communication, ce qui n'est pas publié n'existe pas. »
+
+
+### 4. Ce que ça coûte
+
+À faire comprendre : le coût de l'attente, en temps réel plutôt qu'en argent.
+
+Exemple de formulation :
+« Le scénario que je vois tout le temps : un projet de refonte de site qui traîne depuis
+dix-huit mois. Un devis à 4 000 euros qu'on n'a pas signé. Un book qu'on attend d'étoffer
+avec le prochain projet — qui n'arrive pas, justement parce que la page ne dit rien.
+
+Pendant ces dix-huit mois, zéro demande entrante. Le perfectionnisme ne vous protège de
+rien : il vous coûte une année et demie de visibilité. »
+
+
+### 5. Ce qu'un client regarde vraiment
+
+À faire comprendre : la hiérarchie réelle des informations, qui n'est pas celle qu'il croit.
+
+Exemple de formulation :
+« Quand quelqu'un cherche un architecte, il regarde trois choses, dans cet ordre.
+
+Un : est-ce que cette personne a déjà fait quelque chose qui ressemble à mon projet. Un
+seul exemple suffit. Pas trente.
+
+Deux : est-ce qu'elle travaille chez moi. Pas dans ma région — chez moi.
+
+Trois : à qui je vais parler. Un nom, un visage, un numéro.
+
+Tout le reste — la charte, les distinctions, la philosophie de l'agence — arrive après, et
+seulement si les trois premières ont répondu oui. »
+
+
+### 6. Les trois informations manquantes
+
+À faire comprendre : quoi écrire, concrètement. C'est le cadeau de la vidéo.
+
+Exemple de formulation :
+« Première information : où vous travaillez. Écrit, en haut, avec le nom du département ou
+des villes. Pas "Grand Ouest". Pas "toute la France".
+
+Deuxième : ce que vous faites précisément. Pas "architecture et maîtrise d'œuvre" — ça ne
+désigne rien. "Extensions et surélévations de maisons". "Rénovation d'appartements
+haussmanniens". "Aménagement de locaux professionnels". Le visiteur doit se reconnaître ou
+partir, et les deux vous font gagner du temps.
+
+Troisième, celle que personne ne veut écrire : un ordre de grandeur d'enveloppe. "À partir
+de 80 000 euros de travaux". C'est la phrase qui vous enlève 80 % des rendez-vous inutiles.
+Et c'est précisément pour ça qu'elle fait peur. »
+
+
+### 7. La démonstration à l'écran
+
+À faire comprendre : que le changement est visible immédiatement, et qu'il ne coûte rien.
+
+Exemple de formulation :
+« Regardez. Avant : "Atelier X, architecture et maîtrise d'œuvre, à l'écoute de vos
+projets." Ça pourrait être n'importe qui, n'importe où.
+
+Après : "Extensions et rénovations de maisons en Ille-et-Vilaine, à partir de 80 000 euros
+de travaux." Même cabinet, même travail, même photos. Une phrase.
+
+Ça prend vingt minutes et ça ne coûte rien. »
+
+Les deux versions sont fabriquées par toi, jamais reprises d'un site réel.
+
+
+### 8. LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+
+À faire comprendre : que ces trois informations sont ce qui rend toute acquisition
+possible, et que sans elles la publicité brûle de l'argent.
+
+Exemple de formulation :
+« Maintenant pourquoi je commence toujours par là, avant même de parler de publicité.
+
+Une campagne publicitaire, ça amène des gens sur une page. Si la page ne dit ni où, ni
+quoi, ni à partir de combien, il se passe une chose très simple : les gens repartent. Vous
+avez payé le clic, vous n'avez pas la demande. Et si vous n'annoncez pas d'ordre de
+grandeur, vous recevez des demandes à 20 000 euros de travaux que vous ne prendrez jamais.
+Vous payez pour qualifier à la main ce que trois lignes auraient filtré toutes seules.
+
+C'est pour ça que ces trois informations ne sont pas de la communication. C'est de
+l'infrastructure d'acquisition. Elles décident du prix que vous paierez pour chaque demande
+le jour où vous diffuserez.
+
+Et une fois qu'elles sont posées, la publicité en ligne devient le levier le plus rapide
+pour amener du monde dessus : vous choisissez le département, le type de projet, et vous
+savez en trois semaines. »
+
+Puis, au nous :
+« Chez Essort, quand un cabinet nous arrive, on ne lance rien tant que la page ne dit pas
+ces trois choses. Ce n'est pas du zèle : c'est qu'on paierait ses clics deux fois plus
+cher, et qu'on lui ferait perdre ses rendez-vous. »
+
+Puis le document, enchaîné sans respirer :
+« Les leviers d'acquisition, ce que chacun coûte, dans quel ordre les monter : 57 pages,
+gratuit, lien en description. Pas de carte bancaire, pas d'appel commercial. »
+https://essort.agency/ressources
+
+
+### 9. Sortie
+
+Exemple de formulation :
+« Aujourd'hui, en moins de trois heures : les trois informations en haut de votre page
+d'accueil, dans votre bio Instagram, et dans votre fiche Google. Pas de refonte, pas de
+devis, pas de graphiste.
+
+Ces trois informations, presque aucun cabinet ne les affiche. Je le sais parce que j'ai
+regardé — c'est la vidéo suivante. »
+
+
+## TITRE ET MINIATURE
+
+Principal : Les architectes surcompliquent leur communication (faites ça à la place)
+Variante : Il vous manque trois informations, pas une stratégie
+
+Miniature : « 3 INFOS » en très gros, dessous « pas une refonte ». Visage à droite.
+
+
+## DESCRIPTION YOUTUBE
 
 ```
-Vous n'avez pas besoin d'une stratégie de communication. Vous avez besoin de trois
-informations, et de les écrire là où on les voit. Voici lesquelles, et pourquoi la
-troisième est celle que presque personne n'ose écrire.
+La plupart des cabinets qui n'ont pas de demandes entrantes n'ont pas un problème de
+stratégie : il leur manque trois informations. Où ils travaillent, ce qu'ils font
+précisément, et à partir de quel ordre de grandeur. Ça se corrige en trois heures, sans
+refonte et sans devis.
 
-📄 Le document gratuit : https://essort.agency/plan-acquisition
-🔗 Aller plus loin : https://essort.agency/blog/trouver-des-clients-architecte
+Je fais de l'acquisition pour des cabinets d'architecture. Avant de dépenser un euro en
+publicité, c'est la première chose que je regarde.
 
-CHAPITRES
-00:00 Trois informations manquantes
-01:00 Savoir quoi publier lundi matin
-02:00 Le perfectionnisme n'est pas un défaut
-03:30 Le projet de refonte qui n'aboutit jamais
-05:00 L'hyper-préparation
-06:30 « Je n'ai pas encore assez de réalisations »
-08:00 Ce qu'un client regarde vraiment
-10:00 Les 3 informations
-12:30 La suite
+Les leviers d'acquisition, ce que chacun coûte et dans quel ordre les monter — 57 pages,
+gratuit : https://essort.agency/ressources
 
-Essort accompagne les architectes et architectes d'intérieur indépendants ou en
-équipe de 1 à 5 personnes sur leur acquisition de projets.
-Échanger 30 min : https://cal.com/essort/30min
 Instagram : https://instagram.com/essort.architectes
 ```
 
-## Mots-clés
+Mots-clés : page d'accueil architecte · site internet architecte · trouver des clients
+architecte · communication cabinet d'architecture
 
-`communication architecte` · `site internet architecte` · `se faire connaître
-architecte` · `portfolio architecte` · `débuter architecte indépendant` · `page
-d'accueil cabinet architecture`
 
-## Garde-fous propres à cet épisode
+## GARDE-FOUS
 
-- **Ne pas moquer le perfectionnisme.** C'est une qualité professionnelle chez eux : la
-  vidéo explique qu'elle est mal placée, pas qu'elle est ridicule.
-- **Ne pas promettre de résultat** à l'action des 3 heures. On dit ce que ça corrige, pas
-  ce que ça rapporte.
-- L'annonce d'un ordre de grandeur de budget est un conseil commercial, **pas une
-  obligation** : certains cabinets ne veulent pas. Le dire, donner la raison, laisser
-  choisir.
+Aucune page d'un cabinet réel montrée comme mauvais exemple, même floutée.
+Les deux versions de démonstration sont fabriquées, pas relevées.
+Ne rien dire sur l'esthétique, les polices ou les couleurs : ce n'est pas le sujet et ce
+n'est pas ton domaine.
+Ne jamais présenter le perfectionnisme comme un défaut de caractère.
+Aucun chiffre avancé : cet épisode n'en a pas besoin, et n'en invente pas.
+Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.

@@ -1,124 +1,275 @@
-# EP10 — J'ai lu la page d'accueil de 40 cabinets. C'est la même phrase.
+# EP10 — J'ai lu la page d'accueil de 40 cabinets d'architecture
 
-| | |
-|---|---|
-| **Épisode** | 10 / 20 · semaine 10 |
-| **Famille** | PREUVE |
-| **Audience** | 🅐 architecte DE |
-| **Situations ciblées** | S2 bouche-à-oreille · S4 équipe de 2 à 5 |
-| **Durée cible** | 12-14 min |
-| **Production** | ★★☆ — **relevé de 40 pages à faire avant tournage**, captures anonymisées |
+Épisode 10/20 · PREUVE · architecte DE · 13-15 min
 
-> Suite logique de l'épisode 08 : là tu disais quoi écrire, ici tu prouves que personne ne
-> le fait. **Le relevé est un travail réel de 3 à 4 heures** — c'est ce qui donne à la
-> vidéo son autorité, et ce que personne ne prendra la peine de refaire.
+⚠️ ÉPISODE NON TOURNABLE EN L'ÉTAT. Le relevé des 40 pages n'existe pas encore. Voir la
+section RELEVÉ À FAIRE : aucun chiffre ne peut être annoncé avant qu'il soit réalisé.
 
----
 
-## Le travail préparatoire (à faire avant de tourner)
+## LA BIG IDEA
 
-1. Sur Google Maps, chercher « architecte » dans 8 villes de tailles différentes.
-2. Prendre les 5 premiers cabinets ayant un site → 40 sites.
-3. Pour chacun, relever dans un tableur : **la première phrase visible** · la zone
-   est-elle indiquée ? · le type de projet est-il précisé ? · un ordre de budget ? ·
-   un moyen de contact au-dessus de la ligne de flottaison ?
-4. Compter. **Le chiffre que tu annonces dans le hook doit venir de ce tableau.**
+Un maître d'ouvrage passe plusieurs semaines à chercher en silence avant de contacter qui
+que ce soit. Il compare trois noms, sur trois pages d'accueil.
 
-> ⚠️ Le titre annonce « la même phrase » : si ton relevé ne le confirme pas, **change le
-> titre**, ne change pas le relevé.
+Or ces pages sont conçues comme des books : de grandes images, peu de texte, une navigation
+« projets / agence / contact ». C'est un objet fait pour des confrères, pas pour quelqu'un
+qui n'a jamais commandé de plans de sa vie.
 
----
+Résultat, il repart sans savoir la seule chose qui l'intéresse : est-ce que ce cabinet fait
+ce que je veux faire, là où j'habite, pour un budget comme le mien. Et une page qui ne
+répond pas à ça ne peut convertir aucun trafic, qu'il vienne de Google, d'Instagram ou
+d'une campagne payante.
 
-## Le titre
 
-**Principal :** `J'ai lu la page d'accueil de 40 cabinets d'architecture. C'est la même phrase.`
+## RELEVÉ À FAIRE AVANT TOURNAGE
 
-Variantes :
-- `Pourquoi les sites d'architectes ne convertissent jamais`
-- `40 cabinets, 38 fois la même accroche`
+Le relevé n'existe pas. Tant qu'il n'est pas fait, aucun chiffre ne se prononce — ni
+« 38 sur 40 », ni « la majorité », ni « presque tous ».
 
-## La miniature
+Méthode, une demi-journée :
 
-**Texte :** `la même` · dessous, petit : `40 fois`
+Constituer l'échantillon. Quarante cabinets tirés de l'annuaire public de l'Ordre, répartis
+sur au moins dix départements, en excluant les agences de plus de dix personnes qui ne
+sont pas la cible de la chaîne.
+https://www.architectes.org/
 
-**Composition :** un collage de 8 à 12 accroches de sites, toutes surlignées en jaune sur
-la même formule. Noms floutés. Ton visage en petit, incrédule.
+Relever pour chacun, dans un tableur, six colonnes : la première phrase visible sans
+défiler · la zone est-elle écrite, oui ou non · le type de projet est-il précisé, oui ou
+non · un ordre de grandeur d'enveloppe est-il donné, oui ou non · un nom de personne
+apparaît-il · un numéro de téléphone est-il visible sans défiler.
 
-**Image :** collage maison de tes propres captures.
+Compter. Les chiffres qui sortent sont ceux que tu annonces, quels qu'ils soient. Si le
+résultat contredit l'hypothèse de départ, l'épisode change de conclusion — il ne change pas
+de chiffres.
 
-## La grande idée
+Conserver le tableur : c'est la preuve à montrer à l'écran, avec les noms masqués.
 
-> Votre page d'accueil parle d'architecture à quelqu'un qui cherche à résoudre un problème
-> de vie. Elle ne dit ni où, ni pour qui, ni à partir de combien. Le maître d'ouvrage ne
-> cherche pas un architecte : il cherche quelqu'un qui a déjà fait ce qu'il veut faire,
-> près de chez lui.
 
-## Le chapitrage et le contenu
+## AVANT DE TOURNER — pour toi, pas pour la vidéo
 
-| Timecode | Bloc | Ce que tu dis | Ce qu'on montre |
-|---|---|---|---|
-| 00:00 | **HOOK** | « Quarante sites de cabinets d'architecture. J'ai relevé la première phrase de chacun. [Chiffre relevé] commencent par la même idée : "à l'écoute de vos projets". » | Plein cadre, puis le collage |
-| 00:30 | **INTRO** | La méthode du relevé, en trente secondes. Open loop : « et il y a une information que **zéro** cabinet sur quarante affichait » | Le tableur à l'écran |
-| 01:00 | **① RÊVE** | Une page qui fait décrocher le téléphone : le visiteur comprend en cinq secondes que vous faites ce qu'il veut faire, là où il habite | — |
-| 02:00 | **② EXCUSE** | On vous a appris à **présenter un projet devant un jury** — un public qui connaît déjà le vocabulaire. Personne ne vous a appris à écrire pour quelqu'un qui n'a jamais commandé de plans de sa vie | Photo de jury / planche |
-| 03:30 | **③ PEUR** | Le maître d'ouvrage passe **plusieurs semaines** à chercher en silence avant de contacter qui que ce soit. Il compare trois noms. Si votre page ne répond pas à ses trois questions, il ne vous écrit pas — et vous ne saurez jamais qu'il est passé | Parcours de recherche à l'écran |
-| 05:00 | **④ ENNEMI** | L'ennemi : **le site conçu comme un book.** Grandes images, peu de texte, navigation par « projets / agence / contact ». C'est un objet fait pour des confrères, pas pour des clients | Exemple anonymisé |
-| 06:30 | **⑤ DOUTE** | « Mon métier ne se résume pas à une zone et un budget. » Exact. Mais votre **page d'accueil** n'est pas votre métier : c'est une porte. On met sur la porte ce qui permet d'entrer, pas l'intégralité de ce qu'il y a derrière | Face caméra |
-| 08:00 | **⑥ PREUVE — les 4 maîtres d'ouvrage** | Qui frappe vraiment à la porte : **(1)** celui qui agrandit — un enfant de plus, le télétravail, un parent âgé · **(2)** celui qui vient d'acheter de l'ancien à rénover · **(3)** le retraité qui adapte ou rénove — et qui a de la trésorerie · **(4)** le professionnel. Aucun des quatre ne se lève en se disant « je veux de l'architecture » | Les 4 profils à l'écran |
-| 10:00 | **⑦ MÉCANISME** | Les 4 informations au-dessus de la ligne de flottaison : **la zone** · **le type de projet** (extension bois, rénovation d'appartement, ERP, patrimoine) · **un ordre de grandeur d'enveloppe** · **un seul moyen de contact, évident**. Et la phrase de test : *si je remplace le nom de votre cabinet par celui d'un autre, est-ce que la page reste vraie ?* Si oui, elle ne dit rien | Les 4 points + le test |
-| 12:00 | **★ PITCH** | Le document gratuit. 15 secondes | — |
-| 12:30 | **⑧ ESCALIER** | Aujourd'hui : appliquer le test du remplacement à votre page · cette semaine : réécrire la première phrase · ce mois-ci : les quatre informations | — |
-| 13:00 | **OUTRO** | « La page d'accueil, c'est la deuxième chose qu'un client regarde. La première, c'est votre fiche Google — et là c'est souvent pire. » → **épisode 13** | Miniature EP13 |
+Les quatre profils de maîtres d'ouvrage qui frappent réellement à la porte d'un cabinet :
+celui qui agrandit — un enfant de plus, le télétravail, un parent âgé ; celui qui vient
+d'acheter de l'ancien à rénover ; celui qui construit sur un terrain qu'il possède ; et le
+professionnel qui aménage un local.
 
-## Les liens à l'écran
+Aucun des quatre ne cherche « un architecte ». Chacun cherche quelqu'un qui a déjà fait ce
+qu'il veut faire. C'est toute la différence entre une page qui présente et une page qui
+convertit.
 
-| Moment | Lien |
-|---|---|
-| 08:00 | Les 4 profils détaillés : [`marche-et-cible.md`](../../strategie/marche-et-cible.md) § 6 |
-| 10:00 | [Blog — trouver des clients architecte](https://essort.agency/blog/trouver-des-clients-architecte) |
-| 12:00 | <https://essort.agency/plan-acquisition> |
 
-## La description YouTube
+## LE PIÈGE — ne jamais montrer un cabinet identifiable
+
+C'est l'épisode le plus risqué de la chaîne sur ce point. Montrer la page d'un confrère
+comme mauvais exemple viole la confraternité pour les architectes inscrits, et relève du
+dénigrement pour tout le monde.
+
+Donc : aucun nom, aucune capture reconnaissable, aucun logo, aucune photo de projet. Tu
+montres ton tableur avec les noms masqués, et des reconstitutions que tu as fabriquées
+toi-même.
+
+Second piège : ne pas donner d'avis esthétique. Tu ne parles ni de design, ni de police, ni
+de photographie. Tu parles d'information présente ou absente.
+
+
+## LES OBJECTIONS QUI ARRIVERONT EN COMMENTAIRE
+
+« Mon site est un book, c'est assumé. »
+Très bien, à condition de savoir à qui il s'adresse. Un book parle à des confrères et à des
+jurys. Si vous attendez des demandes de particuliers, il leur manque des informations.
+
+« Quarante cabinets, ce n'est pas représentatif. »
+Exact, et je le dis. Quarante, c'est assez pour repérer une régularité, pas pour publier
+une statistique. Je donne la méthode et le tableur : refaites-le sur votre département.
+
+« On ne peut pas afficher un budget en architecture. »
+On ne peut pas afficher un prix de mission sans connaître le projet. On peut parfaitement
+afficher une enveloppe de travaux minimale, et beaucoup le font ailleurs dans le bâtiment.
+
+« Les clients viennent par recommandation, la page ne sert à rien. »
+Ils vérifient quand même. La recommandation donne un nom ; la page décide si on écrit.
+
+
+## LE DÉROULÉ
+
+
+### 1. Ouverture
+
+À faire comprendre : qu'un relevé réel a été fait, et ce qu'il donne.
+
+Exemple de formulation, chiffres à remplacer après le relevé :
+« J'ai ouvert la page d'accueil de quarante cabinets d'architecture et j'ai relevé la
+première phrase de chacune, dans un tableur. [CHIFFRE RELEVÉ] disent la même idée. Et il y
+a une information que [CHIFFRE RELEVÉ] cabinets sur quarante n'affichaient pas du tout. »
+
+
+### 2. D'où je parle, et la méthode
+
+À faire comprendre : que c'est un relevé, pas une impression, et qu'il est reproductible.
+
+Exemple de formulation :
+« Je fais de l'acquisition pour des cabinets d'architecture. Avant de faire venir du monde
+sur une page, je regarde si la page sait recevoir. Donc j'en ai relevé quarante,
+méthodiquement : annuaire de l'Ordre, dix départements, six colonnes. Vous avez la méthode
+en description, refaites-le sur votre zone.
+
+Quarante, c'est assez pour voir une régularité. Ce n'est pas un sondage, et je ne vais pas
+vous sortir de pourcentage national. »
+
+
+### 3. Ce qu'un maître d'ouvrage fait vraiment avant d'appeler
+
+À faire comprendre : le temps de recherche silencieuse, qui change tout.
+
+Exemple de formulation :
+« Quelqu'un qui envisage des travaux ne vous appelle pas le premier jour. Il cherche
+pendant des semaines sans parler à personne, il compare trois ou quatre noms, et il écrit
+à un seul.
+
+Vous ne saurez jamais que les deux autres ont existé. Vous verrez juste que le téléphone
+ne sonne pas. »
+
+
+### 4. Les quatre personnes qui frappent à la porte
+
+À faire comprendre : que « le client » n'existe pas, et que chacun cherche un exemple qui
+lui ressemble.
+
+Exemple de formulation :
+« Il y a quatre profils qui poussent la porte d'un cabinet. Celui qui agrandit — un enfant
+de plus, le télétravail, un parent qui vient vivre là. Celui qui vient d'acheter de
+l'ancien et doit tout refaire. Celui qui a un terrain et veut construire. Et le
+professionnel qui aménage un local.
+
+Aucun des quatre ne cherche "un architecte". Chacun cherche quelqu'un qui a déjà fait
+exactement ce qu'il veut faire. Un seul exemple comparable vaut mieux que trente projets
+magnifiques mais différents. »
+
+
+### 5. Ce que le relevé montre
+
+À faire comprendre : le constat chiffré, une fois le relevé fait.
+
+Exemple de formulation, à compléter après relevé :
+« Voilà le tableur, noms masqués. Colonne "zone écrite" : [CHIFFRE] sur 40. Colonne "type
+de projet précisé" : [CHIFFRE]. Colonne "ordre de grandeur d'enveloppe" : [CHIFFRE].
+
+Et la première phrase, dans la plupart des cas, dit une variation de la même chose. »
+
+Preuve — le tableur à l'écran, défilement lent, noms masqués.
+
+
+### 6. Pourquoi ces pages sont faites comme ça
+
+À faire comprendre : que ce n'est pas de la négligence mais un héritage de formation.
+
+Exemple de formulation :
+« Ce n'est pas un manque de soin — souvent ces sites sont très beaux. C'est qu'on vous a
+appris à présenter un projet devant un jury, c'est-à-dire devant des gens qui connaissent
+déjà le vocabulaire et qui savent lire un plan.
+
+Personne ne vous a appris à écrire pour quelqu'un qui n'a jamais commandé de plans de sa
+vie et qui ne sait pas ce qu'est une mission complète. Ce sont deux exercices opposés. »
+
+
+### 7. Les quatre informations qui changent tout
+
+À faire comprendre : quoi mettre au-dessus de la ligne de flottaison.
+
+Exemple de formulation :
+« Quatre informations, visibles sans défiler.
+
+La zone, écrite avec le nom du département ou des villes. Le type de projet, précis :
+extension, rénovation d'appartement, patrimoine, locaux professionnels. Un ordre de
+grandeur d'enveloppe de travaux. Et un interlocuteur : un nom, un visage, un numéro.
+
+Le test à faire sur votre propre page : est-ce que je peux remplacer le nom de l'agence par
+celui d'un confrère sans que la phrase devienne fausse ? Si oui, la phrase ne dit rien. »
+
+
+### 8. LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+
+À faire comprendre : que la page décide du prix de chaque demande, et que sans elle toute
+diffusion est du gaspillage.
+
+Exemple de formulation :
+« Maintenant, pourquoi c'est mon sujet et pas seulement une question de site.
+
+Quand je diffuse une campagne pour un cabinet, je paie chaque visiteur. S'il arrive sur une
+page qui ne dit ni où, ni quoi, ni pour quel budget, il repart. J'ai payé le clic, je n'ai
+pas la demande. Et si la page n'annonce aucun ordre de grandeur, je reçois des demandes à
+15 000 euros de travaux que le cabinet ne prendra jamais — je paie pour qualifier à la main
+ce que trois lignes auraient filtré toutes seules.
+
+Autrement dit, votre page d'accueil fixe le prix de vos demandes. Une bonne page peut
+diviser ce coût par deux sans changer un euro de budget publicitaire.
+
+Et c'est aussi ce qui rend la publicité en ligne intéressante ici : c'est le seul levier où
+vous envoyez exactement le bon profil sur la page, au lieu d'espérer qu'il passe. Vous
+choisissez le département, le type de projet, et vous mesurez ce que chaque demande coûte
+réellement. »
+
+Puis, au nous :
+« Chez Essort, on ne lance jamais une campagne sur une page qui n'a pas les quatre
+informations. Ce n'est pas du zèle : c'est qu'on brûlerait le budget du client pendant trois
+semaines avant de comprendre pourquoi. »
+
+Puis le document, enchaîné sans respirer :
+« Les leviers d'acquisition, ce que chacun coûte, dans quel ordre les monter : 57 pages,
+gratuit, lien en description. Pas de carte bancaire, pas d'appel commercial. »
+https://essort.agency/ressources
+
+
+### 9. Sortie
+
+Exemple de formulation :
+« Aujourd'hui : appliquez le test du remplacement à votre première phrase. Cette semaine :
+réécrivez-la. Ce mois-ci : les quatre informations au-dessus de la ligne de flottaison.
+
+Et sachez que la page d'accueil est la deuxième chose qu'un client regarde. La première,
+c'est votre fiche Google — et là, c'est souvent pire. »
+
+
+## TITRE ET MINIATURE
+
+Principal : J'ai lu la page d'accueil de 40 cabinets d'architecture
+Variante : Le test en 5 secondes que presque aucune page d'architecte ne passe
+
+Miniature : un chiffre issu du relevé, en très gros, dessous « sur 40 ». Visage à droite,
+collage de pages floutées à gauche.
+
+
+## DESCRIPTION YOUTUBE
 
 ```
-J'ai relevé la première phrase de la page d'accueil de 40 cabinets d'architecture
-français. Voici ce que j'ai trouvé, ce qu'un maître d'ouvrage cherche vraiment, et
-les 4 informations qui manquent presque partout.
+Quarante pages d'accueil de cabinets d'architecture, relevées dans un tableur : première
+phrase, zone, type de projet, ordre de grandeur, interlocuteur. Voilà ce qu'elles disent,
+et ce qu'elles ne disent pas.
 
-📄 Le document gratuit : https://essort.agency/plan-acquisition
-🔗 Aller plus loin : https://essort.agency/blog/trouver-des-clients-architecte
+Méthode complète en description pour refaire le relevé sur votre département. Quarante
+cabinets, c'est assez pour voir une régularité, pas pour publier une statistique.
 
-CHAPITRES
-00:00 40 sites, la même phrase
-01:00 Une page qui fait décrocher le téléphone
-02:00 On vous a appris à parler à un jury
-03:30 Ce qu'il fait avant de vous écrire
-05:00 Le site conçu comme un book
-06:30 « Mon métier ne se résume pas à ça »
-08:00 Les 4 maîtres d'ouvrage qui frappent à la porte
-10:00 Les 4 informations, et le test du remplacement
-13:00 La suite
+Je fais de l'acquisition pour des cabinets d'architecture. Avant de faire venir du monde
+sur une page, je regarde si la page sait recevoir.
 
-Essort accompagne les architectes et architectes d'intérieur indépendants ou en
-équipe de 1 à 5 personnes sur leur acquisition de projets.
-Échanger 30 min : https://cal.com/essort/30min
+Les leviers d'acquisition, ce que chacun coûte et dans quel ordre les monter — 57 pages,
+gratuit : https://essort.agency/ressources
+
+SOURCES
+Annuaire des architectes, Ordre des architectes : https://www.architectes.org/
+
 Instagram : https://instagram.com/essort.architectes
 ```
 
-## Mots-clés
+Mots-clés : page d'accueil architecte · site internet cabinet architecture · convertir les
+visiteurs · trouver des clients architecte
 
-`site internet architecte` · `page d'accueil cabinet architecture` · `site qui ne
-convertit pas` · `copywriting architecte` · `trouver des clients architecte` · `refonte
-site agence architecture`
 
-## Garde-fous propres à cet épisode
+## GARDE-FOUS
 
-- ⚠️ **Flouter tous les noms, logos et URL.** Aucune identification possible, même
-  indirecte (une photo de projet reconnaissable suffit à identifier un cabinet).
-- **Ne porter aucun jugement esthétique** sur les sites montrés. On parle de ce qui est
-  écrit, pas de ce qui est joli — et jamais en nommant qui que ce soit. **Article 17 du
-  code de déontologie** : la confraternité interdit la comparaison avec un confrère
-  identifié, même implicitement.
-- **Le chiffre du hook doit venir de ton relevé**, pas d'une estimation. Si tu trouves
-  31 sur 40, tu dis 31.
-- Dire que le relevé date de [mois / année] : un site peut changer.
+Ne pas tourner avant d'avoir fait le relevé. Aucun chiffre inventé, aucune approximation.
+Si le relevé contredit l'hypothèse, la conclusion change — pas les chiffres.
+Aucun cabinet identifiable à l'écran : ni nom, ni logo, ni capture reconnaissable, ni photo
+de projet. Noms masqués dans le tableur.
+Aucun avis esthétique : on parle d'information présente ou absente.
+Ne pas généraliser : quarante pages montrent une régularité, pas une statistique nationale.
+Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.

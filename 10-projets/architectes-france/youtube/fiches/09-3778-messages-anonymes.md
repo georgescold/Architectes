@@ -1,123 +1,273 @@
 # EP09 — J'ai lu 3 778 messages d'architectes écrits sous anonymat
 
-| | |
-|---|---|
-| **Épisode** | 09 / 20 · semaine 9 |
-| **Famille** | CONSTAT |
-| **Audience** | 🅐🅑 |
-| **Situations ciblées** | toutes |
-| **Durée cible** | 14-16 min |
-| **Production** | ★★☆ — le corpus est déjà constitué, il faut le mettre en scène |
+Épisode 09/20 · CONSTAT · architecte DE et architecte d'intérieur · 14-16 min
 
-> **Meilleur candidat outlier de la chaîne.** Personne d'autre ne détient ce corpus : il
-> est dans [`recherche/`](../../recherche/README.md), 3 778 posts et commentaires Reddit
-> dédupliqués, collectés le 16 septembre 2026. C'est une vidéo qu'aucun concurrent ne peut
-> copier sans refaire le travail.
 
----
+## LA BIG IDEA
 
-## Le titre
+Ce que les architectes disent en public et ce qu'ils écrivent quand personne ne les
+identifie sont deux discours différents. Sous anonymat, cinq douleurs reviennent — et
+aucune n'est celle qu'on entend dans les conférences professionnelles.
 
-**Principal :** `J'ai lu 3 778 messages d'architectes écrits sous anonymat`
+Le point commun des cinq : aucune ne se règle par le talent. Un architecte meilleur, avec
+les mêmes cinq problèmes, les a toujours. Ce sont des problèmes de position sur le marché,
+pas de compétence.
 
-Variantes :
-- `Ce que les architectes disent quand ils croient que personne ne les lit`
-- `3 778 messages d'architectes anonymes : les 5 choses qui reviennent`
+Et deux d'entre elles se règlent vite : l'incertitude, en ayant un canal de demandes qu'on
+contrôle, et le travail gratuit, en annonçant son ordre de grandeur avant le rendez-vous.
 
-## La miniature
 
-**Texte :** `3 778` en très gros · dessous : `messages anonymes`
+## AVANT DE TOURNER — pour toi, pas pour la vidéo
 
-**Composition :** un mur de captures de texte floutées en fond, sombre. Le chiffre en
-blanc par-dessus. Ton visage à gauche, en train de lire, éclairé par l'écran.
+Le corpus fait exactement 3 778 messages : 247 publications et 3 531 commentaires, collectés
+sur des forums professionnels où les intervenants écrivent sous pseudonyme.
 
-**Image :** capture maison du corpus, floutée · ou maquette Canva
+Et voici la limite que tu dois annoncer toi-même dans la vidéo, sinon on te la sortira en
+commentaire : le corpus est majoritairement anglophone. r/Architects en fournit 2 394,
+r/architecture 517, r/InteriorDesign 309. Les communautés françaises — r/france,
+r/conseiljuridique, r/immobilier, r/AskFrance — représentent moins de 200 messages.
 
-## La grande idée
+Ce n'est pas un défaut si tu l'annonces : c'est même une information en soi. Les mêmes
+douleurs reviennent dans plusieurs pays, ce qui veut dire qu'elles tiennent à la structure
+du métier et pas à une particularité française.
 
-> Ce que les architectes disent en public et ce qu'ils écrivent quand personne ne les
-> identifie sont deux métiers différents. Et les cinq douleurs qui reviennent ont un
-> point commun : aucune ne se règle par le talent.
+Le corpus est dans `recherche/corpus-reddit-3778.jsonl`, les verbatims classés par thème
+dans le même dossier.
 
-## Le chapitrage et le contenu
 
-| Timecode | Bloc | Ce que tu dis | Ce qu'on montre |
-|---|---|---|---|
-| 00:00 | **HOOK** | « J'ai récupéré 3 778 messages écrits par des architectes qui ne savaient pas qu'on les lisait. Cinq choses reviennent. Aucune n'est celle que vous croyez. » | Plein cadre, puis le mur de messages |
-| 00:30 | **INTRO** | Comment : forums professionnels anonymes, collecte automatisée, dédoublonnage, classement par thème. « Je montre les messages, anonymisés, et je vous donne les liens en description. » Open loop : « la cinquième n'a rien à voir avec l'argent » | Le corpus qui défile |
-| 01:00 | **① RÊVE** | Ce que ça fait de savoir d'où viendra le prochain projet. Pas d'être riche — d'être tranquille | — |
-| 02:00 | **② DOULEUR 1 — les honoraires** | La plus votée du corpus : *« Les architectes sont forcés d'enchérir les uns contre les autres, ce que les médecins et les avocats n'ont pas à faire. »* Et le diagnostic interne, plus dur : *« on se tire une balle dans le pied en se sous-cotant en permanence »* | Citations à l'écran, traduites, sourcées |
-| 04:00 | **③ DOULEUR 2 — l'incertitude** | Le témoignage d'un architecte qui quitte son agence pour monter la sienne : la prospection téléphonique, 90 % d'appels sans réponse, des maîtres d'ouvrage qui ne comprennent pas ce qu'apporte un architecte, et cette phrase : *« les clients se fichent de vos diplômes »* | Citation en grand |
-| 06:00 | **④ DOULEUR 3 — le travail gratuit** | Esquisses non facturées, concours perdus, « premier rendez-vous offert » qui dure trois heures, avant-projets remis à des gens qui disparaissent | — |
-| 07:30 | **⑤ DOULEUR 4 — l'ENNEMI : le manque de respect** | Le fil intitulé « pourquoi tout le monde nous déteste ». *« Tout le monde pense savoir mieux : les entreprises, les investisseurs, la mairie. On met notre âme dans le projet et ils marchent dessus. »* **C'est ici que l'ennemi apparaît — et il est diffus, c'est ça le problème** | Citation, ton plus lent |
-| 09:00 | **⑥ DOULEUR 5 — l'isolement** | *« La solitude frappe fort. Plus de collègues, plus de structure, juste une chambre d'écho de vos propres doutes. »* La douleur dont personne ne parle en public | — |
-| 10:30 | **⑦ LE POINT COMMUN** | Les cinq ont un point commun : **aucune ne se règle par le talent.** Un architecte meilleur que vous, avec les mêmes cinq problèmes, les a toujours. Ce sont des problèmes de position sur le marché, pas de compétence | Les 5 douleurs récapitulées |
-| 12:00 | **★ PITCH** | Le document gratuit. 15 secondes | — |
-| 12:30 | **⑧ MÉCANISME LÉGER** | Les deux seules qui se règlent vite : l'incertitude (avoir un canal qu'on contrôle) et le travail gratuit (dire son ordre de grandeur avant le rendez-vous) | — |
-| 14:00 | **OUTRO** | « Il y a une douleur que je n'ai pas traitée ici : celle de baisser ses honoraires pour ne pas perdre l'affaire. Elle mérite sa propre vidéo. » → **épisode 12** | Miniature EP12 |
+## LE PIÈGE — ce que tu ne peux pas dire
 
-## Les liens à l'écran
+Tu ne peux pas dire « les architectes français », puisque les trois quarts du corpus ne le
+sont pas. Dis « des architectes », ou « la profession », ou nomme les pays.
 
-| Moment | Lien |
-|---|---|
-| 00:30 | Méthode et corpus : [`recherche/README.md`](../../recherche/README.md) |
-| 02:00 | [Why are architects underpaid? — r/architecture](https://www.reddit.com/r/architecture/comments/yg1brr/why_are_architects_underpaid/) |
-| 02:00 | [Why hasn't an architecture union formed?](https://www.reddit.com/r/architecture/comments/15tn8tu/why_hasnt_a_successful_architecture_union_formed/) |
-| 04:00 | [I quit my architecture job to start my own firm](https://www.reddit.com/r/architecture/comments/1ksx0ad/i_quit_my_architecture_job_in_bengaluru_to_start/) |
-| 07:30 | [Why does everybody hate us? — r/Architects](https://www.reddit.com/r/Architects/comments/1sne4v5/why_does_everybody_hate_us/) |
-| 10:30 | [We need to be honest about this profession](https://www.reddit.com/r/Architects/comments/1vl0qj1/we_need_to_be_honest_about_this_profession/) |
-| 12:00 | <https://essort.agency/plan-acquisition> |
+Tu ne peux pas quantifier : « 40 % parlent d'honoraires » serait faux, le corpus n'est ni
+un échantillon représentatif ni un sondage. Dis « ce qui revient le plus », « le fil le
+plus voté », « le thème dominant ».
 
-## La description YouTube
+Tu ne peux pas citer un message en donnant de quoi identifier son auteur. Anonymise :
+pas de pseudonyme, pas de lien direct vers un message précis, pas de capture où le pseudo
+est lisible.
+
+Et tu ne montres jamais un message d'un architecte français identifiable, même anonymisé :
+sur un marché de cette taille, ça se reconnaît.
+
+
+## LES OBJECTIONS QUI ARRIVERONT EN COMMENTAIRE
+
+« Reddit n'est pas représentatif. »
+Exact, et je le dis dans la vidéo. Ce n'est pas un sondage, c'est un corpus de ce qui
+s'écrit quand personne ne se sait observé. Sa valeur n'est pas statistique, elle est
+qualitative.
+
+« Ce sont des Américains, leur métier n'est pas le nôtre. »
+En majorité oui, et je l'annonce. Ce qui est intéressant, c'est justement que les mêmes
+cinq douleurs reviennent dans plusieurs pays avec des réglementations différentes.
+
+« Tu as trié pour faire dire ce que tu voulais. »
+Le corpus est à disposition. Les thèmes sont classés, et je donne la méthode.
+
+« C'est déprimant. »
+Les cinq douleurs sont réelles. Deux se règlent vite, et c'est la fin de la vidéo.
+
+
+## LE DÉROULÉ
+
+
+### 1. Ouverture
+
+À faire comprendre : qu'il va entendre ce que ses confrères écrivent sans se savoir lus.
+
+Exemple de formulation :
+« J'ai récupéré 3 778 messages écrits par des architectes qui ne savaient pas qu'on les
+lirait. Des forums professionnels, sous pseudonyme. Cinq choses reviennent. Et aucune n'est
+celle dont on parle dans les conférences. »
+
+
+### 2. D'où je parle, et la limite du corpus
+
+À faire comprendre : ma méthode, et sa limite, annoncée avant qu'on me la reproche.
+
+Exemple de formulation :
+« Je fais de l'acquisition pour des cabinets d'architecture. Pour savoir quoi dire à
+quelqu'un, il faut savoir ce qui l'empêche de dormir — donc j'ai collecté et classé ce qui
+s'écrit quand personne ne se sait observé.
+
+Une limite tout de suite : ce corpus est majoritairement anglophone. Les communautés
+françaises représentent moins de deux cents messages sur les 3 778. Je ne vais donc pas
+vous dire "les architectes français pensent que" — je vais vous dire ce qui revient chez
+des architectes, dans plusieurs pays. Et c'est même plus intéressant : ça veut dire que
+ces douleurs tiennent à la structure du métier, pas à la France. »
+
+
+### 3. Douleur 1 — les honoraires
+
+À faire comprendre : que la mise en concurrence sur le prix est vécue comme une anomalie
+professionnelle.
+
+Exemple de formulation :
+« La plus votée du corpus, et de loin. Je cite un message, anonymisé : "Les architectes
+sont forcés d'enchérir les uns contre les autres, ce que les médecins et les avocats n'ont
+pas à faire."
+
+Ce qui frappe, ce n'est pas la plainte. C'est la comparaison : ils ne se comparent pas à
+d'autres métiers du bâtiment, ils se comparent aux professions libérales réglementées. »
+
+
+### 4. Douleur 2 — l'incertitude
+
+À faire comprendre : que l'angoisse porte sur la prévisibilité, pas sur le niveau de revenu.
+
+Exemple de formulation :
+« La deuxième, c'est l'incertitude. Pas "je gagne mal ma vie" — "je ne sais pas d'où
+viendra le prochain projet".
+
+Un témoignage revient souvent : quelqu'un qui quitte son agence pour monter la sienne, qui
+se met à la prospection téléphonique, et qui décrit 90 % d'appels sans réponse. Ce n'est
+pas un problème de talent : c'est quelqu'un d'excellent dans son métier qui découvre qu'il
+n'en a jamais appris un autre. »
+
+
+### 5. Douleur 3 — le travail gratuit
+
+À faire comprendre : le volume de production non facturée, et qu'il est structurel.
+
+Exemple de formulation :
+« Troisième : le travail gratuit. Les esquisses non facturées, les concours perdus, le
+"premier rendez-vous offert" qui dure trois heures, les avant-projets remis à des gens qui
+disparaissent.
+
+Ce qui revient, c'est le sentiment que c'est devenu la norme du métier, et que refuser
+signifie ne pas travailler. »
+
+
+### 6. Douleur 4 — le manque de respect
+
+À faire comprendre : l'ennemi de l'épisode, qui est un rapport, pas une personne.
+
+Exemple de formulation :
+« La quatrième est la plus dure à lire. Il existe un fil intitulé "pourquoi tout le monde
+nous déteste". Je cite : "Tout le monde pense savoir mieux : les entreprises, les
+investisseurs, la mairie. On met notre âme dans un projet et on nous traite comme un
+fournisseur de plans."
+
+C'est une douleur de statut, pas d'argent. Et elle explique beaucoup de choses sur la
+réticence à faire de la publicité : on ne veut pas ressembler davantage à un prestataire. »
+
+
+### 7. Douleur 5 — l'isolement
+
+À faire comprendre : la douleur dont personne ne parle en public.
+
+Exemple de formulation :
+« La cinquième, on ne l'entend jamais dans une conférence. Je cite : "La solitude frappe
+fort. Plus de collègues, plus de structure, juste une chambre d'écho de vos propres
+doutes."
+
+C'est celle des indépendants qui se sont installés seuls. Et elle aggrave toutes les
+autres, parce que sans personne pour comparer, chacun croit être le seul dans ce cas. »
+
+
+### 8. Le point commun des cinq
+
+À faire comprendre : la bascule de la vidéo — aucune ne se règle par le talent.
+
+Exemple de formulation :
+« Maintenant regardez les cinq ensemble. Honoraires tirés vers le bas, incertitude, travail
+gratuit, manque de considération, isolement.
+
+Aucune ne se règle en devenant meilleur architecte. Prenez quelqu'un de plus talentueux
+que vous, avec exactement les mêmes cinq problèmes : il les a toujours. Ce sont des
+problèmes de position sur le marché, pas de compétence.
+
+Et c'est une bonne nouvelle, parce qu'une position, ça se change. »
+
+
+### 9. LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+
+À faire comprendre : que deux des cinq douleurs se règlent par l'acquisition, et
+rapidement.
+
+Exemple de formulation :
+« Sur les cinq, deux se règlent vite. Je ne dis pas les cinq — je dis deux.
+
+L'incertitude d'abord. Elle ne vient pas du marché, elle vient du fait que vos sources de
+projets ne s'ouvrent pas sur décision. Vous ne pouvez pas décider d'avoir trois
+recommandations cette semaine. La publicité en ligne, si : c'est la seule source de
+demandes que vous ouvrez quand vous voulez, sur la zone que vous voulez, et que vous fermez
+quand le carnet est plein. C'est exactement l'antidote à "je ne sais pas d'où viendra le
+prochain projet".
+
+Le travail gratuit ensuite. Il ne vient pas de votre manque de fermeté, il vient du fait
+que les gens arrivent sans savoir ce que ça coûte. Annoncez un ordre de grandeur d'enveloppe
+avant le rendez-vous et la moitié des visites inutiles disparaît. Ça ne demande pas de
+courage, ça demande une phrase sur une page.
+
+Les trois autres — les honoraires, la considération, l'isolement — sont plus profondes, et
+je ne vais pas vous vendre qu'une campagne publicitaire les règle. Ce serait faux. »
+
+Puis, au nous :
+« Chez Essort, c'est ce qu'on fait : on ouvre un canal que le cabinet contrôle, et on
+qualifie en amont pour qu'il ne reçoive pas des demandes hors de son périmètre. Ça ne
+change pas le regard des entreprises sur votre métier. Ça change ce que vous avez dans
+l'agenda du mois prochain. »
+
+Puis le document, enchaîné sans respirer :
+« Les leviers d'acquisition, ce que chacun coûte, dans quel ordre les monter : 57 pages,
+gratuit, lien en description. Pas de carte bancaire, pas d'appel commercial. »
+https://essort.agency/ressources
+
+
+### 10. Sortie
+
+Exemple de formulation :
+« Si vous vous êtes reconnu dans les cinq, sachez au moins ceci : vous n'êtes pas un cas
+isolé, et ce n'est pas une question de niveau.
+
+Il y a une douleur que je n'ai pas traitée ici — celle de baisser ses honoraires pour ne
+pas perdre l'affaire. Elle mérite sa propre vidéo, et il y a trois raisons à ce réflexe,
+dont deux qui viennent de la profession elle-même. »
+
+
+## TITRE ET MINIATURE
+
+Principal : J'ai lu 3 778 messages d'architectes écrits sous anonymat
+Variante : Ce que les architectes disent quand personne ne les identifie
+
+Miniature : « 3 778 » en énorme, dessous en petit « sous anonymat ». Visage à droite, mur
+de messages floutés à gauche.
+
+
+## DESCRIPTION YOUTUBE
 
 ```
-J'ai collecté 3 778 messages publiés par des architectes sur des forums
-professionnels anonymes. Cinq douleurs reviennent — et elles ont un point commun
-que personne ne dit.
+3 778 messages écrits par des architectes sous pseudonyme, collectés et classés. Cinq
+douleurs reviennent, et aucune ne se règle par le talent.
 
-📄 Le document gratuit : https://essort.agency/plan-acquisition
+Précision de méthode : ce corpus est majoritairement anglophone. Les communautés
+françaises y représentent moins de 200 messages. Ce n'est pas un sondage représentatif,
+c'est un corpus qualitatif — et le fait que les mêmes douleurs reviennent dans plusieurs
+pays est en soi une information.
 
-Fils cités dans la vidéo :
-• Why are architects underpaid?
-  https://www.reddit.com/r/architecture/comments/yg1brr/why_are_architects_underpaid/
-• Why does everybody hate us?
-  https://www.reddit.com/r/Architects/comments/1sne4v5/why_does_everybody_hate_us/
-• I quit my architecture job to start my own firm
-  https://www.reddit.com/r/architecture/comments/1ksx0ad/i_quit_my_architecture_job_in_bengaluru_to_start/
-• We need to be honest about this profession
-  https://www.reddit.com/r/Architects/comments/1vl0qj1/we_need_to_be_honest_about_this_profession/
+Je fais de l'acquisition pour des cabinets d'architecture.
 
-CHAPITRES
-00:00 3 778 messages
-01:00 Savoir d'où viendra le prochain projet
-02:00 Douleur 1 : les honoraires
-04:00 Douleur 2 : l'incertitude
-06:00 Douleur 3 : le travail gratuit
-07:30 Douleur 4 : le manque de respect
-09:00 Douleur 5 : l'isolement
-10:30 Le point commun des cinq
-14:00 La suite
+Les leviers d'acquisition, ce que chacun coûte et dans quel ordre les monter — 57 pages,
+gratuit : https://essort.agency/ressources
 
-Essort accompagne les architectes et architectes d'intérieur indépendants ou en
-équipe de 1 à 5 personnes sur leur acquisition de projets.
-Échanger 30 min : https://cal.com/essort/30min
 Instagram : https://instagram.com/essort.architectes
 ```
 
-## Mots-clés
+Mots-clés : réalité métier architecte · difficultés architectes · honoraires architectes ·
+isolement architecte indépendant
 
-`métier architecte réalité` · `architectes sous-payés` · `quitter l'architecture` ·
-`architecte indépendant difficultés` · `témoignages architectes` · `burnout architecture`
 
-## Garde-fous propres à cet épisode
+## GARDE-FOUS
 
-- ⚠️ **Le corpus est très majoritairement anglophone.** Le dire à l'oral, une fois,
-  clairement : *« ces messages viennent de forums professionnels internationaux — les
-  douleurs de structure sont les mêmes, les questions de réglementation, non. »*
-  Le cacher serait malhonnête et un spectateur le verra en cliquant.
-- **Anonymiser les pseudonymes** à l'écran. Les fils sont publics, les liens sont en
-  description, mais on ne met pas un pseudo en gros plan.
-- **Traduire fidèlement**, sans durcir. Le corpus est déjà assez dur.
-- **Ne pas gonfler le chiffre.** 3 778, pas « près de 4 000 ».
-- Ton grave sur les blocs 4 et 5. C'est la vidéo la moins commerciale de la chaîne — et
-  c'est ce qui la rend crédible.
+Annoncer la limite du corpus dans les deux premières minutes, pas à la fin.
+Ne jamais dire « les architectes français » : les trois quarts du corpus ne le sont pas.
+Ne jamais quantifier en pourcentage : ce n'est pas un échantillon représentatif.
+Anonymiser intégralement : pas de pseudonyme, pas de lien vers un message précis, pas de
+capture où un pseudo est lisible.
+Ne pas montrer de message d'un architecte français identifiable.
+Ne promettre que ce qui est vrai : deux douleurs sur cinq se règlent par l'acquisition.
+Dire explicitement que les trois autres ne se règlent pas comme ça.
+Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.
