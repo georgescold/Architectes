@@ -1,7 +1,7 @@
 # EP01 — Les architectes d'intérieur ignorent le client le plus rentable du marché
 
 Épisode 01/20 · semaine 1 · première vidéo de la chaîne
-Famille SYSTÈME · Audience : architecte d'intérieur · Durée 12-14 min
+Famille SYSTÈME · Audience : architecte d'intérieur · Durée 15-16 min
 
 
 ## CE QUE TU DOIS COMPRENDRE AVANT DE TOURNER
@@ -153,7 +153,111 @@ l'architecte d'intérieur n'est pas comparable à un décorateur ni à un cuisin
 que ni l'un ni l'autre ne produit ce dossier.
 
 
-### 7. Le vocabulaire, pour ne pas te tromper à l'oral
+### 7. LE PIÈGE À NE SURTOUT PAS RATER : AT, DP ou permis de construire
+
+C'est le point où un architecte te reprendra en commentaire si tu te trompes, et c'est
+aussi celui qui prouvera que tu connais le marché si tu le maîtrises.
+
+Il n'existe pas une seule autorisation, il y en a trois, et elles ne se valent pas.
+
+Cas 1 — Travaux intérieurs uniquement. On refait la salle, la cuisine, les cloisons, les
+finitions. Aucune surface créée, aucune modification de la façade.
+  Il faut : une autorisation de travaux ERP. Rien d'autre.
+  Architecte obligatoire : non.
+  L'architecte d'intérieur peut prendre le projet seul.
+
+Cas 2 — La devanture change. Nouvelle vitrine, nouveaux matériaux, façade repeinte.
+C'est le cas le plus fréquent quand un restaurant reprend un local.
+  Il faut : une autorisation de travaux ERP plus une déclaration préalable, formulaire
+  CERFA 13404*07.
+  Architecte obligatoire : non.
+  L'architecte d'intérieur peut toujours prendre le projet seul.
+  https://www.pariscommerces.fr/developper-son-commerce/regles-devanture-commerce-equipements
+
+Cas 3 — On crée plus de 20 m² de surface, ou on change la destination du local en
+touchant à la façade ou aux murs porteurs.
+  Il faut : un permis de construire.
+  Et là tout change, à cause de l'article L431-3 du code de l'urbanisme.
+
+L'article L431-3 dit que seules les personnes physiques qui construisent pour elles-mêmes
+échappent à l'obligation de recourir à un architecte sous un certain seuil de surface.
+Les personnes morales n'y échappent jamais.
+https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037667650
+
+Or un restaurant appartient presque toujours à une société : SARL, SAS, SCI. C'est une
+personne morale. Donc dès qu'un permis de construire est nécessaire, le projet doit être
+signé par un architecte inscrit à l'Ordre. Quelle que soit la surface. Il n'y a pas de
+seuil de 150 m² pour une société.
+
+Et un architecte d'intérieur n'est pas un architecte inscrit à l'Ordre. Il ne peut pas
+signer ce permis.
+
+Ce que ça veut dire pour la vidéo, et il faut le dire clairement à l'écran :
+l'opportunité dont tu parles, ce sont les cas 1 et 2. Ils représentent la majorité des
+aménagements de locaux existants. Sur le cas 3, l'architecte d'intérieur doit s'associer
+à un architecte, et c'est une pratique normale et courante.
+
+Si tu ne dis pas ça, un architecte DE te reprendra en commentaire, et il aura raison.
+Si tu le dis, tu montres que tu connais la frontière exacte entre les deux métiers — et
+c'est précisément ce que personne d'autre ne fait sur YouTube.
+
+
+### 8. La qualification en trois questions, à donner aux spectateurs
+
+C'est le cadeau de la vidéo, la partie qu'ils noteront. Trois questions à poser au
+téléphone dès le premier appel, pour savoir en deux minutes de quel cas on relève.
+
+  1. Est-ce que vous créez de la surface ? Une véranda, une extension, une mezzanine ?
+     Si oui et que ça dépasse 20 m², c'est un permis de construire.
+
+  2. Est-ce que vous touchez à la façade ou à un mur porteur ?
+     Si vous touchez à la façade seulement, c'est une déclaration préalable en plus de
+     l'autorisation de travaux. Si vous touchez à un mur porteur en changeant la
+     destination du local, c'est un permis de construire.
+
+  3. Le local était déjà un commerce recevant du public, ou c'était autre chose ?
+     Un changement de destination, par exemple d'un local de bureaux vers un restaurant,
+     fait basculer vers le permis de construire dès qu'il s'accompagne de travaux de
+     façade ou de structure.
+
+Avec ces trois réponses, un architecte d'intérieur sait s'il peut y aller seul ou s'il
+doit appeler un confrère architecte. Et surtout, il le sait avant d'avoir fait une
+esquisse gratuite.
+
+
+### 9. Ce qu'on va te répondre en commentaire, et quoi répondre
+
+Prépare ces réponses avant de publier. Elles arriveront.
+
+« Un architecte d'intérieur n'a pas le droit de faire ça. »
+  Faux pour les cas 1 et 2 : aucune obligation d'architecte quand il n'y a pas de permis
+  de construire. Vrai pour le cas 3, et je l'ai dit dans la vidéo.
+
+« Tu confonds architecte et architecte d'intérieur. »
+  Non, et c'est justement la distinction que je fais à la minute 8. Le titre d'architecte
+  est protégé par la loi de 1977, celui d'architecte d'intérieur ne l'est pas. Le premier
+  peut signer un permis de construire, le second non.
+
+« Les restaurateurs n'ont pas de budget en ce moment. »
+  C'est vrai que le secteur est tendu : 36 746 radiations en 2025. Mais il y a eu
+  47 590 créations sur la même période. Le parc se renouvelle, et chaque reprise de local
+  est un chantier.
+  https://www.extencia.fr/chiffres-cles-restauration
+
+« Zéro publicité sur ce créneau, c'est bien la preuve que ça ne marche pas. »
+  C'est une hypothèse possible, je le dis dans la vidéo. L'autre hypothèse est que
+  personne n'a essayé. Les deux se tranchent en testant, et le test coûte quelques
+  centaines d'euros.
+
+« Le dossier ERP, c'est le bureau de contrôle qui le fait. »
+  Pour les établissements de 1re à 4e catégorie, souvent oui. Pour la 5e catégorie, qui
+  est la quasi-totalité des restaurants indépendants, la notice peut être rédigée par
+  l'architecte, le maître d'œuvre ou un bureau d'études. Il n'y a pas de réservation
+  légale.
+  https://boussoluss.fr/notice-securite-erp-5eme-categorie/
+
+
+### 10. Le vocabulaire, pour ne pas te tromper à l'oral
 
   ERP : établissement recevant du public. Un local où entrent des gens de l'extérieur.
   Type N : la famille des restaurants et débits de boissons.
@@ -374,7 +478,50 @@ Vérifiés le 16 septembre 2026. Rien d'autre ne s'affirme dans la vidéo.
   https://www.architectes.org/modele-de-notice-descriptive-de-securite-91461
 
 
-10:00 — L'OBJECTION, 1 minute
+09:30 — LA FRONTIÈRE ENTRE LES DEUX MÉTIERS, 1 minute 30
+
+  C'est le bloc qui prouve que tu connais le marché. Ne le saute pas.
+
+  Il y a trois autorisations possibles, et elles ne se valent pas.
+
+  Travaux intérieurs seuls, sans surface créée ni façade touchée : autorisation de travaux
+  ERP. Pas d'architecte obligatoire. Vous y allez seul.
+
+  La devanture change : il faut en plus une déclaration préalable, CERFA 13404*07.
+  Toujours pas d'architecte obligatoire. Vous y allez encore seul.
+
+  Plus de 20 m² créés, ou changement de destination avec travaux de façade ou de mur
+  porteur : permis de construire. Et là, article L431-3 du code de l'urbanisme, une
+  société doit faire signer son permis par un architecte inscrit à l'Ordre. Sans seuil de
+  surface. Le seuil de 150 m² ne concerne que les particuliers qui construisent pour
+  eux-mêmes.
+
+  Or un restaurant appartient presque toujours à une SARL ou à une SAS. Donc sur ce
+  troisième cas, vous vous associez à un architecte. C'est normal et c'est courant.
+
+  La phrase à dire : l'opportunité dont je vous parle, ce sont les deux premiers cas, et
+  ce sont les plus fréquents sur un local existant.
+
+  À l'écran : les trois cas en liste, puis l'article L431-3 sur Légifrance.
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037667650
+  https://www.pariscommerces.fr/developper-son-commerce/regles-devanture-commerce-equipements
+
+
+11:00 — LES TROIS QUESTIONS À POSER AU TÉLÉPHONE, 1 minute
+
+  Le cadeau de la vidéo, celui qu'ils noteront.
+
+  Question 1 : est-ce que vous créez de la surface ?
+  Question 2 : est-ce que vous touchez à la façade ou à un mur porteur ?
+  Question 3 : le local était-il déjà un commerce recevant du public ?
+
+  Avec ces trois réponses, vous savez en deux minutes si vous y allez seul ou si vous
+  appelez un architecte. Et vous le savez avant d'avoir fait la moindre esquisse gratuite.
+
+  À l'écran : les trois questions, numérotées, qui restent affichées.
+
+
+12:00 — L'OBJECTION, 45 secondes
 
   « Je n'ai pas de références professionnelles. »
 
@@ -386,7 +533,7 @@ Vérifiés le 16 septembre 2026. Rien d'autre ne s'affirme dans la vidéo.
   À l'écran : toi, plan serré, aucune incrustation.
 
 
-11:00 — LES TROIS ÉTAPES ET LA PREUVE D'USAGE ESSORT, 1 minute 30
+12:45 — LES TROIS ÉTAPES ET LA PREUVE D'USAGE ESSORT, 1 minute 30
 
   Étape 1 : choisir un seul type de local. Restauration, commerce, santé ou bureaux. Si
   vous dites « locaux professionnels », personne ne se reconnaît. Si vous dites « cabinets
@@ -410,14 +557,14 @@ Vérifiés le 16 septembre 2026. Rien d'autre ne s'affirme dans la vidéo.
   Aucun chiffre de résultat client.
 
 
-12:30 — LE PITCH, 15 secondes chrono
+14:15 — LE PITCH, 15 secondes chrono
 
   Le document de 57 pages, gratuit, lien en description. Pas de carte bancaire, pas
   d'appel commercial.
   https://essort.agency/ressources
 
 
-12:45 — CE QUE TU FAIS CETTE SEMAINE, 45 secondes
+14:30 — CE QUE TU FAIS CETTE SEMAINE, 45 secondes
 
   Cette semaine : choisir le type de local, un seul.
   7 jours : lire une fois la procédure ERP en entier. Elle est publique et gratuite.
@@ -425,7 +572,7 @@ Vérifiés le 16 septembre 2026. Rien d'autre ne s'affirme dans la vidéo.
   90 jours : le premier dossier déposé.
 
 
-13:30 — OUTRO, 45 secondes
+15:15 — OUTRO, 45 secondes
 
   Avoir la bonne cible ne suffit pas si le compte ne donne pas envie d'écrire. Il y a un
   architecte d'intérieur en France avec 52 600 abonnés qui n'a jamais construit de système
@@ -464,8 +611,10 @@ CHAPITRES
 05:00 Le dossier, pièce par pièce
 07:00 Ce qui se passe si c'est raté
 08:30 Pourquoi vous, et la nuance importante
-11:00 Les 3 étapes
-13:30 La suite
+09:30 AT, déclaration préalable ou permis de construire
+11:00 Les 3 questions à poser au téléphone
+12:45 Les 3 étapes
+15:15 La suite
 
 SOURCES
 Autorisation de travaux ERP : https://www.aube.gouv.fr/Actions-de-l-Etat/Amenagement-du-territoire-urbanisme-construction-logement/Accessibilite/Un-gestionnaire-d-ERP/Constitution-d-un-dossier-d-accessibilite/L-AUTORISATION-DE-TRAVAUX-SUR-UN-ERP
