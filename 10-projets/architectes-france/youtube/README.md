@@ -2,6 +2,27 @@
 
 > **Supports de tournage en révision :** le [pilote EP01](tournage/01-client-professionnel/presenter.html) et sa [fiche actualisée](tournage/01-client-professionnel/fiche-tournage.pdf) sont prêts à valider. Le [tableau Excalidraw](tournage/01-client-professionnel/01-client-professionnel.excalidraw) est modifiable. Les anciens briefs ci-dessous restent des documents de préparation ; les 19 autres nouveaux supports attendent la validation du pilote.
 
+## LA RÈGLE QUI PRIME SUR TOUTES LES AUTRES
+
+Cette chaîne existe pour amener des clients. Pas pour informer, pas pour faire autorité,
+pas pour être irréprochable sur le plan factuel — tout cela sert l'objectif, rien de tout
+cela ne le remplace.
+
+Le risque de ce dossier est identifié : à force de viser la rigueur et la valeur
+pédagogique, on produit un excellent contenu gratuit que personne ne relie à une
+entreprise. Un épisode brillamment documenté qui ne convertit pas est un échec.
+
+Conséquence concrète, non négociable dans chaque épisode : le chemin vers le client doit
+être complet et développé. La douleur nommée, la publicité en ligne désignée comme le
+levier qui la règle, et le document gratuit appelé franchement. C'est le BLOC ACQUISITION,
+deux minutes pleines, jamais en fin de vidéo et jamais expédié. Son absence est une erreur
+bloquante dans `verifier.py`.
+
+La rigueur factuelle sert cet objectif : on ne raconte pas n'importe quoi parce qu'un
+contenu faux détruit la confiance qui fait signer.
+
+---
+
 > **La chaîne part de zéro abonné.** Tout ce qui suit en tient compte : aucun épisode
 > ne suppose une audience existante, ne dépend d'un invité, ni d'un résultat client.
 > Les 20 épisodes sont tournables seul, avec un écran et un micro.
