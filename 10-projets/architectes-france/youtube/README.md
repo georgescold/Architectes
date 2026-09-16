@@ -101,6 +101,36 @@ mais le volume compte plus que la perfection.
 14:30  OUTRO             Rouvre une tension → renvoie vers une AUTRE vidéo
 ```
 
+### Le processus de preparation d'un episode
+
+Quatre etapes, dans cet ordre. Aucune ne se saute.
+
+1. Relire `connaissance-metier.md`. C'est la base verifiee : les deux metiers, qui a le
+   droit de signer quoi, les chiffres d'Archigraphie, le cadre publicitaire, les
+   concurrents, les avatars. Si une fiche contredit ce document, c'est la fiche qui a tort.
+
+2. Verifier chaque affirmation de l'episode a la source, et l'ecrire dans la section
+   LES FAITS VERIFIES avec son lien. Ce qui n'y figure pas ne se dit pas devant la camera.
+
+3. Consulter `registre-des-preuves.md`. Une preuve appartient a un seul episode. Si elle
+   est deja attribuee ailleurs, on ne la remontre pas.
+
+4. Lancer le controle :
+
+   ```
+   python verifier.py 07
+   ```
+
+   Il signale les erreurs connues, les ruptures de posture, les chiffres sans source, les
+   sections manquantes et les moments Essort absents. Tant qu'il n'affiche pas `pret`,
+   l'episode ne se tourne pas.
+
+Et avant de lancer la camera, les trois questions du registre : qu'est-ce que le
+spectateur sait a la fin qu'il ne savait pas au debut, quelle est la source et est-elle
+affichable, cette preuve a-t-elle deja ete montree ailleurs.
+
+---
+
 ### ⚠️ Ta position — tu n'es PAS architecte
 
 **La règle la plus importante du dossier.** Tu es prestataire en acquisition marketing.
