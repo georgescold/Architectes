@@ -1,5 +1,7 @@
 # Chaîne YouTube « Essort Architectes » — plan de production
 
+> **Supports de tournage en révision :** le [pilote EP01](tournage/01-client-professionnel/presenter.html) et sa [fiche actualisée](tournage/01-client-professionnel/fiche-tournage.pdf) sont prêts à valider. Le [tableau Excalidraw](tournage/01-client-professionnel/01-client-professionnel.excalidraw) est modifiable. Les anciens briefs ci-dessous restent des documents de préparation ; les 19 autres nouveaux supports attendent la validation du pilote.
+
 > **La chaîne part de zéro abonné.** Tout ce qui suit en tient compte : aucun épisode
 > ne suppose une audience existante, ne dépend d'un invité, ni d'un résultat client.
 > Les 20 épisodes sont tournables seul, avec un écran et un micro.
