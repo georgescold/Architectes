@@ -18,20 +18,99 @@ avec aucun budget publicitaire. C'est le levier le moins cher du métier, et le 
 négligé.
 
 
-## AVANT DE TOURNER — pour toi, pas pour la vidéo
+### La solution que j'apporte dans cette vidéo
 
-L'outil s'appelle Google Business Profile. La fiche peut exister sans que le professionnel
-l'ait créée : Google l'alimente à partir de données publiques et des contributions des
-utilisateurs. N'importe qui peut y proposer une modification, une photo ou un avis.
+Revendiquer sa fiche et la corriger en six points, dans l'ordre d'impact.
+
+Dans la vidéo, je donne la grille : la catégorie principale d'abord — c'est le point le plus
+souvent faux et celui qui empêche la fiche de sortir sur « architecte + ville » — puis la
+zone, les horaires, les photos, les avis, le numéro.
+
+Une heure de travail, zéro euro, effet en quelques semaines. Et c'est aussi ce qui doit être
+fait avant toute campagne : un visiteur intéressé cherche le nom du cabinet pour vérifier,
+et il tombe sur cette fiche. Si elle est vide, le clic a été payé pour rien.
+
+
+## AVANT DE TOURNER — le mécanisme, expliqué en entier
+
+
+### D'où sort cette fiche que personne n'a créée
+
+L'outil s'appelle Google Business Profile. Sa particularité, et c'est le point de départ de
+l'épisode : la fiche peut exister sans que le professionnel l'ait jamais créée. Google
+l'alimente à partir de données publiques et des contributions des utilisateurs.
 https://www.google.com/business/
 
-La grille d'audit en six points, dans l'ordre d'impact : la catégorie principale, la zone
-desservie, les horaires, les photos, le nombre et la fraîcheur des avis, et la présence
-d'un numéro et d'un site.
+Conséquence directe : n'importe qui peut y proposer une modification, une photo ou un avis.
+Quelqu'un qui n'a pas revendiqué sa fiche a donc une page à son nom, visible par tout le
+monde, sur laquelle il n'a aucun contrôle.
 
-La catégorie principale est le point le plus souvent faux et le plus coûteux : une fiche
-classée « entrepreneur » ou « bureau d'études » ne remonte pas sur la recherche
-« architecte + ville ».
+C'est une situation que personne ne choisirait, et dans laquelle beaucoup se trouvent sans
+le savoir.
+
+
+### Ce que voit réellement quelqu'un qui cherche
+
+C'est le mécanisme que le spectateur ne voit jamais, parce qu'il ne cherche jamais son
+propre métier sur son propre téléphone.
+
+Quand quelqu'un tape « architecte » suivi du nom de sa ville sur mobile, le premier écran
+n'est pas une liste de sites. C'est une carte, puis trois fiches : nom, note sur cinq,
+nombre d'avis, une photo, la distance. Le site du cabinet n'apparaît pas à cet endroit — il
+faut cliquer sur la fiche pour y arriver.
+
+Donc le premier tri ne se fait pas sur la qualité du travail, ni sur le site, ni sur le
+portfolio. Il se fait sur cinq éléments visibles en une seconde, dont quatre sont dans la
+fiche.
+
+
+### Comment la comparaison se joue, concrètement
+
+Quelqu'un ne regarde pas une fiche. Il en regarde trois côte à côte.
+
+Deux fiches ont vingt avis, des photos récentes, des horaires, un numéro. La troisième n'a
+ni photo ni avis, et une catégorie vague. Il n'a aucun moyen de savoir que la troisième est
+peut-être le meilleur cabinet des trois — il a seulement un moyen de savoir qu'elle a l'air
+moins active.
+
+Il ne rejette pas ce cabinet : il ne le considère jamais. Le cabinet, lui, n'apprendra
+jamais que cette personne a existé.
+
+
+### Les six points, dans l'ordre d'impact
+
+La catégorie principale. C'est le point le plus souvent faux et le plus coûteux : une fiche
+classée « entrepreneur » ou « bureau d'études » ne remonte pas sur la recherche « architecte
++ ville ». Tout le reste devient inutile si celui-ci est mauvais, puisque la fiche ne
+s'affiche pas.
+
+La zone desservie, qui détermine à quelle distance la fiche remonte.
+
+Les horaires, parce qu'une fiche sans horaires est lue par Google comme une fiche moins
+entretenue, et par un visiteur comme un doute sur l'activité.
+
+Les photos, et surtout leur fraîcheur : des photos datées de quatre ans envoient un signal.
+
+Le nombre et la fraîcheur des avis. La fraîcheur compte autant que le nombre : quarante avis
+qui s'arrêtent il y a trois ans valent moins que huit avis récents.
+
+La présence d'un numéro et d'un site, qui décident s'il y a un geste possible tout de suite.
+
+
+### Pourquoi c'est ton sujet à toi
+
+Deux raisons, et la seconde est celle qui compte.
+
+La première : c'est le seul levier d'acquisition entièrement gratuit et rapide du métier.
+Une heure de travail, effet en quelques semaines. Quand tu commences par ça, tu montres que
+tu ne pousses pas systématiquement vers le payant.
+
+La seconde : une campagne publicitaire renvoie vers un cabinet, et la première chose que
+fait un visiteur intéressé, c'est chercher son nom pour vérifier. Il tombe sur la fiche.
+Si elle est vide, la vérification se termine mal — et tu as payé le clic pour ça.
+
+C'est pour cette raison qu'on ne lance jamais une campagne sur un cabinet dont la fiche
+n'est pas revendiquée. Non par principe, mais parce que ça coûte de l'argent.
 
 
 ## DEUX VERSIONS POSSIBLES — choisis avant de tourner
@@ -216,7 +295,8 @@ fait la maison de untel" — ça veut dire qu'il a lu vos avis avant d'appeler. 
 
 Principal, version B : La fiche que Google a créée pour vous sans vous demander
 Principal, version A : J'audite la fiche Google de trois cabinets d'architecture
-Variante : Le premier truc qu'un client voit de vous, et ce n'est pas votre site
+Variante : Ce que vos clients voient en premier n'est pas votre site
+Variante : Une ligne mal remplie et vous ne sortez pas sur « architecte + votre ville »
 
 Miniature : une fiche Google quasi vide, une étoile grise. Texte « 0 AVIS » en très gros.
 Visage à droite.

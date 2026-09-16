@@ -17,34 +17,93 @@ Et le spectateur repart avec la manipulation exacte pour le vérifier lui-même,
 auditer son propre département.
 
 
-## AVANT DE TOURNER — pour toi, pas pour la vidéo
+### La solution que j'apporte dans cette vidéo
 
-La bibliothèque publicitaire de Meta est un registre public que la plateforme est obligée
-de tenir. Toute publicité diffusée sur Facebook et Instagram y figure, avec sa date de
-début, son texte, son visuel et sa destination. Gratuite, sans compte.
+Voir le vide, puis l'occuper.
+
+Dans la vidéo, je donne la manipulation exacte pour auditer son propre département en dix
+minutes : qui diffuse, depuis quand, avec quel message. Et ce que ce relevé montre presque
+partout, c'est une place libre.
+
+Occuper cette place ne demande pas un budget de constructeur. Ça demande de diffuser là où
+personne ne diffuse — c'est-à-dire au moment où la publicité en ligne coûte le moins cher,
+parce que personne n'enchérit en face.
+
+
+## AVANT DE TOURNER — le mécanisme, expliqué en entier
+
+
+### Ce qu'est cette bibliothèque et pourquoi elle existe
+
+C'est un registre public que Meta est obligée de tenir. Toute publicité diffusée sur
+Facebook et Instagram y figure, avec sa date de début de diffusion, son texte, son visuel
+et son lien de destination. Gratuite, sans compte, accessible à n'importe qui.
 https://www.facebook.com/ads/library
 
-Le titre a changé en cours de préparation. L'ancien annonçait « les 2 SEULS architectes de
-France qui font de la pub depuis un an ». Faux sur trois points : on ne peut pas prouver un
-« seuls en France », ni L.Decor ni Berkail ne sont architectes inscrits à l'Ordre — ce
-sont des cabinets d'architecture d'intérieur — et Berkail a cessé de diffuser le
-15 septembre 2026.
+Elle existe parce que la transparence publicitaire est une obligation réglementaire,
+renforcée en Europe. Un annonceur ne peut pas s'y soustraire : s'il diffuse, il est dedans.
 
-Relevés du 16 septembre 2026, à recapturer le jour du tournage, date visible à l'écran :
+Conséquence pour la vidéo : tout ce que tu montres est vérifiable par le spectateur pendant
+qu'il te regarde. C'est ce qui rend cet épisode incontestable — et c'est aussi pour ça que
+tu dois être irréprochable sur ce que l'outil permet ou non de conclure.
 
-  « constructeur de maisons » 130 publicités actives
-  « plan 3D gratuit » 97
-  « architecte DPLG » 2
-  « architecte restaurant » 0
+
+### Pourquoi un espace vide coûte moins cher
+
+C'est le point que les architectes ne connaissent pas, et c'est de la mécanique d'enchères,
+donc ton terrain.
+
+La publicité en ligne fonctionne aux enchères. Quand plusieurs annonceurs veulent toucher
+la même audience au même moment, le prix monte. Quand personne d'autre ne la vise, on paie
+le prix plancher.
+
+Il y a un second effet, cumulatif celui-là : l'algorithme apprend sur les résultats de
+celui qui diffuse. Le premier installé sur une zone accumule cet apprentissage, ce qui
+améliore son rendement avec le temps. Un concurrent qui arrive deux ans plus tard paie plus
+cher et démarre sans historique.
+
+D'où la formule à retenir : un terrain vide est une fenêtre, et elle se referme d'elle-même
+dès que quelques confrères s'y mettent.
+
+
+### Diffusion, créative, duplication : ce qu'on compte vraiment
+
+Un piège de lecture. Quand la bibliothèque affiche « 890 résultats » pour un annonceur, ça
+ne veut pas dire 890 publicités différentes.
+
+Une même créative — un même visuel avec un même texte — peut être dupliquée en dizaines de
+diffusions, chacune ciblant une zone ou une audience différente. C'est le cas de Berkail :
+890 diffusions pour 12 contenus créatifs seulement. Ça ne dit pas qu'ils produisent
+beaucoup, ça dit qu'ils découpent leur territoire.
+
+Savoir lire cette différence, c'est savoir distinguer un annonceur qui teste beaucoup d'un
+annonceur qui industrialise une seule idée qui fonctionne.
+
+
+### Les relevés du 16 septembre 2026
+
+À recapturer le jour du tournage, date visible à l'écran.
+
+Expressions exactes, France, publicités actives : « constructeur de maisons » 130,
+« plan 3D gratuit » 97, « architecte DPLG » 2, « architecte restaurant » 0.
 
 L.Decor, Morbihan : 120 diffusions, la plus ancienne ayant tourné du 16 décembre 2024 au
 5 novembre 2025 sans interruption. Encore active. Tous les clics partent vers un profil
 Instagram ou une messagerie, jamais vers un site.
 https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=FR&view_all_page_id=255425574640770&search_type=page&media_type=all
 
-Berkail, Sud-Est : 890 diffusions pour 12 contenus créatifs, donc duplication par zone.
-Diffusion continue du 17 septembre 2025 au 15 septembre 2026, puis arrêt.
+Berkail, Sud-Est : 890 diffusions pour 12 contenus, diffusion continue du 17 septembre 2025
+au 15 septembre 2026, puis arrêt.
 https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=FR&view_all_page_id=101746778948315&search_type=page&media_type=all
+
+
+### Pourquoi le titre a changé
+
+L'ancien annonçait « les 2 SEULS architectes de France qui font de la pub depuis un an ».
+Faux sur trois points : on ne peut pas prouver un « seuls en France », ni L.Decor ni Berkail
+ne sont architectes inscrits à l'Ordre — ce sont des cabinets d'architecture d'intérieur —
+et Berkail a cessé de diffuser le 15 septembre 2026, pendant la préparation.
+
 
 
 ## LE PIÈGE — ce que l'outil ne permet pas de dire
@@ -261,7 +320,8 @@ publicité : c'est faux depuis 1992. Je vous montre le texte dans la vidéo suiv
 ## TITRE ET MINIATURE
 
 Principal : 130 publicités pour les constructeurs, 2 pour les architectes
-Variante : J'ai fouillé la bibliothèque publicitaire de Meta pendant une semaine
+Variante : Votre département n'a probablement aucune publicité d'architecte. Vérifiez en 10 minutes.
+Variante : L'outil gratuit qui vous montre qui prend vos projets, et depuis quand
 
 Miniature : « 130 / 2 » en énorme, dessous en petit « même client ». Visage à gauche,
 les deux comptages côte à côte à droite.

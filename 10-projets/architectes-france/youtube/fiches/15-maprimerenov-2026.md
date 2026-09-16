@@ -17,7 +17,28 @@ C'est précisément ce que la recommandation ne sait pas faire : elle n'a pas l'
 ces propriétaires, et elle ne produit pas un flux régulier.
 
 
-## AVANT DE TOURNER — pour toi, pas pour la vidéo
+### La solution que j'apporte dans cette vidéo
+
+Aller chercher des propriétaires que personne ne vous présentera jamais.
+
+Dans la vidéo : celui qui monte un dossier de rénovation d'ampleur n'a pas d'architecte,
+n'en a jamais eu, et n'en connaît aucun. Il n'est dans le réseau de personne. En revanche
+il cherche activement en ligne pendant des semaines avant de contacter qui que ce soit.
+
+C'est le profil le plus facile à toucher par la publicité en ligne — ciblage par zone, par
+type de logement, au moment où il cherche — et le plus difficile à toucher autrement. Et
+comme ces projets sont plus petits, il en faut un flux régulier : exactement ce que la
+recommandation ne sait pas produire.
+
+
+## AVANT DE TOURNER — le mécanisme, expliqué en entier
+
+⚠️ C'est l'épisode le plus périssable de la chaîne. Le dispositif a été suspendu puis
+rouvert en deux mois. Tout se revérifie la veille du tournage, et la date du relevé
+s'affiche à l'écran.
+
+
+### L'état du dispositif, à la date de rédaction
 
 MaPrimeRénov' a été suspendue au 1er janvier 2026 faute de budget voté, puis le guichet a
 rouvert le 23 février 2026.
@@ -30,14 +51,73 @@ geste.
 https://particulier.hellio.com/blog/financement/maprimerenov-2026
 https://www.anah.gouv.fr/sites/default/files/2026-02/Anah-FR-Guide_des_aides_Fev2026_WEB_20260224.pdf
 
-Le chiffre le plus utile, et il vient d'Archigraphie, section « Les architectes dans la
-rénovation », pages 52-53, source MAF : « en 2022, les déclarations de travaux concernant
-l'entretien-rénovation représentaient 62 % des travaux déclarés par les architectes à la
-MAF en volume ». Et graphique 71, page 53 : « en 2022, les travaux neufs représentaient
-62 % du montant total des travaux » — donc la rénovation ne pèse que 38 % en valeur.
+
+### Ce que « rénovation d'ampleur » veut dire, et pourquoi ça vous concerne
+
+Ce n'est pas un chantier d'isolation isolé. C'est un bouquet de travaux qui doit faire
+gagner au logement au moins deux classes énergétiques, avec un accompagnement obligatoire.
+
+Traduction en langage de chantier : plusieurs lots, plusieurs entreprises, des arbitrages
+techniques, un calendrier à tenir et un dossier à monter. C'est-à-dire exactement ce qu'un
+propriétaire ne sait pas conduire seul.
+
+Et le parcours accompagné obligatoire pour les logements F et G signifie qu'un
+professionnel entre dans la boucle par construction — la question n'est pas s'il y aura
+quelqu'un, mais qui.
+
+
+### Le chiffre qui structure tout l'épisode
+
+Il vient d'Archigraphie, section « Les architectes dans la rénovation », pages 52-53, source
+MAF : en 2022, les déclarations de travaux concernant l'entretien-rénovation représentaient
+62 % des travaux déclarés par les architectes à la MAF en volume. Et graphique 71, page 53 :
+en 2022, les travaux neufs représentaient 62 % du montant total des travaux — donc la
+rénovation ne pèse que 38 % en valeur.
+
 Archigraphie écrit explicitement que ces travaux « entraînent généralement des honoraires
 moindres que sur le neuf ».
 https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
+
+Lis bien ce que ça dit : la majorité des projets est déjà en rénovation, et ce sont des
+projets plus petits.
+
+
+### La conséquence que presque personne ne formule
+
+Si chaque projet rapporte moins, il en faut mécaniquement davantage pour faire la même
+année. Et s'il en faut davantage, il en faut plus souvent — pas trois d'un coup au
+printemps et rien ensuite, mais un flux.
+
+Or aucun des appuis traditionnels d'un cabinet ne produit un flux. La recommandation
+fonctionne par à-coups, par définition : elle dépend de qui a parlé à qui, ce mois-là.
+
+Le passage du neuf à la rénovation n'est donc pas seulement un changement de type de
+chantier. C'est un changement de rythme commercial, et c'est là que la plupart des cabinets
+se font surprendre.
+
+
+### Où sont ces propriétaires, et pourquoi on ne les connaît pas
+
+Un propriétaire qui monte un dossier de rénovation d'ampleur n'est dans le réseau de
+personne. Il n'a pas d'architecte, il n'en a jamais eu, et il n'en connaît pas.
+
+Il a en revanche une caractéristique très nette : il cherche activement, en ligne, pendant
+des semaines, avant de contacter qui que ce soit. Il compare des devis, il lit sur les
+aides, il essaie de comprendre ce qu'il a le droit de faire.
+
+C'est le profil le plus facile à toucher par la publicité en ligne, et le plus difficile à
+toucher autrement. Il n'y a aucun canal traditionnel qui mène à quelqu'un qu'on ne connaît
+pas et qui ne connaît personne.
+
+
+### Pourquoi c'est ton sujet à toi
+
+Le marché n'a pas disparu, il a changé d'adresse — et l'adresse en question n'est dans le
+carnet de personne.
+
+Une campagne peut être ciblée sur la zone, sur le type de logement et sur le moment. C'est
+littéralement le seul moyen d'être présent au moment où quelqu'un cherche, quand on n'a
+aucun lien préalable avec lui.
 
 
 ## LE PIÈGE — un sujet qui bouge tous les trimestres
@@ -213,7 +293,8 @@ cette année. »
 ## TITRE ET MINIATURE
 
 Principal : Le marché n'a pas disparu, il a changé d'adresse
-Variante : MaPrimeRénov' 2026 : 3,6 milliards, et votre réseau n'a pas l'adresse de ces
+Variante : La rénovation, c'est 62 % des projets et 38 % de la valeur. Ce que ça change pour vous.
+Variante : Ces propriétaires ne connaissent aucun architecte, et personne ne vous les présentera
 clients
 
 Miniature : « 3,6 Md€ » en très gros, dessous en petit « et 120 000 logements ». Visage à

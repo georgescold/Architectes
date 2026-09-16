@@ -1,4 +1,4 @@
-# EP11 — Votre légitimité ne viendra pas d'une loi
+# EP11 — Votre légitimité ne viendra pas de la protection du titre
 
 Épisode 11/20 · RÈGLE · architecte d'intérieur · 12-14 min
 
@@ -17,25 +17,107 @@ La légitimité qu'on cherche dans un texte de loi se fabrique en trois preuves,
 sont toutes à portée de main.
 
 
-## AVANT DE TOURNER — pour toi, pas pour la vidéo
+### La solution que j'apporte dans cette vidéo
 
-Le titre d'architecte n'est protégé que par la loi du 3 janvier 1977 : il suppose un
-diplôme d'État et l'inscription à l'Ordre. Rien n'a jamais défini « architecte
-d'intérieur ».
+Remplacer un titre qu'on n'aura pas par trois preuves qu'on peut avoir cette semaine.
+
+Dans la vidéo : une réalisation comparable au projet du visiteur montrée en premier, des
+avis vérifiables ailleurs que sur son propre site, et un périmètre écrit — ce que je fais,
+où, à partir de quelle enveloppe.
+
+Puis la partie qui décide vraiment : être le premier nom que la personne trouve sur sa
+zone. Quelqu'un qui vous a trouvé, lu et vérifié ne cherche pas un troisième nom. Et pour
+être ce premier nom sans attendre dix ans de réputation, il n'existe qu'un levier
+immédiat : la publicité en ligne.
+
+
+## AVANT DE TOURNER — le mécanisme, expliqué en entier
+
+
+### Ce qui est protégé, et ce qui ne l'est pas
+
+Le titre d'architecte est protégé par la loi du 3 janvier 1977 : il suppose un diplôme
+d'État et l'inscription au tableau de l'Ordre. S'en réclamer sans l'être est une infraction.
 https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000522423/
 
-Ce qui existe en revanche : le CFAI reconnaît une liste d'écoles et délivre la dénomination
-« Architecte d'Intérieur CFAI ». C'est une reconnaissance professionnelle, pas une
-protection légale.
+Cette même loi n'a jamais défini « architecte d'intérieur ». Tout le flou vient de là :
+n'importe qui peut s'en réclamer, sans diplôme et sans contrôle, et il n'existe ni ordre, ni
+inscription obligatoire, ni code de déontologie opposable.
+
+Ce qui existe : le CFAI reconnaît une liste d'écoles et délivre la dénomination « Architecte
+d'Intérieur CFAI ». C'est une reconnaissance professionnelle, pas une protection légale — et
+le client ne connaît pas le sigle.
 https://www.cfai.fr/en/se-former-a-l-architecture-interieure/les-ecoles-reconnues
 
-Conséquence utile et souvent ignorée : le code de déontologie des architectes ne s'applique
-pas à l'architecte d'intérieur. Il est donc moins contraint pour communiquer — seul le
-droit commun s'applique.
+Point pratique à donner dans la vidéo : écrire toujours « architecte d'intérieur » en
+entier. Utiliser « architecte » seul sans être inscrit à l'Ordre expose à des poursuites.
 
-Point juridique à manier avec précaution : utiliser le titre « architecte » seul, sans être
-inscrit à l'Ordre, expose à des poursuites. « Architecte d'intérieur » écrit en entier ne
-pose pas ce problème.
+
+### Pourquoi une loi ne réglerait pas le problème
+
+C'est le raisonnement central de l'épisode, et il faut le tenir proprement.
+
+Ce qu'une protection du titre apporterait, c'est une barrière : quelqu'un sans formation ne
+pourrait plus se présenter comme lui. Utile, mais regarde ce que ça fait concrètement — ça
+empêche l'autre de répondre. Ça ne fait pas sonner son téléphone à lui.
+
+Et cette barrière ne joue que s'il est déjà en concurrence avec cet autre, c'est-à-dire
+seulement s'il est déjà visible. Pour quelqu'un que personne ne trouve, la protection du
+titre ne change rigoureusement rien.
+
+La légitimité qu'il cherche dans un texte de loi se joue ailleurs : dans les trois premiers
+résultats quand quelqu'un tape son nom.
+
+
+### Ce qu'un client vérifie réellement
+
+Il ne vérifie pas un diplôme. Il ne connaît pas le CFAI, il ignore qu'il existe des écoles
+reconnues, et il ne fait pas la différence entre un architecte DE et un architecte
+d'intérieur.
+
+Ses trois critères réels sont la ressemblance avec son propre projet, la proximité
+géographique, et l'avis de tiers. Rien d'autre n'entre en ligne de compte à ce stade.
+
+Ce sont trois preuves visibles. Aucune ne se remplace par un titre, et c'est pour ça qu'une
+protection légale ne déplacerait pas la décision.
+
+
+### L'avantage qu'il n'exerce pas
+
+Conséquence rarement relevée du titre non protégé : le code de déontologie des architectes,
+avec ses règles de confraternité, ne s'applique qu'aux inscrits à l'Ordre. Il ne le concerne
+donc pas.
+
+Il a bien sûr des règles — le droit commun s'applique : pas de publicité trompeuse, pas de
+photo d'un projet qui n'est pas le sien, pas de dénigrement. Mais il est, au sens strict,
+moins empêché de communiquer qu'un architecte inscrit.
+
+Ce statut qu'il vit comme une faiblesse est aussi une liberté qu'il n'utilise pas.
+
+
+### Les trois preuves qui remplacent un titre
+
+La ressemblance se prouve par la réalisation la plus proche du projet du visiteur, pas par
+la plus réussie du portfolio. C'est contre-intuitif et c'est le point le plus utile de
+l'épisode.
+
+La réputation se prouve ailleurs que chez soi : un avis lisible sur la fiche Google a une
+valeur qu'aucun témoignage recopié sur son propre site n'aura jamais, pour une raison
+simple — il n'a pas pu l'écrire lui-même.
+
+Le sérieux se prouve par un périmètre écrit. Et c'est là que la distinction se fait
+naturellement avec celui qui se dit architecte d'intérieur sans formation : celui-là ne
+publiera jamais de périmètre, parce qu'il prend tout.
+
+
+### Pourquoi c'est ton sujet à toi
+
+La vraie barrière, aujourd'hui, c'est d'être celui qu'on trouve en premier sur sa zone. Un
+client qui l'a trouvé, lu, et vu des avis sur lui ne va pas chercher un troisième nom — il
+ne compare plus.
+
+Et pour être ce premier nom sans attendre dix ans de réputation, il n'y a qu'un levier
+immédiat : la publicité en ligne.
 
 
 ## LE PIÈGE — ne pas se prononcer sur le fond du débat
@@ -218,8 +300,9 @@ suivante. »
 
 ## TITRE ET MINIATURE
 
-Principal : Votre légitimité ne viendra pas d'une loi
-Variante : Le titre d'architecte d'intérieur n'est pas protégé, et ce n'est pas votre vrai
+Principal : Votre légitimité ne viendra pas de la protection du titre
+Variante : Un client ne vérifie pas votre diplôme. Il vérifie trois autres choses.
+Variante : Le titre d'architecte d'intérieur n'est pas protégé, et ce n'est pas votre vrai problème
 problème
 
 Miniature : « PAS PROTÉGÉ » barré, dessous en petit « et alors ? ». Visage à droite.

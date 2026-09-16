@@ -17,20 +17,100 @@ Le vrai calcul n'est donc pas le nombre de projets obtenus. C'est le coût par s
 ce qu'il vous reste après. Le comparer à un canal direct change la décision.
 
 
-## AVANT DE TOURNER — pour toi, pas pour la vidéo
+### La solution que j'apporte dans cette vidéo
+
+Sortir de l'enchère en construisant son propre canal.
+
+Dans la vidéo, je fais le calcul complet : ce que coûte réellement une signature venue d'une
+plateforme, une fois le nombre de contacts achetés et le niveau d'honoraires signé pris en
+compte — les deux effets se multiplient, et c'est pour ça que le résultat surprend.
+
+Puis la différence de fond : une plateforme loue un contact, une campagne construit un
+actif. Au bout de deux ans, le cabinet qui a fait de la publicité a un site qui convertit,
+des avis et des chiffres qui lui appartiennent. Celui qui a acheté des contacts a des
+contacts.
+
+
+## AVANT DE TOURNER — le mécanisme, expliqué en entier
+
+
+### Ce que vend une plateforme, exactement
+
+Elle n'est pas payée au projet signé. Elle est payée au contact vendu.
+
+Cette seule phrase contient tout l'épisode, et c'est un fait de modèle économique, pas une
+accusation. Une entreprise payée au contact a intérêt à ce qu'il y ait beaucoup de contacts
+et à ce que chacun soit vendu au plus grand nombre de professionnels possible. C'est
+rationnel, c'est assumé publiquement, et ça se dit sans agressivité.
 
 hemea, l'acteur le plus visible du secteur en ce moment : 120 publicités actives en France
 au 16 septembre 2026, avec la promesse « budget, délais et entreprises verrouillés dès le
 départ ».
 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&q=hemea&search_type=keyword_unordered&media_type=all
 
-C'est la description exacte d'une mission de maîtrise d'œuvre, vendue au client final par
-un tiers. Voilà ce qui est en jeu : pas seulement des contacts revendus, mais le
+C'est la description d'une mission de maîtrise d'œuvre, vendue au client final par un tiers.
+Voilà ce qui est réellement en jeu : pas seulement des contacts revendus, mais le
 positionnement lui-même.
 
-Les plateformes ne sont pas des confrères. La confraternité ne les couvre pas, on peut les
-nommer. Le droit commun s'applique quand même : pas de dénigrement, pas d'affirmation
-fausse.
+
+### Pourquoi le prix devient le seul critère
+
+Ce n'est pas que le client soit devenu radin. C'est une conséquence arithmétique de la mise
+en concurrence.
+
+Quand plusieurs propositions arrivent en même temps sur le même projet, elles se ressemblent
+sur presque tout : le périmètre est le même, les délais sont proches, personne n'a encore
+rencontré le client. Le seul élément qui varie de façon lisible, c'est le montant.
+
+Le client ne choisit donc pas le moins cher par principe. Il choisit sur le seul axe qu'on
+lui a rendu comparable. Et la plateforme a rendu cet axe comparable parce que c'est ce qui
+rend son service attractif de son côté à lui.
+
+
+### Ce que ça fait au marché, et ce qu'on ne peut pas prouver
+
+Chaque professionnel qui baisse pour emporter l'affaire fixe la référence du suivant. De
+proche en proche, le niveau d'honoraires de ce segment se tasse.
+
+⚠️ Ce raisonnement est un mécanisme, pas une mesure. Personne ne publie l'effet des
+plateformes sur le niveau d'honoraires en France. Présente-le comme ce qu'il est : une
+conséquence logique que chacun peut vérifier sur ses propres devis, jamais comme un fait
+chiffré.
+
+Même règle absolue pour les prix : ne cite aucun prix de lead, aucun nombre de
+professionnels par contact. Je n'ai trouvé aucune source publique fiable pour les étayer.
+
+
+### Le vrai calcul, et il est simple
+
+Pas « combien de projets la plateforme m'a apportés ». Mais : combien j'ai dépensé en
+contacts, combien j'ai signé, et à quel niveau d'honoraires par rapport à mes projets
+directs.
+
+Un cabinet qui fait ce calcul découvre souvent deux choses en même temps : le coût par
+signature est élevé parce qu'il faut acheter plusieurs contacts pour en signer un, et le
+montant signé est plus bas que sa moyenne.
+
+Les deux effets se multiplient. C'est pour ça que le résultat surprend.
+
+
+### Pourquoi c'est ton sujet à toi
+
+La différence entre les deux canaux ne tient pas au prix du contact. Elle tient à ce que le
+client sait au moment où il écrit.
+
+Sur une plateforme, il a demandé à être mis en relation avec plusieurs professionnels : il
+est en posture de comparaison, c'est même ce qu'on lui a vendu. Quoi qu'on fasse ensuite, la
+conversation commence là.
+
+Sur une campagne qu'on pilote, il a vu une offre précise, il a lu la zone et le type de
+projet, et il écrit à un seul cabinet. Il n'est pas en train de comparer, il est en train
+d'avancer.
+
+Et il y a une seconde différence, moins visible : une plateforme loue un contact, une
+campagne construit un actif. Au bout de deux ans, le cabinet qui a fait de la publicité a un
+site qui convertit, une audience, des avis et des chiffres qui lui appartiennent. Celui qui
+a acheté des contacts a des contacts.
 
 
 ## LE PIÈGE — décrire un modèle, pas attaquer une entreprise
@@ -226,7 +306,8 @@ pas une source de projets quand c'est la seule. »
 ## TITRE ET MINIATURE
 
 Principal : Sur une plateforme, vous achetez le droit d'enchérir contre vos confrères
-Variante : Les architectes en ont marre de racheter leurs propres clients
+Variante : Ce que vous coûte vraiment un client venu d'une plateforme
+Variante : Une plateforme vous loue un contact. Une campagne vous construit un actif.
 
 Miniature : un contact au centre, quatre flèches vers quatre cabinets. Texte « ×4 » en très
 gros. Visage à droite.

@@ -18,20 +18,125 @@ Et pendant ce temps, 97 publicités actives promettent un plan 3D gratuit à ses
 Sa photothèque n'est pas un portfolio : c'est un stock de créatives déjà testées qui dort.
 
 
-## AVANT DE TOURNER — pour toi, pas pour la vidéo
+### La solution que j'apporte dans cette vidéo
 
-Le fait qui change l'épisode et que presque personne ne sait : le code de déontologie des
-architectes ne s'applique pas à l'architecte d'intérieur. Son titre n'est pas protégé, il
-n'y a ni Ordre ni code opposable. Les règles de confraternité qui interdisent à un
-architecte de se comparer à un confrère identifié ne le concernent pas.
+Transformer une photothèque qui dort en demandes entrantes.
+
+Dans la vidéo, je montre la différence exacte entre publier et diffuser : les mêmes images,
+mises devant des gens qui ne vous suivent pas, dans le département que vous choisissez,
+avec une seule phrase qui dit ce que vous faites et où.
+
+Un architecte d'intérieur part avec l'avantage que personne n'a dans le bâtiment : il a
+déjà les visuels. Ce qui lui manque n'est pas du contenu, c'est le mécanisme qui met ce
+contenu devant des inconnus.
+
+
+## AVANT DE TOURNER — le mécanisme, expliqué en entier
+
+
+### Pourquoi ce métier produit le meilleur contenu du bâtiment
+
+Un avant/après d'intérieur est le format le plus performant qui existe sur les réseaux
+visuels : transformation visible en une image, avant et après côte à côte, résultat immédiat
+à comprendre. Personne n'a besoin de connaître le métier pour saisir la valeur.
+
+Aucun autre métier du bâtiment n'a ça. Un plombier ne montre rien qui arrête le pouce. Un
+architecte DE montre des plans, des façades, des maquettes — c'est plus abstrait, ça demande
+un effort de lecture. L'architecte d'intérieur, lui, montre des pièces à vivre, c'est-à-dire
+ce que les gens regardent gratuitement, des heures par jour, pour le plaisir.
+
+Donc son problème n'a jamais été de produire. Il produit déjà, depuis des années, et c'est
+bon.
+
+
+### La différence entre publier et diffuser
+
+C'est la distinction centrale de l'épisode, et presque personne ne l'a en tête.
+
+Publier, c'est déposer un contenu sur son compte. Il est montré en priorité à ceux qui vous
+suivent déjà, puis à une fraction de leurs proches si l'algorithme décide que ça vaut le
+coup. Vous ne choisissez ni qui le voit, ni quand, ni où.
+
+Diffuser, c'est payer pour montrer ce même contenu à des gens qui ne vous connaissent pas,
+sur une zone que vous choisissez, à un profil que vous choisissez, au moment que vous
+choisissez.
+
+Ce sont deux métiers. Et le second ne demande de créer strictement rien de neuf : il se pose
+par-dessus ce qui existe déjà.
+
+
+### Pourquoi une grosse audience ne produit pas de clients
+
+L'audience est composée de gens qui vous suivent déjà. Or quelqu'un qui vous suit vous
+connaît : il n'est plus à découvrir, il est à convertir — et il n'a pas forcément de projet.
+
+Un compte à 50 000 abonnés accumule surtout des gens qui aiment regarder des intérieurs.
+C'est un public de magazine, pas un public de clients. Il n'a ni la zone géographique, ni
+l'intention, ni le budget.
+
+Le cas vérifié : un architecte d'intérieur français très suivi, 52 600 abonnés, affiche
+douze publicités en tout dans la bibliothèque publicitaire, par salves de quelques heures.
+Il a l'audience. Il n'a pas le mécanisme. Ce n'est pas un jugement sur son travail, qui est
+excellent — c'est la démonstration qu'on peut être très vu et très peu trouvé.
+https://www.facebook.com/ads/library
+
+
+### Ce qui se passe pendant qu'il publie
+
+Le terrain n'est pas vide en face. 97 publicités actives en France promettent en ce moment
+un plan 3D gratuit, et la plus ancienne diffuse sans interruption depuis le 19 février 2025.
+https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&q=%22plan%203D%20gratuit%22&search_type=keyword_exact_phrase&media_type=all
+
+Ce que ça produit : un client qui a entendu pendant dix-neuf mois que la conception ne se
+paie pas. Quand l'architecte d'intérieur annonce ses honoraires d'étude, il n'affronte pas
+une objection de prix, il affronte une habitude installée par quelqu'un d'autre, à coups de
+budget publicitaire.
+
+Il ne perd donc pas parce qu'il est cher. Il perd parce qu'on le compare à du gratuit, et
+que le gratuit est mieux distribué que lui.
+
+
+### Ce qu'il s'interdit sans raison
+
+Le point que presque personne ne connaît, et qui change la façon de communiquer.
+
+Le code de déontologie des architectes — avec ses règles de confraternité, qui interdisent
+notamment de se comparer à un confrère identifié — ne s'applique qu'aux architectes inscrits
+à l'Ordre. Le titre d'architecte d'intérieur n'étant pas protégé, il n'existe ni Ordre, ni
+code opposable le concernant.
 https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006074232/
 https://www.cfai.fr/en/se-former-a-l-architecture-interieure/les-ecoles-reconnues
 
-Seul le droit commun s'applique : publicité trompeuse, droit d'auteur, droit à l'image.
-L'article L. 121-2 du code de la consommation prévoit des peines montant à cinq ans et
-750 000 euros quand l'infraction est commise en ligne.
+Attention à ne pas surinterpréter : il a quand même des règles. Le droit commun s'applique
+— pas de publicité trompeuse, pas de photo d'un projet qui n'est pas le sien, pas de
+dénigrement. L'article L. 121-2 du code de la consommation prévoit des peines montant à cinq
+ans et 750 000 euros quand l'infraction est commise en ligne.
 
-Il est donc, au sens strict, moins contraint qu'un architecte pour communiquer.
+Mais au sens strict, il est moins empêché de communiquer qu'un architecte inscrit. C'est la
+profession la plus libre du bâtiment sur ce terrain, et celle qui communique le moins.
+
+
+### Ce qu'il possède déjà sans le savoir
+
+Ses publications passées sont des créatives déjà testées, gratuitement, sur une audience
+réelle. Il sait lesquelles ont accroché — les statistiques sont dans son compte.
+
+Le bon indicateur n'est pas le like, qui est poli, mais l'enregistrement : quelqu'un qui
+garde une image le fait parce qu'il a un projet en tête.
+
+C'est exactement le travail de test qu'on facture à un annonceur qui part de zéro. Lui l'a
+déjà fait sans le savoir, et il ne l'exploite pas.
+
+
+### Pourquoi c'est ton sujet à toi
+
+Tout ce qui précède décrit un stock d'actifs publicitaires qui dort. La question n'est pas
+de créer, elle est de distribuer — et distribuer sur une zone choisie, à un profil choisi,
+c'est précisément ce que la publicité en ligne sait faire et que rien d'autre ne fait.
+
+Avec un point à dire clairement sur le budget : on n'affronte pas un cuisiniste national. On
+occupe un département. Ce n'est ni le même combat ni le même prix.
+
 
 
 ## LE PIÈGE — deux excès à éviter
@@ -214,7 +319,8 @@ C'est la vidéo suivante. »
 ## TITRE ET MINIATURE
 
 Principal : 52 600 abonnés et aucun projet : le problème n'est pas votre contenu
-Variante : Les architectes d'intérieur sont les moins empêchés de communiquer, et ceux qui
+Variante : Vos photos ne sont pas un portfolio. C'est un stock de publicités qui dort.
+Variante : Publier et diffuser ne sont pas la même chose, et un seul des deux amène des clients
 communiquent le moins
 
 Miniature : « 52 600 » en très gros, dessous en petit « 0 système ». Visage à droite,

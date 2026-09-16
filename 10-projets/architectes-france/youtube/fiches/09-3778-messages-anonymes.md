@@ -17,22 +17,104 @@ Et deux d'entre elles se règlent vite : l'incertitude, en ayant un canal de dem
 contrôle, et le travail gratuit, en annonçant son ordre de grandeur avant le rendez-vous.
 
 
-## AVANT DE TOURNER — pour toi, pas pour la vidéo
+### La solution que j'apporte dans cette vidéo
 
-Le corpus fait exactement 3 778 messages : 247 publications et 3 531 commentaires, collectés
-sur des forums professionnels où les intervenants écrivent sous pseudonyme.
+Traiter les deux douleurs qui se règlent, et le dire clairement pour les trois autres.
 
-Et voici la limite que tu dois annoncer toi-même dans la vidéo, sinon on te la sortira en
-commentaire : le corpus est majoritairement anglophone. r/Architects en fournit 2 394,
-r/architecture 517, r/InteriorDesign 309. Les communautés françaises — r/france,
-r/conseiljuridique, r/immobilier, r/AskFrance — représentent moins de 200 messages.
+Dans la vidéo : l'incertitude se règle en ayant un canal de demandes qu'on ouvre et ferme
+sur décision — c'est exactement ce que la publicité en ligne fait et que la recommandation
+ne fait pas. Le travail gratuit se règle en annonçant son ordre de grandeur d'enveloppe
+avant le rendez-vous, ce qui fait disparaître la moitié des visites inutiles.
 
-Ce n'est pas un défaut si tu l'annonces : c'est même une information en soi. Les mêmes
-douleurs reviennent dans plusieurs pays, ce qui veut dire qu'elles tiennent à la structure
-du métier et pas à une particularité française.
+Les honoraires, la considération et l'isolement ne se règlent pas par une campagne. Je le
+dis dans la vidéo, et c'est ce qui rend les deux premières crédibles.
 
-Le corpus est dans `recherche/corpus-reddit-3778.jsonl`, les verbatims classés par thème
-dans le même dossier.
+
+## AVANT DE TOURNER — le mécanisme, expliqué en entier
+
+
+### Ce qu'est ce corpus, exactement
+
+3 778 messages : 247 publications et 3 531 commentaires, collectés sur des forums
+professionnels où les intervenants écrivent sous pseudonyme, puis dédoublonnés et classés
+par thème.
+
+Le corpus est dans `recherche/corpus-reddit-3778.jsonl`, les verbatims triés par thème dans
+le même dossier.
+
+Pourquoi ça vaut quelque chose : ce ne sont pas des réponses à un questionnaire. Personne ne
+se sait observé, personne ne se met en avant, personne ne ménage la profession. C'est ce qui
+se dit quand il n'y a rien à gagner à bien se tenir.
+
+
+### La limite du corpus, à annoncer toi-même
+
+Il est majoritairement anglophone. r/Architects en fournit 2 394, r/architecture 517,
+r/InteriorDesign 309. Les communautés françaises — r/france, r/conseiljuridique, r/immobilier,
+r/AskFrance — représentent moins de 200 messages sur les 3 778.
+
+Si tu ne le dis pas, quelqu'un le trouvera et tu perdras l'épisode. Si tu le dis, c'est même
+une information en soi : les mêmes cinq douleurs reviennent dans plusieurs pays, avec des
+réglementations différentes et des marchés différents. Ça veut dire qu'elles ne tiennent pas
+à une particularité française mais à la structure du métier.
+
+Conséquences sur ce que tu peux dire : jamais « les architectes français », puisque les
+trois quarts ne le sont pas. Jamais de pourcentage — le corpus n'est pas un échantillon
+représentatif, sa valeur est qualitative et non statistique. Dis « ce qui revient le plus »,
+« le fil le plus voté », « le thème dominant ».
+
+
+### Les cinq douleurs, et pourquoi elles tiennent ensemble
+
+Les honoraires. La plus votée du corpus. Ce qui frappe n'est pas la plainte mais la
+comparaison employée : ils ne se comparent pas aux autres métiers du bâtiment, ils se
+comparent aux professions libérales réglementées — médecins, avocats — qui n'enchérissent
+pas les uns contre les autres.
+
+L'incertitude. Pas « je gagne mal ma vie », mais « je ne sais pas d'où viendra le prochain
+projet ». Le témoignage type : quelqu'un qui quitte son agence pour monter la sienne, se met
+à la prospection téléphonique, et décrit 90 % d'appels sans réponse. Quelqu'un d'excellent
+dans son métier qui découvre qu'il n'en a jamais appris un second.
+
+Le travail gratuit. Esquisses non facturées, concours perdus, premier rendez-vous « offert »
+qui dure trois heures, avant-projets remis à des gens qui disparaissent. Ce qui revient, c'est
+le sentiment que c'est devenu la norme, et que refuser signifie ne pas travailler.
+
+Le manque de considération. Il existe un fil intitulé « pourquoi tout le monde nous
+déteste ». C'est une douleur de statut et non d'argent, et c'est celle qui pèse le plus sur
+ton sujet : quelqu'un qui se sent déjà traité en fournisseur de plans ne veut surtout pas
+d'un outil qui le ferait ressembler davantage à un commerçant.
+
+L'isolement. Celle dont personne ne parle en public, et qui aggrave toutes les autres :
+sans personne pour comparer, chacun croit être le seul dans ce cas.
+
+
+### Le point commun, qui est la bascule de l'épisode
+
+Aucune de ces cinq ne se règle en devenant meilleur architecte. Prends quelqu'un de plus
+talentueux, avec exactement les mêmes cinq problèmes : il les a toujours.
+
+Ce sont des problèmes de position sur le marché, pas de compétence. Et une position, ça se
+change — c'est ce qui rend l'épisode utile plutôt que déprimant.
+
+
+### Ce que tu peux honnêtement promettre, et ce que tu ne peux pas
+
+Deux douleurs sur cinq se règlent par l'acquisition, et il faut le dire ainsi plutôt que de
+tout promettre.
+
+L'incertitude, parce qu'elle ne vient pas du marché mais du fait qu'aucune source de projets
+ne s'ouvre sur décision. On ne décide pas d'avoir trois recommandations cette semaine. La
+publicité en ligne, elle, s'ouvre et se ferme quand on veut : c'est l'antidote exact à « je
+ne sais pas d'où viendra le prochain projet ».
+
+Le travail gratuit, parce qu'il ne vient pas d'un manque de fermeté mais du fait que les
+gens arrivent sans savoir ce que ça coûte. Un ordre de grandeur d'enveloppe annoncé avant le
+rendez-vous fait disparaître la moitié des visites inutiles.
+
+Les trois autres — honoraires, considération, isolement — sont plus profondes. Dis
+explicitement qu'une campagne publicitaire ne les règle pas. C'est ce qui rend les deux
+premières crédibles.
 
 
 ## LE PIÈGE — ce que tu ne peux pas dire
@@ -231,7 +313,8 @@ dont deux qui viennent de la profession elle-même. »
 ## TITRE ET MINIATURE
 
 Principal : J'ai lu 3 778 messages d'architectes écrits sous anonymat
-Variante : Ce que les architectes disent quand personne ne les identifie
+Variante : Les cinq douleurs que les architectes n'avouent que sous pseudonyme
+Variante : Ce que les architectes disent quand personne ne peut les identifier
 
 Miniature : « 3 778 » en énorme, dessous en petit « sous anonymat ». Visage à droite, mur
 de messages floutés à gauche.

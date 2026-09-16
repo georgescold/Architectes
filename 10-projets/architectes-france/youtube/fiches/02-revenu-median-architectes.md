@@ -1,4 +1,4 @@
-# EP02 — La moitié des architectes gagnent moins que ça
+# EP02 — La moitié des architectes gagnent moins de 32 983 € par an
 
 Épisode 02/20 · CONSTAT · architecte DE et architecte d'intérieur · 13-15 min
 Vidéo de recherche : on la trouve en tapant « salaire architecte », donc elle marche sans
@@ -20,19 +20,101 @@ ans — le temps de se constituer un réseau de prescripteurs. Toute la question
 savoir s'il existe un chemin plus court. Il en existe un, et c'est mon métier.
 
 
-## AVANT DE TOURNER — pour toi, pas pour la vidéo
+### La solution que j'apporte dans cette vidéo
 
-Archigraphie 2024-2026, publié par le Conseil national de l'Ordre, 83 pages. Les revenus
-datent de 2022, les effectifs de 2023 : ce sont les derniers états publiés, et tu
-l'annonces dès la première minute.
+Le chemin plus court, c'est d'arrêter d'attendre que le réseau se constitue et d'ouvrir une
+source de projets qui, elle, se décide.
+
+Dans la vidéo, je montre ce qui sépare réellement les deux quartiles : pas le talent, mais
+le fait d'avoir ou non un canal qu'on peut ouvrir quand on en a besoin. La recommandation
+met trente ans à produire ce revenu-là. La publicité en ligne produit des demandes en
+quelques jours, sur la zone et le type de projet qu'on choisit.
+
+Ce n'est pas mieux que le réseau. C'est ce qu'on met à côté pendant que le réseau se
+construit.
+
+
+## AVANT DE TOURNER — le mécanisme, expliqué en entier
+
+
+### D'où viennent ces chiffres, exactement
+
+Archigraphie est le portrait statistique de la profession, publié par le Conseil national
+de l'Ordre des architectes. L'édition en cours s'appelle 2024-2026 et fait 83 pages.
 https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
-Les données viennent de la CIPAV, leur caisse de retraite, sur le champ des libéraux et
-associés non salariés. Ni sondage, ni estimation.
+Les revenus qu'il contient ne viennent pas d'un sondage : ils viennent de la CIPAV, la
+caisse de retraite des professions libérales. Ce sont des revenus déclarés, sur le champ
+des architectes libéraux et associés non salariés — les salariés d'agence n'y sont pas.
 
-Erreur à ne pas reproduire : 39 570 euros n'est pas un pic de carrière, c'est le revenu
-moyen des 65 ans et plus en 2022, en baisse. Le sommet est à 57 277 euros chez les
-55-64 ans.
+Ils datent de 2022. Les effectifs, eux, de 2023. C'est le dernier état publié, et tu dois
+l'annoncer dès la première minute : quelqu'un qui ouvre le PDF pendant la vidéo verra la
+date, et s'il la découvre après toi, tu perds la confiance de toute l'audience.
+
+
+### Ce qu'est un quartile, et pourquoi ça change tout
+
+Une moyenne additionne tout le monde et divise. Elle est écrasée par les extrêmes : trois
+gros cabinets remontent la moyenne d'une région entière, et le chiffre ne décrit plus
+personne.
+
+Un quartile coupe la population en quatre parts égales. Le premier quartile est le seuil
+sous lequel se trouvent les 25 % qui gagnent le moins. La médiane coupe en deux. Le
+troisième quartile est le seuil au-dessus duquel se trouvent les 25 % qui gagnent le plus.
+
+C'est pour ça qu'on ne parle jamais de moyenne dans cette vidéo. Trois seuils racontent une
+distribution ; une moyenne ne raconte rien.
+
+
+### Les chiffres, et ce qu'ils disent
+
+En 2022 : premier quartile à 13 342 euros, médiane à 32 983 euros, troisième quartile à
+59 931 euros. Graphique 19, page 32.
+
+Le premier quartile a baissé de 10 % en deux ans. Le troisième est monté. Le rapport entre
+les deux est passé de 4,2 en 2019 à 4,5 en 2022.
+
+C'est cette divergence qui porte toute la vidéo. Une conjoncture frappe les deux extrémités
+ensemble : quand le marché se contracte, tout le monde encaisse. Ce qui fait baisser le bas
+pendant que le haut monte n'est pas une conjoncture. C'est un écartement, et un écartement
+suppose que les uns font quelque chose que les autres ne font pas.
+
+
+### Pourquoi le revenu culmine à 55-64 ans
+
+C'est la deuxième information du document, et personne ne la cite. Le revenu moyen atteint
+son sommet à 57 277 euros chez les 55-64 ans. Le document écrit que l'écart avec les plus
+jeunes est « de plus du double, avec près de 29 000 euros d'écart de revenus annuels en
+moyenne ».
+
+L'explication tient au canal. Dans ce métier, les projets viennent de la recommandation, et
+la recommandation est un capital qui s'accumule très lentement : un client satisfait en
+amène un autre deux ans plus tard, un prescripteur en amène trois sur une décennie. Il faut
+une carrière entière pour constituer un réseau qui produit sans effort.
+
+Autrement dit, ce n'est pas un métier mal payé. C'est un métier dont la seule méthode connue
+pour bien payer demande trente ans. Et il y a un corollaire plus dur : la courbe redescend
+après 65 ans, parce que le réseau part à la retraite en même temps que celui qui l'a
+construit.
+
+
+### Pourquoi c'est ton sujet à toi
+
+Tout ce qui précède décrit un problème de canal, pas de compétence. Les cabinets du
+troisième quartile ne conçoivent pas mieux : ils ont plusieurs sources de projets là où les
+autres en ont une.
+
+Et le seul levier qui ne dépende pas du temps qui passe, c'est la publicité en ligne. Elle
+permet d'être devant quelqu'un qui a un projet aujourd'hui sans avoir vingt ans de
+réputation derrière soi. C'est littéralement ce qui raccourcit les trente ans que décrit la
+courbe.
+
+
+### Erreur à ne pas reproduire
+
+39 570 euros n'est pas un pic de carrière : c'est le revenu moyen des 65 ans et plus en
+2022, en baisse. Le sommet est à 57 277 euros chez les 55-64 ans.
+
 
 
 ## LE PIÈGE — le ton, pas les chiffres
@@ -217,8 +299,9 @@ publicité — c'est faux depuis 1992, et je vous montre le texte dans la vidéo
 
 ## TITRE ET MINIATURE
 
-Principal : La moitié des architectes gagnent moins que ça (les chiffres de l'Ordre)
-Variante : Ce que gagne vraiment un architecte libéral — personne ne montre cette page
+Principal : La moitié des architectes gagnent moins de 32 983 € par an
+Variante : Le quart du bas perd 10 %, le quart du haut monte. Ce n'est pas la conjoncture.
+Variante : Ce métier n'a qu'une méthode connue pour bien payer, et elle prend trente ans
 
 Miniature : « 32 983 € » en très gros, dessous en petit « source : CIPAV ». Bandeau
 discret « Archigraphie 2024-2026 ». Visage à droite, sourcils levés. Le chiffre est la

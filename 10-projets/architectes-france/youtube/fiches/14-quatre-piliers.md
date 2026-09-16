@@ -18,30 +18,95 @@ clients des trois dernières années, et demandez-vous quel âge a la personne q
 envoyé chacun d'eux.
 
 
-## AVANT DE TOURNER — pour toi, pas pour la vidéo
+### La solution que j'apporte dans cette vidéo
 
-Cet épisode est une synthèse, il n'a pas de source externe : sa valeur vient de la clarté
-du modèle et de l'ordre de montage.
+Monter le quatrième pilier, et dans le bon ordre.
 
-Les quatre piliers, avec leurs caractéristiques réelles :
+Dans la vidéo, je compare les quatre sur le seul critère qui décide : le délai entre la
+décision et l'effet. Recommandation, plusieurs mois et sans garantie. Trouvabilité locale,
+quelques semaines. Contenu, plusieurs mois de régularité. Publicité, quelques jours.
 
-La recommandation — le plus rentable en taux de signature, le moins pilotable. On ne
-l'ouvre pas sur décision, on ne l'accélère pas, et elle ne franchit pas une frontière
-départementale.
+Un cabinet qui a besoin de projets dans six semaines n'a donc qu'une seule option parmi les
+quatre. Ce n'est pas un jugement de valeur : la recommandation reste la meilleure en taux de
+signature. C'est la seule qui donne un interrupteur.
 
-La trouvabilité locale — fiche Google, recherche « architecte + ville ». Gratuite, effet en
-quelques semaines, plafonnée par le volume de recherche du territoire.
 
-Le contenu — ce qui prouve la compétence avant le premier rendez-vous. Lent, cumulatif,
-gratuit en argent et cher en temps.
+## AVANT DE TOURNER — le mécanisme, expliqué en entier
 
-La publicité — le seul qui s'ouvre et se ferme sur décision, le seul qui se mesure au coût
+Cet épisode est une synthèse : sa valeur ne vient pas d'une source externe mais de la
+clarté du modèle et de l'ordre de montage. C'est le seul de la chaîne dans ce cas, et ça se
+dit.
+
+
+### Pourquoi un cabinet à un seul appui ne voit pas le problème
+
+Un appui unique ne se manifeste pas comme un risque tant qu'il tient. Il se manifeste comme
+une normalité : les projets arrivent, on n'a jamais eu besoin de rien d'autre, et
+l'acquisition apparaît comme une dépense pour un problème qu'on n'a pas.
+
+Le problème n'apparaît qu'au moment où l'appui bouge — et à ce moment-là, il est trop tard
+pour en construire un second, puisque les trois autres piliers demandent tous des semaines
+ou des mois avant de produire.
+
+C'est pour ça que ce sujet doit être traité quand ça va bien, et que presque personne ne le
+fait.
+
+
+### Les quatre piliers, avec leurs caractéristiques réelles
+
+La recommandation. Le plus rentable en taux de signature : quelqu'un qui arrive
+recommandé arrive déjà convaincu. Et le moins pilotable : on ne l'ouvre pas sur décision, on
+ne l'accélère pas, et elle ne franchit pas une frontière départementale.
+
+La trouvabilité locale. Fiche Google, recherche « architecte + ville ». Gratuite, effet en
+quelques semaines. Son plafond n'est pas de son fait : elle est limitée par le nombre de
+gens qui cherchent sur le territoire, ce qui n'a rien à voir avec la qualité du cabinet.
+
+Le contenu. Ce qui prouve la compétence avant le premier rendez-vous. Lent, cumulatif,
+gratuit en argent et cher en temps — et c'est précisément le pilier que les gens attaquent
+en premier alors qu'il devrait venir en dernier.
+
+La publicité. Le seul qui s'ouvre et se ferme sur décision, le seul qui se mesure au coût
 par demande, et le seul qui coûte de l'argent dès le premier jour.
 
-L'ordre de montage quand on part d'un seul pilier : la trouvabilité d'abord parce qu'elle
-est gratuite et rapide, la publicité ensuite parce qu'elle produit vite et se mesure, le
-contenu en dernier parce qu'il demande une régularité que personne ne tient les premiers
-mois.
+
+### La vraie ligne de partage entre les quatre
+
+Elle n'est pas le coût. Elle est le délai entre la décision et l'effet.
+
+Recommandation : plusieurs mois, et encore, sans garantie. Trouvabilité : quelques semaines.
+Contenu : plusieurs mois de régularité. Publicité : quelques jours.
+
+Un cabinet qui a besoin de projets dans six semaines n'a, en réalité, qu'une seule option
+parmi les quatre. C'est un constat de délai, pas une préférence — et c'est ce qui rend la
+démonstration acceptable.
+
+
+### L'exercice qui fait basculer la vidéo
+
+Ouvrir la liste des clients des trois dernières années, et pour chacun, se demander qui l'a
+envoyé et quel âge a cette personne.
+
+Ce que l'exercice révèle : dans beaucoup de cabinets, la majorité des projets vient de trois
+ou quatre prescripteurs, souvent proches de la fin de leur activité. Ce n'est pas un réseau,
+c'est une dépendance à quelques personnes.
+
+Ne donne aucun pourcentage là-dessus : personne ne publie cette donnée. Fais faire
+l'exercice, chacun aura son propre chiffre — et c'est bien plus fort qu'une statistique.
+
+
+### Pourquoi c'est ton sujet à toi
+
+Parce que le problème que vit un cabinet n'est presque jamais « je n'ai pas de clients ».
+C'est « je ne peux pas décider d'en avoir ».
+
+Un appui qu'on ne peut pas ouvrir n'est pas un canal d'acquisition : c'est une chance
+récurrente. Elle peut durer dix ans et s'arrêter en un trimestre, sans prévenir et sans
+qu'on sache pourquoi.
+
+Ce que la publicité apporte n'est pas un meilleur taux de signature — la recommandation
+gagne sur ce terrain et il faut le dire. C'est un interrupteur. Et un cabinet qui a un
+interrupteur ne dépend plus de personne.
 
 
 ## LE PIÈGE — ne pas présenter la publicité comme supérieure
@@ -213,7 +278,8 @@ clients, et l'âge de ceux qui vous les ont envoyés. »
 ## TITRE ET MINIATURE
 
 Principal : Vous avez un pilier sur quatre, et c'est le moins pilotable
-Variante : L'acquisition d'un cabinet repose sur 4 piliers (vous n'en avez qu'un)
+Variante : Votre cabinet tient sur une seule source de clients. Laquelle ?
+Variante : Quatre façons d'avoir des projets. Vous n'en utilisez qu'une.
 
 Miniature : quatre colonnes dont trois grisées. Texte « 1 / 4 » en très gros. Visage à
 droite.

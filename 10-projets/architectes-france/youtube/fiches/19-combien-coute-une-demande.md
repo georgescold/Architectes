@@ -19,24 +19,107 @@ coût de conquête : dans leur formation, un projet a un coût de construction, 
 d'acquisition.
 
 
-## AVANT DE TOURNER — pour toi, pas pour la vidéo
+### La solution que j'apporte dans cette vidéo
 
-Le tableur se construit à l'écran, case par case, avec les chiffres du spectateur et non
-les tiens. Six cases :
+Donner le tableau qui rend la décision évidente, avec ses chiffres à lui.
 
-Honoraires moyens par projet signé. Taux de transformation d'une demande en rendez-vous.
-Taux de transformation d'un rendez-vous en signature. Coût d'une demande. Puis, par calcul :
-coût par signature, et coût par signature rapporté aux honoraires moyens.
+Dans la vidéo, je construis les six cases à l'écran, et je montre que le problème est
+presque toujours dans les taux de transformation et non dans le coût du contact — ce qui
+veut dire qu'on peut diviser son coût par signature par deux sans dépenser un euro de plus.
 
-L'exemple d'ouverture est de l'arithmétique, pas une statistique : 250 000 euros de travaux
-à 12 % d'honoraires donnent 30 000 euros. Annonce que ce sont des chiffres ronds choisis
-pour la démonstration, et que 12 % est un ordre de grandeur de marché, pas un barème.
+Et l'argument qui compte vraiment n'est pas que la publicité serait moins chère. C'est
+qu'elle est le seul canal dont on connaisse le prix. Le bouche-à-oreille n'envoie pas de
+facture, mais il n'envoie pas de statistiques non plus — donc on ne peut prendre aucune
+décision dessus.
+
+
+## AVANT DE TOURNER — le mécanisme, expliqué en entier
+
+
+### Pourquoi ce chiffre n'existe dans presque aucun cabinet
+
+Ce n'est pas de la négligence. C'est une absence de vocabulaire.
+
+Dans la formation d'un architecte, un projet a un coût de construction, un coût
+d'exploitation, parfois un coût global sur le cycle de vie. Il n'a jamais de coût
+d'acquisition — la notion n'est enseignée nulle part et le mot n'appartient pas au métier.
+
+Conséquence : quand on demande « combien vous coûte un client », la question met mal à
+l'aise. Pas parce que la réponse est gênante, mais parce que personne n'a jamais appris
+qu'on pouvait se la poser.
+
+
+### La mauvaise unité, et pourquoi elle mène à une décision fausse
+
+Le raisonnement spontané est : « mille euros par mois, ça fait douze mille euros par an,
+c'est cher ».
+
+L'erreur n'est pas dans le calcul, elle est dans l'unité. Personne ne raisonne comme ça sur
+les autres postes : on ne dit pas « mon assurance décennale coûte tant par an, c'est cher »,
+on dit qu'elle est nécessaire à l'exercice.
+
+La bonne unité n'est pas l'euro par mois. C'est le pourcentage des honoraires d'un projet
+que l'acquisition consomme. Tant qu'on raisonne en dépense mensuelle, la publicité est un
+coût. Dès qu'on raisonne en coût par signature, c'est une ligne de compte de résultat comme
+une autre — et elle se compare aux autres canaux, y compris au temps passé en prospection.
+
+
+### Le tableur, case par case
+
+Il se construit à l'écran avec les chiffres du spectateur, jamais les tiens. Six cases.
+
+Honoraires moyens par projet signé, sur deux ans. Taux de transformation d'une demande en
+rendez-vous. Taux de transformation d'un rendez-vous en signature. Coût d'une demande. Puis,
+par calcul : coût par signature, et coût par signature rapporté aux honoraires moyens.
+
+Le calcul de la case 5 : coût d'une demande divisé par le produit des deux taux. C'est la
+seule opération de la vidéo, et elle explique pourquoi les taux comptent davantage que le
+prix du contact — ils se multiplient entre eux.
+
+L'exemple d'ouverture est de l'arithmétique avec des chiffres ronds choisis pour la
+démonstration : 250 000 euros de travaux à 12 % d'honoraires donnent 30 000 euros. Annonce-le,
+et présente 12 % comme un ordre de grandeur de marché, jamais comme un barème.
 https://www.hemea.com/fr/architecture/architecte-interieur/prix
 
-⚠️ Tu ne peux annoncer aucun coût par demande de référence pour le secteur. Il n'existe
-aucune source publique et fiable sur le coût d'un contact en architecture, et il varie
-énormément selon le département, la saison et le type de projet. Tu donnes la méthode, pas
-un chiffre à recopier.
+
+### La case 4 est le vrai angle mort, y compris pour la prospection gratuite
+
+C'est le point qui fait basculer la vidéo, et il ne concerne pas la publicité.
+
+Une demi-journée passée à relancer d'anciens contacts n'est pas gratuite : c'est une
+demi-journée qui n'a pas été passée à produire. Valorisée au taux horaire, même
+approximativement, elle a un coût — et il faut la diviser par le nombre de demandes qu'elle
+a réellement produites, qui est souvent très faible.
+
+Beaucoup de cabinets découvrent à ce moment-là que leur canal « gratuit » est le plus cher
+de tous. Ce n'est pas un argument de vente, c'est ce que donne le calcul.
+
+
+### Où est le problème quand la case 6 est mauvaise
+
+Presque toujours dans les taux, pas dans le coût de la demande.
+
+Raison arithmétique : les deux taux se multiplient. Passer de deux rendez-vous sur dix
+demandes à quatre divise le coût par signature par deux, sans dépenser un euro de plus.
+Négocier le coût du contact, au mieux, le fait baisser de quelques pourcents.
+
+C'est une bonne nouvelle à annoncer comme telle, et elle désamorce l'idée que la seule
+réponse serait de dépenser davantage.
+
+
+### Pourquoi c'est ton sujet à toi
+
+L'argument ne doit pas être « la publicité est moins chère ». Il doit être : c'est le seul
+canal dont on connaît le prix.
+
+Le bouche-à-oreille n'envoie pas de facture, mais il n'envoie pas de statistiques non plus.
+On ne sait pas combien il amène, ni pourquoi il baisse quand il baisse, ni comment
+l'augmenter. Un canal qu'on ne mesure pas est un canal sur lequel on ne peut prendre aucune
+décision.
+
+La publicité en ligne se mesure entièrement : dépense, demandes, coût de chacune. Et parfois
+la comparaison lui est défavorable — auquel cas on le sait en trois semaines et on arrête.
+C'est ça, son avantage réel : elle donne un bouton.
 
 
 ## LE PIÈGE — aucun chiffre de référence n'existe
@@ -235,7 +318,8 @@ C'est le chiffre qui rend toutes les décisions suivantes évidentes. »
 ## TITRE ET MINIATURE
 
 Principal : Combien coûte vraiment une demande de projet en architecture
-Variante : Le seul chiffre qui rend vos décisions commerciales évidentes
+Variante : Vous ne connaissez pas le coût d'un client. Voici comment le calculer en six cases.
+Variante : Ce n'est pas mille euros par mois. C'est un pourcentage de vos honoraires.
 
 Miniature : un tableur avec six cases dont deux surlignées. Texte « CASE 6 » en très gros.
 Visage à droite.

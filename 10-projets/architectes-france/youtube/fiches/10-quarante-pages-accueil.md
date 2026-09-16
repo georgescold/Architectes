@@ -21,40 +21,107 @@ répond pas à ça ne peut convertir aucun trafic, qu'il vienne de Google, d'Ins
 d'une campagne payante.
 
 
-## RELEVÉ À FAIRE AVANT TOURNAGE
+### La solution que j'apporte dans cette vidéo
 
-Le relevé n'existe pas. Tant qu'il n'est pas fait, aucun chiffre ne se prononce — ni
+Mettre quatre informations au-dessus de la ligne de flottaison : la zone, le type de
+projet, un ordre de grandeur d'enveloppe, un interlocuteur joignable.
+
+Dans la vidéo, je montre le relevé, puis je réécris une page en direct avec ces quatre
+éléments. C'est gratuit et ça se fait en une heure.
+
+Et c'est ce qui décide du prix de toute acquisition future : sur une page qui dit ces
+quatre choses, un même budget publicitaire produit deux fois plus de demandes, et des
+demandes qu'on peut réellement traiter.
+
+
+## AVANT DE TOURNER — le mécanisme, expliqué en entier
+
+⚠️ Le relevé n'existe pas encore. Aucun chiffre ne se prononce avant qu'il soit fait — ni
 « 38 sur 40 », ni « la majorité », ni « presque tous ».
 
-Méthode, une demi-journée :
 
-Constituer l'échantillon. Quarante cabinets tirés de l'annuaire public de l'Ordre, répartis
-sur au moins dix départements, en excluant les agences de plus de dix personnes qui ne
-sont pas la cible de la chaîne.
+### Le relevé à faire, une demi-journée
+
+Constituer l'échantillon : quarante cabinets tirés de l'annuaire public de l'Ordre, répartis
+sur au moins dix départements, en excluant les agences de plus de dix personnes qui ne sont
+pas la cible de la chaîne.
 https://www.architectes.org/
 
-Relever pour chacun, dans un tableur, six colonnes : la première phrase visible sans
-défiler · la zone est-elle écrite, oui ou non · le type de projet est-il précisé, oui ou
-non · un ordre de grandeur d'enveloppe est-il donné, oui ou non · un nom de personne
-apparaît-il · un numéro de téléphone est-il visible sans défiler.
+Relever six colonnes dans un tableur : la première phrase visible sans défiler · la zone
+est-elle écrite, oui ou non · le type de projet est-il précisé · un ordre de grandeur
+d'enveloppe est-il donné · un nom de personne apparaît-il · un numéro est-il visible sans
+défiler.
 
 Compter. Les chiffres qui sortent sont ceux que tu annonces, quels qu'ils soient. Si le
 résultat contredit l'hypothèse de départ, l'épisode change de conclusion — il ne change pas
 de chiffres.
 
-Conserver le tableur : c'est la preuve à montrer à l'écran, avec les noms masqués.
+Conserver le tableur : c'est la preuve à montrer à l'écran, noms masqués.
 
 
-## AVANT DE TOURNER — pour toi, pas pour la vidéo
+### Comment un maître d'ouvrage cherche réellement
 
-Les quatre profils de maîtres d'ouvrage qui frappent réellement à la porte d'un cabinet :
-celui qui agrandit — un enfant de plus, le télétravail, un parent âgé ; celui qui vient
-d'acheter de l'ancien à rénover ; celui qui construit sur un terrain qu'il possède ; et le
-professionnel qui aménage un local.
+C'est le mécanisme que le spectateur ne voit jamais, parce qu'il ne voit que les gens qui
+l'ont contacté.
 
-Aucun des quatre ne cherche « un architecte ». Chacun cherche quelqu'un qui a déjà fait ce
-qu'il veut faire. C'est toute la différence entre une page qui présente et une page qui
-convertit.
+Quelqu'un qui envisage des travaux ne téléphone pas le premier jour. Il cherche pendant
+plusieurs semaines sans parler à personne, il compare trois ou quatre noms, et il écrit à
+un seul.
+
+Conséquence : le cabinet ne saura jamais que les deux autres ont existé. Il verra seulement
+que le téléphone ne sonne pas, et il attribuera ça au marché.
+
+
+### Les quatre personnes qui frappent à la porte
+
+« Le client » n'existe pas. Il y a quatre profils, et chacun cherche un exemple qui lui
+ressemble.
+
+Celui qui agrandit : un enfant de plus, le télétravail, un parent âgé qui vient vivre là.
+Celui qui vient d'acheter de l'ancien et doit tout refaire. Celui qui a un terrain et veut
+construire. Et le professionnel qui aménage un local.
+
+Aucun des quatre ne cherche « un architecte ». Chacun cherche quelqu'un qui a déjà fait
+exactement ce qu'il veut faire. Un seul exemple comparable vaut mieux que trente projets
+magnifiques mais différents.
+
+
+### Pourquoi ces pages sont faites comme ça
+
+Ce n'est pas un manque de soin — ces sites sont souvent très beaux. C'est un héritage de
+formation : on apprend à présenter un projet devant un jury, c'est-à-dire devant des gens
+qui connaissent le vocabulaire et savent lire un plan.
+
+Personne n'apprend à écrire pour quelqu'un qui n'a jamais commandé de plans de sa vie et
+qui ne sait pas ce qu'est une mission complète. Ce sont deux exercices opposés, et le
+second n'est enseigné nulle part.
+
+D'où le site conçu comme un book : grandes images, peu de texte, navigation « projets /
+agence / contact ». C'est un objet fait pour des confrères, pas pour des clients.
+
+
+### Les quatre informations, et le test du remplacement
+
+Au-dessus de la ligne de flottaison : la zone, le type de projet, un ordre de grandeur
+d'enveloppe de travaux, et un interlocuteur — un nom, un visage, un numéro.
+
+Le test à donner aux spectateurs : prenez votre première phrase et remplacez le nom de
+votre agence par celui d'un confrère. Si la phrase reste vraie, elle ne dit rien.
+
+
+### Pourquoi c'est ton sujet à toi
+
+La page d'accueil fixe le prix de chaque demande.
+
+Quand tu diffuses une campagne, tu paies chaque visiteur. S'il arrive sur une page qui ne
+dit ni où, ni quoi, ni pour quel budget, il repart : le clic est payé, la demande n'existe
+pas. Et sans ordre de grandeur annoncé, tu reçois des demandes à 15 000 euros de travaux que
+le cabinet ne prendra jamais — tu paies pour qualifier à la main ce que trois lignes
+auraient filtré.
+
+Une bonne page peut diviser le coût par demande par deux sans changer un euro de budget
+publicitaire. C'est pour ça qu'on ne lance jamais une campagne sur une page qui n'a pas les
+quatre informations.
 
 
 ## LE PIÈGE — ne jamais montrer un cabinet identifiable
@@ -232,6 +299,7 @@ c'est votre fiche Google — et là, c'est souvent pire. »
 ## TITRE ET MINIATURE
 
 Principal : J'ai lu la page d'accueil de 40 cabinets d'architecture
+Variante : Votre page d'accueil est faite pour des confrères, pas pour vos clients
 Variante : Le test en 5 secondes que presque aucune page d'architecte ne passe
 
 Miniature : un chiffre issu du relevé, en très gros, dessous « sur 40 ». Visage à droite,

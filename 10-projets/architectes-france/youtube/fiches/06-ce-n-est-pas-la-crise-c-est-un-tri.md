@@ -1,4 +1,4 @@
-# EP06 — Ce n'est pas la crise. C'est un tri.
+# EP06 — Architectes : ce n'est pas la crise, c'est un tri
 
 Épisode 06/20 · CONSTAT · architecte DE et architecte d'intérieur · 13-15 min
 
@@ -18,21 +18,107 @@ de projets. Ceux qui traversent en ont plusieurs ; ceux qui tombent en avaient u
 et elle s'est fermée.
 
 
-## AVANT DE TOURNER — pour toi, pas pour la vidéo
+### La solution que j'apporte dans cette vidéo
 
-Ce qui est établi : les organisations professionnelles constatent une hausse inédite des
-plans de licenciement et des liquidations. Le Moniteur titre sur « une crise inédite » dans
-les agences d'architecture.
+Se doter d'une deuxième source de projets pendant que la première tient encore.
+
+Dans la vidéo, je montre pourquoi ceux qui traversent ont plusieurs sources et ceux qui
+tombent en avaient une seule. Et pourquoi le moment de construire la deuxième n'est pas
+celui où le téléphone s'arrête : tous les canaux demandent des semaines avant de produire,
+sauf un.
+
+La publicité en ligne est le seul qui s'ouvre sur décision et produise en quelques jours.
+C'est ce qui en fait, dans un tri, la seule réponse disponible à court terme.
+
+
+## AVANT DE TOURNER — le mécanisme, expliqué en entier
+
+
+### Ce qui est établi, et ce qui ne l'est pas
+
+Établi : les organisations professionnelles constatent une hausse inédite des plans de
+licenciement et des liquidations dans le secteur. Le Moniteur titre sur « une crise inédite »
+dans les agences d'architecture.
 https://www.lemoniteur.fr/article/defaillances-d-entreprises-4-5-dans-les-agences-d-architecture-une-crise-inedite.2347934
 
-Trois causes documentées : la commande publique se contracte et les municipales de 2026
-gèlent les projets ; les retards de paiement assèchent les petites structures ; et le
-décalage propre au métier fait qu'on encaisse le retournement après les entreprises de
-construction, parce qu'on termine d'abord les projets en cours.
+Non établi : les chiffres nationaux précis. Il n'existe pas de statistique publique et à
+jour des défaillances d'agences d'architecture en accès libre — les données du code NAF
+71.11Z sont diffusées en graphiques sans totaux bruts.
 
-Mesure de soutien qui prouve la gravité : un accord de branche de juillet 2025 facilite
-l'accès à l'activité partielle de longue durée « rebond », avec des demandes possibles
-jusqu'au 28 février 2026.
+Tu dois dire cette limite toi-même dans la vidéo. C'est ce qui te permet ensuite d'asséner
+les chiffres qui, eux, sont solides.
+
+
+### Les trois causes, et comment elles s'enchaînent
+
+La commande publique se contracte, et les élections municipales de 2026 accélèrent le
+phénomène : un maire sortant n'engage pas un programme qu'il ne mènera peut-être pas. Les
+projets se gèlent mécaniquement avant l'échéance, et un nouveau conseil met généralement
+douze à dix-huit mois avant d'engager les siens. Ça fait deux à trois ans de creux sur ce
+canal.
+
+Les retards de paiement, y compris de grandes collectivités, assèchent la trésorerie des
+petites structures. Une agence de trois personnes n'a pas le matelas pour porter six mois
+de facturation impayée, même sur des créances certaines.
+
+Et le décalage, qui est le point le plus important pour ton spectateur : les architectes
+encaissent un retournement après les entreprises de construction, parce qu'ils terminent
+d'abord les projets en cours. Pendant que le bâtiment montre des signes de reprise, la
+conception continue d'annoncer des fermetures.
+
+Conséquence directe : un cabinet peut se sentir épargné aujourd'hui et ne plus l'être dans
+neuf mois. Son carnet décrit le passé, pas l'avenir.
+
+La gravité se mesure aussi aux mesures de soutien : un accord de branche de juillet 2025
+facilite l'accès à l'activité partielle de longue durée « rebond », avec des demandes
+possibles jusqu'au 28 février 2026.
+
+
+### Pourquoi « crise » est le mauvais mot, et pourquoi ça change tout
+
+Une crise est un choc qui frappe l'ensemble d'un secteur. Quand le marché se contracte, les
+gros comme les petits encaissent, et la reprise profite à tous. Dans une crise, attendre est
+rationnel.
+
+Or les données de la CIPAV montrent autre chose. Entre 2019 et 2022, le premier quartile de
+revenus a baissé de 10 % pendant que le troisième montait, et le rapport entre les deux est
+passé de 4,2 à 4,5.
+https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
+
+Un phénomène qui écarte les deux extrémités n'est pas un choc commun. C'est un tri : les
+mêmes conditions de marché produisent des résultats opposés selon les cabinets, ce qui veut
+dire qu'une variable les distingue.
+
+Et la conséquence pratique est radicale. Dans une crise, attendre la reprise est une
+stratégie. Dans un tri, attendre est une position — celle de ceux qui tombent.
+
+
+### Ce que fait le groupe qui monte
+
+Ce n'est ni la taille, ni le prestige, ni la qualité du travail. C'est le nombre de sources
+de projets.
+
+Celui qui tombe avait un canal, un seul : un prescripteur parti à la retraite, une
+collectivité qui a gelé ses programmes, un promoteur qui s'est arrêté. Quand il se ferme,
+tout se ferme d'un coup.
+
+Celui qui traverse en avait trois ou quatre. Il a senti la fermeture de l'un d'eux sans que
+son activité s'arrête.
+
+
+### Pourquoi c'est ton sujet à toi
+
+Regarde les sources de projets classiques : la commande publique, on la subit ; la
+recommandation, on l'attend ; le concours, on le tente. Aucune ne s'ouvre sur décision.
+
+La publicité en ligne est la seule source de demandes qu'on ouvre quand on veut, sur la zone
+qu'on veut, et qu'on ferme quand le carnet est plein. C'est exactement ce qui manque à un
+cabinet qui vient de perdre un appel d'offres.
+
+Et il y a un point contre-intuitif qui mérite d'être dit : quand un marché se tend, les
+annonceurs coupent leurs budgets, donc les enchères baissent. Mécaniquement, c'est le moment
+où une demande coûte le moins cher.
+
 
 
 ## LE PIÈGE — les chiffres que tu ne peux pas avancer
@@ -223,8 +309,9 @@ suivante. »
 
 ## TITRE ET MINIATURE
 
-Principal : Ce n'est pas la crise. C'est un tri.
-Variante : Pourquoi certains cabinets gagnent plus qu'avant pendant que d'autres ferment
+Principal : Architectes : ce n'est pas la crise, c'est un tri
+Variante : Pourquoi des cabinets gagnent plus qu'avant pendant que d'autres ferment
+Variante : Dans une crise, attendre est raisonnable. Dans un tri, c'est une position.
 
 Miniature : deux courbes qui divergent. Texte « TRI » en très gros. Visage à droite.
 

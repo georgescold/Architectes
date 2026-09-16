@@ -1,4 +1,4 @@
-# EP08 — Vous n'avez pas un problème de communication, il vous manque trois informations
+# EP08 — Il ne vous manque pas une stratégie, il vous manque trois informations
 
 Épisode 08/20 · SYSTÈME · architecte DE et architecte d'intérieur · 12-14 min
 Aucune source externe : c'est une démonstration. Tournable en une prise.
@@ -19,20 +19,103 @@ six ans. Attendre que le book soit étoffé, que la charte soit finie, que le si
 parfait. Pendant ce temps, zéro demande.
 
 
-## AVANT DE TOURNER — pour toi, pas pour la vidéo
+### La solution que j'apporte dans cette vidéo
 
-Cet épisode ne repose sur aucune donnée externe. Sa force vient de la démonstration : tu
-montres une page générique, tu poses les trois informations, et la différence saute aux
-yeux à l'écran.
+Écrire trois informations, aujourd'hui, avant de refaire quoi que ce soit.
 
-Prépare deux versions d'une même page, fabriquées par toi, sans reprendre aucun site
-existant. Avant : « Atelier X, architecture et maîtrise d'œuvre, à l'écoute de vos
-projets ». Après : « Extensions et rénovations de maisons en Ille-et-Vilaine, à partir de
-80 000 € de travaux. »
+Dans la vidéo : où vous travaillez, ce que vous faites précisément, à partir de quel ordre
+de grandeur. Sur la page d'accueil, la bio et la fiche Google. Une heure de travail, zéro
+euro.
+
+Et c'est aussi la condition pour que la suite ait un sens : une campagne envoie des gens
+sur une page. Si la page ne dit pas ces trois choses, chaque visiteur est payé et repart.
+C'est pour ça qu'on ne diffuse jamais avant de les avoir écrites.
+
+
+## AVANT DE TOURNER — le mécanisme, expliqué en entier
+
+
+### Pourquoi cet épisode n'a aucune source externe
+
+C'est une démonstration, pas un constat chiffré. Sa force vient de ce qui se passe à
+l'écran : tu montres une page générique, tu poses les trois informations, et la différence
+saute aux yeux.
+
+Prépare donc deux versions d'une même page, fabriquées par toi, sans reprendre aucun site
+existant. Avant : « Atelier X, architecture et maîtrise d'œuvre, à l'écoute de vos projets ».
+Après : « Extensions et rénovations de maisons en Ille-et-Vilaine, à partir de 80 000 euros
+de travaux. »
 
 Interdit absolu : montrer la page d'un cabinet réel comme mauvais exemple, même floutée.
 C'est de la confraternité pour les architectes inscrits, et du dénigrement pour tout le
 monde.
+
+
+### Pourquoi le perfectionnisme n'est pas un défaut de caractère
+
+C'est le point qui retire la culpabilité, et il faut le comprendre pour le dire sans
+condescendance.
+
+Pendant six ans, un étudiant en architecture est noté sur le rendu. En studio, présenter un
+travail inachevé signifie se faire démonter en jury, devant tout le monde. On apprend à ne
+montrer que du fini, et cet apprentissage est parfaitement adapté à la conception : un plan
+approximatif produit un bâtiment approximatif.
+
+Le problème, c'est que ce réflexe est catastrophique en communication. Parce qu'en
+communication, ce qui n'est pas publié n'existe pas. Une page imparfaite en ligne bat une
+page parfaite qui sort dans dix-huit mois.
+
+D'où le scénario qu'on voit partout : un projet de refonte qui traîne, un devis à 4 000 euros
+jamais signé, un book qu'on attend d'étoffer avec le prochain projet — qui n'arrive pas,
+justement parce que la page ne dit rien. Le perfectionnisme ne protège de rien : il coûte
+une année et demie de visibilité.
+
+
+### Ce qu'un client regarde vraiment, et dans quel ordre
+
+Trois choses, dans cet ordre précis.
+
+Est-ce que cette personne a déjà fait quelque chose qui ressemble à mon projet. Un seul
+exemple comparable suffit — pas trente magnifiques mais différents.
+
+Est-ce qu'elle travaille chez moi. Pas dans ma région : chez moi.
+
+À qui je vais parler. Un nom, un visage, un numéro.
+
+Tout le reste — la charte graphique, les distinctions, la philosophie de l'agence — arrive
+après, et seulement si ces trois questions ont trouvé une réponse.
+
+
+### Les trois informations, et pourquoi la troisième fait peur
+
+Où vous travaillez : écrit, en haut, avec le nom du département ou des villes. Pas « Grand
+Ouest », pas « toute la France ».
+
+Ce que vous faites précisément : pas « architecture et maîtrise d'œuvre », qui ne désigne
+rien. « Extensions et surélévations de maisons ». « Rénovation d'appartements haussmanniens ».
+« Aménagement de locaux professionnels ». Le visiteur doit se reconnaître ou partir — et les
+deux font gagner du temps.
+
+Un ordre de grandeur d'enveloppe : « à partir de 80 000 euros de travaux ». C'est la phrase
+que personne ne veut écrire, parce qu'elle a l'air de fermer des portes. En réalité elle
+enlève les rendez-vous qui n'auraient jamais abouti, et c'est précisément pour ça qu'elle
+fait peur : elle rend visible le nombre de visites inutiles qu'on accepte.
+
+
+### Pourquoi c'est ton sujet à toi
+
+Ces trois informations ne relèvent pas de la communication, elles relèvent de
+l'infrastructure d'acquisition.
+
+Une campagne publicitaire amène des gens sur une page. Si la page ne dit ni où, ni quoi, ni
+à partir de combien, ils repartent : le clic est payé, la demande n'existe pas. Et sans
+ordre de grandeur annoncé, on reçoit des demandes à 20 000 euros de travaux que le cabinet
+ne prendra jamais — on paie donc pour qualifier à la main ce que trois lignes auraient
+filtré toutes seules.
+
+Autrement dit, ces trois lignes décident du prix que coûtera chaque demande le jour où l'on
+diffusera. C'est pour ça qu'on ne lance jamais une campagne avant de les avoir posées.
+
 
 
 ## LE PIÈGE — ne pas donner une leçon de design
@@ -215,8 +298,9 @@ regardé — c'est la vidéo suivante. »
 
 ## TITRE ET MINIATURE
 
-Principal : Les architectes surcompliquent leur communication (faites ça à la place)
-Variante : Il vous manque trois informations, pas une stratégie
+Principal : Il ne vous manque pas une stratégie, il vous manque trois informations
+Variante : Votre page d'accueil ne dit ni où vous travaillez, ni pour quel budget
+Variante : Les architectes surcompliquent leur communication. Faites ça à la place.
 
 Miniature : « 3 INFOS » en très gros, dessous « pas une refonte ». Visage à droite.
 

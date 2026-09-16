@@ -17,20 +17,99 @@ Ce n'est donc pas une stratégie, c'est un héritage — et un héritage se cons
 n'est pas de l'abandonner, elle est de savoir ce qu'on met à côté avant qu'il ne baisse.
 
 
-## AVANT DE TOURNER — pour toi, pas pour la vidéo
+### La solution que j'apporte dans cette vidéo
 
-Cet épisode referme la saison. Il peut rappeler en une phrase les constats des autres
-épisodes, sans jamais rouvrir une démonstration ni remontrer une capture : à zéro abonné,
-la plupart des spectateurs n'auront vu aucune des précédentes.
+Construire le deuxième canal pendant que le premier fonctionne encore.
+
+Dans la vidéo, je fais faire l'exercice : dix derniers clients, qui a donné le nom à chaque
+fois. La plupart découvrent trois ou quatre noms qui reviennent — ce n'est pas un réseau,
+c'est une dépendance à quelques personnes.
+
+Puis la conclusion de toute la saison : un canal qu'on ne peut pas ouvrir sur décision ne
+peut pas être le seul. Et le moment de construire le second n'est pas celui où le premier
+baisse, parce que tous les canaux demandent des semaines ou des mois avant de produire —
+sauf la publicité en ligne, qui produit en quelques jours. C'est ce qui en fait la sécurité
+qu'on met en place avant d'en avoir besoin.
+
+
+## AVANT DE TOURNER — le mécanisme, expliqué en entier
+
+
+### Comment fonctionne réellement une recommandation
+
+Il faut décrire le mécanisme avant de pouvoir en montrer les limites, sinon la vidéo passe
+pour une attaque.
+
+Une recommandation n'est pas un hasard : c'est une conversation. Quelqu'un parle de ses
+travaux à quelqu'un qui envisage les siens, et donne un nom. Pour que ça arrive, il faut
+trois conditions simultanées — un ancien client satisfait, un interlocuteur qui a un projet,
+et un moment où le sujet vient dans la conversation.
+
+C'est pour ça que ce canal est imbattable en taux de signature : la personne arrive déjà
+convaincue, quelqu'un en qui elle a confiance a validé à sa place.
+
+Et c'est exactement pour la même raison qu'il est impilotable : aucune des trois conditions
+ne dépend du cabinet.
+
+
+### Les trois limites, et pourquoi elles sont structurelles
+
+Il ne franchit pas une frontière départementale. Une recommandation circule dans un réseau
+social réel — voisins, collègues, famille — et ces réseaux sont géographiques. Un cabinet
+qui veut s'étendre découvre qu'il n'a aucun moyen de faire circuler son nom ailleurs.
+
+Il ne s'accélère pas. On ne décide pas d'avoir trois recommandations ce mois-ci. Aucun
+levier, aucun bouton, aucun délai prévisible — et donc aucune réponse possible à un
+trimestre creux.
+
+Il vieillit. Ceux qui recommandent sont ceux qui ont fait des travaux, c'est-à-dire des gens
+d'une génération donnée : entrepreneurs, notaires, agents immobiliers, anciens clients. Ils
+partent à la retraite ensemble, sur quelques années, et le flux baisse sans qu'aucun
+événement identifiable ne l'explique.
+
+La troisième est la plus dangereuse parce qu'elle est lente. Une baisse de 10 % par an
+pendant cinq ans ne se remarque pas — elle s'attribue à la crise, aux taux, au marché.
+
+
+### L'exercice central, qui appartient à cet épisode
+
+Lister ses dix derniers clients et l'origine exacte de chacun : qui a donné le nom.
+
+Ce que découvre la plupart des gens : trois ou quatre noms reviennent. Ce n'est pas un
+réseau, c'est une dépendance à quelques personnes — et chacun peut ensuite se demander quel
+âge elles ont.
+
+L'EP14 pose la même question sur l'âge des prescripteurs, mais comme un déclencheur en une
+phrase. Ici on la déroule en entier. Ne pas inverser.
+
+Ne donne aucun pourcentage : personne ne publie cette donnée. L'exercice est plus fort qu'une
+statistique, parce que le chiffre qui sort est le sien.
+
+
+### Ce que l'épisode referme
+
+C'est le dernier de la saison. Il peut rappeler en une phrase les constats des autres
+épisodes, sans jamais rouvrir une démonstration ni remontrer une capture : à zéro abonné, la
+plupart des spectateurs n'auront vu aucune des précédentes.
 
 Le rappel utile, en une ligne : le quart du haut de la profession est au-dessus de 59 931
 euros et progresse, le quart du bas sous 13 342 euros et perd 10 % en deux ans. Ces chiffres
 appartiennent à l'EP02, on les cite sans les développer.
 https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
-L'exercice central — lister ses dix derniers clients et l'origine de chacun — appartient à
-cet épisode. L'EP14 pose la même question sur l'âge des prescripteurs : ici on la déroule
-en entier, là-bas elle est un déclencheur. Ne pas inverser.
+
+### Pourquoi c'est ton sujet à toi
+
+La thèse n'est pas de remplacer le bouche-à-oreille. Elle est qu'un canal qu'on ne peut pas
+ouvrir sur décision ne peut pas être le seul.
+
+Et le moment où il faut construire le second n'est pas celui où le premier baisse — c'est
+avant, puisque tous les autres canaux demandent des semaines ou des mois avant de produire.
+Un cabinet qui s'y met le jour où le téléphone s'arrête a déjà perdu deux trimestres.
+
+La publicité en ligne est le seul des canaux disponibles qui s'ouvre sur décision et produit
+en quelques jours. Ce n'est pas un jugement de valeur sur les autres : c'est une question de
+délai, et le délai est le seul critère qui compte quand on construit une sécurité.
 
 
 ## LE PIÈGE — ne pas attaquer le bouche-à-oreille
@@ -219,7 +298,8 @@ de talent. Il manque d'un bouton. »
 ## TITRE ET MINIATURE
 
 Principal : Vos cinq derniers clients vous ont été envoyés par quelqu'un. Quel âge a-t-il ?
-Variante : Faut-il arrêter d'attendre le bouche-à-oreille ?
+Variante : Le bouche-à-oreille est excellent. Il a juste trois défauts que personne ne mesure.
+Variante : Ce n'est pas une stratégie, c'est un héritage — et un héritage se consomme
 
 Miniature : un carnet de commandes avec une courbe qui s'effrite. Texte « QUEL ÂGE ? » en
 très gros. Visage à droite.

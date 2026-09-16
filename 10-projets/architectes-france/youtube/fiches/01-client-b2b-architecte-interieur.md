@@ -19,30 +19,126 @@ jamais. La seule chose qui manque, c'est d'aller le chercher — parce que ce cl
 vous trouvera jamais tout seul.
 
 
-## AVANT DE TOURNER — pour toi, pas pour la vidéo
+### La solution que j'apporte dans cette vidéo
 
-Tu n'es pas architecte d'intérieur et tu ne fais pas un cours de réglementation. Ce qui
-suit sert à tenir les commentaires, pas à remplir le script. Dans la vidéo, le métier tient
-en deux minutes : tu cites, tu sources, tu passes à l'acquisition.
+Aller chercher ce client là où il se décide, au lieu d'attendre qu'il pense à un architecte
+d'intérieur — ce qu'il ne fera pas, puisqu'il ne sait pas que ce métier s'occupe de son
+problème.
 
-Un local recevant du public est un ERP. Avant travaux, il faut une autorisation demandée
-au maire : CERFA 13824*04, notice de sécurité, notice d'accessibilité, plans cotés. Les
-commissions rendent un avis sous deux mois, l'instruction peut atteindre quatre mois, et
-rien ne commence avant.
+Concrètement, dans la vidéo : la publicité en ligne permet de diffuser sur une zone
+précise, auprès de gens qui ouvrent ou reprennent un local, avec un message qui parle de
+leur contrainte réelle — la date d'ouverture et le passage en commission — et pas de
+décoration.
+
+C'est le seul moyen d'exister dans la tête de quelqu'un qui n'a jamais tapé « architecte
+d'intérieur » de sa vie.
+
+
+## AVANT DE TOURNER — le mécanisme, expliqué en entier
+
+Cette section n'est pas dans la vidéo. Elle est là pour que tu comprennes la chaîne complète
+et que tu puisses la raconter sans notes, ou répondre à n'importe quelle question en
+commentaire.
+
+
+### Ce qui déclenche le compte à rebours
+
+Un restaurateur signe un bail commercial. À partir de la signature, il paie un loyer tous
+les mois — ouvert ou pas. Souvent un prêt bancaire commence à courir en même temps, et
+parfois il a déjà recruté.
+
+À partir de ce jour, chaque mois sans ouverture est un mois où il paie sans encaisser.
+C'est ça, la pression : elle ne vient pas de son tempérament, elle vient de son bail.
+
+
+### Pourquoi il ne peut pas ouvrir quand il veut
+
+Son local reçoit du public, c'est donc juridiquement un ERP. Avant les travaux, il doit
+obtenir une autorisation de travaux auprès du maire.
+
+Le dossier contient quatre pièces : le CERFA 13824*04, une notice de sécurité qui explique
+comment on évacue en cas d'incendie, une notice d'accessibilité qui explique comment une
+personne en fauteuil entre et circule, et des plans cotés de chaque niveau — des plans avec
+les dimensions écrites.
+
+Deux commissions l'examinent, sécurité et accessibilité. Elles rendent leur avis sous deux
+mois maximum, et l'instruction totale peut aller jusqu'à quatre mois à partir du dossier
+complet. Les travaux ne commencent pas avant l'autorisation.
 https://www.aube.gouv.fr/Actions-de-l-Etat/Amenagement-du-territoire-urbanisme-construction-logement/Accessibilite/Un-gestionnaire-d-ERP/Constitution-d-un-dossier-d-accessibilite/L-AUTORISATION-DE-TRAVAUX-SUR-UN-ERP
 
-Un avis défavorable oblige à redéposer et peut coûter six mois de chiffre d'affaires,
-loyer payé. Des travaux sans autorisation sont un délit : 45 000 euros d'amende.
+Mets ça bout à bout : bail signé en janvier, dossier déposé, deux à quatre mois
+d'instruction, puis les travaux, puis une visite de commission avant l'ouverture au public.
+On arrive facilement à six mois de loyer payé avant le premier euro encaissé — et c'est le
+scénario où tout se passe bien.
+
+
+### Ce qui se passe quand ça se passe mal
+
+Avis défavorable : il corrige, il redépose, et le délai d'instruction repart. Chaque
+aller-retour coûte des mois. Il peut perdre jusqu'à six mois de chiffre d'affaires, loyer
+payé pendant tout ce temps.
+
+Travaux sans autorisation : c'est un délit. 45 000 euros d'amende, six mois
+d'emprisonnement en cas de récidive.
+
+Ouverture malgré un avis défavorable : le maire ou le préfet peuvent ordonner une fermeture
+administrative. Et si un accident survient, sa responsabilité est engagée et son assurance
+peut refuser de l'indemniser.
 https://www.alsace-eurometropole.cci.fr/sanction-ouverture-erp-sans-autorisation
 
-Aucun monopole légal : la notice peut être rédigée par un maître d'œuvre ou un bureau
-d'études, et le restaurateur peut la faire lui-même.
+Donc sa peur n'est pas « est-ce que ce sera joli ». C'est « est-ce que j'ouvre à la date
+prévue, et est-ce que je ne vais pas payer six mois de loyer dans le vide ».
+
+
+### En quoi l'architecte d'intérieur répond à ça
+
+Il n'y a aucune obligation légale de passer par lui. Le restaurateur peut monter le dossier
+lui-même, ou passer par un maître d'œuvre, ou par un bureau d'études spécialisé en sécurité
+incendie. C'est le point où tu te fais reprendre si tu dis l'inverse.
 https://boussoluss.fr/notice-securite-erp-5eme-categorie/
 
-Si le projet crée plus de 20 m² ou change la destination du local en touchant la façade ou
-un mur porteur, c'est un permis de construire — et l'article L431-3 impose alors un
-architecte inscrit à l'Ordre dès que le demandeur est une société, sans seuil de surface.
-https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037667650
+Ce qui est vrai, et qui suffit largement :
+
+Le dossier exige des plans cotés. Un restaurateur n'en produit pas, un décorateur rarement.
+L'architecte d'intérieur, c'est son outil quotidien.
+
+Les deux notices supposent de connaître les règles d'évacuation et d'accessibilité. Ce sont
+des compétences de conception, pas de décoration. L'Ordre des architectes publie d'ailleurs
+lui-même un modèle de notice de sécurité.
+https://www.architectes.org/modele-de-notice-descriptive-de-securite-91461
+
+Et surtout : celui qui connaît la procédure ne fait pas perdre un cycle de commission. Un
+dossier complet du premier coup contre un dossier à reprendre, c'est deux mois d'écart
+minimum — soit deux mois de loyer.
+
+Ce que le restaurateur achète, ce n'est donc pas une ambiance. C'est la transformation d'un
+risque de calendrier en processus connu.
+
+
+### Pourquoi c'est ton sujet à toi
+
+Ce client ne tapera jamais « architecte d'intérieur » dans un moteur de recherche. Il ne se
+dit pas « il me faut un architecte d'intérieur » — il se dit « il faut que j'ouvre en mars ».
+Il ne connaît même pas le mot dans ce contexte.
+
+Aucun levier passif ne le ramènera donc : ni le référencement, ni Instagram, ni la
+recommandation autrement que par hasard. Il faut aller le chercher au moment où il vient de
+signer son bail.
+
+C'est la bascule de l'épisode : la contrainte réglementaire crée la douleur, la douleur crée
+un client qui décide vite — mais seulement si quelqu'un se présente devant lui au bon moment.
+
+
+### Le classement, pour le vocabulaire
+
+Les restaurants et débits de boissons sont du type N. Sous 200 personnes, ils sont en
+5e catégorie, ce qui couvre presque tous les indépendants — l'effectif se calculant à
+1 personne par m² en salle.
+https://www.ura.fr/reglementation/reglementation-type-n
+
+Mots à employer sans hésiter : autorisation de travaux, notice de sécurité, notice
+d'accessibilité, plans cotés, commission de sécurité, maître d'œuvre, agencement, CHR.
+
 
 
 ## LE PIÈGE — la frontière entre les deux métiers
@@ -267,6 +363,7 @@ de système dessus. C'est la vidéo suivante. »
 
 Principal : Les architectes d'intérieur ignorent le client le plus rentable du marché
 Variante : Le seul client qui ne vous demandera jamais un plan gratuit
+Variante : Ce client-là ne cherchera jamais « architecte d'intérieur ». Il vous paie quand même.
 
 Miniature : « 0 PUB » en très gros, dessous « sur ce marché ». Visage à droite, salle de
 restaurant en travaux à gauche.

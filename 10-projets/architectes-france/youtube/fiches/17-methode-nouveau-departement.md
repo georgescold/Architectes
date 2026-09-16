@@ -16,21 +16,57 @@ Un lancement d'acquisition suit exactement les mêmes phases qu'un projet d'arch
 La méthode, il la connaît déjà. Il ne l'a simplement jamais appliquée à ses propres clients.
 
 
-## AVANT DE TOURNER — pour toi, pas pour la vidéo
+### La solution que j'apporte dans cette vidéo
 
-L'analogie est le moteur de l'épisode, et elle doit être juste sinon elle se retourne. Les
-phases d'une mission de maîtrise d'œuvre : esquisse, avant-projet sommaire, avant-projet
+Appliquer à ses propres clients la méthode qu'on applique déjà à ses projets.
+
+Dans la vidéo, je donne les quatre phases avec leurs livrables : esquisse — qui, où, pour
+quoi, en trois lignes écrites. Permis — être trouvable, fiche et page. Chantier — diffuser
+sur la zone et le profil choisis. Direction de l'exécution — rappeler vite et mesurer ce
+qui se transforme.
+
+Et je donne la raison de l'ordre, qui est la vraie valeur de l'épisode : chaque phase rend
+la suivante mesurable. Lancer une campagne sans esquisse ne donne pas un mauvais résultat,
+ça donne un résultat illisible — on a dépensé sans rien apprendre.
+
+
+## AVANT DE TOURNER — le mécanisme, expliqué en entier
+
+
+### Pourquoi cette analogie fonctionne, et où elle casse
+
+Les phases d'une mission de maîtrise d'œuvre : esquisse, avant-projet sommaire, avant-projet
 définitif, permis, projet, assistance aux contrats de travaux, direction de l'exécution,
 réception.
 
-Ne cherche pas à faire correspondre chaque phase une à une : tu te tromperas et un
-architecte le verra. Prends quatre phases, nommées clairement, et dis que c'est une analogie
-volontairement simplifiée.
+Ce que ces phases font réellement, et c'est ça qu'il faut retenir : elles interdisent de
+décider trop tard. On ne choisit pas l'implantation pendant le gros œuvre. Chaque décision a
+un moment, et le moment est avant.
 
-Les quatre phases d'acquisition, avec leurs livrables :
+Où l'analogie casse : ne cherche pas à faire correspondre chaque phase une à une. Tu te
+tromperas, et un architecte le verra en trois secondes. Prends quatre phases, nomme-les
+clairement, et annonce toi-même que c'est une simplification volontaire.
+
+
+### L'erreur que fait tout le monde, décrite précisément
+
+Personne ne saute la phase esquisse par paresse. On la saute parce qu'on ne sait pas qu'elle
+existe pour l'acquisition.
+
+Ce que ça donne concrètement : on publie sur Instagram, on refait le site, on essaie une
+campagne. Trois actions de phase chantier, lancées sans qu'aucune des trois questions
+d'esquisse — qui, où, pour quoi — ait été tranchée.
+
+Le résultat n'est pas « ça n'a pas marché ». Le résultat est qu'on ne peut rien en conclure.
+Une campagne sans cible définie qui ne produit rien ne dit pas si le canal est mauvais, si
+la zone est mauvaise ou si le message l'est. On a dépensé de l'argent pour n'apprendre
+strictement rien — et c'est le vrai coût.
+
+
+### Les quatre phases, avec leurs livrables
 
 Esquisse — qui, où, pour quoi. Un seul type de projet, une seule zone, un ordre de grandeur
-d'enveloppe. Livrable : trois lignes écrites.
+d'enveloppe. Livrable : trois lignes écrites. Pas un document, trois lignes.
 
 Permis — être trouvable. Fiche Google revendiquée, page qui dit les trois informations.
 Livrable : une fiche complète et une page réécrite.
@@ -45,14 +81,43 @@ Pour la phase esquisse, les données de territoire sont publiques :
 https://www.observatoire-des-territoires.gouv.fr/nombre-de-logements-commences-constructions-neuves-par-pour-1-000-habitants
 
 
-## LE PIÈGE — une analogie qui doit rester juste
+### Pourquoi l'ordre n'est pas négociable
 
-Les phases d'une mission de maîtrise d'œuvre sont esquisse, avant-projet sommaire,
-avant-projet définitif, permis, projet, assistance aux contrats, direction de l'exécution,
-réception.
+Chaque phase rend la suivante mesurable. C'est la seule justification de l'ordre, et elle
+suffit.
 
-Ne cherche pas à faire correspondre chacune une à une avec une phase d'acquisition : tu te
-tromperas, et un architecte le verra immédiatement. Prends quatre phases, nomme-les
+Sans esquisse, on ne sait pas quoi diffuser ni où. Sans permis, on paie des clics vers une
+fiche vide et un site muet. Sans direction d'exécution, les demandes arrivent et se perdent
+— et on conclut que la campagne ne marche pas alors que c'est le rappel qui manque.
+
+Inverser deux phases ne rend pas le résultat moins bon : ça le rend illisible. Et un
+résultat illisible ne permet aucune décision suivante.
+
+
+### Pourquoi c'est ton sujet à toi
+
+C'est l'épisode le plus proche de ce que tu fais réellement quand un cabinet te confie son
+acquisition.
+
+Ce que tu vends n'est pas « de la publicité ». C'est cet ordre-là, appliqué par quelqu'un
+qui l'a déjà fait cinquante fois — parce que chacune des quatre phases peut se faire seul,
+et que ce qui coûte cher, c'est de les découvrir dans le désordre.
+
+La démonstration est donc entièrement honnête : la méthode est donnée en entier, gratuitement.
+Ce qui s'achète, c'est le fait de ne pas passer six mois à l'apprendre.
+
+
+## LE PIÈGE — la méthode se donne en entier, sans rien garder
+
+La tentation, sur cet épisode, est de garder la dernière phase pour soi : donner trois
+phases et laisser entendre que la quatrième s'achète. Ça se sent, et ça annule les trois
+autres.
+
+Donne tout, avec les livrables. Ce qui s'achète n'a jamais été l'information — c'est de ne
+pas passer six mois à la découvrir dans le désordre.
+
+Second point : n'entre dans aucune phase de maîtrise d'œuvre au-delà de ce que l'analogie
+exige. Tu empruntes leur grammaire pour parler de ton métier, tu ne commentes pas le leur.
 clairement, et annonce toi-même que l'analogie est volontairement simplifiée.
 
 Second point : la phase la plus sautée est la quatrième, le suivi des demandes reçues.
@@ -234,7 +299,8 @@ mettez à rappeler une demande. Le chiffre va vous surprendre. »
 ## TITRE ET MINIATURE
 
 Principal : Votre acquisition n'a pas de phase esquisse
-Variante : Ma méthode exacte pour lancer un cabinet sur un nouveau département
+Variante : Vous ne démarrez jamais un chantier sans plan. Pour vos clients, si.
+Variante : Les quatre phases d'un lancement, dans l'ordre, avec leurs livrables
 
 Miniature : les quatre phases en colonnes, la première entourée en rouge. Texte
 « PHASE 1 » en très gros. Visage à droite.

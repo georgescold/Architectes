@@ -21,23 +21,90 @@ Travailler une zone à faible activité en espérant qu'elle produise, c'est le 
 cher de ne pas trouver de clients.
 
 
-## AVANT DE TOURNER — pour toi, pas pour la vidéo
+### La solution que j'apporte dans cette vidéo
 
-Deux sources publiques suffisent.
+Choisir sa zone sur la donnée, puis régler sa diffusion dessus.
+
+Dans la vidéo, je montre où lire l'intensité de construction par département, rapportée à
+1 000 habitants, et la différence entre logements autorisés — l'indicateur avancé — et
+logements commencés, l'indicateur de réalité.
+
+Puis la partie qui rend le chiffre utile : une zone de diffusion publicitaire se choisit au
+département, à la commune ou au rayon en kilomètres, et se change en trois clics. Deux
+départements voisins peuvent aller du simple au triple. Diffuser sur le bon coûte le même
+prix et ne produit pas la même chose.
+
+
+## AVANT DE TOURNER — le mécanisme, expliqué en entier
+
+
+### Les deux sources, et ce qu'elles contiennent
 
 Sitadel, la base des permis de construire et des mises en chantier, tenue par le service
 statistique du ministère. Séries officielles, mises à jour régulièrement.
 https://www.statistiques.developpement-durable.gouv.fr/donnees-des-permis-de-construire-et-autres-autorisations-durbanisme
 
-Les séries mensuelles brutes, si tu veux faire ton propre graphique :
+Les séries mensuelles brutes, pour faire ton propre graphique :
 https://www.data.gouv.fr/datasets/logements-autorises-et-commences-nombre-et-surfaces-series-mensuelles/
 
 L'Observatoire des territoires, qui fournit la même information sous forme de carte par
-département, rapportée à 1 000 habitants — c'est le format le plus lisible à l'écran.
+département, rapportée à 1 000 habitants — le format le plus lisible à l'écran.
 https://www.observatoire-des-territoires.gouv.fr/nombre-de-logements-commences-constructions-neuves-par-pour-1-000-habitants
 
 Prépare le relevé de deux ou trois départements avant le tournage, dont le tien, et note la
 date d'extraction. Les chiffres bougent à chaque publication.
+
+
+### La différence entre autorisé et commencé, qui est le cœur du sujet
+
+Un logement autorisé est un permis accordé. Un logement commencé est un chantier qui a
+démarré. Entre les deux, il y a des mois, et il y a des abandons.
+
+Ce qui rend l'écart utile : les autorisations sont un indicateur avancé, les mises en
+chantier un indicateur de réalité. Un département où les autorisations remontent depuis
+deux trimestres est un département où l'activité va arriver. Un département où seules les
+mises en chantier tiennent est un département qui finit son stock.
+
+C'est la seule lecture réellement actionnable de ces séries, et elle tient en une phrase.
+
+
+### Pourquoi le chiffre brut ne sert à rien
+
+Un département peuplé aura toujours plus de logements commencés qu'un département rural.
+Comparer les volumes bruts ne dit donc rien d'autre que la démographie.
+
+L'indicateur qui compte est rapporté à 1 000 habitants : il mesure l'intensité de
+construction, pas la taille du département. C'est pour ça que la carte de l'Observatoire est
+le bon support à l'écran, et pas le tableau Sitadel.
+
+Deux départements voisins peuvent avoir un rapport du simple au triple sur cet indicateur.
+Ça, c'est une information de ciblage.
+
+
+### Comment une zone se décide réellement aujourd'hui
+
+Au feeling : le département où l'on habite, plus les communes où l'on a déjà travaillé.
+
+Ce n'est pas irrationnel — c'est la zone où la recommandation circule. Mais ça veut dire que
+la zone n'a pas été choisie : elle a été héritée du premier chantier, il y a dix ans, et
+personne ne l'a réexaminée depuis.
+
+Et comme la recommandation ne franchit pas une frontière départementale, un cabinet qui
+voudrait s'étendre découvre qu'il n'a aucun moyen de le faire — sauf à payer pour être vu.
+
+
+### Pourquoi c'est ton sujet à toi
+
+Une zone de diffusion publicitaire se choisit au département, à la commune ou au rayon en
+kilomètres. C'est un réglage, et il se change en trois clics.
+
+Donc la question « où travailler » cesse d'être une question de hasard géographique pour
+devenir une décision, à condition d'avoir le chiffre. Deux départements voisins, l'un à
+faible intensité, l'autre au triple : diffuser sur le second coûte le même prix et ne
+produit pas la même chose.
+
+C'est la décision d'acquisition la moins coûteuse à prendre et la plus rarement prise, parce
+que personne ne va chercher la donnée.
 
 
 ## LE PIÈGE — la statistique ne dit pas tout
@@ -207,7 +274,8 @@ depuis des années. »
 ## TITRE ET MINIATURE
 
 Principal : Combien de chantiers démarrent vraiment près de chez vous
-Variante : La carte publique qui devrait décider de votre zone de prospection
+Variante : Votre département est peut-être trois fois moins actif que celui d'à côté
+Variante : Vous n'avez pas choisi votre zone de travail. Vous en avez hérité.
 
 Miniature : une carte de France en dégradé, deux départements voisins entourés. Texte
 « ET À CÔTÉ ? » en très gros. Visage à droite.

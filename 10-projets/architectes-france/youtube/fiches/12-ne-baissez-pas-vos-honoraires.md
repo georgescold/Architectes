@@ -17,20 +17,98 @@ sachant déjà à quoi ils s'engagent — ce qui est un problème d'acquisition,
 négociation.
 
 
-## AVANT DE TOURNER — pour toi, pas pour la vidéo
+### La solution que j'apporte dans cette vidéo
 
-Ordres de grandeur du marché pour une mission complète : 7 à 15 % du montant des travaux
-chez un architecte d'intérieur, avec une dégressivité quand le montant monte.
+Faire arriver les gens en sachant déjà à quoi ils s'engagent.
+
+Dans la vidéo, je montre pourquoi une remise ne change pas le nombre de projets signés —
+elle fait signer les mêmes, moins cher — puis je déplace le sujet là où il se joue
+réellement : ce que la personne savait avant de décrocher son téléphone.
+
+Une demande venue d'une plateforme arrive avec trois concurrents en face et se gagne sur le
+prix. Une demande venue d'une campagne qu'on pilote arrive après avoir lu la zone, le type
+de projet et l'ordre de grandeur, et elle n'écrit qu'à un seul cabinet. C'est la même
+prestation, dans deux conversations opposées.
+
+
+## AVANT DE TOURNER — le mécanisme, expliqué en entier
+
+
+### Les ordres de grandeur, et pourquoi on ne peut pas en faire un barème
+
+Pour une mission complète, on observe des honoraires de 7 à 15 % du montant des travaux chez
+un architecte d'intérieur, avec une dégressivité quand le montant monte.
 https://www.hemea.com/fr/architecture/architecte-interieur/prix
 
-Ce sont des ordres de grandeur observés, pas un barème. Les barèmes d'honoraires sont
-interdits — ne présente jamais ces chiffres comme une grille officielle, et n'en propose
-aucune.
+Ce sont des ordres de grandeur observés sur le marché, pas une grille officielle. Les
+barèmes d'honoraires sont interdits : ne présente jamais ces chiffres comme une référence, et
+n'en propose aucune.
 
-Le calcul à faire à l'écran est de l'arithmétique simple, pas une statistique : six projets
-par an à 250 000 euros de travaux, à 12 %, donnent 180 000 euros d'honoraires. Une remise
-de 20 % sur chaque affaire retire 36 000 euros sur l'année. Annonce que ce sont des chiffres
-d'exemple, choisis ronds pour la démonstration.
+Le calcul que tu fais à l'écran est de l'arithmétique avec des chiffres ronds choisis pour
+la démonstration : six projets par an à 250 000 euros de travaux, à 12 %, donnent 180 000
+euros d'honoraires. Une remise de 20 % sur chaque affaire retire 36 000 euros sur l'année.
+Annonce que ce sont des chiffres d'exemple.
+
+
+### Les trois raisons du réflexe de baisser
+
+La première n'est pas de leur fait. Sur un projet, tous les postes sont compressés — le
+terrain, les matériaux, les entreprises, et la conception avec. Celui qui finance cherche à
+réduire partout : c'est son métier, ce n'est pas une agression. Ce n'est donc pas un manque
+de fermeté, c'est la position de ce poste dans un budget.
+
+La deuxième vient de la profession elle-même : l'idée qu'on se sous-cote les uns les autres,
+qu'on accepte des missions à des taux qui ne couvrent pas les heures, et que ça tire tout le
+monde vers le bas. Attention, ce n'est pas mesurable — personne ne publie ça. C'est un thème
+très présent dans ce que les architectes écrivent entre eux. Présente-le comme tel, jamais
+comme une donnée.
+
+La troisième est la plus inconfortable : on leur a appris que leur temps ne valait rien. Les
+nuits blanches en studio, la charrette comme norme, le travail rendu gratuitement parce que
+c'est comme ça. Pendant six ans. Ce n'est pas un trait de caractère, c'est un apprentissage
+— et un apprentissage se désapprend.
+
+
+### Pourquoi la remise ne fait pas signer davantage
+
+Voilà le raisonnement à faire comprendre, et il est contre-intuitif.
+
+Une remise ne change pas le nombre de projets signés. Elle fait signer les mêmes, moins
+cher. Parce que celui qui allait dire non pour d'autres raisons — le délai, la confiance, le
+périmètre — dira non quand même, et celui qui allait dire oui aurait dit oui au prix initial.
+
+La remise ne déplace donc pas la décision. Elle déplace seulement la marge.
+
+
+### Pourquoi le prix arrive en premier dans la conversation
+
+C'est le point de bascule de l'épisode, et c'est déjà de l'acquisition.
+
+Quand quelqu'un appelle sans savoir où le cabinet travaille, sur quel type de projet, ni à
+partir de quelle enveloppe, le prix est la seule information comparable dont il dispose.
+Alors il compare ça — non par avidité, mais parce qu'il n'a rien d'autre.
+
+Renverse le raisonnement : ce n'est pas le client qui impose le prix comme premier sujet,
+c'est l'absence des trois autres qui le lui laisse comme seul sujet disponible. Ce qui
+déplace le problème du rendez-vous vers ce qui s'est passé avant — donc hors du champ de la
+négociation, et dans le tien.
+
+
+### Pourquoi c'est ton sujet à toi
+
+La négociation se gagne avant le rendez-vous, et la façon dont la demande arrive décide de
+tout.
+
+Une demande venue d'une plateforme de mise en relation arrive avec trois autres cabinets en
+face : le client a été mis en situation de comparer, c'est même ce qu'on lui a vendu. Dans
+ce cadre, on ne peut pas gagner autrement que sur le prix.
+
+Une demande venue d'une campagne qu'on pilote arrive à l'inverse : la personne a vu la page,
+lu le périmètre, connaît l'ordre de grandeur, et elle écrit à un seul cabinet. Elle n'est
+pas là pour comparer, elle est là pour avancer.
+
+C'est la différence la plus rentable de toute l'activité, et elle ne se joue pas en
+rendez-vous.
 
 
 ## LE PIÈGE — ne pas donner de conseil de négociation
@@ -212,7 +290,8 @@ autre — et c'est le chiffre qui change tout. »
 ## TITRE ET MINIATURE
 
 Principal : Ne baissez surtout pas vos honoraires
-Variante : Pourquoi la remise de 20 % ne vous fait pas signer davantage
+Variante : Une remise ne vous fait pas signer plus. Elle vous fait signer les mêmes, moins cher.
+Variante : Si le prix arrive en premier, c'est que rien d'autre n'a été dit avant
 
 Miniature : « -20 % » barré en rouge, dessous en petit « ça ne ramène rien ». Visage à
 droite.

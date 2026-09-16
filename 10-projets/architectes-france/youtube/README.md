@@ -243,6 +243,52 @@ existe derrière** — et c'est ce qui fait cliquer sur la description trois vid
 
 ---
 
+### LE TITRE EST UN HOOK — le cadre à appliquer aux 20
+
+Un titre doit faire deux choses **en même temps**, et manquer l'une des deux le tue :
+
+**1. Dire le sujet en une à deux secondes.** Pas « mon avis sur le marché » — le sujet
+exact, tout de suite. Si quelqu'un doit lire deux fois pour savoir de quoi ça parle, il est
+déjà parti.
+
+**2. Créer de la curiosité sur ce sujet précis.** Une curiosité hors sujet ne sert à rien :
+elle amène des gens qui partent à la trentième seconde, et la vidéo est punie pour ça.
+
+Les quatre fautes qui tuent un titre :
+
+| Faute | Ce qui se passe | Le correctif |
+|---|---|---|
+| **Retard** | Le sujet n'arrive qu'à la fin du titre | Le sujet dans les 3 premiers mots |
+| **Confusion** | Vocabulaire de métier, phrase passive, double idée | Mots simples, voix active, une seule idée |
+| **Hors-cible** | Ça ne parle pas de LUI | Dire « vous », « votre » — nommer sa douleur |
+| **Indifférence** | Vrai, mais sans enjeu | Poser un contraste : ce qu'il croit vs. la réalité |
+
+**Le moteur, c'est le contraste.** Le spectateur croit A. Le titre annonce B. L'écart entre
+les deux est la seule chose qui fait cliquer.
+
+- « La publicité est autorisée aux architectes **depuis 1992** » → il croit que c'est
+  interdit (A), le titre dit le contraire (B), et la date rend le contraste indiscutable.
+- « Ce n'est **pas** la crise, c'est **un tri** » → contraste énoncé mot pour mot.
+- « 130 publicités pour les constructeurs, **2** pour les architectes » → contraste
+  implicite : deux chiffres côte à côte, et il comprend seul.
+
+**Les tests avant de valider un titre :**
+
+1. Le sujet est-il compris en 2 secondes par quelqu'un qui ne me connaît pas ?
+2. Est-ce qu'un architecte se reconnaît dedans — « vous », « votre », sa douleur à lui ?
+3. Quel est le A, quel est le B ? Si je ne peux pas les nommer, il n'y a pas de hook.
+4. Est-ce que j'y ai mis un mot que seul un initié comprend ? Si oui, je le retire.
+5. Est-ce que ce titre pourrait être celui d'un autre épisode ? Si oui, il est trop vague.
+
+⚠️ Le titre ne promet jamais plus que ce que la vidéo tient. Un titre qui exagère ramène
+des clics et fait chuter la rétention, ce qui coûte plus cher que de ne pas être cliqué.
+Et aucun chiffre dans un titre qui ne soit pas dans la vidéo, sourcé.
+
+**Trois titres par fiche.** Le principal est celui qu'on publie. Les deux variantes servent
+à tester si la vidéo ne décolle pas au bout de 48 heures — on change le titre, pas la
+vidéo.
+
+
 ### Titre et miniature
 
 - **Le texte de la miniature ne répète jamais le titre.** L'œil lit la miniature, puis

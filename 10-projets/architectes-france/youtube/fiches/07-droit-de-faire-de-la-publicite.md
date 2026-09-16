@@ -18,30 +18,104 @@ Donc la question utile n'est pas « est-ce que j'ai le droit », elle est régl�
 le reste est un problème d'acquisition, pas de déontologie.
 
 
-## AVANT DE TOURNER — pour toi, pas pour la vidéo
+### La solution que j'apporte dans cette vidéo
 
-Le code de déontologie vient du décret n° 80-217 du 20 mars 1980. Dans sa version
-d'origine, l'article 26-4 encadrait très restrictivement la publicité. Cet article a été
-abrogé par le décret du 17 septembre 1992, publié au JO du 23 septembre, qui a introduit
-l'article 10 bis.
+Passer de « est-ce que j'ai le droit » à « qu'est-ce que je diffuse, où, et pour quel
+budget ».
 
-Texte exact de l'article 10 bis : « Les architectes peuvent recourir à la publicité dans
+Dans la vidéo, je règle la question juridique en deux minutes avec les textes à l'écran,
+puis je donne les deux seuls interdits réels et ce qu'ils autorisent en pratique : montrer
+ses réalisations, dire sa zone, dire son type de projet, diffuser tout ça auprès de gens
+qui ne vous connaissent pas.
+
+Trente-quatre ans d'autorisation que presque personne n'utilise, ça veut dire un espace
+publicitaire vide — et un espace vide, ça coûte moins cher.
+
+
+## AVANT DE TOURNER — le mécanisme, expliqué en entier
+
+
+### L'histoire du texte, et elle est spectaculaire
+
+Le code de déontologie des architectes vient du décret n° 80-217 du 20 mars 1980. Dans sa
+version d'origine, l'article 26-4 encadrait très restrictivement la possibilité de faire de
+la publicité. C'est de là que vient la croyance, et elle était fondée à l'époque.
+
+Cet article a été abrogé par le décret du 17 septembre 1992, publié au Journal officiel du
+23 septembre. Le même décret a introduit l'article 10 bis, qui autorise la publicité.
+
+Texte exact, à citer mot pour mot : « Les architectes peuvent recourir à la publicité dans
 le cadre de la législation et de la réglementation en vigueur, notamment l'article 44 de la
 loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat modifiée. »
 https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074232/LEGISCTA000006143863/
 
+Trente-quatre ans. C'est le cœur de l'épisode : une profession entière s'est interdit
+pendant trente-quatre ans quelque chose qui lui était permis, parce que personne n'a
+retourné le texte quand il a changé.
+
+
+### Ce que le nouveau code change, et ce qu'il ne change pas
+
 Le code a été entièrement refondu par le décret n° 2026-568 du 26 juin 2026, entré en
-vigueur le 1er juillet 2026. L'autorisation n'a pas bougé.
+vigueur le 1er juillet 2026.
 https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054341539
 https://www.architectes.org/actualites/nouveau-code-de-deontologie-des-architectes-entree-en-vigueur-au-1er-juillet-2026-137420
 
-L'Ordre publie deux pages qui le confirment, plus lisibles que le décret :
+L'autorisation de faire de la publicité n'a pas bougé. Point de rigueur important : ne
+présente jamais le décret de 2026 comme ce qui a autorisé la publicité. Il a réécrit le code
+autour d'une autorisation qui datait déjà de 1992. Un spectateur qui te prendrait en défaut
+là-dessus te ferait perdre tout l'épisode.
+
+
+### Ce n'est pas une lecture personnelle du décret
+
+L'Ordre publie lui-même deux pages qui répondent à la question et donnent les formes
+autorisées : encart dans une revue ou un journal local, site internet, tracts, véhicule
+habillé.
 https://www.architectes.org/actualites/un-architecte-peut-il-faire-de-la-publicite-et-sous-quelles-formes-92103
 https://www.architectes.org/actualites/en-tant-quarchitecte-puis-je-faire-de-la-publicite-91826
 
-Restent interdits : la publicité comparative qui identifie un confrère, et pour tout le
-monde l'article L. 121-2 du code de la consommation sur les pratiques trompeuses — peines
-à l'article L. 132-2, portées à cinq ans et 750 000 euros quand l'infraction est en ligne.
+Montre ces pages avant Légifrance : elles sont plus lisibles, et elles coupent court à
+l'objection « c'est ton interprétation ».
+
+
+### Les deux limites réelles
+
+La première est la confraternité : pas de publicité comparative qui identifie un confrère,
+explicitement ou implicitement.
+
+Et voici la distinction qui vaut de l'argent : un constructeur de maisons ou une plateforme
+de mise en relation n'est pas un confrère. La confraternité ne les couvre pas. On peut donc
+se comparer à eux — dans les limites du droit commun, c'est-à-dire sans dénigrement ni
+affirmation fausse.
+
+La seconde vaut pour tout le monde, y compris pour Essort : l'article L. 121-2 du code de la
+consommation sur les pratiques commerciales trompeuses. Tout ce qu'on avance doit pouvoir
+être prouvé. Les peines, à l'article L. 132-2, montent à cinq ans d'emprisonnement et
+750 000 euros d'amende quand l'infraction est commise en ligne. C'est la limite la plus
+sérieuse de toute la chaîne.
+
+
+### La question de périmètre, à ne pas rater
+
+Ce code ne concerne que les architectes inscrits à l'Ordre. Il ne s'applique pas aux
+architectes d'intérieur, dont le titre n'est pas protégé — ils sont encore moins contraints.
+
+Dis-le en une phrase au début. Sans ça, tu imposes à la moitié de ton audience des
+contraintes qui ne sont pas les siennes.
+
+
+### Pourquoi c'est ton sujet à toi
+
+Cette croyance a survécu trente-quatre ans parce que personne n'avait intérêt à la lever.
+Tant qu'une profession croit qu'elle n'a pas le droit de se rendre visible, elle laisse le
+terrain à ceux qui n'ont pas ce scrupule. Et ça se mesure : 130 publicités actives pour les
+constructeurs de maisons, 2 pour les architectes.
+
+Une fois le droit réglé, il ne reste qu'une question pratique : par où commencer. C'est là
+que tu reprends la main, et c'est là que la conversation devient intéressante — on passe de
+« est-ce que j'ai le droit » à « qu'est-ce que je raconte ».
+
 
 
 ## LE PIÈGE — audience, portée et chronologie
@@ -227,7 +301,8 @@ profession se complique la vie. C'est la vidéo suivante. »
 ## TITRE ET MINIATURE
 
 Principal : La publicité est autorisée aux architectes depuis 1992
-Variante : Le code de déontologie dit l'inverse de ce que tout le monde croit
+Variante : Vous croyez ne pas avoir le droit de faire de la publicité. C'est faux depuis 34 ans.
+Variante : Les deux seules choses que le code de déontologie vous interdit de dire
 
 Miniature : « 1992 » en énorme, dessous en petit « et vous ne le saviez pas ». Visage à
 droite, fond sombre, texte jaune.
