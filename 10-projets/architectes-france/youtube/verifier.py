@@ -56,6 +56,7 @@ DOUTES = [
 ]
 
 SECTIONS = [
+    ("## LA BIG IDEA", "la big idea, en tete de fiche"),
     ("## AVANT DE TOURNER", "ce que tu dois savoir hors camera"),
     ("## LE PIÈGE", "le piege ou l'on se fait reprendre"),
     ("## LES OBJECTIONS", "les objections previsibles et leurs reponses"),
@@ -64,6 +65,8 @@ SECTIONS = [
 ]
 
 OBLIGATOIRES = [
+    (r"### 1\.", "des chapitres numerotes dans l'ordre"),
+    (r"Exemple de formulation", "des exemples de ce qu'il faut dire"),
     (r"BLOC ACQUISITION", "le bloc acquisition, obligatoire dans chaque episode"),
     (r"publicit[ée] en ligne", "la phrase qui designe la publicite en ligne comme levier"),
     (r"essort\.agency/ressources", "le lien vers le document gratuit"),
