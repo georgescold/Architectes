@@ -3,35 +3,36 @@
 Épisode 06/20 · CONSTAT · architecte DE et architecte d'intérieur · 13-15 min
 
 
-## AVANT DE TOURNER — ce que tu dois savoir et que tu ne diras pas
+## LA BIG IDEA
 
-Ce qui est établi et vérifiable :
+Une crise frappe tout le monde. Un tri sépare. Or les deux extrémités de la profession ne
+vont pas dans le même sens : le premier quartile de revenus a perdu 10 % en deux ans
+pendant que le troisième montait, et l'écart entre les deux est passé de 4,2 à 4,5.
 
-Les organisations professionnelles constatent une hausse inédite des plans de
-licenciement et des liquidations dans le secteur. Le Moniteur titre sur « une crise
-inédite » dans les agences d'architecture.
+Ce n'est donc pas une conjoncture. Et la distinction n'est pas sémantique : dans une crise,
+attendre est raisonnable. Dans un tri, attendre est une position — celle de ceux qui
+tombent.
+
+Ce qui sépare les deux groupes n'est ni le talent ni la taille. C'est le nombre de sources
+de projets. Ceux qui traversent en ont plusieurs ; ceux qui tombent en avaient une seule,
+et elle s'est fermée.
+
+
+## AVANT DE TOURNER — pour toi, pas pour la vidéo
+
+Ce qui est établi : les organisations professionnelles constatent une hausse inédite des
+plans de licenciement et des liquidations. Le Moniteur titre sur « une crise inédite » dans
+les agences d'architecture.
 https://www.lemoniteur.fr/article/defaillances-d-entreprises-4-5-dans-les-agences-d-architecture-une-crise-inedite.2347934
 
-Trois causes documentées, à citer dans cet ordre :
+Trois causes documentées : la commande publique se contracte et les municipales de 2026
+gèlent les projets ; les retards de paiement assèchent les petites structures ; et le
+décalage propre au métier fait qu'on encaisse le retournement après les entreprises de
+construction, parce qu'on termine d'abord les projets en cours.
 
-La commande publique se contracte, et les élections municipales de 2026 gèlent
-mécaniquement les projets — un maire sortant n'engage pas un programme qu'il ne mènera
-peut-être pas.
-
-Les retards de paiement, y compris de grandes collectivités, assèchent la trésorerie des
-petites structures qui n'ont pas le matelas pour tenir.
-
-Le décalage : les architectes encaissent un retournement après les entreprises de
-construction, parce qu'ils doivent d'abord terminer les projets en cours. Pendant que le
-bâtiment montre des signes de reprise, la conception continue d'annoncer des fermetures.
-
-Mesure de soutien existante, à connaître car elle prouve la gravité : un accord de branche
-de juillet 2025 facilite l'accès à l'activité partielle de longue durée « rebond », les
-agences pouvant en faire la demande jusqu'au 28 février 2026.
-
-Le fait qui fait basculer la vidéo, et il vient d'Archigraphie : pendant que le premier
-quartile perd 10 % en deux ans, le troisième quartile monte. Le rapport entre les deux
-passe de 4,2 à 4,5.
+Mesure de soutien qui prouve la gravité : un accord de branche de juillet 2025 facilite
+l'accès à l'activité partielle de longue durée « rebond », avec des demandes possibles
+jusqu'au 28 février 2026.
 
 
 ## LE PIÈGE — les chiffres que tu ne peux pas avancer
@@ -39,134 +40,185 @@ passe de 4,2 à 4,5.
 La version précédente de cette fiche annonçait « 50 % des agences ont perdu du chiffre en
 2025 » et « les liquidations ont triplé depuis 2020 ». Vérification faite :
 
-Le triplement des liquidations vient d'un article de France 3 portant sur la Gironde, et
-relayant le CROA Nouvelle-Aquitaine. C'est un chiffre régional. Le présenter comme
-national est faux.
+Le triplement des liquidations vient d'un article de France 3 portant sur la Gironde et
+relayant le CROA Nouvelle-Aquitaine. C'est un chiffre régional. Le présenter comme national
+est faux.
 https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/ils-font-face-a-une-chute-abyssale-des-commandes-l-inquietude-des-architectes-qui-voient-le-nombre-de-liquidations-judiciaires-multiplie-par-trois-3313596.html
 
 Les 50 % ne sont sourcés nulle part. Ne pas les citer.
 
 Il n'existe pas de statistique nationale publique et à jour des défaillances d'agences
-d'architecture en accès libre. Les données du code NAF 71.11Z sont diffusées sous forme
-de graphiques sans totaux bruts.
-
-Donc la vidéo repose sur la divergence des quartiles, qui est solide, et sur la presse
-citée comme presse — titre, date, média, une phrase entre guillemets, jamais l'article
-recopié.
+d'architecture en accès libre : les données du code NAF 71.11Z sont diffusées en graphiques
+sans totaux bruts. La vidéo repose donc sur la divergence des quartiles, qui est solide, et
+sur la presse citée comme presse.
 
 
 ## LES OBJECTIONS QUI ARRIVERONT EN COMMENTAIRE
 
 « Tout le monde souffre, y compris les gros. »
-Les données de la CIPAV disent le contraire sur le champ des libéraux et associés non
-salariés : le troisième quartile progresse pendant que le premier recule. Si quelqu'un a
-une source qui montre l'inverse, je la prends.
+Les données CIPAV disent le contraire sur le champ des libéraux et associés non salariés :
+le troisième quartile progresse pendant que le premier recule.
 
 « Un chiffre régional ne prouve rien. »
-Exact, et c'est pour ça que je le présente comme régional. Il illustre, il ne démontre pas.
+Exact, c'est pour ça que je le présente comme régional. Il illustre, il ne démontre pas.
 
 « La commande publique va repartir après les municipales. »
-Peut-être. Un nouveau conseil municipal met généralement de douze à dix-huit mois avant
-d'engager ses premiers programmes. Ça fait long à traverser sans autre source de projets.
+Peut-être. Un nouveau conseil municipal met généralement douze à dix-huit mois avant
+d'engager ses premiers programmes. C'est long à traverser sans autre source de projets.
 
 « Je n'ai pas de trésorerie pour investir maintenant. »
-C'est l'objection la plus légitime de toute la chaîne, et elle est traitée dans la vidéo :
-on commence par ce qui ne coûte rien.
+L'objection la plus légitime de toute la chaîne, et elle est traitée dans la vidéo.
 
 
-## LE DÉROULÉ — ce que le spectateur doit comprendre, chapitre par chapitre
+## LE DÉROULÉ
 
 
-### Ouverture
+### 1. Ouverture
 
-Qu'une crise et un tri ne se ressemblent pas. Une crise frappe tout le monde. Un tri
-sépare. Et ce qui se passe dans la profession sépare.
+À faire comprendre : que le mot employé par toute la profession est faux, et que ça change
+la conduite à tenir.
 
-
-### Ce qui est vraiment documenté
-
-Que je distingue ce qui est prouvé de ce qui circule. Prouvé : les organisations
-professionnelles constatent des liquidations et des licenciements inédits, et Le Moniteur
-titre sur une crise inédite. Non prouvé : les chiffres nationaux précis, qui n'existent pas
-en accès libre.
-
-Preuve — le titre, la date, le média, une phrase. Pas l'article.
+Exemple de formulation :
+« Tout le monde dit "c'est la crise". Je vais vous montrer pourquoi c'est le mauvais mot,
+et pourquoi ça compte. Une crise frappe tout le monde. Ce qui se passe dans votre
+profession ne frappe pas tout le monde : ça sépare. »
 
 
-### Les trois causes, dans l'ordre
+### 2. D'où je parle
 
-Que ce n'est pas une fatalité mais un enchaînement identifiable : la commande publique
-gelée par l'approche des municipales de 2026, les retards de paiement qui assèchent les
-petites structures, et le décalage propre au métier — on termine les projets en cours
-avant de sentir le vide.
-
-Ce troisième point est le plus important pour lui : il explique pourquoi il peut se sentir
-épargné aujourd'hui et ne plus l'être dans neuf mois.
+Exemple de formulation :
+« Je fais de l'acquisition pour des cabinets d'architecture. C'est mon métier d'aller
+chercher des clients pour les vôtres, donc je vois arriver des cabinets dans tous les
+états — certains qui n'ont plus rien pour le trimestre prochain, d'autres qui refusent des
+projets. La même année, le même marché. »
 
 
-### Pourquoi ce n'est pas une crise
+### 3. Ce qui est documenté, et ce qui ne l'est pas
 
-Que le mot est faux, et que ça change tout. Si c'était la conjoncture, les deux extrémités
-de la distribution baisseraient ensemble. Or le premier quartile perd 10 % en deux ans
-pendant que le troisième monte, et l'écart entre les deux passe de 4,2 à 4,5.
+À faire comprendre : que je distingue ce qui est prouvé de ce qui circule. C'est ce qui
+rend le reste crédible.
 
-Un phénomène qui écarte n'est pas un phénomène qui frappe. Et surtout : attendre la
-reprise n'a de sens que dans une crise. Dans un tri, attendre est une position.
+Exemple de formulation :
+« Ce qui est établi : les organisations professionnelles constatent des liquidations et
+des licenciements inédits, et Le Moniteur titre sur une crise inédite dans les agences.
 
-Preuve — Archigraphie, graphique 19. Citer le rapport sans redévelopper la distribution,
-qui appartient à l'EP02.
+Ce qui ne l'est pas : les chiffres nationaux précis. Il n'existe pas de statistique
+publique et à jour des défaillances d'agences d'architecture en accès libre. Vous verrez
+circuler des pourcentages — je ne les citerai pas, parce que je n'arrive pas à les sourcer. »
+
+
+### 4. Les trois causes, dans l'ordre
+
+À faire comprendre : que c'est un enchaînement identifiable, pas une fatalité. Et surtout
+le décalage, qui le concerne directement.
+
+Exemple de formulation :
+« Premièrement, la commande publique se contracte, et les municipales de 2026 gèlent les
+projets — un maire sortant n'engage pas un programme qu'il ne mènera peut-être pas.
+
+Deuxièmement, les retards de paiement, y compris de grandes collectivités, assèchent les
+structures qui n'ont pas de matelas.
+
+Et troisièmement, le point qui vous concerne le plus : vous encaissez un retournement
+après tout le monde, parce que vous terminez d'abord les projets en cours. Pendant que le
+bâtiment montre des signes de reprise, la conception continue d'annoncer des fermetures.
+Ça veut dire que vous pouvez vous sentir épargné aujourd'hui et ne plus l'être dans neuf
+mois. »
+
+
+### 5. Pourquoi ce n'est pas une crise
+
+À faire comprendre : la démonstration par les quartiles, qui est le cœur factuel.
+
+Exemple de formulation :
+« Maintenant le chiffre qui tranche. Entre 2019 et 2022, le premier quartile de revenus a
+perdu 10 %. Le troisième, lui, est monté. Et le rapport entre les deux est passé de 4,2 à
+4,5.
+
+Si c'était la conjoncture, les deux extrémités baisseraient ensemble. Un phénomène qui
+écarte n'est pas un phénomène qui frappe.
+
+Et ça change tout, parce que dans une crise, attendre la reprise est raisonnable. Dans un
+tri, attendre est une position. »
+
+Preuve — Archigraphie, sans redévelopper la distribution qui appartient à une autre vidéo.
 https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
 
-### Ce que fait le quart qui monte
+### 6. Ce que fait le groupe qui monte
 
-Qu'il ne fait rien d'extraordinaire : il ne dépend pas d'une seule source de projets. Ce
-n'est pas une question de taille ni de prestige, c'est une question de nombre d'entrées.
+À faire comprendre : que la variable est le nombre de sources de projets. On bascule dans
+son domaine.
+
+Exemple de formulation :
+« Je vais vous dire ce que je vois, concrètement, chez les cabinets qui traversent bien.
+Ce n'est ni la taille, ni le prestige, ni la qualité du travail — j'ai vu de très beaux
+portfolios fermer.
+
+C'est le nombre de portes d'entrée. Celui qui tombe avait une source de projets, une seule,
+et elle s'est fermée : un prescripteur parti à la retraite, une collectivité qui a gelé ses
+programmes, un promoteur qui a arrêté. Celui qui traverse en avait trois ou quatre, et il
+n'a presque pas senti la fermeture de l'une d'elles. »
 
 
-### L'objection de la trésorerie
+### 7. L'objection de la trésorerie
 
-Que c'est l'objection la plus sérieuse, et qu'elle a une réponse honnête : on ne commence
-pas par dépenser. On commence par ce qui ne coûte que du temps — revendiquer sa fiche
-Google, rappeler les demandes déjà reçues et jamais relancées, reformuler la page
-d'accueil pour qu'elle dise enfin où et pour qui.
+À faire comprendre : qu'il existe un chemin qui ne coûte rien pour commencer. Traiter
+l'objection honnêtement au lieu de la contourner.
 
-Ce qui coûte de l'argent vient après, quand les trois premiers sont faits.
+Exemple de formulation :
+« L'objection que je reçois à ce moment-là, c'est toujours la même : "je n'ai pas la
+trésorerie pour investir maintenant". Elle est parfaitement légitime, et je ne vais pas
+vous répondre qu'il faut investir quand même.
+
+On ne commence pas par dépenser. On commence par trois choses qui ne coûtent que du temps :
+revendiquer sa fiche Google, rappeler les demandes déjà reçues et jamais relancées — il y
+en a toujours — et réécrire sa page d'accueil pour qu'elle dise enfin où et pour qui vous
+travaillez. Ce qui coûte de l'argent vient après, quand ces trois-là sont faits. »
 
 
-### LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+### 8. LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
 
-Que dans un tri, la variable qui décide n'est pas la qualité du travail mais le nombre de
-portes d'entrée. Ceux qui traversent ont plusieurs sources de projets ; ceux qui tombent en
-avaient une seule, et elle s'est fermée.
+À faire comprendre : que la publicité en ligne est la seule source de demandes qu'on ouvre
+volontairement, et que le moment est contre-intuitif mais favorable.
 
-Que la commande publique et la recommandation ont un défaut commun : on ne les commande
-pas. On les subit. La publicité en ligne est la seule source de demandes qu'on peut ouvrir
-volontairement, un mardi matin, sur une zone choisie — et fermer quand le carnet est plein.
-C'est exactement ce qui manque à un cabinet qui vient de perdre un appel d'offres et n'a
-rien derrière.
+Exemple de formulation :
+« Maintenant, pourquoi je parle de publicité et pas d'autre chose.
 
-Et que le moment est contre-intuitif mais logique : quand le marché se vide, les enchères
-publicitaires baissent parce que les annonceurs coupent leurs budgets. C'est mécaniquement
-le moment où le coût d'une demande est le plus bas.
+Regardez vos sources actuelles. La commande publique, vous la subissez. La recommandation,
+vous l'attendez. Le concours, vous le tentez. Aucune de ces trois ne s'ouvre sur décision.
+Vous ne pouvez pas décider un mardi matin d'avoir trois recommandations cette semaine.
 
-Puis, au nous : chez Essort, les cabinets qui nous appellent le font presque toujours au
-mauvais moment — quand le carnet est déjà vide. On travaille alors dans l'urgence, avec
-la trésorerie la plus tendue. Ceux qui s'y prennent quand ça va encore obtiennent le même
-résultat sans la pression.
+La publicité en ligne, si. C'est la seule source de demandes que vous ouvrez quand vous
+voulez, sur la zone que vous voulez, et que vous fermez quand le carnet est plein. C'est
+exactement ce qui manque à un cabinet qui vient de perdre un appel d'offres et n'a rien
+derrière.
 
-Enchaîner sans respirer sur le document : les leviers d'acquisition, ce que chacun coûte
-et dans quel ordre les monter, 57 pages, gratuit, lien en description. Pas de carte
-bancaire, pas d'appel commercial.
+Et il y a un point contre-intuitif que je vois passer en ce moment : quand un marché se
+tend, les annonceurs coupent leurs budgets. Donc les enchères baissent. Mécaniquement,
+c'est le moment où une demande coûte le moins cher. »
+
+Puis, au nous :
+« Chez Essort, les cabinets qui nous appellent le font presque toujours au mauvais moment,
+quand le carnet est déjà vide. On travaille alors dans l'urgence, avec la trésorerie la
+plus tendue. Ceux qui s'y prennent quand ça va encore obtiennent le même résultat sans la
+pression. »
+
+Puis le document, enchaîné sans respirer :
+« Les leviers d'acquisition, ce que chacun coûte, dans quel ordre les monter : 57 pages,
+gratuit, lien en description. Pas de carte bancaire, pas d'appel commercial. »
 https://essort.agency/ressources
 
 
-### Sortie
+### 9. Sortie
 
-Qu'il peut compter ses sources de projets ce soir. La plupart en ont une.
+Exemple de formulation :
+« Ce soir, cinq minutes : comptez vos sources de projets. Honnêtement. La plupart des gens
+en ont une, et croient en avoir trois.
 
-Puis rouvrir vers l'EP07 : s'il pense que la publicité ne lui est pas permise, le texte
-dit exactement l'inverse depuis 1992.
+Et si votre réflexe est de vous dire que la publicité, ce n'est pas pour votre profession —
+sachez qu'elle vous est autorisée depuis 1992. Je vous montre le texte dans la vidéo
+suivante. »
 
 
 ## TITRE ET MINIATURE
@@ -174,8 +226,7 @@ dit exactement l'inverse depuis 1992.
 Principal : Ce n'est pas la crise. C'est un tri.
 Variante : Pourquoi certains cabinets gagnent plus qu'avant pendant que d'autres ferment
 
-Miniature : deux courbes qui divergent, l'une vers le haut l'autre vers le bas. Texte
-« TRI » en très gros. Visage à droite.
+Miniature : deux courbes qui divergent. Texte « TRI » en très gros. Visage à droite.
 
 
 ## DESCRIPTION YOUTUBE
@@ -188,7 +239,7 @@ deux est passé de 4,2 à 4,5. Ce n'est pas le profil d'une crise.
 Chiffres CIPAV 2022, publiés par l'Ordre des architectes. Les données nationales de
 défaillances du secteur ne sont pas disponibles en accès libre : je le dis dans la vidéo.
 
-Je ne suis pas architecte : je fais de l'acquisition pour des cabinets d'architecture.
+Je fais de l'acquisition pour des cabinets d'architecture.
 
 Les leviers d'acquisition, ce que chacun coûte et dans quel ordre les monter — 57 pages,
 gratuit : https://essort.agency/ressources
@@ -213,5 +264,5 @@ Droit de citation : titre, date, média, une phrase entre guillemets, le lien. J
 l'article entier, jamais un paywall contourné.
 Ne pas redévelopper la distribution des revenus, elle appartient à l'EP02.
 Ton mesuré : des gens de l'audience ont fermé leur agence cette année.
-Aucun cabinet nommé. Article 17.
+Aucun cabinet nommé.
 Aucune mention de l'offre à 999 € ni de l'appel de 30 minutes.
