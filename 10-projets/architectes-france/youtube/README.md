@@ -1,5 +1,35 @@
 # Chaîne YouTube « Essort Architectes » — plan de production
 
+## RESTER DANS SON DOMAINE : L'ACQUISITION
+
+Deuxième règle, juste après la première, et elle en découle.
+
+Loys n'est pas architecte et n'a aucune raison de le devenir. Son domaine, c'est
+l'acquisition : où sont les clients, ce que coûte une demande, quels leviers existent,
+lequel monter en premier, ce qui convertit et ce qui ne convertit pas. C'est là qu'il est
+légitime, c'est là qu'il vend, et c'est le seul terrain où il ne peut pas être repris.
+
+Donc on n'explique JAMAIS à un architecte comment faire son métier. Pas de cours sur les
+procédures, pas de tutoriel réglementaire, pas de leçon de conception. Le spectateur en
+sait plus que nous sur ces sujets, et il le sent en trois phrases.
+
+La règle des proportions, applicable à chaque épisode :
+
+  Le métier sert à poser le constat. Deux minutes maximum, jamais davantage. On ne
+  démontre pas, on cite ce qui est public, on donne la source et on passe.
+
+  L'acquisition occupe tout le reste. C'est là qu'on développe, qu'on chiffre, qu'on
+  raconte ce qu'on voit passer, qu'on montre des campagnes et des coûts.
+
+Le test à appliquer sur chaque chapitre : est-ce que je parle de leur métier, ou de la
+manière dont leurs clients les trouvent ? Si c'est le premier, le chapitre est trop long
+ou n'a rien à faire là.
+
+Ce qui reste dans `connaissance-metier.md` sert à tenir la conversation et les
+commentaires, pas à alimenter le script. C'est une préparation, pas un contenu.
+
+---
+
 ## LA RÈGLE QUI PRIME SUR TOUTES LES AUTRES
 
 Cette chaîne existe pour amener des clients. Pas pour informer, pas pour faire autorité,
