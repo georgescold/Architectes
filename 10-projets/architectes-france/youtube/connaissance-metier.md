@@ -303,6 +303,14 @@ https://www.chambre-agencement.org/
 Ils ne sont pas confrères, donc la confraternité ne les protège pas. On peut les nommer.
 Le droit commun s'applique quand même : pas de dénigrement, pas d'affirmation fausse.
 
+Le mécanisme à comprendre avant de lire la liste : la conception offerte. Un cuisiniste ne
+facture pas le plan, parce qu'il se paie sur les meubles. Pour le client, la question n'est
+donc plus « quel professionnel je choisis » mais « je paie la conception, ou je ne la paie
+pas ». Un professionnel qui facture son travail ne gagne jamais contre zéro : la seule
+réponse est de se placer là où le plan offert ne suffit pas à finir le projet. Ne jamais
+employer l'expression « concurrent gratuit » dans une fiche ou une vidéo sans l'expliquer :
+elle ne veut rien dire pour qui l'entend.
+
 Constructeurs de maisons individuelles. Ils vendent un prix fixe et une garantie de
 livraison, pas de l'architecture. Expression exacte « constructeur de maisons » : 130
 publicités actives en France le 16/09/2026. Maisons HCC diffuse la même publicité sans
@@ -364,7 +372,8 @@ aucune statistique fiable sur cette population. C'est une information en soi, et
 l'assumer plutôt que d'inventer.
 
 Son ennemi : la conception gratuite des enseignes, mesurable à 97 publicités actives.
-Son angle mort : le marché professionnel, où il n'a aucun concurrent gratuit.
+Son angle mort : le marché professionnel, où la conception offerte s'arrête à
+l'implantation du mobilier et ne couvre pas la conformité du local. Voir le § 7 bis.
 C'est le meilleur acheteur du backend.
 
 
