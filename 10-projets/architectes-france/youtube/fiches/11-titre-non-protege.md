@@ -30,29 +30,63 @@ zone. Quelqu'un qui vous a trouvé, lu et vérifié ne cherche pas un troisième
 immédiat : la publicité en ligne.
 
 
-## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
 
-PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
-ÉCRAN = ce que tu montres, et qui sert de preuve.
-Les phrases sont écrites pour être affichées telles quelles.
+Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
+cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
+« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
 
-1 · Ch.1 · PHRASE — « Le titre n'est pas protégé. »
-2 · Ch.1 · PHRASE — « Et une loi ne réglerait pas votre problème. »
-3 · Ch.3 · ÉCRAN — la loi de 1977 à l'écran, la protection du titre d'architecte
-surlignée, puis un cadre vide à côté : rien pour l'architecture d'intérieur.
-4 · Ch.3 · PHRASE — « Écrivez toujours "architecte d'intérieur" en entier. »
-5 · Ch.3 · ÉCRAN — la page du CFAI et sa liste d'écoles reconnues, URL visible.
-6 · Ch.3 · PHRASE — « Reconnaissance professionnelle. Pas protection légale. »
-7 · Ch.4 · ÉCRAN — les trois critères réels d'un client, en liste : ça ressemble à mon
-projet · c'est près de chez moi · d'autres en disent du bien.
-8 · Ch.4 · PHRASE — « Il ne vérifie pas votre diplôme. »
-9 · Ch.5 · PHRASE — « Le code de déontologie ne s'applique pas à vous. »
-10 · Ch.5 · PHRASE — « Vous êtes moins empêché qu'un architecte inscrit. »
-11 · Ch.6 · ÉCRAN — les trois preuves qui s'empilent : une réalisation comparable · des
-avis lisibles ailleurs que chez vous · un périmètre écrit.
-12 · Ch.6 · PHRASE — « Pas la plus belle. La plus proche de son projet. »
-13 · Ch.7 · ÉCRAN — la page essort.agency/ressources.
-14 · Ch.8 · PHRASE — « La vraie barrière, c'est d'être le premier nom qu'il trouve. »
+Ch.1 · Ouverture
+La big idea : attendre une loi est une impasse pour son activité. Même si la protection du
+titre arrivait, elle ne réglerait pas le problème qu'il a réellement — et en attendant, elle
+sert surtout de raison de ne rien faire.
+À l'écran : « Le titre n'est pas protégé », plein écran.
+
+Ch.2 · D'où je parle
+La big idea : je ne prends pas position dans le débat sur le titre. Je regarde ce qui
+décide, dans les faits, quand quelqu'un choisit à qui confier ses travaux.
+À l'écran : rien, plan de face.
+
+Ch.3 · Ce qui est protégé, et ce qui ne l'est pas — deux minutes maximum
+La big idea : la situation juridique réelle, sans prise de position. Le titre d'architecte
+est protégé par la loi de 1977 ; « architecte d'intérieur » n'a jamais été défini. Le CFAI
+reconnaît des écoles, mais c'est une reconnaissance professionnelle, pas une protection
+légale — et le client ne connaît pas le sigle.
+À l'écran : la loi de 1977 surlignée, puis un cadre vide à côté.
+
+Ch.4 · Ce qu'un client vérifie vraiment
+La big idea : le pivot de l'épisode — le titre n'entre pas dans sa décision. Il ne connaît
+ni le CFAI, ni les écoles reconnues, et il ne distingue pas un architecte DE d'un architecte
+d'intérieur. Ses trois critères réels sont la ressemblance avec son projet, la proximité, et
+l'avis de tiers. Trois preuves visibles, aucun titre.
+À l'écran : les trois critères en liste.
+
+Ch.5 · L'avantage que vous avez et que vous n'utilisez pas
+La big idea : le code de déontologie des architectes ne s'applique pas à lui. Il a bien sûr
+des règles — le droit commun — mais il est au sens strict moins empêché de communiquer qu'un
+inscrit à l'Ordre. Ce statut qu'il vit comme une faiblesse est aussi une liberté qu'il
+n'exerce pas.
+À l'écran : le périmètre du code, affiché noir sur blanc.
+
+Ch.6 · Les trois preuves qui remplacent un titre
+La big idea : quoi construire concrètement, dès cette semaine. Une réalisation comparable au
+projet du visiteur montrée en premier — pas la plus belle, la plus proche. Des avis lisibles
+ailleurs que sur son propre site. Un périmètre écrit, qui est précisément ce que celui qui
+se dit architecte d'intérieur sans formation n'écrira jamais.
+À l'écran : les trois preuves qui s'empilent.
+
+Ch.7 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+La big idea : la vraie barrière n'est pas légale, elle est d'être le premier nom qu'on
+trouve sur sa zone. Quelqu'un qui l'a trouvé, lu et vérifié ne va pas chercher un troisième
+nom — il ne compare plus. Et pour être ce premier nom sans attendre dix ans de réputation,
+il n'existe qu'un levier immédiat.
+À l'écran : la page essort.agency/ressources.
+
+Ch.8 · Sortie
+La big idea : la légitimité ne se décrète pas dans un texte, elle se constate dans les trois
+premiers résultats quand quelqu'un cherche. La tension qu'on rouvre : ces trois places sont
+déjà occupées par quelqu'un.
+À l'écran : une page de résultats, trois noms, le sien absent.
 
 Sources affichées :
 https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000522423/

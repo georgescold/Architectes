@@ -30,29 +30,68 @@ de projet et l'ordre de grandeur, et elle n'écrit qu'à un seul cabinet. C'est 
 prestation, dans deux conversations opposées.
 
 
-## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
 
-PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
-ÉCRAN = ce que tu montres, et qui sert de preuve.
-Les phrases sont écrites pour être affichées telles quelles.
+Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
+cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
+« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
 
-1 · Ch.1 · PHRASE — « Ne baissez pas. »
-2 · Ch.1 · PHRASE — « Ça ne vous fera pas signer plus. »
-3 · Ch.3 · ÉCRAN — le calcul en direct, chiffres ronds annoncés comme tels : six projets ·
-250 000 € de travaux · 12 % · 180 000 € d'honoraires.
-4 · Ch.3 · ÉCRAN — la ligne suivante qui s'affiche : −20 % → −36 000 € sur l'année.
-5 · Ch.3 · PHRASE — « Le même travail. Moins 36 000 €. »
-6 · Ch.4 · PHRASE — « Tous les postes sont compressés. Pas seulement le vôtre. »
-7 · Ch.5 · PHRASE — « Ce n'est pas une donnée. C'est ce que vous vous dites entre vous. »
-8 · Ch.6 · PHRASE — « On vous a appris que votre temps ne valait rien. »
-9 · Ch.6 · PHRASE — « Six ans de charrettes. Ça ne s'oublie pas tout seul. »
-10 · Ch.7 · ÉCRAN — trois cases vides qui se remplissent : OÙ · QUOI · À PARTIR DE COMBIEN.
-Puis une quatrième, PRIX, qui s'allume en dernier.
-11 · Ch.7 · PHRASE — « S'il commence par le prix, c'est que rien d'autre n'a été dit. »
-12 · Ch.8 · ÉCRAN — deux colonnes : PLATEFORME → trois concurrents en face · CAMPAGNE →
-un seul cabinet contacté.
-13 · Ch.8 · ÉCRAN — la page essort.agency/ressources.
-14 · Ch.9 · PHRASE — « La négociation se gagne avant le rendez-vous. »
+Ch.1 · Ouverture
+La big idea : la mise en concurrence sur les honoraires n'est pas une fatalité du marché,
+c'est une anomalie qui a des causes identifiables. Et on va les nommer une par une, parce
+qu'on ne corrige pas ce qu'on n'a pas nommé.
+À l'écran : « Ne baissez pas », plein écran.
+
+Ch.2 · D'où je parle
+La big idea : je ne suis pas là pour parler de la valeur de leur travail, je suis là pour
+parler du moment où le prix entre dans la conversation. Ce n'est pas la même question.
+À l'écran : rien, plan de face.
+
+Ch.3 · Ce que coûte une remise, sur une année
+La big idea : l'ordre de grandeur réel, par un calcul fait devant lui avec des chiffres
+ronds annoncés comme tels. Six projets à 250 000 euros de travaux, 12 % d'honoraires : une
+remise de 20 % retire 36 000 euros sur l'année, pour exactement le même travail.
+À l'écran : le calcul construit ligne par ligne, puis le total négatif seul.
+
+Ch.4 · Raison 1 — une mise en concurrence structurelle
+La big idea : ce n'est pas sa faute, et ça retire la culpabilité. Sur un projet, tous les
+postes sont compressés — le terrain, les matériaux, les entreprises, et la conception avec.
+Celui qui finance cherche à réduire partout : c'est son métier, ce n'est pas une agression.
+À l'écran : un budget de projet, tous les postes marqués d'une flèche vers le bas.
+
+Ch.5 · Raison 2 — ce que la profession se fait à elle-même
+La big idea : l'idée qu'on se sous-cote entre confrères est un ressenti massif dans le
+métier, et il est présenté comme tel — personne ne publie cette donnée. Le présenter comme
+une mesure serait faux, le taire serait malhonnête.
+À l'écran : la mention « ce que les architectes en disent, pas une donnée », affichée.
+
+Ch.6 · Raison 3 — celle que personne n'aime entendre
+La big idea : on leur a appris que leur temps ne valait rien. Les nuits blanches en studio,
+la charrette comme norme, le travail rendu gratuitement parce que c'est comme ça — pendant
+six ans. Ce n'est pas un trait de caractère, c'est un apprentissage, et un apprentissage se
+désapprend.
+À l'écran : « Six ans de charrettes », plein écran.
+
+Ch.7 · Pourquoi le prix arrive en premier
+La big idea : le mécanisme réel, et il bascule dans mon domaine. Ce n'est pas le client qui
+impose le prix comme premier sujet, c'est l'absence des trois autres qui le lui laisse comme
+seul sujet disponible — la zone, le type d'intervention, l'ordre de grandeur. S'il appelle
+sans les connaître, le prix est la seule information comparable dont il dispose.
+À l'écran : trois cases vides qui se remplissent, puis la quatrième, PRIX, qui s'éteint.
+
+Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+La big idea : la négociation se gagne avant le rendez-vous, et la façon dont la demande
+arrive décide de tout. Une demande de plateforme arrive avec trois cabinets en face : le
+client a été mis en situation de comparer, c'est même ce qu'on lui a vendu. Une demande
+venue d'une campagne qu'on pilote arrive après avoir lu la zone, le type de projet et
+l'enveloppe, et elle n'écrit qu'à un seul cabinet.
+À l'écran : deux colonnes opposées, puis la page essort.agency/ressources.
+
+Ch.9 · Sortie
+La big idea : il n'y a rien à changer dans sa façon de négocier — il y a quelque chose à
+changer dans ce que les gens savent avant d'appeler. La tension qu'on rouvre : c'est un
+travail de quelques heures, et presque personne ne l'a fait.
+À l'écran : la phrase seule, plein écran.
 
 Ordre de grandeur d'honoraires affiché :
 https://www.hemea.com/fr/architecture/architecte-interieur/prix

@@ -243,29 +243,30 @@ existe derrière** — et c'est ce qui fait cliquer sur la description trois vid
 
 ---
 
-### LE FIL VISUEL — la section qui porte la démonstration
+### LE FIL DE LA DÉMONSTRATION — la section qui porte l'épisode
 
-Chaque fiche contient, juste sous la big idea, la liste numérotée de tout ce qui s'affiche à
-l'écran, dans l'ordre de la vidéo. C'est le fil de la démonstration : tu peux tourner en
-suivant cette seule liste.
+Chaque fiche contient, juste sous la big idea de l'épisode, la big idea de chaque chapitre,
+dans l'ordre. Lues à la suite, ces idées sont le cheminement complet de la vidéo : c'est le
+raisonnement, pas une liste d'accroches.
 
-Deux types d'éléments, et un seul par ligne :
+Une entrée par chapitre, toujours la même forme :
 
-- **PHRASE** — un texte court en plein écran, deux à trois secondes, pendant que tu parles.
-  Elle est écrite pour être affichée telle quelle, sans être retouchée au montage.
-- **ÉCRAN** — une capture, un document, un tableur, un schéma. C'est ce qui sert de preuve.
-
-Chaque ligne porte son numéro de chapitre, pour que le montage suive le déroulé sans avoir à
-chercher.
+```
+Ch.4 · Le titre du chapitre
+La big idea : l'idée que ce chapitre installe, développée avec son contexte — pourquoi elle
+tient, et ce qu'elle rend possible pour le chapitre suivant.
+À l'écran : la capture, le document ou le schéma qui la porte.
+```
 
 Trois règles :
 
-1. Une phrase à l'écran ne répète jamais mot pour mot ce que tu dis à la voix. Elle
-   condense, elle tranche, elle frappe — la voix développe.
-2. Toute capture qui contient un chiffre porte la date du relevé à l'image. Les compteurs
-   publicitaires et les dispositifs d'aide bougent, la date protège la vidéo.
-3. Aucun cabinet identifiable : pas de nom, pas de logo, pas de capture reconnaissable.
-   Les reconstitutions sont fabriquées par toi.
+1. **Une idée par chapitre, et une seule.** Si un chapitre en porte deux, il faut le couper
+   en deux. Le test : retirer un chapitre du fil — si la suite tient quand même, il ne
+   servait à rien.
+2. **L'idée est écrite avec son contexte**, jamais comme une punchline hors sol. Elle doit
+   pouvoir se lire seule, six mois plus tard, et rester compréhensible.
+3. **Toute capture qui contient un chiffre porte la date du relevé à l'image**, et aucun
+   cabinet n'est identifiable — les reconstitutions sont fabriquées par toi.
 
 
 ### LE TITRE EST UN HOOK — le cadre à appliquer aux 20

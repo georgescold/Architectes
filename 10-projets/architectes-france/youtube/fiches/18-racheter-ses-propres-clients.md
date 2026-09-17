@@ -25,35 +25,77 @@ plateforme, une fois le nombre de contacts achetés et le niveau d'honoraires si
 compte — les deux effets se multiplient, et c'est pour ça que le résultat surprend.
 
 Puis la différence de fond : une plateforme loue un contact, une campagne construit un
+actif. Ce qui se construit pendant qu'on diffuse — une page qui convertit, une audience,
+des avis, des chiffres — reste au cabinet le jour où il coupe le budget. Un contact acheté,
+lui, ne laisse rien derrière.
+
+
+## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
+
+Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
+cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
+« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
+
+Ch.1 · Ouverture
+La big idea : la mise en concurrence n'est pas un effet de bord de ces plateformes, c'est le
+produit. Ce qui s'achète n'est pas un client, c'est le droit d'enchérir contre des confrères
+sur un même projet.
+À l'écran : « Vous n'achetez pas un client. Vous achetez le droit d'enchérir. »
+
+Ch.2 · D'où je parle, et mon conflit d'intérêt
+La big idea : je vends de l'acquisition, donc j'ai un intérêt direct dans ce que je raconte.
+L'annoncer franchement est ce qui le neutralise — et ça oblige à ne présenter que ce qui est
+vérifiable.
+À l'écran : la phrase, affichée telle quelle.
+
+Ch.3 · Pourquoi vous y êtes allé
+La big idea : ce n'était pas une erreur de jugement. Quand le téléphone ne sonne pas, une
+offre qui promet des contacts dès la semaine prochaine est parfaitement rationnelle. Le
+problème n'est pas d'y être allé, c'est de ne pas avoir fait le calcul après.
+À l'écran : rien, plan de face.
+
+Ch.4 · Le modèle économique, expliqué simplement
+La big idea : le mécanisme, sans prêter d'intention. Une plateforme est payée au contact
+vendu, pas au projet signé. Une entreprise payée au contact a donc intérêt à ce qu'il y ait
+beaucoup de contacts et à ce que chacun soit vendu plusieurs fois. C'est rationnel, c'est
+assumé publiquement, et ça se dit sans agressivité.
+À l'écran : le schéma : un contact au centre, des flèches vers plusieurs professionnels.
+
+Ch.5 · L'effet en cascade sur les honoraires
+La big idea : ça dépasse son cas personnel. Quand plusieurs propositions arrivent en même
+temps sur le même projet, elles se ressemblent sur tout sauf le montant — le client ne
+choisit pas le moins cher par principe, il choisit sur le seul axe qu'on lui a rendu
+comparable. Chacun qui baisse fixe la référence du suivant. C'est un mécanisme, pas une
+mesure : personne ne publie cet effet, et il faut le dire.
+À l'écran : quatre propositions alignées, identiques sauf le montant.
+
+Ch.6 · Ce que vendent réellement ces plateformes
+La big idea : l'enjeu dépasse le contact, il porte sur le positionnement. Quand une
+plateforme promet publiquement « budget, délais et entreprises verrouillés dès le départ »,
+elle décrit une mission de maîtrise d'œuvre, vendue au client final par un tiers.
+À l'écran : la promesse affichée publiquement, capture avec la date du relevé.
+
+Ch.7 · Le seul calcul qui compte
+La big idea : la formule, pour qu'il tranche lui-même. Pas « combien de projets », mais
+combien dépensé en contacts, combien signé, et à quel niveau d'honoraires par rapport aux
+projets directs. Les deux effets se multiplient — coût par signature élevé et montant signé
+plus bas — et c'est pour ça que le résultat surprend.
+À l'écran : le calcul en deux lignes.
+
+Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+La big idea : ce que change un contact qui arrive directement, et la différence de fond
+qu'on ne voit pas tout de suite — une plateforme loue un contact, une campagne construit un
 actif. Au bout de deux ans, le cabinet qui a fait de la publicité a un site qui convertit,
 des avis et des chiffres qui lui appartiennent. Celui qui a acheté des contacts a des
 contacts.
+À l'écran : deux colonnes, LOUER UN CONTACT et CONSTRUIRE UN ACTIF, puis la page
+essort.agency/ressources.
 
-
-## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
-
-PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
-ÉCRAN = ce que tu montres, et qui sert de preuve.
-Les phrases sont écrites pour être affichées telles quelles.
-
-1 · Ch.1 · PHRASE — « Vous n'achetez pas un client. »
-2 · Ch.1 · PHRASE — « Vous achetez le droit d'enchérir. »
-3 · Ch.2 · PHRASE — « Je vends de l'acquisition. Vous savez d'où je parle. »
-4 · Ch.3 · PHRASE — « Vous y êtes allé parce que le téléphone ne sonnait pas. »
-5 · Ch.4 · ÉCRAN — le schéma du modèle : un contact au centre, des flèches vers plusieurs
-professionnels, et une facture sur chaque flèche.
-6 · Ch.4 · PHRASE — « Payées au contact vendu. Pas au projet signé. »
-7 · Ch.5 · ÉCRAN — quatre propositions alignées, identiques sur tout sauf le montant, qui
-se surligne tout seul.
-8 · Ch.5 · PHRASE — « Le seul élément comparable, c'est le prix. »
-9 · Ch.6 · ÉCRAN — la promesse affichée publiquement par la plateforme, capture avec la
-date du relevé.
-10 · Ch.6 · PHRASE — « C'est la description de votre mission. »
-11 · Ch.7 · ÉCRAN — le calcul en deux lignes : contacts achetés par signature × honoraires
-signés. Les deux effets qui se multiplient.
-12 · Ch.7 · ÉCRAN — deux colonnes : LOUER UN CONTACT · CONSTRUIRE UN ACTIF.
-13 · Ch.8 · ÉCRAN — la page essort.agency/ressources.
-14 · Ch.9 · PHRASE — « Au bout de deux ans, il vous reste quoi ? »
+Ch.9 · Sortie
+La big idea : la question à se poser ce soir n'est pas s'il faut arrêter, c'est ce qu'il
+reste au bout de deux ans. La tension qu'on rouvre : le calcul prend une heure et beaucoup
+ne l'ont jamais fait.
+À l'écran : « Au bout de deux ans, il vous reste quoi ? »
 
 Relevé affiché :
 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR

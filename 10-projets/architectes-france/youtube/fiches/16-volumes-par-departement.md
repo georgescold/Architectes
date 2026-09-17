@@ -34,31 +34,63 @@ départements voisins peuvent aller du simple au triple. Diffuser sur le bon co�
 prix et ne produit pas la même chose.
 
 
-## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
 
-PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
-ÉCRAN = ce que tu montres, et qui sert de preuve.
-Les phrases sont écrites pour être affichées telles quelles.
+Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
+cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
+« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
 
-1 · Ch.1 · PHRASE — « Combien de chantiers démarrent près de chez vous ? »
-2 · Ch.1 · PHRASE — « C'est public. Et personne ne regarde. »
-3 · Ch.3 · ÉCRAN — une carte de France avec un cercle dessiné à la main autour d'un
-département : la zone choisie au feeling.
-4 · Ch.3 · PHRASE — « Vous n'avez pas choisi votre zone. Vous en avez hérité. »
-5 · Ch.4 · ÉCRAN — la carte de l'Observatoire des territoires en direct, logements
-commencés pour 1 000 habitants, URL et date d'extraction visibles.
-6 · Ch.4 · ÉCRAN — deux départements voisins sélectionnés l'un après l'autre, leurs deux
-chiffres affichés côte à côte.
-7 · Ch.4 · PHRASE — « Même distance. Pas le même marché. »
-8 · Ch.5 · ÉCRAN — deux lignes qui s'opposent à l'écran : AUTORISÉS = ce qui arrive ·
-COMMENCÉS = ce qui se fait.
-9 · Ch.5 · PHRASE — « Ça ne mesure que le neuf. »
-10 · Ch.5 · PHRASE — « Donc jamais "ce département est mort". »
-11 · Ch.6 · ÉCRAN — l'écran de réglage d'une zone de diffusion : département, commune,
-rayon en kilomètres.
-12 · Ch.6 · PHRASE — « Trois clics. »
-13 · Ch.7 · ÉCRAN — la page essort.agency/ressources.
-14 · Ch.8 · PHRASE — « Votre département, et les deux d'à côté. Ce soir. »
+Ch.1 · Ouverture
+La big idea : une décision importante se prend sans donnée, alors que la donnée existe,
+qu'elle est publique et gratuite. Combien de chantiers démarrent réellement près de chez
+lui : personne ne regarde.
+À l'écran : la carte de l'Observatoire des territoires, plein écran.
+
+Ch.2 · D'où je parle
+La big idea : c'est le premier réglage que je fais avant de diffuser quoi que ce soit, parce
+qu'une zone mal choisie coûte exactement le même prix qu'une zone bien choisie.
+À l'écran : rien, plan de face.
+
+Ch.3 · Comment la plupart choisissent leur zone
+La big idea : la décision est prise au feeling, et ce n'est pas une faute. Le département où
+l'on habite plus les communes où l'on a déjà travaillé, c'est la zone où la recommandation
+circule. Mais ça veut dire que la zone n'a pas été choisie : elle a été héritée du premier
+chantier, il y a dix ans, et personne ne l'a réexaminée depuis.
+À l'écran : une carte avec un cercle dessiné à la main autour d'un département.
+
+Ch.4 · La manipulation, en direct
+La big idea : il peut regarder son département en trois minutes, et le comparer à ses
+voisins. L'indicateur qui compte est rapporté à 1 000 habitants, parce qu'un volume brut ne
+mesure que la démographie. Deux départements voisins peuvent aller du simple au triple.
+À l'écran : la carte en direct, deux départements sélectionnés l'un après l'autre, date
+d'extraction visible.
+
+Ch.5 · Ce que la donnée ne dit pas
+La big idea : la limite de l'indicateur, dite avant qu'on la lui oppose. Un volume de
+logements commencés mesure la construction neuve — pas la rénovation, pas l'extension, pas
+l'aménagement de locaux. Donc jamais « ce département est mort » : un territoire à faible
+construction peut être excellent en rénovation, et c'est souvent le cas dans l'ancien.
+À l'écran : ce que l'indicateur couvre, et ce qu'il ne couvre pas.
+
+Ch.6 · Ce qu'on en fait, concrètement
+La big idea : la décision de ciblage qui en découle. Et l'autre lecture utile : les
+autorisations sont un indicateur avancé, les mises en chantier un indicateur de réalité — un
+département où les autorisations remontent depuis deux trimestres est un département où
+l'activité va arriver.
+À l'écran : deux lignes opposées, AUTORISÉS et COMMENCÉS.
+
+Ch.7 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+La big idea : la publicité en ligne est le seul levier qui permette de choisir un
+territoire, et donc le seul qui rende cette donnée exploitable. Une zone de diffusion se
+règle au département, à la commune ou au rayon en kilomètres, et se change en trois clics.
+La recommandation, elle, ne franchit pas une frontière départementale — donc savoir où il
+faudrait être ne sert à rien sans un moyen d'y être.
+À l'écran : l'écran de réglage d'une zone, puis la page essort.agency/ressources.
+
+Ch.8 · Sortie
+La big idea : son département et les deux d'à côté, ce soir, en dix minutes. La tension
+qu'on rouvre : il se peut que la zone qu'il travaille depuis dix ans ne soit pas la bonne.
+À l'écran : la carte, une dernière fois.
 
 Sources affichées :
 https://www.observatoire-des-territoires.gouv.fr/nombre-de-logements-commences-constructions-neuves-par-pour-1-000-habitants

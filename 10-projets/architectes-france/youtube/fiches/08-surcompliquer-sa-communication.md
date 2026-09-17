@@ -31,30 +31,64 @@ sur une page. Si la page ne dit pas ces trois choses, chaque visiteur est payé 
 C'est pour ça qu'on ne diffuse jamais avant de les avoir écrites.
 
 
-## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
 
-PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
-ÉCRAN = ce que tu montres, et qui sert de preuve.
-Les phrases sont écrites pour être affichées telles quelles.
+Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
+cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
+« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
 
-1 · Ch.1 · PHRASE — « Il ne vous manque pas une stratégie. »
-2 · Ch.1 · PHRASE — « Il vous manque trois informations. »
-3 · Ch.3 · PHRASE — « Ce n'est pas de la paresse. C'est du perfectionnisme. »
-4 · Ch.3 · PHRASE — « On vous l'a noté pendant six ans. »
-5 · Ch.4 · ÉCRAN — un compteur à zéro, plein écran, qui ne bouge pas pendant que tu
-énumères les mois d'attente.
-6 · Ch.5 · ÉCRAN — une page d'accueil reconstituée par toi, telle que la voit un visiteur :
-grande image, aucune phrase. Chronomètre de 5 secondes en surimpression.
-7 · Ch.5 · PHRASE — « Cinq secondes. Il n'a rien appris. »
-8 · Ch.6 · ÉCRAN — les trois informations, une par une, qui s'ajoutent à l'écran :
-OÙ · QUOI · À PARTIR DE COMBIEN.
-9 · Ch.6 · PHRASE — « La troisième fait peur. C'est celle qui trie. »
-10 · Ch.7 · ÉCRAN — la réécriture en direct : la page avant, puis la même page avec les
-trois informations en haut. Les deux côte à côte à la fin.
-11 · Ch.7 · PHRASE — « Une heure de travail. Zéro euro. »
-12 · Ch.8 · ÉCRAN — la page essort.agency/ressources.
-13 · Ch.9 · PHRASE — « Remplacez le nom de votre agence par celui d'un confrère. »
-14 · Ch.9 · PHRASE — « Si la phrase reste vraie, elle ne dit rien. »
+Ch.1 · Ouverture
+La big idea : le problème n'est pas là où il le cherche. Ce ne sont ni le site, ni la charte
+graphique, ni la stratégie de contenu — ce sont trois informations absentes.
+À l'écran : « Il ne vous manque pas une stratégie », plein écran.
+
+Ch.2 · D'où je parle
+La big idea : je regarde des pages d'architectes en me demandant une seule chose : est-ce
+que je saurais quoi faire de ce cabinet si j'avais un projet ?
+À l'écran : rien, plan de face.
+
+Ch.3 · Pourquoi ce n'est pas de la paresse
+La big idea : le perfectionnisme est un réflexe acquis, pas un défaut de caractère. On leur
+a noté le rendu pendant six ans — attendre que ce soit fini avant de montrer est exactement
+ce qu'on leur a appris à faire.
+À l'écran : la liste des choses qu'on attend : le book, la charte, le site, les photos.
+
+Ch.4 · Ce que ça coûte
+La big idea : le coût de l'attente se compte en temps, pas en argent. Pendant les mois où
+l'on attend que ce soit parfait, le compteur de demandes entrantes reste à zéro — et il
+n'existe aucun moyen de récupérer ces mois-là.
+À l'écran : un compteur à zéro qui ne bouge pas pendant qu'on énumère les mois.
+
+Ch.5 · Ce qu'un client regarde vraiment
+La big idea : la hiérarchie réelle des informations n'est pas celle qu'il croit. Un visiteur
+ne cherche pas à être impressionné, il cherche à savoir si ce cabinet est pour lui — et il
+prend cette décision en quelques secondes, avant d'avoir regardé une seule réalisation.
+À l'écran : une page reconstituée, chronomètre de cinq secondes en surimpression.
+
+Ch.6 · Les trois informations manquantes
+La big idea : où il travaille, ce qu'il fait précisément, à partir de quel ordre de grandeur.
+C'est le cadeau de la vidéo, et la troisième est celle qui fait peur parce qu'elle trie —
+c'est justement son rôle.
+À l'écran : les trois informations qui s'ajoutent une par une : OÙ · QUOI · À PARTIR DE
+COMBIEN.
+
+Ch.7 · La démonstration à l'écran
+La big idea : le changement est visible immédiatement et ne coûte rien. On réécrit une page
+en direct, et on met l'avant et l'après côte à côte — une heure de travail, zéro euro.
+À l'écran : la page avant, la page après, les deux côte à côte.
+
+Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+La big idea : ces trois informations sont ce qui rend toute acquisition possible. Une
+campagne envoie des gens sur une page ; si la page ne dit ni où, ni quoi, ni pour quel
+budget, chaque visiteur est payé et repart. C'est pour ça qu'on ne diffuse jamais avant de
+les avoir écrites.
+À l'écran : la page essort.agency/ressources.
+
+Ch.9 · Sortie
+La big idea : le test qui tranche tout — remplacer le nom de son agence par celui d'un
+confrère dans sa première phrase. Si la phrase reste vraie, elle ne dit rien. La tension
+qu'on rouvre : presque toutes les phrases passent le test.
+À l'écran : le test, plein écran.
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

@@ -31,30 +31,64 @@ Trente-quatre ans d'autorisation que presque personne n'utilise, ça veut dire u
 publicitaire vide — et un espace vide, ça coûte moins cher.
 
 
-## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
 
-PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
-ÉCRAN = ce que tu montres, et qui sert de preuve.
-Les phrases sont écrites pour être affichées telles quelles.
+Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
+cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
+« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
 
-1 · Ch.1 · PHRASE — « Depuis 1992. »
-2 · Ch.1 · PHRASE — « Vous avez le droit de faire de la publicité depuis 34 ans. »
-3 · Ch.2 · ÉCRAN — la distinction affichée d'emblée : ce chapitre concerne les architectes
-inscrits à l'Ordre · les architectes d'intérieur ne sont pas concernés par ce code.
-4 · Ch.3 · ÉCRAN — le texte de l'article sur Légifrance, la phrase qui autorise surlignée,
-URL visible.
-5 · Ch.3 · PHRASE — « Lisez la phrase vous-même. »
-6 · Ch.4 · ÉCRAN — la date d'abrogation et la date du texte de remplacement, côte à côte :
-même jour.
-7 · Ch.4 · PHRASE — « Abrogé et remplacé le même jour. »
-8 · Ch.5 · ÉCRAN — le décret du nouveau code de déontologie, entrée en vigueur au
-1er juillet 2026, article affiché.
-9 · Ch.5 · PHRASE — « Le nouveau code n'a rien changé là-dessus. »
-10 · Ch.6 · ÉCRAN — la position publique de l'Ordre, citée à l'écran.
-11 · Ch.7 · ÉCRAN — les deux seules limites, en liste : ne pas mentir · ne pas dénigrer.
-12 · Ch.7 · PHRASE — « Deux interdits. C'est tout. »
-13 · Ch.8 · ÉCRAN — la page essort.agency/ressources.
-14 · Ch.9 · PHRASE — « La question n'est plus le droit. C'est quoi diffuser, et où. »
+Ch.1 · Ouverture
+La big idea : la croyance que porte toute la profession est datée, et on va dire de combien.
+Trente-quatre ans. Pas une nuance d'interprétation : un texte abrogé en 1992.
+À l'écran : « Depuis 1992 », plein écran.
+
+Ch.2 · D'où je parle, et à qui
+La big idea : je fais de l'acquisition pour des cabinets d'architecture, donc je vis avec ce
+texte. Et une précision qui évite toute confusion : ce code concerne les architectes
+inscrits à l'Ordre, pas les architectes d'intérieur.
+À l'écran : le périmètre du code, affiché d'emblée.
+
+Ch.3 · Le texte, lu à l'écran — deux minutes maximum
+La big idea : l'article dit l'inverse de la croyance, mot pour mot. Je ne l'interprète pas,
+je le lis, et chacun peut ouvrir la page pendant la vidéo.
+À l'écran : le texte sur Légifrance, la phrase qui autorise surlignée, URL visible.
+
+Ch.4 · Depuis quand exactement
+La big idea : l'ampleur du retard. L'article qui interdisait a été abrogé et remplacé le
+même jour, en 1992, par un article qui autorise. Puis on laisse le silence faire le calcul.
+À l'écran : les deux dates côte à côte, même jour.
+
+Ch.5 · Ce que le nouveau code change
+La big idea : la refonte récente du code de déontologie n'a rien modifié sur ce point. Le
+dire coupe court à la confusion de ceux qui ont entendu parler d'un nouveau texte sans le
+lire.
+À l'écran : le décret, entrée en vigueur au 1er juillet 2026, article affiché.
+
+Ch.6 · Ce que l'Ordre en dit lui-même
+La big idea : ce n'est pas ma lecture personnelle d'un décret. L'institution elle-même
+l'écrit publiquement, et c'est la seule source qui puisse clore le débat dans les
+commentaires.
+À l'écran : la position publique de l'Ordre, citée à l'écran.
+
+Ch.7 · Les deux vraies limites
+La big idea : la bonne question n'est pas « ai-je le droit » mais « qu'est-ce que je n'ai
+pas le droit de dire ». Et la réponse tient en deux interdits : ne pas mentir, ne pas
+dénigrer. Tout le reste est autorisé — et la distinction vaut de l'argent, parce qu'elle
+libère tout ce qu'on n'osait pas faire.
+À l'écran : les deux interdits en liste, puis ce qu'ils laissent faire.
+
+Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+La big idea : cette croyance a survécu trente-quatre ans parce qu'elle arrangeait tout le
+monde — elle donnait une raison honorable de ne pas s'y mettre. Ce qu'elle a coûté, c'est un
+espace publicitaire entièrement vide, et donc bon marché, que quelques-uns commencent à
+occuper.
+À l'écran : la page essort.agency/ressources.
+
+Ch.9 · Sortie
+La big idea : la question du droit est réglée, il ne reste que des questions de métier —
+quoi diffuser, où, pour quel budget. La tension qu'on rouvre : c'est la partie qui demande
+du travail.
+À l'écran : les trois questions restantes, plein écran.
 
 Sources affichées :
 https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000722752/

@@ -30,30 +30,63 @@ comme ces projets sont plus petits, il en faut un flux régulier : exactement ce
 recommandation ne sait pas produire.
 
 
-## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
 
-PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
-ÉCRAN = ce que tu montres, et qui sert de preuve.
-Les phrases sont écrites pour être affichées telles quelles.
+Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
+cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
+« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
 
-1 · Ch.1 · PHRASE — « Le marché n'a pas disparu. »
-2 · Ch.1 · PHRASE — « Il a changé d'adresse. »
-3 · Ch.3 · ÉCRAN — la frise du dispositif : suspendu au 1er janvier 2026 · rouvert le
-23 février 2026. Date de ton relevé affichée en bandeau permanent.
-4 · Ch.3 · ÉCRAN — le guide officiel de l'Anah ouvert à la page des parcours, URL visible.
-5 · Ch.3 · PHRASE — « Parcours accompagné obligatoire pour les F et G. »
-6 · Ch.4 · ÉCRAN — le chiffre d'Archigraphie en deux barres opposées : 62 % du volume ·
-38 % de la valeur.
-7 · Ch.4 · PHRASE — « C'est là que sont les projets. »
-8 · Ch.4 · PHRASE — « Et ils sont plus petits. »
-9 · Ch.5 · ÉCRAN — la phrase d'Archigraphie citée telle quelle à l'écran, sur les
-honoraires moindres qu'en neuf.
-10 · Ch.5 · PHRASE — « Plus petits = il en faut plus = il en faut plus souvent. »
-11 · Ch.6 · PHRASE — « Ce propriétaire ne connaît aucun architecte. »
-12 · Ch.6 · PHRASE — « Et aucun architecte ne le connaît. »
-13 · Ch.7 · ÉCRAN — la page essort.agency/ressources.
-14 · Ch.8 · PHRASE — « Revérifiez le dispositif avant d'agir. Il bouge tous les
-trimestres. »
+Ch.1 · Ouverture
+La big idea : un marché monte pendant qu'on regarde celui qui baisse. Tout le monde parle de
+la chute des permis de construire ; à côté, la rénovation d'ampleur financée est publique et
+chiffrée.
+À l'écran : « Le marché n'a pas disparu. Il a changé d'adresse. »
+
+Ch.2 · D'où je parle
+La big idea : je ne suis pas conseiller en aides publiques. Je regarde une population de
+gens qui cherchent, et par quel chemin on peut être devant eux quand ils cherchent.
+À l'écran : rien, plan de face.
+
+Ch.3 · L'état du dispositif — deux minutes maximum
+La big idea : où en est MaPrimeRénov' à la date du relevé, affichée à l'écran. Suspendu au
+1er janvier 2026 faute de budget voté, rouvert le 23 février. Budget 2026 de 3,6 milliards,
+parcours accompagné obligatoire pour les logements F et G. C'est le sujet le plus périssable
+de la chaîne, et le dire protège la vidéo.
+À l'écran : la frise du dispositif, date du relevé en bandeau permanent.
+
+Ch.4 · Ce que ça déplace concrètement
+La big idea : ça crée une population de propriétaires avec une contrainte et un budget. Une
+rénovation d'ampleur, ce n'est pas une isolation isolée : c'est un bouquet de travaux,
+plusieurs lots, un calendrier et un dossier — exactement ce qu'un propriétaire ne sait pas
+conduire seul.
+À l'écran : ce que contient une rénovation d'ampleur, en liste.
+
+Ch.5 · La nuance que personne ne dit
+La big idea : le cœur honnête de l'épisode — le volume contre la valeur. La rénovation, c'est
+déjà 62 % des travaux déclarés par les architectes en volume, mais seulement 38 % en valeur.
+Archigraphie écrit noir sur blanc que ces travaux entraînent des honoraires moindres que le
+neuf. Donc ce n'est pas un eldorado : c'est là que sont les projets, et ils sont plus petits.
+À l'écran : deux barres opposées, 62 % du volume contre 38 % de la valeur.
+
+Ch.6 · Pourquoi votre réseau ne vous y emmènera pas
+La big idea : ce marché est structurellement invisible depuis la recommandation. Celui qui
+monte un dossier n'a pas d'architecte, n'en a jamais eu, n'en connaît aucun — il n'est dans
+le réseau de personne. En revanche il cherche activement en ligne pendant des semaines avant
+de contacter qui que ce soit.
+À l'écran : un schéma : le réseau d'un cabinet, et ce propriétaire, entièrement à l'extérieur.
+
+Ch.7 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+La big idea : un marché de volume exige un flux régulier, pas trois projets d'un coup au
+printemps. Or la recommandation fonctionne par à-coups par définition. La publicité en ligne
+est le seul levier qui touche un profil aussi précis — zone, type de logement, moment de
+recherche — et le seul qui produise un flux qu'on règle.
+À l'écran : la page essort.agency/ressources.
+
+Ch.8 · Sortie
+La big idea : le dispositif bouge tous les trimestres, donc on revérifie avant d'agir — mais
+la population de propriétaires, elle, ne disparaîtra pas. La tension qu'on rouvre : ils
+cherchent en ce moment.
+À l'écran : la date du relevé, une dernière fois.
 
 Sources affichées :
 https://www.anah.gouv.fr/sites/default/files/2026-02/Anah-FR-Guide_des_aides_Fev2026_WEB_20260224.pdf

@@ -33,35 +33,67 @@ C'est le seul moyen d'exister dans la tête de quelqu'un qui n'a jamais tapé «
 d'intérieur » de sa vie.
 
 
-## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
 
-PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
-ÉCRAN = ce que tu montres, et qui sert de preuve.
-Les phrases sont écrites pour être affichées telles quelles.
+Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
+cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
+« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
 
-1 · Ch.1 · PHRASE — « 97 publicités promettent un plan gratuit à vos clients. »
-2 · Ch.1 · PHRASE — « Sur le client dont je vais vous parler : zéro. »
-3 · Ch.2 · ÉCRAN — la bibliothèque publicitaire, recherche sur la conception gratuite,
-compteur à 97, date du relevé visible à l'image.
-4 · Ch.3 · ÉCRAN — le CERFA 13824*04, autorisation de travaux en ERP, pages sécurité et
-accessibilité encadrées en rouge.
-5 · Ch.3 · PHRASE — « Il n'achète pas du style. Il achète une date d'ouverture. »
-6 · Ch.3 · ÉCRAN — les cinq catégories d'ERP, en liste simple à l'écran.
-7 · Ch.4 · PHRASE — « Le loyer court pendant les travaux. »
-8 · Ch.4 · PHRASE — « Un mois de retard = un mois payé pour rien. »
-9 · Ch.5 · ÉCRAN — recherche « architecte restaurant » dans la bibliothèque publicitaire :
-aucun résultat actif, date visible.
-10 · Ch.5 · PHRASE — « 0 publicité active sur ce segment. »
-11 · Ch.6 · PHRASE — « Il ne tapera jamais "architecte d'intérieur". »
-12 · Ch.6 · PHRASE — « Il tape le nom de son problème, pas le nom de votre métier. »
-13 · Ch.7 · ÉCRAN — les trois lignes du ciblage écrites en direct : la zone · le type de
-local · le moment (ouverture, reprise, mise aux normes).
-14 · Ch.8 · ÉCRAN — la page essort.agency/ressources, immobile, pendant que tu parles.
-15 · Ch.9 · PHRASE — « Dans votre ville, cette semaine, des locaux changent de main. »
+Ch.1 · Ouverture
+La big idea : il existe un segment de clientèle où personne ne casse les prix et où
+personne ne fait de publicité. Les deux en même temps, c'est rare au point d'être suspect —
+et c'est vérifiable en dix minutes.
+À l'écran : la bibliothèque publicitaire, 97 annonces actives promettant une conception
+gratuite, date du relevé visible.
 
-Sources des chiffres affichés :
-https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
-https://www.service-public.fr/particuliers/vosdroits/R11311
+Ch.2 · Le problème du marché sur lequel il est
+La big idea : sur le résidentiel, sa faiblesse n'est pas son prix, c'est sa comparabilité.
+Quand une enseigne offre la conception pour vendre du mobilier, le client n'a plus à choisir
+entre deux professionnels : il choisit entre payer et ne pas payer.
+À l'écran : deux annonces d'enseignes promettant le plan gratuit, côte à côte.
+
+Ch.3 · Le segment où ça ne marche pas comme ça — deux minutes maximum
+La big idea : un professionnel qui ouvre un local public n'achète pas du style, il achète
+une autorisation et une date d'ouverture. Aucune enseigne de mobilier ne peut offrir ça,
+parce que c'est un dossier réglementaire et pas un plan d'aménagement.
+À l'écran : le CERFA 13824*04, autorisation de travaux en ERP, pages sécurité et
+accessibilité encadrées.
+
+Ch.4 · Jusqu'où il peut aller seul
+La big idea : il y a une limite à ce qu'un architecte d'intérieur peut signer seul, et la
+connaître évite de se lancer sur un projet qu'on ne pourra pas porter. Dit vite, sans
+pédanterie : c'est une information de cadrage, pas un cours.
+À l'écran : la limite écrite en une ligne, et la mention des cas où un architecte inscrit
+devient nécessaire.
+
+Ch.5 · Ce que dit le marché publicitaire de ce segment
+La big idea : sur ce segment, le terrain publicitaire est vide — et c'est mesuré, pas
+supposé. La nuance qui rend l'affirmation solide : l'outil ne classe pas par métier, donc on
+annonce un nombre de résultats sur une expression exacte, à une date, et rien de plus.
+À l'écran : recherche « architecte restaurant », aucun résultat actif, date visible.
+
+Ch.6 · Pourquoi ce client ne viendra jamais tout seul
+La big idea : un professionnel ne cherche pas « un architecte d'intérieur », il cherche à
+régler un problème d'ouverture. Il tape le nom de son problème, pas le nom du métier — donc
+aucun levier passif, ni référencement, ni recommandation, ne le ramènera.
+À l'écran : ce qu'il tape réellement, en trois exemples de recherche.
+
+Ch.7 · Comment on va le chercher — le cœur de la vidéo
+La big idea : puisqu'il ne vient pas, on va le chercher, et ça se décide en trois réglages :
+la zone, le type de local, le moment. C'est le chapitre le plus long parce que c'est le seul
+qui soit entièrement dans le domaine de la chaîne.
+À l'écran : les trois lignes du ciblage écrites en direct.
+
+Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+La big idea : la publicité en ligne est le seul levier qui atteigne ce client au moment où
+sa contrainte existe, c'est-à-dire pendant les quelques semaines où il prépare son
+ouverture. Le problème n'a jamais été le talent, c'est l'absence de système.
+À l'écran : la page essort.agency/ressources, immobile.
+
+Ch.9 · Sortie
+La big idea : ce n'est pas un chantier de six mois — dans sa ville, cette semaine, des
+locaux changent de main. La tension qu'on rouvre : quelqu'un d'autre finira par y aller.
+À l'écran : une rue commerçante, plusieurs locaux en travaux.
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

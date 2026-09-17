@@ -32,31 +32,74 @@ facture, mais il n'envoie pas de statistiques non plus — donc on ne peut prend
 décision dessus.
 
 
-## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
 
-PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
-ÉCRAN = ce que tu montres, et qui sert de preuve.
-Les phrases sont écrites pour être affichées telles quelles.
+Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
+cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
+« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
 
-1 · Ch.1 · ÉCRAN — le calcul d'ouverture, chiffres ronds annoncés comme tels :
-250 000 € de travaux × 12 % = 30 000 €.
-2 · Ch.1 · PHRASE — « Un seul projet. »
-3 · Ch.3 · PHRASE — « On ne vous a jamais appris à raisonner en coût d'acquisition. »
-4 · Ch.3 · PHRASE — « Le mot n'existe pas dans votre formation. »
-5 · Ch.4 · ÉCRAN — la mauvaise unité barrée à l'écran : € PAR MOIS. Puis la bonne qui
-s'affiche : % DES HONORAIRES.
-6 · Ch.5 · ÉCRAN — le tableur vide, six cases numérotées, construit en direct.
-7 · Ch.5 · ÉCRAN — la formule de la case 5 écrite en clair : coût d'une demande ÷ (taux 1
-× taux 2).
-8 · Ch.6 · PHRASE — « La prospection n'est pas gratuite. »
-9 · Ch.6 · PHRASE — « Une demi-journée de relances, valorisée à votre taux horaire. »
-10 · Ch.7 · ÉCRAN — la case 6 seule, en gros, avec tes trois seuils de lecture affichés
-comme ta lecture et non comme une norme.
-11 · Ch.7 · PHRASE — « Le problème est presque toujours dans les taux. »
-12 · Ch.7 · PHRASE — « Et les taux, ça se corrige sans dépenser un euro de plus. »
-13 · Ch.8 · PHRASE — « Le bouche-à-oreille n'envoie pas de facture. Ni de statistiques. »
-14 · Ch.8 · ÉCRAN — la page essort.agency/ressources.
-15 · Ch.9 · PHRASE — « Cases 1 à 3, avec vos chiffres. Une heure de travail. »
+Ch.1 · Ouverture
+La big idea : l'ordre de grandeur d'un seul projet, qui change toute la perspective. Une
+rénovation à 250 000 euros de travaux avec des honoraires à 12 %, c'est 30 000 euros pour le
+cabinet. Chiffres ronds, annoncés comme tels, et 12 % présenté comme un ordre de grandeur de
+marché et non comme un barème.
+À l'écran : le calcul, trois lignes, puis « un seul projet ».
+
+Ch.2 · D'où je parle
+La big idea : je paie des demandes toutes les semaines, donc je sais ce qu'elles coûtent. On
+va construire un tableau ensemble, et à la fin il aura son chiffre, pas le mien.
+À l'écran : un tableur vide.
+
+Ch.3 · Pourquoi personne ne connaît ce chiffre
+La big idea : l'absence de ce réflexe vient de la formation, pas de la négligence. Dans leur
+métier, un projet a un coût de construction, pas un coût de conquête — le mot n'existe pas.
+C'est pour ça que la question « combien vous coûte un client » met tout le monde mal à
+l'aise.
+À l'écran : « coût de construction » d'un côté, « coût d'acquisition » de l'autre, le second
+barré.
+
+Ch.4 · La mauvaise unité
+La big idea : raisonner en dépense mensuelle mène à une décision fausse. L'erreur n'est pas
+dans le calcul, elle est dans l'unité — personne ne dit « mon assurance décennale coûte tant
+par an, c'est cher ». La bonne unité est le pourcentage des honoraires d'un projet que
+l'acquisition consomme.
+À l'écran : € PAR MOIS barré, remplacé par % DES HONORAIRES.
+
+Ch.5 · Le tableur, en direct
+La big idea : les six cases, remplies devant lui. Honoraires moyens · taux demande vers
+rendez-vous · taux rendez-vous vers signature · coût d'une demande, puis les deux cases
+calculées. La case 5 est la seule opération de la vidéo, et elle explique pourquoi les taux
+comptent davantage que le prix du contact : ils se multiplient entre eux.
+À l'écran : le tableur construit case par case, formule visible.
+
+Ch.6 · La case que personne ne sait remplir
+La big idea : la case 4 est le vrai angle mort, y compris pour la prospection gratuite. Une
+demi-journée de relances n'est pas gratuite : c'est une demi-journée qu'on n'a pas passée à
+produire. Valorisée au taux horaire et divisée par le nombre de demandes réellement
+produites, beaucoup découvrent que leur canal « gratuit » est le plus cher de tous.
+À l'écran : la case 4, seule, en gros.
+
+Ch.7 · Le seul chiffre à suivre
+La big idea : la lecture du résultat, présentée comme une lecture de praticien et non comme
+une norme du secteur — personne n'a publié de référentiel là-dessus. Et quand il y a un
+problème, il est presque toujours dans les taux et non dans le coût : les taux se corrigent
+sans dépenser un euro de plus.
+À l'écran : la case 6, avec les seuils annoncés comme personnels.
+
+Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+La big idea : l'argument n'est pas que la publicité serait moins chère, c'est qu'elle est le
+seul canal dont on connaisse le prix. Le bouche-à-oreille n'envoie pas de facture, mais il
+n'envoie pas de statistiques non plus : on ignore combien il amène et pourquoi il baisse. Un
+canal qu'on ne mesure pas est un canal sur lequel on ne peut prendre aucune décision — et
+parfois la comparaison est défavorable à la publicité, auquel cas on le sait en trois
+semaines.
+À l'écran : la page essort.agency/ressources.
+
+Ch.9 · Sortie
+La big idea : les cases 1 à 3 se remplissent ce soir avec deux ans d'historique, en une
+heure de travail. La tension qu'on rouvre : il va apprendre des choses sur son activité
+qu'il ne sait pas aujourd'hui.
+À l'écran : le tableur, cases 1 à 3 surlignées.
 
 Ordre de grandeur d'honoraires affiché :
 https://www.hemea.com/fr/architecture/architecte-interieur/prix

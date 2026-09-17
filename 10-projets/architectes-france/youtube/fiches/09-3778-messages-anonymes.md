@@ -29,30 +29,75 @@ Les honoraires, la considération et l'isolement ne se règlent pas par une camp
 dis dans la vidéo, et c'est ce qui rend les deux premières crédibles.
 
 
-## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
 
-PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
-ÉCRAN = ce que tu montres, et qui sert de preuve.
-Les phrases sont écrites pour être affichées telles quelles.
+Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
+cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
+« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
 
-1 · Ch.1 · PHRASE — « 3 778 messages. »
-2 · Ch.1 · PHRASE — « Écrits par des gens qui savaient que personne ne les identifierait. »
-3 · Ch.2 · ÉCRAN — la composition du corpus, en liste : 247 publications · 3 531
-commentaires · majorité anglophone · moins de 200 messages français.
-4 · Ch.2 · PHRASE — « Je vous donne la limite avant que vous la trouviez. »
-5 · Ch.3 · ÉCRAN — un verbatim anonymisé sur les honoraires, texte blanc sur fond noir,
-aucun pseudo, aucune interface visible.
-6 · Ch.4 · PHRASE — « Je ne sais pas d'où viendra le prochain projet. »
-7 · Ch.4 · ÉCRAN — le verbatim de celui qui décrit 90 % d'appels sans réponse, anonymisé.
-8 · Ch.5 · PHRASE — « Trois heures de rendez-vous. Zéro euro facturé. »
-9 · Ch.6 · ÉCRAN — le titre du fil « pourquoi tout le monde nous déteste », seul, plein
-écran, sans capture d'interface.
-10 · Ch.7 · PHRASE — « Chacun croit être le seul. »
-11 · Ch.8 · ÉCRAN — les cinq douleurs en liste, puis deux d'entre elles qui s'allument en
-vert : l'incertitude · le travail gratuit.
-12 · Ch.8 · PHRASE — « Ces deux-là se règlent. Les trois autres, non. »
-13 · Ch.9 · ÉCRAN — la page essort.agency/ressources.
-14 · Ch.10 · PHRASE — « Aucune des cinq ne se règle en devenant meilleur architecte. »
+Ch.1 · Ouverture
+La big idea : il va entendre ce que ses confrères écrivent quand ils ne se savent pas lus.
+Pas des réponses à un questionnaire — ce qui se dit quand il n'y a rien à gagner à bien se
+tenir.
+À l'écran : « 3 778 messages », plein écran.
+
+Ch.2 · D'où je parle, et la limite du corpus
+La big idea : ma méthode, et sa limite annoncée avant qu'on me la reproche. Le corpus est
+majoritairement anglophone, moins de 200 messages sont français, et ce n'est pas un
+échantillon représentatif — donc aucun pourcentage, jamais. Que ces douleurs reviennent dans
+plusieurs pays est même une information en soi.
+À l'écran : la composition du corpus en liste, chiffres à l'appui.
+
+Ch.3 · Douleur 1 — les honoraires
+La big idea : la mise en concurrence sur le prix est vécue comme une anomalie
+professionnelle. Ils ne se comparent pas aux autres métiers du bâtiment, ils se comparent
+aux professions réglementées qui n'enchérissent pas les unes contre les autres.
+À l'écran : un verbatim anonymisé, texte seul, aucune interface visible.
+
+Ch.4 · Douleur 2 — l'incertitude
+La big idea : l'angoisse ne porte pas sur le niveau de revenu mais sur la prévisibilité. Pas
+« je gagne mal ma vie », mais « je ne sais pas d'où viendra le prochain projet » — quelqu'un
+d'excellent dans son métier qui découvre qu'il n'en a jamais appris un second.
+À l'écran : le verbatim de celui qui décrit 90 % d'appels sans réponse.
+
+Ch.5 · Douleur 3 — le travail gratuit
+La big idea : le volume de production non facturée est structurel, pas accidentel.
+Esquisses, concours perdus, premiers rendez-vous de trois heures — et le sentiment que
+refuser signifie ne pas travailler.
+À l'écran : la liste de ce qui n'est pas facturé.
+
+Ch.6 · Douleur 4 — le manque de respect
+La big idea : l'ennemi de l'épisode est un rapport, pas une personne. C'est une douleur de
+statut et non d'argent, et c'est celle qui pèse le plus sur mon sujet : quelqu'un qui se
+sent déjà traité en fournisseur de plans ne veut surtout pas d'un outil qui le ferait
+ressembler davantage à un commerçant.
+À l'écran : le titre du fil « pourquoi tout le monde nous déteste », seul.
+
+Ch.7 · Douleur 5 — l'isolement
+La big idea : la douleur dont personne ne parle en public, et qui aggrave les quatre autres.
+Sans personne pour comparer, chacun croit être le seul dans ce cas — et donc que c'est lui
+le problème.
+À l'écran : « Chacun croit être le seul », plein écran.
+
+Ch.8 · Le point commun des cinq
+La big idea : la bascule de la vidéo — aucune des cinq ne se règle en devenant meilleur
+architecte. Prenez quelqu'un de plus talentueux : il a exactement les mêmes cinq problèmes.
+Ce sont des problèmes de position sur le marché, et une position, ça se change.
+À l'écran : les cinq douleurs en liste, puis la phrase qui les traverse.
+
+Ch.9 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+La big idea : deux des cinq se règlent vite, et on dit lesquelles. L'incertitude, parce
+qu'aucune source de projets ne s'ouvre sur décision sauf la publicité. Le travail gratuit,
+parce qu'un ordre de grandeur annoncé avant le rendez-vous fait disparaître la moitié des
+visites inutiles. Les trois autres ne se règlent pas par une campagne, et le dire est ce qui
+rend les deux premières crédibles.
+À l'écran : deux douleurs qui s'allument en vert, trois qui restent grises.
+
+Ch.10 · Sortie
+La big idea : ce qu'on vient de lire n'est pas un portrait de gens qui se plaignent, c'est
+la description d'une position de marché. La tension qu'on rouvre : chacun peut vérifier
+laquelle des cinq est la sienne.
+À l'écran : les cinq douleurs, une dernière fois.
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

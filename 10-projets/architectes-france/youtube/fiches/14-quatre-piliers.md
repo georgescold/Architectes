@@ -30,30 +30,61 @@ quatre. Ce n'est pas un jugement de valeur : la recommandation reste la meilleur
 signature. C'est la seule qui donne un interrupteur.
 
 
-## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
 
-PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
-ÉCRAN = ce que tu montres, et qui sert de preuve.
-Les phrases sont écrites pour être affichées telles quelles.
+Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
+cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
+« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
 
-1 · Ch.1 · ÉCRAN — quatre colonnes dessinées, trois vides, une seule remplie.
-2 · Ch.1 · PHRASE — « Vous en avez un sur quatre. »
-3 · Ch.1 · PHRASE — « Et c'est celui sur lequel vous ne pouvez rien. »
-4 · Ch.3 · ÉCRAN — un tableau vide à remplir avec le spectateur : client · qui l'a envoyé ·
-âge de cette personne.
-5 · Ch.3 · PHRASE — « Combien de noms différents dans la colonne du milieu ? »
-6 · Ch.4 · PHRASE — « Ce n'était pas une erreur. Ça marchait. »
-7 · Ch.5 · ÉCRAN — les quatre piliers avec leurs trois caractéristiques, en tableau :
-délai · coût · pilotable oui/non.
-8 · Ch.5 · ÉCRAN — la colonne DÉLAI seule, qui reste à l'écran : plusieurs mois ·
-quelques semaines · plusieurs mois · quelques jours.
-9 · Ch.5 · PHRASE — « Un seul produit en quelques jours. »
-10 · Ch.6 · PHRASE — « Ce n'est pas une stratégie. C'est une rente. »
-11 · Ch.6 · PHRASE — « Une rente peut s'arrêter en un trimestre. »
-12 · Ch.7 · PHRASE — « La recommandation reste la meilleure. Elle n'a juste pas
-d'interrupteur. »
-13 · Ch.7 · ÉCRAN — la page essort.agency/ressources.
-14 · Ch.8 · PHRASE — « Vos clients des trois dernières années. Ce soir. »
+Ch.1 · Ouverture
+La big idea : il dépend d'un seul appui, et c'est le moins contrôlable des quatre. Un cabinet
+à appui unique tient parfaitement — jusqu'au jour où l'appui bouge, et à ce moment-là il est
+trop tard pour en construire un autre.
+À l'écran : quatre colonnes dessinées, trois vides, une seule remplie.
+
+Ch.2 · D'où je parle
+La big idea : je vois des cabinets arriver au moment où l'appui vient de céder, et c'est
+toujours le pire moment pour s'y prendre. C'est pour ça que je fais cette vidéo maintenant.
+À l'écran : rien, plan de face.
+
+Ch.3 · L'exercice à faire pendant la vidéo
+La big idea : son appui unique a un âge. On liste ses clients des trois dernières années et,
+pour chacun, qui a donné son nom — puis quel âge a cette personne. La plupart découvrent
+trois ou quatre noms qui reviennent : ce n'est pas un réseau, c'est une dépendance à
+quelques personnes.
+À l'écran : un tableau vide à remplir avec le spectateur, trois colonnes.
+
+Ch.4 · Pourquoi ce n'était pas une erreur
+La big idea : le monocanal a été rationnel, et le dire retire la culpabilité. Un appui
+unique ne se manifeste jamais comme un risque tant qu'il tient : il se manifeste comme une
+normalité, et l'acquisition ressemble à une dépense pour un problème qu'on n'a pas.
+À l'écran : la phrase seule.
+
+Ch.5 · Les quatre piliers
+La big idea : le modèle complet, avec les caractéristiques honnêtes de chacun. Et la vraie
+ligne de partage n'est pas le coût, c'est le délai entre la décision et l'effet —
+recommandation plusieurs mois, trouvabilité quelques semaines, contenu plusieurs mois de
+régularité, publicité quelques jours.
+À l'écran : le tableau des quatre piliers, puis la colonne DÉLAI seule.
+
+Ch.6 · La rente confondue avec la stratégie
+La big idea : l'ennemi de l'épisode est une confusion. Un appui qu'on ne peut pas ouvrir sur
+décision n'est pas un canal d'acquisition, c'est une chance récurrente. Elle peut durer dix
+ans et s'arrêter en un trimestre, sans prévenir et sans qu'on sache pourquoi.
+À l'écran : « Ce n'est pas une stratégie. C'est une rente. »
+
+Ch.7 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+La big idea : dans quel ordre monter les piliers quand on part de un, et pourquoi la
+publicité arrive en deuxième et pas en premier. La trouvabilité passe devant parce qu'elle
+est gratuite, pas parce qu'elle est plus efficace — payer pour envoyer des gens vers une
+fiche vide n'a aucun sens. Et la recommandation reste la meilleure en taux de signature :
+ce qui lui manque, c'est un interrupteur.
+À l'écran : l'ordre de montage, puis la page essort.agency/ressources.
+
+Ch.8 · Sortie
+La big idea : l'exercice des trois dernières années se fait ce soir, en une heure. La
+tension qu'on rouvre : le chiffre qui en sort est rarement celui qu'on imaginait.
+À l'écran : le tableau vide, trois colonnes.
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

@@ -33,29 +33,63 @@ Ce n'est pas mieux que le réseau. C'est ce qu'on met à côté pendant que le r
 construit.
 
 
-## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
 
-PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
-ÉCRAN = ce que tu montres, et qui sert de preuve.
-Les phrases sont écrites pour être affichées telles quelles.
+Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
+cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
+« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
 
-1 · Ch.1 · PHRASE — « 32 983 € »
-2 · Ch.1 · PHRASE — « C'est le revenu médian d'un architecte libéral. »
-3 · Ch.2 · ÉCRAN — la couverture d'Archigraphie 2024-2026, puis la mention de l'année des
-données : revenus 2022, effectifs 2023. Tu la laisses à l'image.
-4 · Ch.3 · ÉCRAN — le graphique 19, page 32, en plein écran, sans commentaire pendant
-trois secondes.
-5 · Ch.3 · PHRASE — « Le quart du bas : moins de 13 342 €. »
-6 · Ch.4 · PHRASE — « Une crise frappe tout le monde. »
-7 · Ch.4 · PHRASE — « Là, une moitié monte pendant que l'autre descend. »
-8 · Ch.5 · ÉCRAN — une flèche qui monte et une flèche qui descend, sur le même graphique,
-en surimpression.
-9 · Ch.6 · ÉCRAN — la page du revenu par tranche d'âge, avec le pic 55-64 ans entouré.
-10 · Ch.6 · PHRASE — « Trente ans pour arriver là. »
-11 · Ch.7 · PHRASE — « Ce n'est pas le talent qui sépare les deux. »
-12 · Ch.7 · PHRASE — « C'est le nombre de sources de projets. »
-13 · Ch.8 · ÉCRAN — la page essort.agency/ressources.
-14 · Ch.9 · PHRASE — « Combien de sources avez-vous, vraiment ? »
+Ch.1 · Ouverture
+La big idea : le chiffre qui va suivre ne vient pas de moi, il vient de leur propre
+institution. C'est ce qui interdit de le contester et ce qui rend l'épisode inconfortable.
+À l'écran : « 32 983 € », plein écran, puis la couverture d'Archigraphie.
+
+Ch.2 · D'où je parle et de quand datent ces chiffres
+La big idea : je manipule des données précises et je sais lesquelles — revenus 2022,
+effectifs 2023. Annoncer le millésime avant qu'on me le demande est ce qui rend tout le
+reste crédible.
+À l'écran : la mention de l'année des données, laissée à l'image.
+
+Ch.3 · Le premier quartile
+La big idea : l'ampleur réelle, sans commentaire. Le quart du bas de la profession est sous
+13 342 euros — on laisse le chiffre travailler tout seul trois secondes.
+À l'écran : le graphique 19, page 32, plein écran, silence.
+
+Ch.4 · Pourquoi « c'est la conjoncture » ne tient pas
+La big idea : un phénomène qui frappe n'est pas un phénomène qui écarte. Une conjoncture
+fait baisser tout le monde ensemble ; ici une moitié monte pendant que l'autre descend.
+C'est la distinction qui tient tout l'épisode.
+À l'écran : une flèche qui monte et une flèche qui descend sur le même graphique.
+
+Ch.5 · Le décalage qui trompe tout le monde
+La big idea : un carnet plein aujourd'hui ne dit rien de l'année prochaine, parce qu'un
+projet signé il y a dix-huit mois occupe encore l'agence. Ce qu'on regarde pour se rassurer
+est un indicateur du passé.
+À l'écran : une frise : signature → dix-huit mois → facturation.
+
+Ch.6 · La page que personne ne cite
+La big idea : le métier paie, mais tard. Le revenu culmine entre 55 et 64 ans, avec près de
+29 000 euros d'écart avec les moins de 35 ans — c'est la bascule de la vidéo, parce que ça
+nomme le vrai coût : trente ans.
+À l'écran : la page du revenu par tranche d'âge, pic 55-64 entouré.
+
+Ch.7 · Ce qui sépare réellement les deux extrémités
+La big idea : la variable n'est ni le talent ni l'ancienneté seule, c'est le nombre de
+sources de projets. Un cabinet qui en a trois ne vit pas le même métier que celui qui en a
+une.
+À l'écran : deux schémas opposés : une seule flèche entrante, contre quatre.
+
+Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+La big idea : la recommandation a un défaut qui n'est pas corrigeable — elle se construit
+avec le temps, et rien ne l'accélère. La publicité en ligne est le seul levier qui ne
+dépende pas du temps qui passe, et c'est exactement ce qui manque à quelqu'un de jeune dans
+le métier.
+À l'écran : la page essort.agency/ressources.
+
+Ch.9 · Sortie
+La big idea : une action simple est possible cette semaine — compter ses sources de
+projets. La tension qu'on rouvre : la plupart des gens qui font l'exercice trouvent un.
+À l'écran : la question seule, plein écran.
 
 Source du document affiché :
 https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf

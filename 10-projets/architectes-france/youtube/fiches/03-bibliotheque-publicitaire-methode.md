@@ -29,29 +29,67 @@ personne ne diffuse — c'est-à-dire au moment où la publicité en ligne coût
 parce que personne n'enchérit en face.
 
 
-## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
 
-PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
-ÉCRAN = ce que tu montres, et qui sert de preuve.
-Les phrases sont écrites pour être affichées telles quelles.
+Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
+cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
+« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
 
-1 · Ch.1 · PHRASE — « 130 · 2 »
-2 · Ch.1 · PHRASE — « À gauche les constructeurs. À droite les architectes. »
-3 · Ch.2 · ÉCRAN — la page d'accueil de la bibliothèque publicitaire, URL bien lisible.
-4 · Ch.3 · PHRASE — « Cet outil ne classe pas par métier. »
-5 · Ch.3 · PHRASE — « Donc jamais "les seuls". Jamais "aucun". »
-6 · Ch.4 · PHRASE — « Un espace vide coûte moins cher. »
-7 · Ch.5 · ÉCRAN — une publicité diffusée dans dix villes à la fois, avec le compteur de
-diffusions en évidence, pour montrer la duplication.
-8 · Ch.6 · ÉCRAN — la manipulation en direct, curseur visible : pays France · type Toutes
-· expression exacte entre guillemets · statut Actives. Date du jour affichée en bandeau.
-9 · Ch.6 · ÉCRAN — les deux compteurs côte à côte, capture figée, date visible.
-10 · Ch.7 · ÉCRAN — les quatre lectures, en liste : qui diffuse · depuis quand · combien de
-créatives · ce que dit le texte.
-11 · Ch.8 · ÉCRAN — la fiche d'un annonceur qui a arrêté de diffuser, avec la date de fin.
-12 · Ch.8 · PHRASE — « Il a arrêté. La place est libre. »
-13 · Ch.9 · ÉCRAN — la page essort.agency/ressources.
-14 · Ch.10 · PHRASE — « Votre département, ce soir, dix minutes. »
+Ch.1 · Ouverture
+La big idea : le déséquilibre entre ceux qui font de la publicité et ceux qui n'en font pas
+se compte, il ne se suppose pas. 130 résultats d'un côté, 2 de l'autre, sur des expressions
+exactes, à une date donnée.
+À l'écran : les deux compteurs côte à côte, date du relevé visible.
+
+Ch.2 · D'où je parle
+La big idea : cet outil n'est pas une curiosité, c'est ce que j'ouvre avant chaque campagne
+pour savoir contre qui je vais diffuser. Je ne le découvre pas devant eux.
+À l'écran : la page d'accueil de la bibliothèque publicitaire, URL lisible.
+
+Ch.3 · Les trois limites de l'outil
+La big idea : je sais ce que l'outil ne sait pas faire — il ne classe pas par métier, il
+cherche dans le texte des annonces, et il ne permet aucun recensement exhaustif. Annoncer
+ça d'entrée est ce qui rend tout le reste incontestable.
+À l'écran : une recherche « architecte » qui remonte des écoles et des magazines.
+
+Ch.4 · Ce que vaut un espace publicitaire vide
+La big idea : la publicité fonctionne par enchères. Quand personne n'enchérit en face, le
+même message coûte moins cher à diffuser — un terrain vide n'est pas seulement une
+opportunité commerciale, c'est un prix.
+À l'écran : le principe de l'enchère, en schéma simple.
+
+Ch.5 · Le piège des grosses audiences
+La big idea : une grosse audience ne dit rien de la dépense. Une même annonce dupliquée sur
+dix zones affiche dix diffusions pour une seule créative — il faut vérifier avant de copier
+quelqu'un qu'on croit gros.
+À l'écran : une annonce dupliquée par zone, compteur de diffusions en évidence.
+
+Ch.6 · La manipulation, en direct
+La big idea : tout ce que je viens de dire, il peut le refaire ce soir en trois gestes.
+Pays, expression exacte entre guillemets, statut des annonces. Rien d'autre.
+À l'écran : la manipulation filmée, curseur visible, date du jour en bandeau.
+
+Ch.7 · Les quatre lectures d'une bibliothèque
+La big idea : voir des annonces ne sert à rien, les lire sert à tout. Qui diffuse · depuis
+quand · combien de créatives différentes · ce que dit le texte. C'est le cadeau de la vidéo.
+À l'écran : les quatre lectures en liste, puis appliquées à un annonceur réel.
+
+Ch.8 · Le cas qui vient de s'arrêter
+La big idea : les dates disent ce que les discours cachent. Un annonceur qui diffusait
+depuis deux ans et qui s'arrête raconte quelque chose — et on reste honnête sur ce qu'on ne
+sait pas, puisqu'on ignore pourquoi il a arrêté.
+À l'écran : la fiche d'un annonceur, date de fin de diffusion visible.
+
+Ch.9 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+La big idea : l'outil montre un terrain vide, il ne l'occupe pas. Et un terrain vide ne le
+reste jamais longtemps — le jour où trois cabinets du département diffusent, le prix
+d'entrée n'est plus le même.
+À l'écran : la page essort.agency/ressources.
+
+Ch.10 · Sortie
+La big idea : il peut auditer son propre département ce soir, gratuitement. La tension
+qu'on rouvre : il va peut-être découvrir qu'un confrère diffuse déjà.
+À l'écran : le champ de recherche, vide, curseur qui clignote.
 
 Source de toutes les captures :
 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR

@@ -30,30 +30,62 @@ fait avant toute campagne : un visiteur intéressé cherche le nom du cabinet po
 et il tombe sur cette fiche. Si elle est vide, le clic a été payé pour rien.
 
 
-## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
 
-PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
-ÉCRAN = ce que tu montres, et qui sert de preuve.
-Les phrases sont écrites pour être affichées telles quelles.
+Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
+cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
+« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
 
-1 · Ch.1 · PHRASE — « Google a créé une page à votre nom. »
-2 · Ch.1 · PHRASE — « Sans vous demander. »
-3 · Ch.3 · ÉCRAN — un téléphone filmé de face, recherche « architecte + ville » : la carte
-et les trois fiches remplissent l'écran, aucun site visible.
-4 · Ch.3 · PHRASE — « Votre site n'est pas là. »
-5 · Ch.3 · ÉCRAN — les cinq éléments qu'un client voit en une seconde, entourés un par un :
-nom · note · nombre d'avis · photo · distance.
-6 · Ch.4 · PHRASE — « N'importe qui peut y ajouter une photo. »
-7 · Ch.5 · ÉCRAN — l'audit en direct sur la fiche choisie, les six points cochés ou non
-dans un tableau à l'écran.
-8 · Ch.5 · PHRASE — « La catégorie est fausse. Tout le reste ne sert plus à rien. »
-9 · Ch.6 · ÉCRAN — les corrections classées par impact, de haut en bas, avec le temps que
-chacune prend.
-10 · Ch.6 · PHRASE — « 40 avis qui s'arrêtent il y a trois ans < 8 avis récents. »
-11 · Ch.7 · PHRASE — « Un client intéressé cherche votre nom pour vérifier. »
-12 · Ch.7 · PHRASE — « Fiche vide = clic payé pour rien. »
-13 · Ch.7 · ÉCRAN — la page essort.agency/ressources.
-14 · Ch.8 · PHRASE — « Une heure. Zéro euro. Effet en quelques semaines. »
+Ch.1 · Ouverture
+La big idea : une page existe déjà à son nom, il ne l'a probablement pas créée, et elle
+passe avant son site. Google l'alimente à partir de données publiques et de contributions
+d'utilisateurs — donc il a une vitrine publique sur laquelle il n'a aucun contrôle.
+À l'écran : « Google a créé une page à votre nom. Sans vous demander. »
+
+Ch.2 · D'où je parle
+La big idea : c'est la première chose que je regarde avant de lancer une campagne pour un
+cabinet, avant même son site. Pas par principe : parce que ça coûte de l'argent.
+À l'écran : rien, plan de face.
+
+Ch.3 · Ce que voit vraiment un client sur son téléphone
+La big idea : la scène réelle n'est pas celle qu'il imagine. Sur mobile, « architecte + nom
+de ville » affiche une carte et trois fiches — nom, note, nombre d'avis, photo, distance. Le
+site n'est pas sur cet écran. Le premier tri se fait donc sur cinq éléments visibles en une
+seconde, dont quatre sont dans la fiche.
+À l'écran : un téléphone filmé de face, la recherche en direct.
+
+Ch.4 · Pourquoi personne ne vous en a parlé
+La big idea : ce n'est pas de la négligence. Personne n'a jamais reçu de notification lui
+disant que cette page existait, et rien dans la formation ni dans la pratique du métier ne
+mène à la chercher.
+À l'écran : une fiche non revendiquée, avec la mention qui le signale.
+
+Ch.5 · L'audit en direct
+La big idea : les six points de la grille, appliqués devant lui, dans l'ordre d'impact. Et
+le premier décide de tout : une fiche mal catégorisée — « entrepreneur », « bureau
+d'études » — ne remonte pas sur la recherche « architecte + ville », ce qui rend les cinq
+autres points inutiles.
+À l'écran : la grille en tableau, cochée point par point.
+
+Ch.6 · Les cinq corrections, par ordre d'impact
+La big idea : quoi faire en premier, et que c'est rapide. La fraîcheur compte autant que le
+nombre — quarante avis qui s'arrêtent il y a trois ans valent moins que huit avis récents. Le
+tout tient en une heure et ne coûte rien.
+À l'écran : les corrections classées, avec le temps que chacune prend.
+
+Ch.7 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+La big idea : cette fiche multiplie le rendement de tout le reste, et c'est pour ça qu'elle
+passe avant. Un visiteur intéressé par une campagne cherche le nom du cabinet pour
+vérifier ; s'il tombe sur une fiche vide, la vérification se termine mal et le clic a été
+payé pour rien. Et elle ne suffit pas non plus : elle est plafonnée par le nombre de gens
+qui cherchent sur le territoire.
+À l'écran : la page essort.agency/ressources.
+
+Ch.8 · Sortie
+La big idea : une heure, zéro euro, effet en quelques semaines — c'est le seul levier du
+métier qui coche les trois. La tension qu'on rouvre : sur sa zone, deux confrères l'ont
+peut-être déjà fait.
+À l'écran : trois fiches côte à côte, une vide.
 
 Outil montré :
 https://www.google.com/business/

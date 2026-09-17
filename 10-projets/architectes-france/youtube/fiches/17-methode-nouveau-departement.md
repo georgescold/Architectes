@@ -29,30 +29,65 @@ la suivante mesurable. Lancer une campagne sans esquisse ne donne pas un mauvais
 ça donne un résultat illisible — on a dépensé sans rien apprendre.
 
 
-## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
 
-PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
-ÉCRAN = ce que tu montres, et qui sert de preuve.
-Les phrases sont écrites pour être affichées telles quelles.
+Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
+cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
+« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
 
-1 · Ch.1 · ÉCRAN — les phases d'une mission de maîtrise d'œuvre, alignées de gauche à
-droite comme une frise.
-2 · Ch.1 · PHRASE — « Vous ne démarrez jamais un chantier sans ça. »
-3 · Ch.1 · ÉCRAN — la même frise, vide, sous le mot ACQUISITION.
-4 · Ch.3 · PHRASE — « Vous n'avez pas eu un mauvais résultat. »
-5 · Ch.3 · PHRASE — « Vous n'avez rien appris du tout. »
-6 · Ch.4 · ÉCRAN — PHASE 1 · ESQUISSE, et les trois questions qui s'affichent : qui · où ·
-pour quoi. Livrable : trois lignes écrites.
-7 · Ch.4 · ÉCRAN — les trois lignes écrites en direct devant la caméra.
-8 · Ch.5 · ÉCRAN — PHASE 2 · PERMIS. Livrable : une fiche revendiquée, une page réécrite.
-9 · Ch.6 · ÉCRAN — PHASE 3 · CHANTIER. Livrable : des demandes entrantes mesurées.
-10 · Ch.7 · ÉCRAN — PHASE 4 · DIRECTION DE L'EXÉCUTION. Livrable : un taux de
-transformation connu.
-11 · Ch.7 · PHRASE — « Celle-là, tout le monde la saute. »
-12 · Ch.8 · ÉCRAN — les quatre phases réunies, avec une flèche qui va de chacune à la
-suivante : chaque phase rend la suivante mesurable.
-13 · Ch.8 · ÉCRAN — la page essort.agency/ressources.
-14 · Ch.9 · PHRASE — « L'esquisse tient en trois lignes. Écrivez-les ce soir. »
+Ch.1 · Ouverture
+La big idea : le contraste entre la rigueur de son métier et l'improvisation de son
+acquisition. Il ne livrerait jamais un projet sans phases ; pour trouver ses clients, il
+démarre directement au chantier.
+À l'écran : les phases d'une mission alignées en frise, puis la même frise vide sous le mot
+ACQUISITION.
+
+Ch.2 · D'où je parle
+La big idea : cette méthode est celle que j'applique quand un cabinet me confie l'ouverture
+d'un territoire. Je la donne en entier, phases et livrables.
+À l'écran : rien, plan de face.
+
+Ch.3 · Ce que coûte l'absence de plan
+La big idea : le coût réel d'un semestre sans acquisition organisée n'est pas « ça n'a pas
+marché », c'est qu'on ne peut rien en conclure. Une campagne sans cible définie qui ne
+produit rien ne dit pas si le canal est mauvais, si la zone l'est ou si le message l'est. On
+a dépensé sans rien apprendre.
+À l'écran : « Vous n'avez pas eu un mauvais résultat. Vous n'avez rien appris. »
+
+Ch.4 · Phase 1 — l'esquisse
+La big idea : tout commence par une décision, pas par une action. Qui, où, pour quoi : un
+seul type de projet, une seule zone, un ordre de grandeur d'enveloppe. Livrable : trois
+lignes écrites. Pas un document — trois lignes.
+À l'écran : les trois lignes écrites en direct devant la caméra.
+
+Ch.5 · Phase 2 — être trouvable
+La big idea : on ne diffuse pas avant que l'arrivée soit prête. Fiche Google revendiquée,
+page qui dit les trois informations. Livrable : une fiche complète et une page réécrite.
+À l'écran : PHASE 2 · PERMIS, avec son livrable.
+
+Ch.6 · Phase 3 — aller les chercher
+La big idea : c'est la seule phase qui coûte de l'argent, et la seule qui produise vite.
+Diffusion sur la zone choisie, sur le profil choisi. Livrable : des demandes entrantes
+mesurées — pas « de la visibilité ».
+À l'écran : PHASE 3 · CHANTIER, avec son livrable.
+
+Ch.7 · Phase 4 — celle que tout le monde saute
+La big idea : la déperdition se joue après l'arrivée de la demande. Rappel rapide, trame de
+premier appel, relances. Livrable : un taux de transformation connu. C'est la phase qui fait
+conclure à tort que « la campagne ne marche pas ».
+À l'écran : PHASE 4, avec son livrable.
+
+Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+La big idea : la phase 3 est le seul moment où la publicité intervient, et l'ordre n'est pas
+négociable parce que chaque phase rend la suivante mesurable. Inverser deux phases ne rend
+pas le résultat moins bon, ça le rend illisible — et un résultat illisible ne permet aucune
+décision suivante.
+À l'écran : les quatre phases reliées par des flèches, puis la page essort.agency/ressources.
+
+Ch.9 · Sortie
+La big idea : l'esquisse tient en trois lignes et se fait ce soir. La tension qu'on rouvre :
+c'est la phase la plus courte et celle que tout le monde saute.
+À l'écran : trois lignes vides, curseur qui clignote.
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

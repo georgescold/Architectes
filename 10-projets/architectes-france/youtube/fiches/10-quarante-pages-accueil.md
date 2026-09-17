@@ -33,30 +33,66 @@ quatre choses, un même budget publicitaire produit deux fois plus de demandes, 
 demandes qu'on peut réellement traiter.
 
 
-## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
 
-PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
-ÉCRAN = ce que tu montres, et qui sert de preuve.
-Les phrases sont écrites pour être affichées telles quelles.
+Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
+cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
+« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
 
-1 · Ch.1 · PHRASE — « 40 pages d'accueil. »
-2 · Ch.1 · PHRASE — « Une seule question : est-ce que je saurais quoi faire de vous ? »
-3 · Ch.2 · ÉCRAN — ton tableur de relevé, noms masqués, les six colonnes lisibles.
-4 · Ch.3 · ÉCRAN — une frise du temps : plusieurs semaines de recherche en silence, puis
-un seul message envoyé, tout à la fin.
-5 · Ch.3 · PHRASE — « Vous ne saurez jamais que les deux autres ont existé. »
-6 · Ch.4 · ÉCRAN — les quatre profils en liste : il agrandit · il rénove de l'ancien · il
-construit · il aménage un local.
-7 · Ch.4 · PHRASE — « Aucun des quatre ne cherche "un architecte". »
-8 · Ch.4 · PHRASE — « Chacun cherche quelqu'un qui a déjà fait la même chose. »
-9 · Ch.5 · ÉCRAN — les totaux de ton relevé, colonne par colonne, chiffres à l'image.
-10 · Ch.6 · PHRASE — « Ces pages sont faites pour un jury. »
-11 · Ch.6 · PHRASE — « Le client n'est pas un jury. »
-12 · Ch.7 · ÉCRAN — une page reconstituée par toi, avec les quatre informations qui
-apparaissent une par une au-dessus de la ligne de flottaison.
-13 · Ch.8 · ÉCRAN — la page essort.agency/ressources.
-14 · Ch.9 · PHRASE — « Votre première phrase, avec le nom d'un confrère à la place du
-vôtre. Toujours vraie ? »
+Ch.1 · Ouverture
+La big idea : un relevé réel a été fait sur quarante pages d'accueil de cabinets, avec une
+grille identique pour toutes. Ce n'est pas une impression de consultant, c'est un tableur.
+À l'écran : le tableur, noms masqués, six colonnes lisibles.
+
+Ch.2 · D'où je parle, et la méthode
+La big idea : la méthode est reproductible — annuaire public de l'Ordre, dix départements,
+six colonnes, une demi-journée. N'importe qui peut la refaire et vérifier.
+À l'écran : l'annuaire de l'Ordre, puis la grille de relevé.
+
+Ch.3 · Ce qu'un maître d'ouvrage fait vraiment avant d'appeler
+La big idea : le temps de recherche silencieuse, qui change tout. Quelqu'un qui envisage des
+travaux cherche plusieurs semaines sans parler à personne, compare trois ou quatre noms, et
+n'écrit qu'à un seul. Les deux autres ne sauront jamais qu'il a existé.
+À l'écran : une frise : plusieurs semaines de silence, puis un seul message.
+
+Ch.4 · Les quatre personnes qui frappent à la porte
+La big idea : « le client » n'existe pas. Il y a celui qui agrandit, celui qui rénove de
+l'ancien, celui qui construit et le professionnel qui aménage un local. Aucun des quatre ne
+cherche « un architecte » — chacun cherche quelqu'un qui a déjà fait exactement ce qu'il
+veut faire.
+À l'écran : les quatre profils en liste.
+
+Ch.5 · Ce que le relevé montre
+La big idea : le constat chiffré, une fois le relevé fait, colonne par colonne. Ce sont les
+chiffres qui sortent qui sont annoncés, quels qu'ils soient.
+À l'écran : les totaux du relevé, chiffres à l'image.
+
+Ch.6 · Pourquoi ces pages sont faites comme ça
+La big idea : ce n'est pas de la négligence, c'est un héritage de formation. On apprend à
+présenter un projet devant un jury — des gens qui connaissent le vocabulaire et savent lire
+un plan. Écrire pour quelqu'un qui n'a jamais commandé de plans est l'exercice inverse, et
+il n'est enseigné nulle part.
+À l'écran : un jury d'école d'un côté, un couple devant un écran de l'autre.
+
+Ch.7 · Les quatre informations qui changent tout
+La big idea : ce qu'il faut mettre au-dessus de la ligne de flottaison, c'est-à-dire avant
+tout défilement. Rien d'esthétique là-dedans : on ne parle ni de design, ni de police, ni de
+photographie, mais d'information présente ou absente — et c'est ce qui rend le chapitre
+indiscutable.
+À l'écran : une page reconstituée, les quatre éléments qui apparaissent un par un.
+
+Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+La big idea : la page décide du prix de chaque demande. Sans ces quatre informations, chaque
+visiteur payé repart, et les demandes qui passent quand même sont des projets à 15 000 euros
+qu'on ne prendra jamais — on paie pour qualifier à la main ce que trois lignes auraient
+filtré. Une bonne page divise le coût par demande par deux sans changer un euro de budget.
+À l'écran : la page essort.agency/ressources.
+
+Ch.9 · Sortie
+La big idea : le test à faire ce soir — prendre sa première phrase et y remplacer le nom de
+son agence par celui d'un confrère. Si elle reste vraie, elle ne dit rien. La tension qu'on
+rouvre : ce test est brutal, et presque personne ne le passe.
+À l'écran : le test, plein écran.
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

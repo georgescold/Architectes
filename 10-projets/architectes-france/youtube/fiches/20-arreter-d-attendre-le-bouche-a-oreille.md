@@ -31,34 +31,69 @@ sauf la publicité en ligne, qui produit en quelques jours. C'est ce qui en fait
 qu'on met en place avant d'en avoir besoin.
 
 
-## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
 
-PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
-ÉCRAN = ce que tu montres, et qui sert de preuve.
-Les phrases sont écrites pour être affichées telles quelles.
+Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
+cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
+« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
 
-1 · Ch.1 · PHRASE — « Vos cinq derniers clients. »
-2 · Ch.1 · PHRASE — « Qui vous les a envoyés ? »
-3 · Ch.2 · PHRASE — « Je ne vais pas vous dire d'arrêter. C'est votre meilleur canal. »
-4 · Ch.3 · ÉCRAN — les trois conditions d'une recommandation, qui doivent s'allumer en
-même temps : un ancien client content · quelqu'un qui a un projet · le moment où le sujet
-vient dans la conversation.
-5 · Ch.3 · PHRASE — « Aucune des trois ne dépend de vous. »
-6 · Ch.4 · ÉCRAN — les trois limites, une par une : une frontière départementale barrée ·
-un bouton grisé · un visage qui vieillit.
-7 · Ch.4 · PHRASE — « Il ne franchit pas un département. »
-8 · Ch.4 · PHRASE — « Il ne s'accélère pas. »
-9 · Ch.4 · PHRASE — « Il vieillit avec ceux qui le font vivre. »
-10 · Ch.5 · ÉCRAN — une courbe qui descend de 10 % par an pendant cinq ans, presque plate
-à l'œil. Puis le total affiché d'un coup.
-11 · Ch.5 · PHRASE — « Trop lent pour se voir. Assez pour tout changer. »
-12 · Ch.6 · ÉCRAN — le graphique des quartiles d'Archigraphie, rappelé trois secondes,
-sans être re-expliqué.
-13 · Ch.7 · ÉCRAN — le tableau des dix derniers clients, rempli en direct, colonne
-« qui a donné mon nom » mise en évidence.
-14 · Ch.8 · ÉCRAN — la page essort.agency/ressources.
-15 · Ch.9 · PHRASE — « Le moment de construire le second, c'est pendant que le premier
-fonctionne encore. »
+Ch.1 · Ouverture
+La big idea : son canal principal a un âge, et on le lui fait découvrir par une question
+plutôt que par une affirmation. Ses cinq derniers clients lui ont été envoyés par quelqu'un —
+quel âge a cette personne ?
+À l'écran : la question seule, plein écran.
+
+Ch.2 · D'où je parle, et ce que je ne vais pas dire
+La big idea : je ne viens pas attaquer son canal. Le bouche-à-oreille est le plus rentable
+du métier : coût nul, taux de signature imbattable, clients pré-qualifiés. Le dire d'emblée
+est ce qui permet d'être écouté pendant les douze minutes suivantes.
+À l'écran : « Le bouche-à-oreille est excellent », plein écran.
+
+Ch.3 · Pourquoi ce n'était pas de la paresse
+La big idea : le monocanal a été un choix rationnel. Une recommandation demande trois
+conditions simultanées — un ancien client content, quelqu'un qui a un projet, et le moment
+où le sujet vient dans la conversation. Quand les trois se produisent souvent, rien ne pousse
+à chercher autre chose.
+À l'écran : les trois conditions qui s'allument ensemble.
+
+Ch.4 · Les trois choses qu'il ne fait pas
+La big idea : les limites structurelles, précisément nommées — c'est le cœur de l'épisode. Il
+ne franchit pas une frontière départementale, parce qu'il circule dans un réseau social réel
+et que ces réseaux sont géographiques. Il ne s'accélère pas, parce qu'aucune des trois
+conditions ne dépend du cabinet. Et il vieillit avec ceux qui le font vivre.
+À l'écran : les trois limites, une par une.
+
+Ch.5 · Ce que ça donne quand ça baisse
+La big idea : la baisse est invisible jusqu'à ce qu'il soit tard. Ceux qui recommandent
+partent à la retraite ensemble, sur quelques années. Une baisse de 10 % par an pendant cinq
+ans ne se remarque pas — elle s'attribue à la crise, aux taux, au marché.
+À l'écran : une courbe qui descend lentement, puis le total affiché d'un coup.
+
+Ch.6 · Le tri, rappelé en une phrase
+La big idea : la différence entre ceux qui traversent et les autres n'est pas le talent. Le
+quart du haut est au-dessus de 59 931 euros et progresse, le quart du bas sous 13 342 euros
+et perd 10 % en deux ans. Une phrase, sans rouvrir la démonstration : à zéro abonné, la
+plupart n'auront vu aucun épisode précédent.
+À l'écran : le graphique des quartiles, trois secondes.
+
+Ch.7 · Le premier pas, gratuit
+La big idea : l'exercice qui rend tout concret et ne coûte rien — dix derniers clients,
+l'origine exacte de chacun, qui a donné le nom. La plupart découvrent trois ou quatre noms
+qui reviennent : ce n'est pas un réseau, c'est une dépendance à quelques personnes.
+À l'écran : le tableau rempli en direct, colonne « qui a donné mon nom » en évidence.
+
+Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+La big idea : le deuxième canal doit être pilotable, et le moment de le construire n'est pas
+celui où le premier baisse — tous les canaux demandent des semaines ou des mois avant de
+produire, sauf un. Un cabinet qui s'y met le jour où le téléphone s'arrête a déjà perdu deux
+trimestres. C'est une question de délai, pas un jugement de valeur sur la recommandation.
+À l'écran : la page essort.agency/ressources.
+
+Ch.9 · Sortie de saison
+La big idea : ce qui reste des vingt épisodes tient en une phrase — un canal qu'on ne peut
+pas ouvrir sur décision ne peut pas être le seul. On referme la saison sans mendier
+d'abonnement et sans pousser l'offre : le document gratuit, rien d'autre.
+À l'écran : la question d'ouverture, une dernière fois.
 
 Source affichée :
 https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf

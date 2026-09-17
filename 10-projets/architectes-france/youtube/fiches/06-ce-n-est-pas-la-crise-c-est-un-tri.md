@@ -30,29 +30,65 @@ La publicité en ligne est le seul qui s'ouvre sur décision et produise en quel
 C'est ce qui en fait, dans un tri, la seule réponse disponible à court terme.
 
 
-## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
 
-PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
-ÉCRAN = ce que tu montres, et qui sert de preuve.
-Les phrases sont écrites pour être affichées telles quelles.
+Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
+cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
+« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
 
-1 · Ch.1 · PHRASE — « Ce n'est pas la crise. »
-2 · Ch.1 · PHRASE — « C'est un tri. »
-3 · Ch.2 · ÉCRAN — la couverture d'Archigraphie, année des données affichée.
-4 · Ch.3 · ÉCRAN — l'article de France 3, titre lisible, avec la mention GIRONDE ajoutée en
-gros par-dessus. Tu montres toi-même que c'est régional.
-5 · Ch.3 · PHRASE — « Régional. Pas national. »
-6 · Ch.4 · ÉCRAN — les trois causes en liste : les taux · le coût des matériaux · la
-concurrence sur la maîtrise d'œuvre.
-7 · Ch.5 · ÉCRAN — le graphique des quartiles, avec les deux extrémités entourées et une
-flèche opposée sur chacune.
-8 · Ch.5 · PHRASE — « 4,2 → 4,5 »
-9 · Ch.5 · PHRASE — « L'écart se creuse. Une crise ne fait pas ça. »
-10 · Ch.6 · PHRASE — « Ceux qui montent ont plusieurs sources. »
-11 · Ch.7 · PHRASE — « Quand tout le monde coupe, les enchères baissent. »
-12 · Ch.8 · ÉCRAN — la page essort.agency/ressources.
-13 · Ch.9 · PHRASE — « Dans une crise, attendre est raisonnable. »
-14 · Ch.9 · PHRASE — « Dans un tri, c'est une position. »
+Ch.1 · Ouverture
+La big idea : le mot que toute la profession emploie est faux, et ce n'est pas une querelle
+de vocabulaire. Dans une crise, attendre est raisonnable. Dans un tri, attendre est une
+position — celle de ceux qui tombent.
+À l'écran : « Ce n'est pas la crise. C'est un tri. », plein écran.
+
+Ch.2 · D'où je parle
+La big idea : je regarde ce marché depuis l'extérieur, par les chiffres de demandes
+entrantes. C'est une vue que personne n'a de l'intérieur d'un cabinet.
+À l'écran : rien, plan de face.
+
+Ch.3 · Ce qui est documenté, et ce qui ne l'est pas
+La big idea : je sépare ce qui est prouvé de ce qui circule. Le triplement des liquidations
+existe, mais c'est un chiffre girondin relayé par France 3 — le présenter comme national
+serait faux, et je le dis moi-même avant qu'on me le reproche.
+À l'écran : l'article de France 3, avec la mention GIRONDE ajoutée en gros par-dessus.
+
+Ch.4 · Les trois causes, dans l'ordre
+La big idea : ce n'est pas une fatalité, c'est un enchaînement identifiable — les taux, le
+coût de construction, la concurrence sur la maîtrise d'œuvre. Et surtout le décalage : un
+carnet plein aujourd'hui est le reflet de signatures d'il y a un an et demi.
+À l'écran : les trois causes en liste, puis la frise du décalage.
+
+Ch.5 · Pourquoi ce n'est pas une crise
+La big idea : la démonstration par les quartiles, qui est le cœur factuel de l'épisode. Le
+quart du bas perd 10 % en deux ans pendant que le quart du haut monte, et l'écart entre les
+deux passe de 4,2 à 4,5. Une conjoncture ne fait jamais ça.
+À l'écran : le graphique des quartiles, deux flèches opposées, « 4,2 → 4,5 ».
+
+Ch.6 · Ce que fait le groupe qui monte
+La big idea : la variable n'est ni le talent ni la taille du cabinet, c'est le nombre de
+sources de projets. Ceux qui traversent en ont plusieurs ; ceux qui tombent en avaient une
+seule, et elle s'est fermée.
+À l'écran : deux schémas opposés, une flèche entrante contre quatre.
+
+Ch.7 · L'objection de la trésorerie
+La big idea : « je n'ai pas l'argent pour investir maintenant » est l'objection la plus
+légitime de l'épisode, et on y répond honnêtement — le premier levier à monter est gratuit,
+c'est la trouvabilité locale. On ne fait pas semblant que tout coûte zéro.
+À l'écran : le premier levier, gratuit, écrit en une ligne.
+
+Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
+La big idea : la publicité en ligne est la seule source de demandes qu'on ouvre
+volontairement, et le moment est contre-intuitif — quand un marché se tend, les annonceurs
+coupent leurs budgets, donc les enchères baissent. C'est mécaniquement le moment où une
+demande coûte le moins cher.
+À l'écran : la page essort.agency/ressources.
+
+Ch.9 · Sortie
+La big idea : dans un tri, la question n'est pas de savoir combien de temps ça va durer,
+mais de quel côté on veut être quand ça s'arrête. La tension qu'on rouvre : le tri est déjà
+en cours, il ne commence pas demain.
+À l'écran : le graphique des quartiles, une dernière fois, trois secondes.
 
 Sources affichées :
 https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
