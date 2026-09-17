@@ -61,7 +61,7 @@ publicité.
 
 À l'écran : la bibliothèque publicitaire, recherche sur la conception gratuite, compteur à
 97, date du relevé visible.
-Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
+Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&media_type=all&q=%22plan%203D%20gratuit%22&search_type=keyword_exact_phrase
 
 
 Ch.2 · Le problème du marché sur lequel il est
@@ -74,7 +74,7 @@ professionnels. Il choisit entre payer et ne pas payer. Personne ne gagne cette
 comparaison-là, quel que soit son talent.
 
 À l'écran : deux annonces d'enseignes qui promettent le plan gratuit, côte à côte.
-Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
+Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&media_type=all&q=%22plan%203D%20gratuit%22&search_type=keyword_exact_phrase
 
 
 Ch.3 · Le segment où ça ne marche pas comme ça — deux minutes maximum
@@ -137,7 +137,9 @@ de l'annonceur. Tu annonces un nombre de résultats, sur une recherche précisé
 Jamais « les seuls en France ».
 
 À l'écran : les deux recherches en direct, Meta puis Google, dates visibles.
-Liens : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
+Liens : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&media_type=all&q=%22architecte%20restaurant%22&search_type=keyword_exact_phrase
+        https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&media_type=all&q=%22agencement%20commercial%22&search_type=keyword_exact_phrase
+        https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&media_type=all&q=%22agencement%20de%20restaurant%22&search_type=keyword_exact_phrase
         https://adstransparency.google.com/?region=FR
 
 

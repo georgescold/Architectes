@@ -110,7 +110,7 @@ final par un tiers. Ce n'est plus seulement de la mise en relation, c'est la pre
 elle-même qui change de vendeur.
 
 À l'écran : la promesse affichée publiquement, capture avec la date du relevé.
-Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
+Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&media_type=all&q=hemea&search_type=keyword_unordered
 
 
 Ch.7 · Le seul calcul qui compte

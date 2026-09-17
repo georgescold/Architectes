@@ -47,8 +47,11 @@ En clair : un architecte d'intérieur français à 52 600 abonnés a diffusé do
 tout, par salves de quelques heures. Il a l'audience. Il n'a pas le mécanisme qui transforme
 cette audience en demandes.
 
-À l'écran : le compte concerné, nom masqué, seul le nombre d'abonnés lisible.
-Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
+À l'écran : le compte concerné, nom masqué, seul le nombre d'abonnés lisible. Puis sa fiche
+dans la bibliothèque publicitaire, ouverte en mode « annonceur » et non en mode mot-clé :
+c'est de là que vient le chiffre de douze publicités.
+Lien : https://www.facebook.com/ads/library/ (basculer sur « Annonceur », taper le nom du
+        compte, filtrer sur France et sur « toutes » les publicités)
 
 
 Ch.2 · D'où je parle
@@ -83,7 +86,7 @@ Ces gens-là ne le suivent pas sur Instagram — ils n'ont aucune raison de le c
 voient l'annonce, pas la publication.
 
 À l'écran : la bibliothèque publicitaire, compteur à 97, date visible.
-Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
+Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&media_type=all&q=%22plan%203D%20gratuit%22&search_type=keyword_exact_phrase
 
 
 Ch.5 · Ce que vous vous interdisez sans raison
@@ -125,7 +128,7 @@ publications ont le plus réagi ces deux dernières années. Ce travail est fait
 gratuit.
 
 À l'écran : une publication avec ses chiffres, puis la même image présentée en annonce.
-Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
+Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&media_type=all&q=agencement%20int%C3%A9rieur&search_type=keyword_unordered
 
 
 Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié

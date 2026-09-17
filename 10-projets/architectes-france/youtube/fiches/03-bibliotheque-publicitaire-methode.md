@@ -49,7 +49,8 @@ En clair : 130 publicités actives sur l'expression « constructeur de maisons �
 n'importe qui peut revérifier pendant la vidéo.
 
 À l'écran : les deux compteurs côte à côte, date du relevé visible.
-Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
+Liens : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&media_type=all&q=%22constructeur%20de%20maisons%22&search_type=keyword_exact_phrase
+        https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&media_type=all&q=%22architecte%20DPLG%22&search_type=keyword_exact_phrase
 
 
 Ch.2 · D'où je parle
@@ -87,7 +88,8 @@ d'entrée rend tout le reste de la vidéo incontestable.
 
 À l'écran : la même recherche faite deux fois, mots-clés libres puis expression exacte, les
 deux compteurs côte à côte. Puis le détail des 620 : une école, un magazine, une enseigne.
-Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
+Liens : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&media_type=all&q=architecte%20d%27int%C3%A9rieur&search_type=keyword_unordered
+        https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&media_type=all&q=%22architecte%20DPLG%22&search_type=keyword_exact_phrase
 
 
 Ch.4 · Ce que vaut un espace publicitaire vide
@@ -112,7 +114,7 @@ ne peux pas lutter », il faut regarder s'il s'agit de dix messages différents 
 copié dix fois.
 
 À l'écran : une annonce dupliquée par zone, compteur de diffusions en évidence.
-Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
+Lien : https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=FR&media_type=all&q=Maisons%20HCC&search_type=keyword_unordered
 
 
 Ch.6 · La manipulation, en direct
@@ -136,7 +138,7 @@ est une annonce qui rapporte — personne ne paie deux ans pour rien. C'est le v
 la vidéo.
 
 À l'écran : les quatre lectures en liste, puis appliquées à un annonceur réel.
-Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
+Lien : https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=FR&media_type=all&q=Maisons%20HCC&search_type=keyword_unordered
 
 
 Ch.8 · Le cas qui vient de s'arrêter
@@ -147,7 +149,7 @@ En clair : un annonceur qui diffusait depuis deux ans et qui s'arrête, ça se v
 ne sais pas, c'est pourquoi — et tu le dis. Tu montres le fait, pas une interprétation.
 
 À l'écran : la fiche d'un annonceur, date de fin de diffusion visible.
-Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
+Lien : https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=FR&media_type=all&q=Maisons%20HCC&search_type=keyword_unordered
 
 
 Ch.9 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
