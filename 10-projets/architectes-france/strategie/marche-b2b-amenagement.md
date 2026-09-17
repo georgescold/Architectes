@@ -112,6 +112,36 @@ publicité vendent de l'équipement et du mobilier. Personne n'y vend de la conc
 qu'on cherche en mots-clés libres, et un spectateur le verra en trois minutes.
 
 
+## 2 ter. GOOGLE ADS — le relevé complet (18/09/2026)
+
+Centre de transparence publicitaire Google, région France, nombre d'annonces par domaine.
+https://adstransparency.google.com/?region=FR
+
+Ceux qui vendent au particulier :
+
+  travaux.com              ~600 annonces
+  hemea.com                ~400
+  habitatpresto.com        ~300
+  metro.fr                 ~700  (grossiste, annonces surtout produits)
+  archibien.com              14
+
+Ceux qui vendent au professionnel du CHR et du commerce :
+
+  distridor.com              28  équipement et agencement CHR
+  mb2.fr                     27  mobilier et agencement CHR
+  conceptrenodeco.fr          1  agenceur CHR
+  racinea.fr                  0  agenceur CHR
+  archirestau.com             0  conception de restaurants
+
+La même lecture que sur Meta, confirmée sur une seconde régie : sur le professionnel, ceux
+qui diffusent vendent de l'équipement et du mobilier. Ceux qui vendent de la conception ne
+diffusent pas.
+
+⚠️ Ce relevé mesure des annonceurs, pas des mots-clés. Il ne dit pas combien de gens
+cherchent ces termes ni ce que coûte le clic. Pour ça, il faut le planificateur de mots-clés
+de Google Ads, qui demande un compte — à faire avant d'engager un budget.
+
+
 ## 3. Qui capte le travail, puisque ce n'est pas par la publicité
 
 ### Les agenceurs
