@@ -61,7 +61,7 @@ le dis pas, la moitié de l'audience va appliquer à sa situation des règles qu
 concernent pas — et l'autre moitié te le reprochera en commentaire.
 
 À l'écran : le périmètre du code, affiché d'emblée.
-Lien : https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000722752/
+Lien : https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006074232/
 
 
 Ch.3 · Le texte, lu à l'écran — deux minutes maximum
@@ -73,7 +73,7 @@ ouvrir la page pendant la vidéo. C'est la force de l'épisode : il n'y a rien �
 a un texte.
 
 À l'écran : le texte sur Légifrance, la phrase qui autorise surlignée, URL visible.
-Lien : https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000722752/
+Lien : https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074232/LEGISCTA000006143863/
 
 
 Ch.4 · Depuis quand exactement
@@ -86,7 +86,7 @@ précise. Tu affiches les deux dates côte à côte, tu laisses le silence, et c
 calcul dans sa tête.
 
 À l'écran : les deux dates côte à côte, même jour.
-Lien : https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000722752/
+Lien : https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074232/LEGISCTA000006143863/
 
 
 Ch.5 · Ce que le nouveau code change
@@ -97,7 +97,7 @@ En clair : certains ont entendu parler d'un nouveau texte entré en vigueur en 2
 lire, et pensent que ça a pu changer. Tu coupes court en affichant l'article concerné.
 
 À l'écran : le décret, entrée en vigueur au 1er juillet 2026, article affiché.
-Lien : https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000722752/
+Lien : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054341539
 
 
 Ch.6 · Ce que l'Ordre en dit lui-même
@@ -127,10 +127,13 @@ distinction vaut de l'argent : elle libère d'un coup tout ce qu'on n'osait pas 
 Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
 
 L'idée : cette croyance a survécu trente-quatre ans parce qu'elle arrangeait tout le monde.
-Et elle a laissé un espace publicitaire vide.
+Et pendant ce temps, d'autres ont pris la place.
 
-En clair : elle donnait une raison honorable de ne pas s'y mettre. Résultat, presque
-personne n'y est, et comme la publicité se vend aux enchères, l'espace est bon marché. Ce
+En clair : elle donnait une raison honorable de ne pas s'y mettre. Résultat, sur les
+expressions qui désignent le métier, les cabinets d'architecture sont presque absents —
+2 publicités actives sur « architecte DPLG » — quand les constructeurs en affichent 130.
+Comme la publicité se vend aux enchères, moins d'architectes en face veut dire une enchère
+plus basse pour celui qui s'y met. Ce
 que la croyance a coûté à la profession, c'est exactement ce qui la rend accessible
 aujourd'hui.
 

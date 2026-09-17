@@ -498,6 +498,10 @@ Liste des erreurs que j'ai moi-même commises ou failli commettre en écrivant l
   Promettre l'exclusivité départementale, qui n'est plus un engagement.
   Annoncer un nombre de pages qu'on n'a pas compté.
   Présenter un zéro publicité comme une preuve que le marché est bon. C'est une hypothèse.
+  Dire « l'espace publicitaire de l'architecture est vide ». En mots-clés libres,
+  « architecte d'intérieur » donne 620 publicités actives. Toujours préciser le mode de
+  recherche employé, expression exacte ou mots-clés libres : ce sont deux questions
+  différentes et deux compteurs différents.
   Dire que personne n'offre de conception gratuite sur le B2B. METRO le fait, sur la salle.
   Viser les commerces qui ouvrent sans exclure la franchise : le franchisé ne décide pas.
   Croire qu'un architecte inscrit est obligatoire sur un ERP. Pas pour une AT seule.

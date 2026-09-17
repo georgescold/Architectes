@@ -49,8 +49,8 @@ En clair = la même chose expliquée en détail, pour toi.
 
 Ch.1 · Ouverture
 
-L'idée : il existe un type de client pour lequel le plan gratuit ne suffit pas — et pour
-lequel personne ne fait de publicité.
+L'idée : il existe un type de client pour lequel le plan gratuit ne suffit pas — et que
+personne n'adresse en publicité comme un client de conception.
 
 En clair : sur les particuliers, un architecte d'intérieur se bat contre des enseignes de
 cuisine et de mobilier qui offrent le plan pour vendre leurs meubles. 97 publicités le
@@ -92,7 +92,7 @@ meubles.
 
 À l'écran : le CERFA 13824*04, pages sécurité et accessibilité encadrées, puis le délai de
 quatre mois affiché seul.
-Liens : https://www.service-public.fr/particuliers/vosdroits/R11311
+Liens : https://entreprendre.service-public.gouv.fr/vosdroits/R10190
         https://entreprendre.service-public.gouv.fr/vosdroits/F31687
 
 
@@ -121,16 +121,20 @@ Liens : https://www.architectes.org/actualites/dans-quel-cas-le-recours-larchite
 
 Ch.5 · Ce que dit le marché publicitaire de ce segment
 
-L'idée : sur ce type de client, personne ne fait de publicité — ni les architectes
-d'intérieur, ni ceux qui les concurrencent.
+L'idée : sur ce type de client, ceux qui font de la publicité vendent de l'équipement et du
+mobilier. Personne n'y vend de la conception.
 
-En clair : tu tapes « architecte restaurant », puis « agencement commercial », puis
-« agencement de restaurant » dans la bibliothèque publicitaire de Meta. Zéro à chaque fois.
-Et tu montres la même chose côté Google avec le centre de transparence publicitaire : les
-agenceurs spécialisés en restaurants n'y diffusent pas non plus, quand une plateforme comme
-hemea y affiche des centaines d'annonces sur le résidentiel. Avec la précision qui te rend
-incontestable : ces outils ne classent pas par métier, donc tu annonces un nombre de
-résultats sur une expression exacte, à une date donnée. Jamais « les seuls en France ».
+En clair : et c'est une nuance qu'il faut faire toi-même, sinon quelqu'un te la fera en
+commentaire. Il y a bien de la publicité sur l'aménagement : « agencement intérieur » en
+mots-clés libres donne 170 annonces actives. Sauf qu'en les ouvrant, ce sont des fabricants
+de dressings, des cuisinistes, des poêliers, des équipementiers pour supérettes. Sur les
+expressions qui désignent le métier de concevoir un local professionnel — « agencement
+commercial », « agencement de restaurant », « architecte restaurant » — le compteur est à
+zéro. Côté Google, même chose : les agenceurs spécialisés en restaurants ne diffusent pas,
+quand une plateforme comme hemea affiche des centaines d'annonces sur le résidentiel.
+Précision obligatoire : ces outils cherchent dans le texte des annonces, pas dans le métier
+de l'annonceur. Tu annonces un nombre de résultats, sur une recherche précisée, à une date.
+Jamais « les seuls en France ».
 
 À l'écran : les deux recherches en direct, Meta puis Google, dates visibles.
 Liens : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
@@ -388,7 +392,7 @@ La formulation juste est donc : ce qui est offert couvre l'implantation du mobil
 conformité du local.
 
 
-### Pourquoi l'espace publicitaire est vide, et l'explication concurrente
+### Pourquoi personne n'y vend de conception, et l'explication concurrente
 
 Le vide est réel et mesuré sur deux régies. Mais un espace vide n'est pas une preuve que le
 marché est bon — c'est une hypothèse, et il existe une explication concurrente sérieuse qu'il
@@ -537,8 +541,8 @@ https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037667650
 
 ### 5. Ce que dit le marché publicitaire de ce segment
 
-À faire comprendre : que le terrain est vide, mesuré, avec la nuance qui rend
-l'affirmation honnête. On revient dans son domaine et on y reste.
+À faire comprendre : que ceux qui diffusent sur l'aménagement vendent du mobilier et de
+l'équipement, jamais de la conception — avec la nuance qui rend l'affirmation honnête. On revient dans son domaine et on y reste.
 
 Exemple de formulation :
 « J'ai fait la recherche, vous pouvez la refaire en trente secondes. Expression exacte,
@@ -652,8 +656,8 @@ https://www.pexels.com/fr-fr/chercher/int%C3%A9rieur%20de%20restaurant/
 ## DESCRIPTION YOUTUBE
 
 ```
-En architecture d'intérieur, il existe un segment où personne n'offre la conception
-gratuitement et où personne ne fait de publicité. Le client professionnel — restaurant,
+En architecture d'intérieur, il existe un segment où le plan gratuit ne suffit pas et où
+personne ne vend de la conception en publicité. Le client professionnel — restaurant,
 boutique, cabinet médical — n'achète pas un style : il achète le respect d'une date
 contrainte par une procédure. Et il ne vous trouvera jamais tout seul.
 

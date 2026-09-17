@@ -97,7 +97,7 @@ de photo d'un projet qui n'est pas le sien, pas de dénigrement. Mais au sens st
 moins empêchés de communiquer qu'un architecte inscrit à l'Ordre. Presque aucun ne le sait.
 
 À l'écran : le périmètre du code, affiché noir sur blanc.
-Liens : https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000722752/
+Liens : https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006074232/
         https://www.cfai.fr/en/se-former-a-l-architecture-interieure/les-ecoles-reconnues
 
 

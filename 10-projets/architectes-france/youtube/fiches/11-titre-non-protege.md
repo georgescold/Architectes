@@ -103,7 +103,7 @@ confraternité de l'Ordre ne les concernent pas. Le statut qu'ils vivent comme u
 est aussi une liberté qu'ils n'exercent pas.
 
 À l'écran : le périmètre du code, affiché noir sur blanc.
-Lien : https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000722752/
+Lien : https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006074232/
 
 
 Ch.6 · Les trois preuves qui remplacent un titre

@@ -20,7 +20,7 @@ Positionnement, offre, site, SEO, fiche Google, publicité, contenus ou suivi co
 ## Prise de contact
 
 - Instagram : **@essort.architectes**.
-- Rendez-vous : **https://cal.com/essort/30min**.
+- Rendez-vous : **https://cal.com/essort/30min.
 - L’échange porte sur les projets recherchés, la zone, les difficultés, les moyens disponibles et les priorités ; il permet de préciser l’accompagnement adapté.
 
 Dans le PDF, conserver une invitation chaleureuse sous forme de phrase, sans bouton de réservation cliquable.

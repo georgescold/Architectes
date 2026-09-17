@@ -4,8 +4,10 @@ Relevé du 17 septembre 2026. Objectif : vérifier l'hypothèse sur laquelle rep
 « sur le client professionnel, personne n'offre de conception gratuite et personne ne fait
 de publicité ».
 
-Verdict en une phrase : la seconde moitié de l'hypothèse tient et se mesure. La première
-est fausse et doit être corrigée avant de tourner.
+Verdict : les deux moitiés de l'hypothèse étaient mal formulées, et le § 2 bis, ajouté le
+18/09 après une vérification de Loys, corrige la seconde. Ce qui reste vrai et mesurable :
+sur l'aménagement de local professionnel, ceux qui font de la publicité vendent de
+l'équipement et du mobilier. Personne n'y vend de la conception.
 
 
 ## 1. Ce qui est faux dans l'EP01 aujourd'hui
@@ -44,8 +46,8 @@ Conséquence pour l'EP01 : la bonne formulation n'est pas « personne n'offre ri
 
 ## 2. Ce qui est vrai, et qui se mesure
 
-L'espace publicitaire du B2B de l'aménagement est vide, y compris pour ceux qui servent ce
-marché. Relevé du 17/09/2026.
+Premier relevé, en expression exacte uniquement. À lire avec le § 2 bis, qui le complète en
+mots-clés libres et en change la portée. Relevé du 17/09/2026.
 
 Bibliothèque publicitaire Meta, France, publicités actives, expressions exactes :
 
@@ -63,11 +65,51 @@ Centre de transparence publicitaire Google, région France :
   metro.fr                           ~700 annonces
 https://adstransparency.google.com/?region=FR
 
-La lecture est nette : les acteurs du B2B de l'aménagement ne font pas de publicité, ni sur
-Meta ni sur Google. Ceux qui en font massivement sont sur le B2C résidentiel.
+Lecture, corrigée par le § 2 bis : sur ces expressions précises, personne ne diffuse. Mais
+l'expression exacte est une recherche étroite, et il existe bien de la publicité sur
+l'aménagement dès qu'on cherche en mots-clés libres. Ce qui tient : ceux qui diffusent
+vendent du mobilier et de l'équipement, et les gros budgets sont sur le B2C résidentiel.
 
 ⚠️ Zéro publicité n'est pas une preuve que le marché est bon. C'est une hypothèse. Ça peut
 vouloir dire que personne n'y a pensé, ou que ceux qui ont essayé ont arrêté.
+
+
+## 2 bis. LE RELEVÉ COMPLÉTÉ — recherche par mots-clés (18/09/2026)
+
+Le relevé du 17/09 n'avait été fait qu'en expression exacte. C'est une recherche très
+étroite, et elle donne une image trompeuse si on s'arrête là. Complété en mots-clés libres,
+publicités actives, France :
+
+  « agencement intérieur »        170 résultats
+  « agencement magasin »           81
+  « agenceur »                     46
+  « aménagement restaurant »       21
+  « agencement commerce »           9
+  « aménagement local commercial »  7
+  « architecte d'intérieur »      620
+
+Et en expression exacte, mêmes conditions :
+
+  « constructeur de maisons »     130
+  « plan 3D gratuit »              97
+  « architecte DPLG »               2
+  « agencement commercial »         0
+  « agencement de restaurant »      0
+
+Ce que donne l'ouverture des annonces, et c'est le vrai enseignement : les 170 de
+« agencement intérieur » sont des fabricants de dressings et de meubles sur mesure, des
+poêliers, des cuisinistes — du B2C résidentiel, avec des promesses du type « une étude 3D
+sur mesure, offerte et sans engagement ». Dans « agencement magasin », on trouve des
+équipementiers qui s'adressent aux supérettes et aux supermarchés : ils vendent du matériel,
+pas de la conception. Et les 620 de « architecte d'intérieur » sont massivement des écoles
+et des magazines qui vendent une formation au métier, plus des enseignes qui mettent en
+avant « nos architectes d'intérieur ».
+
+Formulation juste, désormais : sur l'aménagement de local professionnel, ceux qui font de la
+publicité vendent de l'équipement et du mobilier. Personne n'y vend de la conception.
+
+⚠️ Ne jamais écrire « l'espace publicitaire de l'architecture est vide ». C'est faux dès
+qu'on cherche en mots-clés libres, et un spectateur le verra en trois minutes.
 
 
 ## 3. Qui capte le travail, puisque ce n'est pas par la publicité
@@ -110,8 +152,8 @@ designers et prescripteurs ».
 https://www.equiphotel.com/fr-fr.html
 
 C'est aujourd'hui le canal principal de ce marché, avec la prescription entre
-professionnels. Ça explique le vide publicitaire sans le contredire : le secteur a un canal
-historique qui fonctionne, coûteux et annuel.
+professionnels. Ça explique l'absence d'annonceurs de conception sans la contredire : le
+secteur a un canal historique qui fonctionne, coûteux et annuel.
 
 
 ## 4. La correction réglementaire, et elle est favorable

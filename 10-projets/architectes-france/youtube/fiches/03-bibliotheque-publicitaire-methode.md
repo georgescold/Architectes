@@ -6,12 +6,13 @@
 
 ## LA BIG IDEA
 
-L'espace publicitaire de l'architecture en France est vide, et ce n'est pas une opinion de
-vendeur de publicité : c'est consultable publiquement, gratuitement, en dix minutes.
+Ceux qui prennent les projets des architectes diffusent en continu depuis des années. Les
+cabinets d'architecture, presque pas. Et ce n'est pas une opinion de vendeur de publicité :
+c'est consultable publiquement, gratuitement, en dix minutes.
 
-Pendant que la profession considère la publicité comme accessoire, ceux qui prennent ses
-projets diffusent en continu depuis des années. Le déséquilibre se compte : 130 publicités
-actives sur l'expression « constructeur de maisons », 2 sur « architecte DPLG ».
+Le déséquilibre se compte sur des expressions exactes, à une date donnée : 130 publicités
+actives sur « constructeur de maisons », 97 sur « plan 3D gratuit », 2 sur « architecte
+DPLG ».
 
 Et le spectateur repart avec la manipulation exacte pour le vérifier lui-même, puis pour
 auditer son propre département.
@@ -71,12 +72,21 @@ reproche.
 
 En clair : il cherche dans le texte des annonces, pas dans le métier de l'annonceur — donc
 « architecte » remonte aussi des écoles et des magazines de décoration. Il ne classe pas par
-secteur, donc il est impossible de demander « tous les architectes qui annoncent en
-France ». Conséquence directe : jamais « les seuls », jamais « aucun ». Seulement un nombre
-de résultats sur une expression exacte, à une date. Ces limites annoncées d'entrée rendent
-tout le reste de la vidéo incontestable.
+secteur, donc il est impossible de demander « tous les architectes qui annoncent en France ».
 
-À l'écran : une recherche « architecte » qui remonte des écoles et des magazines.
+Et la limite la plus traître, celle qu'il faut montrer à l'écran : le résultat dépend
+entièrement du mode de recherche. « Architecte d'intérieur » en mots-clés libres donne 620
+publicités actives ; en expression exacte, « architecte DPLG » en donne 2. Ce ne sont pas
+deux vérités contradictoires, ce sont deux questions différentes. Et dans les 620, on trouve
+surtout des écoles qui vendent une formation au métier et des enseignes qui mettent en avant
+« nos architectes d'intérieur » — presque aucun cabinet qui cherche des clients.
+
+Conséquence directe : jamais « les seuls », jamais « aucun », jamais « le marché est vide ».
+Seulement un nombre de résultats, sur une recherche précisée, à une date. Annoncer ça
+d'entrée rend tout le reste de la vidéo incontestable.
+
+À l'écran : la même recherche faite deux fois, mots-clés libres puis expression exacte, les
+deux compteurs côte à côte. Puis le détail des 620 : une école, un magazine, une enseigne.
 Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
 
 
