@@ -29,66 +29,129 @@ personne ne diffuse — c'est-à-dire au moment où la publicité en ligne coût
 parce que personne n'enchérit en face.
 
 
-## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
+## LE FIL DE LA DÉMONSTRATION — une idée par chapitre
 
-Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
-cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
-« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
+Une idée par chapitre, dans l'ordre. Lues à la suite, elles donnent le raisonnement complet
+de la vidéo.
+
+L'idée = ce que le spectateur doit avoir compris à la fin du chapitre.
+En clair = la même chose expliquée en détail, pour toi.
+À l'écran = ce qu'on montre pendant.
 
 Ch.1 · Ouverture
-La big idea : le déséquilibre entre ceux qui font de la publicité et ceux qui n'en font pas
-se compte, il ne se suppose pas. 130 résultats d'un côté, 2 de l'autre, sur des expressions
-exactes, à une date donnée.
+
+L'idée : l'écart entre ceux qui font de la publicité et ceux qui n'en font pas se compte. Il
+ne se suppose pas.
+
+En clair : 130 publicités actives sur l'expression « constructeur de maisons », 2 sur
+« architecte DPLG ». Ce sont des compteurs publics, relevés à une date précise, que
+n'importe qui peut revérifier pendant la vidéo.
+
 À l'écran : les deux compteurs côte à côte, date du relevé visible.
 
+
 Ch.2 · D'où je parle
-La big idea : cet outil n'est pas une curiosité, c'est ce que j'ouvre avant chaque campagne
-pour savoir contre qui je vais diffuser. Je ne le découvre pas devant eux.
+
+L'idée : cet outil n'est pas une curiosité que tu montres. C'est ce que tu ouvres avant
+chaque campagne.
+
+En clair : avant de diffuser pour un cabinet, tu regardes qui diffuse déjà sur sa zone,
+depuis quand, et avec quel message. Tu ne découvres pas l'outil devant eux, tu t'en sers
+toutes les semaines.
+
 À l'écran : la page d'accueil de la bibliothèque publicitaire, URL lisible.
 
+
 Ch.3 · Les trois limites de l'outil
-La big idea : je sais ce que l'outil ne sait pas faire — il ne classe pas par métier, il
-cherche dans le texte des annonces, et il ne permet aucun recensement exhaustif. Annoncer
-ça d'entrée est ce qui rend tout le reste incontestable.
+
+L'idée : tu dis toi-même ce que l'outil ne sait pas faire, avant que quelqu'un te le
+reproche.
+
+En clair : il cherche dans le texte des annonces, pas dans le métier de l'annonceur — donc
+« architecte » remonte aussi des écoles et des magazines de décoration. Il ne classe pas par
+secteur, donc il est impossible de demander « tous les architectes qui annoncent en
+France ». Conséquence directe : jamais « les seuls », jamais « aucun ». Seulement un nombre
+de résultats sur une expression exacte, à une date. Ces limites annoncées d'entrée rendent
+tout le reste de la vidéo incontestable.
+
 À l'écran : une recherche « architecte » qui remonte des écoles et des magazines.
 
+
 Ch.4 · Ce que vaut un espace publicitaire vide
-La big idea : la publicité fonctionne par enchères. Quand personne n'enchérit en face, le
-même message coûte moins cher à diffuser — un terrain vide n'est pas seulement une
-opportunité commerciale, c'est un prix.
+
+L'idée : la publicité se vend aux enchères. Quand personne n'enchérit en face, le même
+message coûte moins cher.
+
+En clair : ce n'est pas seulement « il y a de la place ». C'est que la place est bon marché.
+Deux cabinets qui diffusent le même message, l'un dans un département saturé, l'autre dans
+un département vide, ne paient pas le même prix pour la même demande entrante.
+
 À l'écran : le principe de l'enchère, en schéma simple.
 
+
 Ch.5 · Le piège des grosses audiences
-La big idea : une grosse audience ne dit rien de la dépense. Une même annonce dupliquée sur
-dix zones affiche dix diffusions pour une seule créative — il faut vérifier avant de copier
-quelqu'un qu'on croit gros.
+
+L'idée : un gros nombre de publicités ne veut pas dire un gros budget.
+
+En clair : une même annonce dupliquée sur dix villes apparaît comme dix diffusions alors
+qu'il n'y a qu'une seule création derrière. Donc avant de se dire « celui-là est énorme, je
+ne peux pas lutter », il faut regarder s'il s'agit de dix messages différents ou du même,
+copié dix fois.
+
 À l'écran : une annonce dupliquée par zone, compteur de diffusions en évidence.
 
+
 Ch.6 · La manipulation, en direct
-La big idea : tout ce que je viens de dire, il peut le refaire ce soir en trois gestes.
-Pays, expression exacte entre guillemets, statut des annonces. Rien d'autre.
-À l'écran : la manipulation filmée, curseur visible, date du jour en bandeau.
+
+L'idée : tout ce que tu viens de montrer, il peut le refaire ce soir en trois gestes.
+
+En clair : choisir le pays, taper l'expression exacte entre guillemets, régler le statut sur
+les annonces actives. Rien d'autre. Tu le fais à l'écran, lentement, curseur visible.
+
+À l'écran : la manipulation filmée, date du jour affichée en bandeau.
+
 
 Ch.7 · Les quatre lectures d'une bibliothèque
-La big idea : voir des annonces ne sert à rien, les lire sert à tout. Qui diffuse · depuis
-quand · combien de créatives différentes · ce que dit le texte. C'est le cadeau de la vidéo.
+
+L'idée : voir des annonces ne sert à rien. Savoir quoi y lire sert à tout.
+
+En clair : qui diffuse, depuis combien de temps, combien de versions différentes de
+l'annonce, et ce que dit le texte. Une annonce diffusée depuis deux ans sans interruption
+est une annonce qui rapporte — personne ne paie deux ans pour rien. C'est le vrai cadeau de
+la vidéo.
+
 À l'écran : les quatre lectures en liste, puis appliquées à un annonceur réel.
 
+
 Ch.8 · Le cas qui vient de s'arrêter
-La big idea : les dates disent ce que les discours cachent. Un annonceur qui diffusait
-depuis deux ans et qui s'arrête raconte quelque chose — et on reste honnête sur ce qu'on ne
-sait pas, puisqu'on ignore pourquoi il a arrêté.
+
+L'idée : les dates de diffusion racontent ce que les discours cachent.
+
+En clair : un annonceur qui diffusait depuis deux ans et qui s'arrête, ça se voit. Ce que tu
+ne sais pas, c'est pourquoi — et tu le dis. Tu montres le fait, pas une interprétation.
+
 À l'écran : la fiche d'un annonceur, date de fin de diffusion visible.
 
+
 Ch.9 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
-La big idea : l'outil montre un terrain vide, il ne l'occupe pas. Et un terrain vide ne le
-reste jamais longtemps — le jour où trois cabinets du département diffusent, le prix
-d'entrée n'est plus le même.
+
+L'idée : l'outil montre un terrain vide. Il ne l'occupe pas. Et un terrain vide ne le reste
+pas.
+
+En clair : aujourd'hui, un cabinet qui diffuse dans son département est souvent seul. Le
+jour où trois confrères s'y mettent, le prix d'une demande n'est plus le même — c'est le
+principe de l'enchère vu au chapitre 4. L'avantage existe maintenant, pas dans trois ans.
+
 À l'écran : la page essort.agency/ressources.
 
+
 Ch.10 · Sortie
-La big idea : il peut auditer son propre département ce soir, gratuitement. La tension
-qu'on rouvre : il va peut-être découvrir qu'un confrère diffuse déjà.
+
+L'idée : il peut auditer son propre département ce soir, gratuitement, en dix minutes.
+
+En clair : tu ne demandes rien d'autre. Et tu laisses la tension : il va peut-être découvrir
+qu'un confrère diffuse déjà.
+
 À l'écran : le champ de recherche, vide, curseur qui clignote.
 
 Source de toutes les captures :

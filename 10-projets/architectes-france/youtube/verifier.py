@@ -74,7 +74,8 @@ OBLIGATOIRES = [
     (r"Exemple de formulation", "des exemples de ce qu'il faut dire"),
     (r"BLOC ACQUISITION", "le bloc acquisition, obligatoire dans chaque episode"),
     (r"Ch\.1 · Ouverture", "le fil de la demonstration, qui commence au chapitre 1"),
-    (r"La big idea :", "une big idea annoncee pour chaque chapitre"),
+    (r"L'idée :", "une idee annoncee pour chaque chapitre"),
+    (r"En clair :", "l'explication detaillee de chaque idee"),
     (r"publicit[ée] en ligne", "la phrase qui designe la publicite en ligne comme levier"),
     (r"essort\.agency/ressources", "le lien vers le document gratuit"),
 ]

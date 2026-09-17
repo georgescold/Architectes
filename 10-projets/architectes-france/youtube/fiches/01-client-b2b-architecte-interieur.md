@@ -33,66 +33,127 @@ C'est le seul moyen d'exister dans la tête de quelqu'un qui n'a jamais tapé «
 d'intérieur » de sa vie.
 
 
-## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
+## LE FIL DE LA DÉMONSTRATION — une idée par chapitre
 
-Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
-cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
-« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
+Une idée par chapitre, dans l'ordre. Lues à la suite, elles donnent le raisonnement complet
+de la vidéo.
+
+L'idée = ce que le spectateur doit avoir compris à la fin du chapitre.
+En clair = la même chose expliquée en détail, pour toi.
+À l'écran = ce qu'on montre pendant.
 
 Ch.1 · Ouverture
-La big idea : il existe un segment de clientèle où personne ne casse les prix et où
-personne ne fait de publicité. Les deux en même temps, c'est rare au point d'être suspect —
-et c'est vérifiable en dix minutes.
-À l'écran : la bibliothèque publicitaire, 97 annonces actives promettant une conception
-gratuite, date du relevé visible.
+
+L'idée : il existe un type de client pour lequel personne ne casse les prix et personne ne
+fait de publicité.
+
+En clair : sur les particuliers, un architecte d'intérieur se bat contre des enseignes de
+cuisine et de mobilier qui offrent la conception pour vendre leurs meubles. 97 publicités le
+promettent en ce moment. Sur les professionnels — restaurants, cabinets, commerces —
+personne ne promet rien de gratuit, et personne ne fait de publicité non plus. Les deux en
+même temps, c'est rarissime.
+
+À l'écran : la bibliothèque publicitaire, recherche sur la conception gratuite, compteur à
+97, date du relevé visible.
+
 
 Ch.2 · Le problème du marché sur lequel il est
-La big idea : sur le résidentiel, sa faiblesse n'est pas son prix, c'est sa comparabilité.
-Quand une enseigne offre la conception pour vendre du mobilier, le client n'a plus à choisir
-entre deux professionnels : il choisit entre payer et ne pas payer.
-À l'écran : deux annonces d'enseignes promettant le plan gratuit, côte à côte.
+
+L'idée : sur les particuliers, son problème n'est pas d'être trop cher. C'est d'être
+comparable à quelque chose de gratuit.
+
+En clair : quand une enseigne offre le plan, le client ne choisit plus entre deux
+professionnels. Il choisit entre payer et ne pas payer. Personne ne gagne cette
+comparaison-là, quel que soit son talent.
+
+À l'écran : deux annonces d'enseignes qui promettent le plan gratuit, côte à côte.
+
 
 Ch.3 · Le segment où ça ne marche pas comme ça — deux minutes maximum
-La big idea : un professionnel qui ouvre un local public n'achète pas du style, il achète
-une autorisation et une date d'ouverture. Aucune enseigne de mobilier ne peut offrir ça,
-parce que c'est un dossier réglementaire et pas un plan d'aménagement.
+
+L'idée : un professionnel qui ouvre un local ne cherche pas quelqu'un pour décorer. Il
+cherche quelqu'un pour obtenir son autorisation d'ouverture.
+
+En clair : dès qu'un local accueille du public, il tombe sous une réglementation de sécurité
+et d'accessibilité, et les travaux demandent une autorisation administrative. Ce n'est pas
+un plan d'aménagement, c'est un dossier. Aucune enseigne de mobilier ne peut offrir ça : ce
+n'est pas leur métier et ça ne vend pas de meubles.
+
 À l'écran : le CERFA 13824*04, autorisation de travaux en ERP, pages sécurité et
 accessibilité encadrées.
 
+
 Ch.4 · Jusqu'où il peut aller seul
-La big idea : il y a une limite à ce qu'un architecte d'intérieur peut signer seul, et la
-connaître évite de se lancer sur un projet qu'on ne pourra pas porter. Dit vite, sans
-pédanterie : c'est une information de cadrage, pas un cours.
-À l'écran : la limite écrite en une ligne, et la mention des cas où un architecte inscrit
-devient nécessaire.
+
+L'idée : il y a une limite à ce qu'un architecte d'intérieur peut porter seul sur ce type de
+projet, et mieux vaut la connaître avant de s'engager.
+
+En clair : tu la dis vite, en une phrase, et tu passes. Le but n'est pas de faire un cours
+de réglementation — c'est d'éviter qu'il se lance sur un chantier qu'il ne pourra pas
+signer, et de montrer que tu sais de quoi tu parles.
+
+À l'écran : la limite écrite en une ligne, et les cas où un architecte inscrit à l'Ordre
+devient obligatoire.
+
 
 Ch.5 · Ce que dit le marché publicitaire de ce segment
-La big idea : sur ce segment, le terrain publicitaire est vide — et c'est mesuré, pas
-supposé. La nuance qui rend l'affirmation solide : l'outil ne classe pas par métier, donc on
-annonce un nombre de résultats sur une expression exacte, à une date, et rien de plus.
-À l'écran : recherche « architecte restaurant », aucun résultat actif, date visible.
+
+L'idée : sur ce type de client, personne ne fait de publicité. Et ce n'est pas une
+impression : c'est un compteur.
+
+En clair : tu tapes « architecte restaurant » dans la bibliothèque publicitaire de Meta et
+tu montres le résultat. Avec la précision qui te rend incontestable : l'outil ne classe pas
+par métier, donc tu annonces un nombre de résultats sur une expression exacte, à une date
+donnée, et rien de plus. Jamais « les seuls en France ».
+
+À l'écran : la recherche en direct, aucun résultat actif, date visible.
+
 
 Ch.6 · Pourquoi ce client ne viendra jamais tout seul
-La big idea : un professionnel ne cherche pas « un architecte d'intérieur », il cherche à
-régler un problème d'ouverture. Il tape le nom de son problème, pas le nom du métier — donc
-aucun levier passif, ni référencement, ni recommandation, ne le ramènera.
-À l'écran : ce qu'il tape réellement, en trois exemples de recherche.
+
+L'idée : ce client ne cherche pas « un architecte d'intérieur ». Il ne connaît même pas le
+métier.
+
+En clair : quelqu'un qui reprend un local tape le nom de son problème, pas le nom de ton
+métier. Il cherche « mise aux normes accessibilité restaurant » ou « combien de temps pour
+ouvrir un commerce ». Résultat : ni le référencement sur son propre nom, ni le
+bouche-à-oreille entre particuliers ne le ramèneront jamais. Il faut aller le chercher.
+
+À l'écran : trois exemples de recherches qu'il tape réellement.
+
 
 Ch.7 · Comment on va le chercher — le cœur de la vidéo
-La big idea : puisqu'il ne vient pas, on va le chercher, et ça se décide en trois réglages :
-la zone, le type de local, le moment. C'est le chapitre le plus long parce que c'est le seul
-qui soit entièrement dans le domaine de la chaîne.
-À l'écran : les trois lignes du ciblage écrites en direct.
+
+L'idée : puisqu'il ne vient pas, on va devant lui. Et ça se décide en trois réglages.
+
+En clair : la zone où on diffuse, le type de local visé, et le moment — quelqu'un qui vient
+de signer un bail ou qui prépare une ouverture. C'est le chapitre le plus long de la vidéo
+parce que c'est le seul qui parle de ton métier à toi.
+
+À l'écran : les trois lignes du ciblage, écrites en direct devant la caméra.
+
 
 Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
-La big idea : la publicité en ligne est le seul levier qui atteigne ce client au moment où
-sa contrainte existe, c'est-à-dire pendant les quelques semaines où il prépare son
-ouverture. Le problème n'a jamais été le talent, c'est l'absence de système.
-À l'écran : la page essort.agency/ressources, immobile.
+
+L'idée : la publicité en ligne est le seul moyen d'être devant ce client pendant les
+quelques semaines où il prépare son ouverture.
+
+En clair : sa contrainte n'existe que pendant une courte période. Après, le local est ouvert
+et le sujet est clos. Aucun canal lent ne peut attraper ça — ni le référencement, ni la
+recommandation, ni le contenu. Ce qui manque à un cabinet, ce n'est pas du talent, c'est un
+système qui le mette devant les bonnes personnes au bon moment.
+
+À l'écran : la page essort.agency/ressources.
+
 
 Ch.9 · Sortie
-La big idea : ce n'est pas un chantier de six mois — dans sa ville, cette semaine, des
-locaux changent de main. La tension qu'on rouvre : quelqu'un d'autre finira par y aller.
+
+L'idée : ce n'est pas un projet à six mois. Dans sa ville, cette semaine, des locaux
+changent de main.
+
+En clair : tu finis sur quelque chose de tangible et proche, pas sur une exhortation. Et tu
+laisses une tension : quelqu'un d'autre finira par y aller.
+
 À l'écran : une rue commerçante, plusieurs locaux en travaux.
 
 

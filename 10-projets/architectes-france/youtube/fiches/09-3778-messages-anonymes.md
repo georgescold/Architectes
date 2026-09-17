@@ -29,74 +29,132 @@ Les honoraires, la considération et l'isolement ne se règlent pas par une camp
 dis dans la vidéo, et c'est ce qui rend les deux premières crédibles.
 
 
-## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
+## LE FIL DE LA DÉMONSTRATION — une idée par chapitre
 
-Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
-cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
-« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
+Une idée par chapitre, dans l'ordre. Lues à la suite, elles donnent le raisonnement complet
+de la vidéo.
+
+L'idée = ce que le spectateur doit avoir compris à la fin du chapitre.
+En clair = la même chose expliquée en détail, pour toi.
+À l'écran = ce qu'on montre pendant.
 
 Ch.1 · Ouverture
-La big idea : il va entendre ce que ses confrères écrivent quand ils ne se savent pas lus.
-Pas des réponses à un questionnaire — ce qui se dit quand il n'y a rien à gagner à bien se
-tenir.
+
+L'idée : il va entendre ce que ses confrères écrivent quand ils ne se savent pas lus.
+
+En clair : ce ne sont pas des réponses à un questionnaire ni des interventions en
+conférence. C'est ce qui se dit sous pseudonyme, quand il n'y a rien à gagner à bien se
+tenir. D'où la valeur du corpus.
+
 À l'écran : « 3 778 messages », plein écran.
 
+
 Ch.2 · D'où je parle, et la limite du corpus
-La big idea : ma méthode, et sa limite annoncée avant qu'on me la reproche. Le corpus est
-majoritairement anglophone, moins de 200 messages sont français, et ce n'est pas un
-échantillon représentatif — donc aucun pourcentage, jamais. Que ces douleurs reviennent dans
-plusieurs pays est même une information en soi.
+
+L'idée : tu annonces la limite avant qu'on te la reproche.
+
+En clair : le corpus est majoritairement anglophone, moins de 200 messages sont français, et
+ce n'est pas un échantillon représentatif. Donc jamais de pourcentage, jamais « les
+architectes français ». Tu dis « ce qui revient le plus ». Et le fait que les mêmes douleurs
+reviennent dans plusieurs pays est une information en soi : elles ne tiennent pas à une
+particularité française.
+
 À l'écran : la composition du corpus en liste, chiffres à l'appui.
 
+
 Ch.3 · Douleur 1 — les honoraires
-La big idea : la mise en concurrence sur le prix est vécue comme une anomalie
-professionnelle. Ils ne se comparent pas aux autres métiers du bâtiment, ils se comparent
-aux professions réglementées qui n'enchérissent pas les unes contre les autres.
+
+L'idée : être mis en concurrence sur le prix est vécu comme une anomalie de métier.
+
+En clair : ce qui frappe dans ces messages, ce n'est pas la plainte, c'est la comparaison
+qu'ils font. Ils ne se comparent pas aux autres métiers du bâtiment, ils se comparent aux
+médecins et aux avocats — des professions réglementées qui n'enchérissent pas les unes
+contre les autres.
+
 À l'écran : un verbatim anonymisé, texte seul, aucune interface visible.
 
+
 Ch.4 · Douleur 2 — l'incertitude
-La big idea : l'angoisse ne porte pas sur le niveau de revenu mais sur la prévisibilité. Pas
-« je gagne mal ma vie », mais « je ne sais pas d'où viendra le prochain projet » — quelqu'un
-d'excellent dans son métier qui découvre qu'il n'en a jamais appris un second.
-À l'écran : le verbatim de celui qui décrit 90 % d'appels sans réponse.
+
+L'idée : ce qui angoisse n'est pas le niveau de revenu, c'est de ne pas savoir d'où viendra
+le prochain projet.
+
+En clair : le témoignage type, c'est quelqu'un qui quitte son agence pour monter la sienne,
+se met à téléphoner, et décrit 90 % d'appels sans réponse. Quelqu'un d'excellent dans son
+métier qui découvre qu'il n'en a jamais appris un second.
+
+À l'écran : ce verbatim, anonymisé.
+
 
 Ch.5 · Douleur 3 — le travail gratuit
-La big idea : le volume de production non facturée est structurel, pas accidentel.
-Esquisses, concours perdus, premiers rendez-vous de trois heures — et le sentiment que
-refuser signifie ne pas travailler.
+
+L'idée : la production non facturée n'est pas un accident, c'est devenu la norme.
+
+En clair : esquisses non payées, concours perdus, premiers rendez-vous de trois heures,
+avant-projets remis à des gens qui disparaissent. Et le sentiment qui revient : refuser,
+c'est ne pas travailler.
+
 À l'écran : la liste de ce qui n'est pas facturé.
 
+
 Ch.6 · Douleur 4 — le manque de respect
-La big idea : l'ennemi de l'épisode est un rapport, pas une personne. C'est une douleur de
-statut et non d'argent, et c'est celle qui pèse le plus sur mon sujet : quelqu'un qui se
-sent déjà traité en fournisseur de plans ne veut surtout pas d'un outil qui le ferait
-ressembler davantage à un commerçant.
-À l'écran : le titre du fil « pourquoi tout le monde nous déteste », seul.
+
+L'idée : c'est une douleur de statut, pas d'argent. Et c'est celle qui touche le plus ton
+sujet.
+
+En clair : il existe un fil intitulé « pourquoi tout le monde nous déteste ». Quelqu'un qui
+se sent déjà traité comme un fournisseur de plans ne veut surtout pas d'un outil qui le
+ferait ressembler davantage à un commerçant. C'est la vraie raison de la réticence à la
+publicité, et elle n'est pas économique.
+
+À l'écran : le titre du fil, seul, sans capture d'interface.
+
 
 Ch.7 · Douleur 5 — l'isolement
-La big idea : la douleur dont personne ne parle en public, et qui aggrave les quatre autres.
-Sans personne pour comparer, chacun croit être le seul dans ce cas — et donc que c'est lui
-le problème.
+
+L'idée : personne n'en parle en public, et elle aggrave les quatre autres.
+
+En clair : sans personne à qui se comparer, chacun croit être le seul dans ce cas — et donc
+que le problème vient de lui. C'est ce qui empêche de voir que ce sont des problèmes de
+position sur le marché.
+
 À l'écran : « Chacun croit être le seul », plein écran.
 
+
 Ch.8 · Le point commun des cinq
-La big idea : la bascule de la vidéo — aucune des cinq ne se règle en devenant meilleur
-architecte. Prenez quelqu'un de plus talentueux : il a exactement les mêmes cinq problèmes.
-Ce sont des problèmes de position sur le marché, et une position, ça se change.
+
+L'idée : aucune des cinq ne se règle en devenant meilleur architecte.
+
+En clair : prends quelqu'un de plus talentueux, avec exactement les mêmes cinq problèmes :
+il les a toujours. Ce n'est donc pas une question de niveau, c'est une question de place sur
+le marché. Et une place, ça se déplace — c'est ce qui rend l'épisode utile au lieu d'être
+déprimant.
+
 À l'écran : les cinq douleurs en liste, puis la phrase qui les traverse.
 
+
 Ch.9 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
-La big idea : deux des cinq se règlent vite, et on dit lesquelles. L'incertitude, parce
-qu'aucune source de projets ne s'ouvre sur décision sauf la publicité. Le travail gratuit,
-parce qu'un ordre de grandeur annoncé avant le rendez-vous fait disparaître la moitié des
-visites inutiles. Les trois autres ne se règlent pas par une campagne, et le dire est ce qui
-rend les deux premières crédibles.
-À l'écran : deux douleurs qui s'allument en vert, trois qui restent grises.
+
+L'idée : deux des cinq se règlent vite. Tu dis lesquelles, et tu dis que les trois autres
+non.
+
+En clair : l'incertitude, parce qu'une source de projets qu'on ouvre quand on veut supprime
+exactement ce qui l'alimente — le fait de ne pas savoir. Le travail gratuit, parce qu'un
+budget de travaux annoncé en amont fait renoncer ceux qui n'auraient de toute façon rien
+signé. Les honoraires, la considération et l'isolement sont plus profonds : une campagne n'y
+change rien, et le dire est ce qui rend les deux premières crédibles.
+
+À l'écran : deux douleurs qui s'allument, trois qui restent grises.
+
 
 Ch.10 · Sortie
-La big idea : ce qu'on vient de lire n'est pas un portrait de gens qui se plaignent, c'est
-la description d'une position de marché. La tension qu'on rouvre : chacun peut vérifier
-laquelle des cinq est la sienne.
+
+L'idée : ce n'est pas le portrait de gens qui se plaignent. C'est la description d'une
+position de marché.
+
+En clair : et chacun peut regarder laquelle des cinq est la sienne. C'est la tension que tu
+laisses.
+
 À l'écran : les cinq douleurs, une dernière fois.
 
 

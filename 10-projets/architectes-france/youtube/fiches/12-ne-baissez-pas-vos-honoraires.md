@@ -30,67 +30,124 @@ de projet et l'ordre de grandeur, et elle n'écrit qu'à un seul cabinet. C'est 
 prestation, dans deux conversations opposées.
 
 
-## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
+## LE FIL DE LA DÉMONSTRATION — une idée par chapitre
 
-Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
-cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
-« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
+Une idée par chapitre, dans l'ordre. Lues à la suite, elles donnent le raisonnement complet
+de la vidéo.
+
+L'idée = ce que le spectateur doit avoir compris à la fin du chapitre.
+En clair = la même chose expliquée en détail, pour toi.
+À l'écran = ce qu'on montre pendant.
 
 Ch.1 · Ouverture
-La big idea : la mise en concurrence sur les honoraires n'est pas une fatalité du marché,
-c'est une anomalie qui a des causes identifiables. Et on va les nommer une par une, parce
-qu'on ne corrige pas ce qu'on n'a pas nommé.
+
+L'idée : baisser ses honoraires ne fait pas signer plus de projets.
+
+En clair : ça fait signer les mêmes, moins cher. Celui qui allait dire non pour une autre
+raison — le délai, la confiance, le périmètre — dira non quand même. Et celui qui allait dire
+oui aurait dit oui au prix de départ. La remise ne déplace pas la décision, elle déplace la
+marge.
+
 À l'écran : « Ne baissez pas », plein écran.
 
+
 Ch.2 · D'où je parle
-La big idea : je ne suis pas là pour parler de la valeur de leur travail, je suis là pour
-parler du moment où le prix entre dans la conversation. Ce n'est pas la même question.
+
+L'idée : tu ne viens pas parler de la valeur de leur travail. Tu viens parler du moment où
+le prix entre dans la conversation.
+
+En clair : ce n'est pas la même question, et c'est ce qui te garde dans ton domaine. Tu ne
+donneras aucun conseil de négociation.
+
 À l'écran : rien, plan de face.
 
+
 Ch.3 · Ce que coûte une remise, sur une année
-La big idea : l'ordre de grandeur réel, par un calcul fait devant lui avec des chiffres
-ronds annoncés comme tels. Six projets à 250 000 euros de travaux, 12 % d'honoraires : une
-remise de 20 % retire 36 000 euros sur l'année, pour exactement le même travail.
+
+L'idée : le calcul, fait devant lui, avec des chiffres ronds annoncés comme tels.
+
+En clair : six projets dans l'année, 250 000 euros de travaux chacun, 12 % d'honoraires, ça
+fait 180 000 euros. Une remise de 20 % sur chaque affaire retire 36 000 euros sur l'année,
+pour exactement le même travail. Tu précises que 12 % est un ordre de grandeur observé sur
+le marché, pas un barème — les barèmes d'honoraires sont interdits.
+
 À l'écran : le calcul construit ligne par ligne, puis le total négatif seul.
 
+
 Ch.4 · Raison 1 — une mise en concurrence structurelle
-La big idea : ce n'est pas sa faute, et ça retire la culpabilité. Sur un projet, tous les
-postes sont compressés — le terrain, les matériaux, les entreprises, et la conception avec.
-Celui qui finance cherche à réduire partout : c'est son métier, ce n'est pas une agression.
+
+L'idée : la pression sur les honoraires n'est pas de leur fait.
+
+En clair : sur un projet, tous les postes sont compressés — le terrain, les matériaux, les
+entreprises, et la conception avec. Celui qui finance cherche à réduire partout : c'est son
+métier, ce n'est pas une agression. Donc ce n'est pas un manque de fermeté, c'est la place
+de ce poste dans un budget. Le dire enlève la culpabilité.
+
 À l'écran : un budget de projet, tous les postes marqués d'une flèche vers le bas.
 
+
 Ch.5 · Raison 2 — ce que la profession se fait à elle-même
-La big idea : l'idée qu'on se sous-cote entre confrères est un ressenti massif dans le
-métier, et il est présenté comme tel — personne ne publie cette donnée. Le présenter comme
-une mesure serait faux, le taire serait malhonnête.
+
+L'idée : l'idée qu'on se sous-cote entre confrères est très présente dans le métier — mais
+ce n'est pas une donnée.
+
+En clair : personne ne publie ça. C'est un ressenti massif, exprimé partout où les
+architectes parlent entre eux. Tu le présentes comme tel : « voilà ce que les architectes en
+disent eux-mêmes », jamais « voilà ce qui est mesuré ».
+
 À l'écran : la mention « ce que les architectes en disent, pas une donnée », affichée.
 
+
 Ch.6 · Raison 3 — celle que personne n'aime entendre
-La big idea : on leur a appris que leur temps ne valait rien. Les nuits blanches en studio,
-la charrette comme norme, le travail rendu gratuitement parce que c'est comme ça — pendant
-six ans. Ce n'est pas un trait de caractère, c'est un apprentissage, et un apprentissage se
-désapprend.
+
+L'idée : on leur a appris que leur temps ne valait rien.
+
+En clair : les nuits blanches en studio, la charrette comme norme, le travail rendu
+gratuitement parce que c'est comme ça — pendant six ans. Ce n'est pas un trait de caractère,
+c'est un apprentissage. Et un apprentissage, ça se désapprend. C'est le passage le plus
+inconfortable de la vidéo, et le plus vrai.
+
 À l'écran : « Six ans de charrettes », plein écran.
 
+
 Ch.7 · Pourquoi le prix arrive en premier
-La big idea : le mécanisme réel, et il bascule dans mon domaine. Ce n'est pas le client qui
-impose le prix comme premier sujet, c'est l'absence des trois autres qui le lui laisse comme
-seul sujet disponible — la zone, le type d'intervention, l'ordre de grandeur. S'il appelle
-sans les connaître, le prix est la seule information comparable dont il dispose.
-À l'écran : trois cases vides qui se remplissent, puis la quatrième, PRIX, qui s'éteint.
+
+L'idée : si le client parle du prix tout de suite, c'est qu'il n'a rien d'autre à comparer.
+
+En clair : quand quelqu'un appelle un cabinet, il ne sait généralement pas où ce cabinet
+travaille, sur quel type de projet, ni à partir de quel budget. Ces trois informations
+manquent. Il ne lui reste donc que le prix — non par avidité, mais parce que c'est la seule
+chose qu'il peut comparer d'un cabinet à l'autre. Si ces trois informations lui avaient été
+données avant qu'il décroche son téléphone, la conversation ne commencerait pas au même
+endroit. Et ça, ce n'est pas de la vente : c'est de l'acquisition.
+
+À l'écran : trois cases vides — OÙ · QUOI · À PARTIR DE COMBIEN — puis une quatrième, PRIX,
+qui s'allume toute seule parce que les trois premières sont vides.
+
 
 Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
-La big idea : la négociation se gagne avant le rendez-vous, et la façon dont la demande
-arrive décide de tout. Une demande de plateforme arrive avec trois cabinets en face : le
-client a été mis en situation de comparer, c'est même ce qu'on lui a vendu. Une demande
-venue d'une campagne qu'on pilote arrive après avoir lu la zone, le type de projet et
-l'enveloppe, et elle n'écrit qu'à un seul cabinet.
+
+L'idée : la façon dont la demande arrive décide de la négociation, avant même le
+rendez-vous.
+
+En clair : une demande venue d'une plateforme de mise en relation arrive avec trois autres
+cabinets en face — le client a été mis en situation de comparer, c'est même ce qu'on lui a
+vendu. Dans ce cadre, on ne peut gagner que sur le prix. Une demande venue d'une campagne
+qu'on pilote arrive après que la personne a lu la zone, le type de projet et l'ordre de
+grandeur, et elle n'écrit qu'à un seul cabinet. Même prestation, deux conversations
+opposées.
+
 À l'écran : deux colonnes opposées, puis la page essort.agency/ressources.
 
+
 Ch.9 · Sortie
-La big idea : il n'y a rien à changer dans sa façon de négocier — il y a quelque chose à
-changer dans ce que les gens savent avant d'appeler. La tension qu'on rouvre : c'est un
-travail de quelques heures, et presque personne ne l'a fait.
+
+L'idée : il n'y a rien à changer dans sa façon de négocier. Il y a quelque chose à changer
+dans ce que les gens savent avant d'appeler.
+
+En clair : c'est quelques heures de travail, et presque personne ne l'a fait. C'est la
+tension que tu laisses.
+
 À l'écran : la phrase seule, plein écran.
 
 Ordre de grandeur d'honoraires affiché :

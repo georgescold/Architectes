@@ -245,27 +245,34 @@ existe derrière** — et c'est ce qui fait cliquer sur la description trois vid
 
 ### LE FIL DE LA DÉMONSTRATION — la section qui porte l'épisode
 
-Chaque fiche contient, juste sous la big idea de l'épisode, la big idea de chaque chapitre,
-dans l'ordre. Lues à la suite, ces idées sont le cheminement complet de la vidéo : c'est le
-raisonnement, pas une liste d'accroches.
+Chaque fiche contient, juste sous la big idea de l'épisode, une idée par chapitre, dans
+l'ordre. Lues à la suite, elles donnent le raisonnement complet de la vidéo.
 
-Une entrée par chapitre, toujours la même forme :
+Toujours la même forme, trois lignes :
 
 ```
-Ch.4 · Le titre du chapitre
-La big idea : l'idée que ce chapitre installe, développée avec son contexte — pourquoi elle
-tient, et ce qu'elle rend possible pour le chapitre suivant.
+Ch.7 · Le titre du chapitre
+
+L'idée : ce que le spectateur doit avoir compris à la fin du chapitre. Une phrase, en
+langage courant.
+
+En clair : la même chose expliquée en détail, pour toi. Pourquoi c'est vrai, d'où ça
+vient, ce que ça prépare pour le chapitre suivant.
+
 À l'écran : la capture, le document ou le schéma qui la porte.
 ```
 
-Trois règles :
+Quatre règles :
 
-1. **Une idée par chapitre, et une seule.** Si un chapitre en porte deux, il faut le couper
-   en deux. Le test : retirer un chapitre du fil — si la suite tient quand même, il ne
-   servait à rien.
-2. **L'idée est écrite avec son contexte**, jamais comme une punchline hors sol. Elle doit
-   pouvoir se lire seule, six mois plus tard, et rester compréhensible.
-3. **Toute capture qui contient un chiffre porte la date du relevé à l'image**, et aucun
+1. **Une idée par chapitre, et une seule.** Si un chapitre en porte deux, on le coupe en
+   deux. Le test : retirer un chapitre du fil — si la suite tient quand même, il ne servait
+   à rien.
+2. **Aucun mot de jargon de production.** Pas de « la bascule de la vidéo », pas de « le
+   cœur factuel », pas de « l'ennemi de l'épisode ». Ces mots-là sont vides pour qui lit la
+   fiche six mois plus tard.
+3. **Rien ne se désigne sans se nommer.** Jamais « les trois autres » ou « ce mécanisme » :
+   on écrit lesquels, à chaque fois, même si c'est répété.
+4. **Toute capture qui contient un chiffre porte la date du relevé à l'image**, et aucun
    cabinet n'est identifiable — les reconstitutions sont fabriquées par toi.
 
 

@@ -29,64 +29,120 @@ la suivante mesurable. Lancer une campagne sans esquisse ne donne pas un mauvais
 ça donne un résultat illisible — on a dépensé sans rien apprendre.
 
 
-## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
+## LE FIL DE LA DÉMONSTRATION — une idée par chapitre
 
-Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
-cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
-« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
+Une idée par chapitre, dans l'ordre. Lues à la suite, elles donnent le raisonnement complet
+de la vidéo.
+
+L'idée = ce que le spectateur doit avoir compris à la fin du chapitre.
+En clair = la même chose expliquée en détail, pour toi.
+À l'écran = ce qu'on montre pendant.
 
 Ch.1 · Ouverture
-La big idea : le contraste entre la rigueur de son métier et l'improvisation de son
-acquisition. Il ne livrerait jamais un projet sans phases ; pour trouver ses clients, il
-démarre directement au chantier.
+
+L'idée : il ne livrerait jamais un projet sans phases. Pour trouver ses clients, il n'en a
+aucune.
+
+En clair : esquisse, avant-projet, permis, projet, chantier — chaque phase a un objet, un
+livrable et un ordre, et on ne décide jamais l'implantation pendant le gros œuvre. Pour son
+acquisition, il démarre directement au chantier : il publie, il refait son site, il essaie
+une campagne. Sans avoir décidé qui, où, pour quoi.
+
 À l'écran : les phases d'une mission alignées en frise, puis la même frise vide sous le mot
 ACQUISITION.
 
+
 Ch.2 · D'où je parle
-La big idea : cette méthode est celle que j'applique quand un cabinet me confie l'ouverture
-d'un territoire. Je la donne en entier, phases et livrables.
+
+L'idée : c'est la méthode que tu appliques quand un cabinet te confie l'ouverture d'un
+territoire.
+
+En clair : et tu la donnes en entier, avec les livrables. Ce qui s'achète n'a jamais été
+l'information.
+
 À l'écran : rien, plan de face.
 
+
 Ch.3 · Ce que coûte l'absence de plan
-La big idea : le coût réel d'un semestre sans acquisition organisée n'est pas « ça n'a pas
-marché », c'est qu'on ne peut rien en conclure. Une campagne sans cible définie qui ne
-produit rien ne dit pas si le canal est mauvais, si la zone l'est ou si le message l'est. On
-a dépensé sans rien apprendre.
+
+L'idée : le vrai coût d'une campagne improvisée, ce n'est pas qu'elle échoue. C'est qu'on ne
+peut rien en conclure.
+
+En clair : une campagne lancée sans cible définie qui ne produit rien ne dit pas si le canal
+est mauvais, si la zone est mauvaise ou si le message l'est. On a dépensé de l'argent pour
+n'apprendre strictement rien — et six mois plus tard on en est au même point, avec en plus
+la conviction que « la publicité ne marche pas pour les architectes ».
+
 À l'écran : « Vous n'avez pas eu un mauvais résultat. Vous n'avez rien appris. »
 
+
 Ch.4 · Phase 1 — l'esquisse
-La big idea : tout commence par une décision, pas par une action. Qui, où, pour quoi : un
-seul type de projet, une seule zone, un ordre de grandeur d'enveloppe. Livrable : trois
-lignes écrites. Pas un document — trois lignes.
+
+L'idée : tout commence par une décision, pas par une action.
+
+En clair : trois décisions, et rien d'autre. Quel type de projet on vise, sur quel
+territoire, et à partir de quel budget de travaux. Le livrable n'est pas un document de
+vingt pages : ce sont trois lignes écrites. C'est la phase la plus courte, la moins
+coûteuse, et celle que tout le monde saute.
+
 À l'écran : les trois lignes écrites en direct devant la caméra.
 
+
 Ch.5 · Phase 2 — être trouvable
-La big idea : on ne diffuse pas avant que l'arrivée soit prête. Fiche Google revendiquée,
-page qui dit les trois informations. Livrable : une fiche complète et une page réécrite.
+
+L'idée : on ne diffuse pas avant que l'arrivée soit prête.
+
+En clair : fiche Google revendiquée, page d'accueil qui dit où, quoi, et à partir de quel
+budget. Livrable : une fiche complète et une page réécrite. Envoyer des visiteurs payants
+vers une page muette, c'est payer pour les voir repartir.
+
 À l'écran : PHASE 2 · PERMIS, avec son livrable.
 
+
 Ch.6 · Phase 3 — aller les chercher
-La big idea : c'est la seule phase qui coûte de l'argent, et la seule qui produise vite.
-Diffusion sur la zone choisie, sur le profil choisi. Livrable : des demandes entrantes
-mesurées — pas « de la visibilité ».
+
+L'idée : c'est la seule phase qui coûte de l'argent, et la seule qui produise vite.
+
+En clair : diffusion sur la zone choisie, sur le profil choisi. Et le livrable n'est pas « de
+la visibilité » : ce sont des demandes entrantes comptées. Si on ne peut pas les compter, la
+phase n'est pas faite.
+
 À l'écran : PHASE 3 · CHANTIER, avec son livrable.
 
+
 Ch.7 · Phase 4 — celle que tout le monde saute
-La big idea : la déperdition se joue après l'arrivée de la demande. Rappel rapide, trame de
-premier appel, relances. Livrable : un taux de transformation connu. C'est la phase qui fait
-conclure à tort que « la campagne ne marche pas ».
+
+L'idée : ce qui se perd se perd après l'arrivée de la demande, pas avant.
+
+En clair : rappel rapide, trame de premier appel, relances. Livrable : un taux de
+transformation connu. C'est la phase manquante qui fait conclure à tort que « la campagne ne
+marche pas » — alors que les demandes arrivaient et que personne ne les rappelait dans la
+journée.
+
 À l'écran : PHASE 4, avec son livrable.
 
+
 Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
-La big idea : la phase 3 est le seul moment où la publicité intervient, et l'ordre n'est pas
-négociable parce que chaque phase rend la suivante mesurable. Inverser deux phases ne rend
-pas le résultat moins bon, ça le rend illisible — et un résultat illisible ne permet aucune
-décision suivante.
+
+L'idée : l'ordre des phases n'est pas négociable, parce que chaque phase rend la suivante
+mesurable.
+
+En clair : sans esquisse, on ne sait pas quoi diffuser ni où. Sans la phase 2, on paie des
+clics vers une page muette. Sans la phase 4, les demandes arrivent et se perdent. Inverser
+deux phases ne rend pas le résultat moins bon : ça le rend illisible. Et un résultat
+illisible ne permet aucune décision suivante. La publicité n'intervient qu'en phase 3 — et
+c'est le seul moyen d'ouvrir un territoire où l'on ne connaît personne.
+
 À l'écran : les quatre phases reliées par des flèches, puis la page essort.agency/ressources.
 
+
 Ch.9 · Sortie
-La big idea : l'esquisse tient en trois lignes et se fait ce soir. La tension qu'on rouvre :
-c'est la phase la plus courte et celle que tout le monde saute.
+
+L'idée : l'esquisse tient en trois lignes et se fait ce soir.
+
+En clair : c'est la phase la plus courte, la moins coûteuse, et celle que tout le monde
+saute. C'est la tension que tu laisses.
+
 À l'écran : trois lignes vides, curseur qui clignote.
 
 

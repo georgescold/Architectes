@@ -30,60 +30,111 @@ quatre. Ce n'est pas un jugement de valeur : la recommandation reste la meilleur
 signature. C'est la seule qui donne un interrupteur.
 
 
-## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
+## LE FIL DE LA DÉMONSTRATION — une idée par chapitre
 
-Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
-cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
-« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
+Une idée par chapitre, dans l'ordre. Lues à la suite, elles donnent le raisonnement complet
+de la vidéo.
+
+L'idée = ce que le spectateur doit avoir compris à la fin du chapitre.
+En clair = la même chose expliquée en détail, pour toi.
+À l'écran = ce qu'on montre pendant.
 
 Ch.1 · Ouverture
-La big idea : il dépend d'un seul appui, et c'est le moins contrôlable des quatre. Un cabinet
-à appui unique tient parfaitement — jusqu'au jour où l'appui bouge, et à ce moment-là il est
-trop tard pour en construire un autre.
+
+L'idée : son cabinet tient sur un seul appui, et c'est celui sur lequel il a le moins de
+contrôle.
+
+En clair : la recommandation. Tant qu'elle fonctionne, tout va bien. Le jour où elle
+ralentit, il n'a rien d'autre — et construire un autre canal demande des semaines ou des
+mois qu'il n'a plus.
+
 À l'écran : quatre colonnes dessinées, trois vides, une seule remplie.
 
+
 Ch.2 · D'où je parle
-La big idea : je vois des cabinets arriver au moment où l'appui vient de céder, et c'est
-toujours le pire moment pour s'y prendre. C'est pour ça que je fais cette vidéo maintenant.
+
+L'idée : tu vois arriver des cabinets au moment exact où l'appui vient de céder.
+
+En clair : et c'est toujours le pire moment pour s'y prendre. C'est pour ça que tu fais cette
+vidéo à destination de gens chez qui ça va encore bien.
+
 À l'écran : rien, plan de face.
 
+
 Ch.3 · L'exercice à faire pendant la vidéo
-La big idea : son appui unique a un âge. On liste ses clients des trois dernières années et,
-pour chacun, qui a donné son nom — puis quel âge a cette personne. La plupart découvrent
-trois ou quatre noms qui reviennent : ce n'est pas un réseau, c'est une dépendance à
-quelques personnes.
+
+L'idée : son appui unique a un âge, et il ne l'a jamais regardé.
+
+En clair : on liste ses clients des trois dernières années, et pour chacun, qui a donné son
+nom. Puis quel âge a cette personne. La plupart découvrent trois ou quatre noms qui
+reviennent, souvent proches de la fin de leur activité. Ce n'est pas un réseau, c'est une
+dépendance à quelques personnes. Tu ne donnes aucun pourcentage : personne ne publie cette
+donnée, et le chiffre que chacun trouve chez lui est bien plus fort.
+
 À l'écran : un tableau vide à remplir avec le spectateur, trois colonnes.
 
+
 Ch.4 · Pourquoi ce n'était pas une erreur
-La big idea : le monocanal a été rationnel, et le dire retire la culpabilité. Un appui
-unique ne se manifeste jamais comme un risque tant qu'il tient : il se manifeste comme une
-normalité, et l'acquisition ressemble à une dépense pour un problème qu'on n'a pas.
+
+L'idée : n'avoir qu'un seul canal a été un choix rationnel.
+
+En clair : un appui unique ne se manifeste jamais comme un risque tant qu'il tient. Il se
+manifeste comme une normalité : les projets arrivent, on n'a jamais eu besoin d'autre chose,
+et l'acquisition ressemble à une dépense pour un problème qu'on n'a pas.
+
 À l'écran : la phrase seule.
 
+
 Ch.5 · Les quatre piliers
-La big idea : le modèle complet, avec les caractéristiques honnêtes de chacun. Et la vraie
-ligne de partage n'est pas le coût, c'est le délai entre la décision et l'effet —
-recommandation plusieurs mois, trouvabilité quelques semaines, contenu plusieurs mois de
-régularité, publicité quelques jours.
+
+L'idée : il existe quatre façons d'avoir des projets, et elles se distinguent surtout par
+leur délai.
+
+En clair : la recommandation — la plus rentable en taux de signature, la moins pilotable, et
+elle ne franchit pas une frontière départementale. La trouvabilité locale — fiche Google,
+recherche « architecte + ville » : gratuite, effet en quelques semaines, mais plafonnée par
+le nombre de gens qui cherchent sur le territoire. Le contenu — lent, cumulatif, gratuit en
+argent et cher en temps. La publicité — la seule qui s'ouvre et se ferme sur décision, la
+seule qui se mesure, la seule qui coûte dès le premier jour. La vraie ligne de partage n'est
+pas le coût, c'est le temps entre la décision et l'effet : plusieurs mois, quelques semaines,
+plusieurs mois, quelques jours.
+
 À l'écran : le tableau des quatre piliers, puis la colonne DÉLAI seule.
 
+
 Ch.6 · La rente confondue avec la stratégie
-La big idea : l'ennemi de l'épisode est une confusion. Un appui qu'on ne peut pas ouvrir sur
-décision n'est pas un canal d'acquisition, c'est une chance récurrente. Elle peut durer dix
-ans et s'arrêter en un trimestre, sans prévenir et sans qu'on sache pourquoi.
+
+L'idée : un canal qu'on ne peut pas ouvrir quand on veut n'est pas une stratégie.
+
+En clair : c'est une chance qui se répète. Elle peut durer dix ans et s'arrêter en un
+trimestre, sans prévenir et sans qu'on sache pourquoi. Le problème que vit un cabinet n'est
+presque jamais « je n'ai pas de clients », c'est « je ne peux pas décider d'en avoir ».
+
 À l'écran : « Ce n'est pas une stratégie. C'est une rente. »
 
+
 Ch.7 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
-La big idea : dans quel ordre monter les piliers quand on part de un, et pourquoi la
-publicité arrive en deuxième et pas en premier. La trouvabilité passe devant parce qu'elle
-est gratuite, pas parce qu'elle est plus efficace — payer pour envoyer des gens vers une
-fiche vide n'a aucun sens. Et la recommandation reste la meilleure en taux de signature :
-ce qui lui manque, c'est un interrupteur.
+
+L'idée : dans quel ordre monter les piliers quand on part de un — et pourquoi la publicité
+arrive en deuxième, pas en premier.
+
+En clair : la trouvabilité locale passe devant parce qu'elle est gratuite, pas parce qu'elle
+est plus efficace : payer pour envoyer des gens vers une fiche Google vide n'a aucun sens.
+La publicité vient ensuite, parce qu'elle produit vite et qu'elle se mesure. Le contenu en
+dernier, parce qu'il demande une régularité que personne ne tient les premiers mois. Et tu
+redis que la recommandation reste la meilleure en taux de signature : ce qui lui manque,
+c'est un interrupteur.
+
 À l'écran : l'ordre de montage, puis la page essort.agency/ressources.
 
+
 Ch.8 · Sortie
-La big idea : l'exercice des trois dernières années se fait ce soir, en une heure. La
-tension qu'on rouvre : le chiffre qui en sort est rarement celui qu'on imaginait.
+
+L'idée : l'exercice des trois dernières années se fait ce soir, en une heure.
+
+En clair : et le chiffre qui en sort est rarement celui qu'on imaginait. C'est la tension que
+tu laisses.
+
 À l'écran : le tableau vide, trois colonnes.
 
 

@@ -32,73 +32,126 @@ facture, mais il n'envoie pas de statistiques non plus — donc on ne peut prend
 décision dessus.
 
 
-## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
+## LE FIL DE LA DÉMONSTRATION — une idée par chapitre
 
-Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
-cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
-« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
+Une idée par chapitre, dans l'ordre. Lues à la suite, elles donnent le raisonnement complet
+de la vidéo.
+
+L'idée = ce que le spectateur doit avoir compris à la fin du chapitre.
+En clair = la même chose expliquée en détail, pour toi.
+À l'écran = ce qu'on montre pendant.
 
 Ch.1 · Ouverture
-La big idea : l'ordre de grandeur d'un seul projet, qui change toute la perspective. Une
-rénovation à 250 000 euros de travaux avec des honoraires à 12 %, c'est 30 000 euros pour le
-cabinet. Chiffres ronds, annoncés comme tels, et 12 % présenté comme un ordre de grandeur de
-marché et non comme un barème.
-À l'écran : le calcul, trois lignes, puis « un seul projet ».
+
+L'idée : un seul projet, et l'ordre de grandeur change toute la perspective.
+
+En clair : une rénovation à 250 000 euros de travaux, avec des honoraires à 12 %, ça fait
+30 000 euros pour le cabinet. Tu annonces que ce sont des chiffres ronds choisis pour
+l'exemple et que 12 % est un ordre de grandeur de marché, pas un barème. Puis tu demandes de
+garder ce chiffre en tête pour toute la vidéo.
+
+À l'écran : le calcul en trois lignes, puis « un seul projet ».
+
 
 Ch.2 · D'où je parle
-La big idea : je paie des demandes toutes les semaines, donc je sais ce qu'elles coûtent. On
-va construire un tableau ensemble, et à la fin il aura son chiffre, pas le mien.
+
+L'idée : tu paies des demandes toutes les semaines, donc tu sais ce qu'elles coûtent.
+
+En clair : et tu annonces la promesse de l'épisode — on construit un tableau ensemble, et à
+la fin il aura son chiffre, pas le tien.
+
 À l'écran : un tableur vide.
 
+
 Ch.3 · Pourquoi personne ne connaît ce chiffre
-La big idea : l'absence de ce réflexe vient de la formation, pas de la négligence. Dans leur
-métier, un projet a un coût de construction, pas un coût de conquête — le mot n'existe pas.
-C'est pour ça que la question « combien vous coûte un client » met tout le monde mal à
-l'aise.
+
+L'idée : ce n'est pas de la négligence, c'est une absence de vocabulaire.
+
+En clair : dans leur formation, un projet a un coût de construction, parfois un coût
+d'exploitation. Il n'a jamais de coût d'acquisition — la notion n'est enseignée nulle part et
+le mot n'appartient pas au métier. C'est pour ça que la question « combien vous coûte un
+client » met mal à l'aise : personne ne leur a appris qu'on pouvait se la poser.
+
 À l'écran : « coût de construction » d'un côté, « coût d'acquisition » de l'autre, le second
 barré.
 
+
 Ch.4 · La mauvaise unité
-La big idea : raisonner en dépense mensuelle mène à une décision fausse. L'erreur n'est pas
-dans le calcul, elle est dans l'unité — personne ne dit « mon assurance décennale coûte tant
-par an, c'est cher ». La bonne unité est le pourcentage des honoraires d'un projet que
+
+L'idée : raisonner en euros par mois mène à une décision fausse.
+
+En clair : le réflexe est « mille euros par mois, ça fait douze mille par an, c'est cher ».
+L'erreur n'est pas dans le calcul, elle est dans l'unité. Aucun autre poste de l'agence n'est
+jugé comme ça — on ne compare pas une assurance obligatoire à un chiffre annuel, on regarde
+ce qu'elle permet de faire. La bonne unité ici, c'est la part des honoraires d'un projet que
 l'acquisition consomme.
+
 À l'écran : € PAR MOIS barré, remplacé par % DES HONORAIRES.
 
+
 Ch.5 · Le tableur, en direct
-La big idea : les six cases, remplies devant lui. Honoraires moyens · taux demande vers
-rendez-vous · taux rendez-vous vers signature · coût d'une demande, puis les deux cases
-calculées. La case 5 est la seule opération de la vidéo, et elle explique pourquoi les taux
-comptent davantage que le prix du contact : ils se multiplient entre eux.
+
+L'idée : six cases, remplies devant lui, avec ses chiffres.
+
+En clair : honoraires moyens par projet signé · sur dix demandes, combien deviennent un
+rendez-vous · sur dix rendez-vous, combien deviennent une signature · combien coûte une
+demande. Puis deux cases calculées : le coût par signature, et ce coût rapporté aux
+honoraires. Le calcul de la case 5 — coût d'une demande divisé par le produit des deux taux —
+est la seule opération de la vidéo, et il explique pourquoi les taux comptent plus que le
+prix du contact : ils se multiplient entre eux.
+
 À l'écran : le tableur construit case par case, formule visible.
 
+
 Ch.6 · La case que personne ne sait remplir
-La big idea : la case 4 est le vrai angle mort, y compris pour la prospection gratuite. Une
-demi-journée de relances n'est pas gratuite : c'est une demi-journée qu'on n'a pas passée à
-produire. Valorisée au taux horaire et divisée par le nombre de demandes réellement
-produites, beaucoup découvrent que leur canal « gratuit » est le plus cher de tous.
+
+L'idée : la case du coût d'une demande coince aussi pour la prospection, pas seulement pour
+la publicité.
+
+En clair : une demi-journée passée à relancer d'anciens contacts n'est pas gratuite. C'est
+une demi-journée qu'on n'a pas passée à produire. Valorisée au taux horaire et divisée par le
+nombre de demandes réellement obtenues — souvent très faible — beaucoup découvrent que leur
+canal « gratuit » est le plus cher de tous.
+
 À l'écran : la case 4, seule, en gros.
 
+
 Ch.7 · Le seul chiffre à suivre
-La big idea : la lecture du résultat, présentée comme une lecture de praticien et non comme
-une norme du secteur — personne n'a publié de référentiel là-dessus. Et quand il y a un
-problème, il est presque toujours dans les taux et non dans le coût : les taux se corrigent
-sans dépenser un euro de plus.
+
+L'idée : quand le résultat est mauvais, le problème est presque toujours dans les taux, pas
+dans le coût du contact.
+
+En clair : parce que les deux taux se multiplient entre eux. Doubler le nombre de
+rendez-vous obtenus pour dix demandes suffit à diviser le coût d'une signature par deux, sans
+dépenser un euro de plus. Négocier le prix d'un contact, au mieux, le fait baisser de
+quelques pourcents. Tu présentes tes seuils de lecture comme les tiens, pas comme une norme
+du secteur : personne n'a publié de référentiel là-dessus.
+
 À l'écran : la case 6, avec les seuils annoncés comme personnels.
 
+
 Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
-La big idea : l'argument n'est pas que la publicité serait moins chère, c'est qu'elle est le
-seul canal dont on connaisse le prix. Le bouche-à-oreille n'envoie pas de facture, mais il
-n'envoie pas de statistiques non plus : on ignore combien il amène et pourquoi il baisse. Un
-canal qu'on ne mesure pas est un canal sur lequel on ne peut prendre aucune décision — et
-parfois la comparaison est défavorable à la publicité, auquel cas on le sait en trois
-semaines.
+
+L'idée : l'argument n'est pas que la publicité est moins chère. C'est qu'elle est le seul
+canal dont on connaisse le prix.
+
+En clair : le bouche-à-oreille n'envoie pas de facture, mais il n'envoie pas de chiffres
+non plus. Impossible de savoir ce qu'il rapporte, ni pourquoi il ralentit, ni comment le
+relancer — donc impossible de décider quoi que ce soit à son sujet. La publicité, elle, se
+mesure de bout en bout. Et parfois la comparaison lui est défavorable : on le sait en trois
+semaines et on arrête. C'est ça, son vrai avantage — elle donne un bouton.
+
 À l'écran : la page essort.agency/ressources.
 
+
 Ch.9 · Sortie
-La big idea : les cases 1 à 3 se remplissent ce soir avec deux ans d'historique, en une
-heure de travail. La tension qu'on rouvre : il va apprendre des choses sur son activité
-qu'il ne sait pas aujourd'hui.
+
+L'idée : les trois premières cases se remplissent ce soir, avec deux ans d'historique et une
+heure de travail.
+
+En clair : et il va apprendre des choses sur son activité qu'il ne sait pas aujourd'hui.
+C'est la tension que tu laisses.
+
 À l'écran : le tableur, cases 1 à 3 surlignées.
 
 Ordre de grandeur d'honoraires affiché :

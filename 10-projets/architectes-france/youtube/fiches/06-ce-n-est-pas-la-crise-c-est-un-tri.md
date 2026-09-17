@@ -30,64 +30,121 @@ La publicité en ligne est le seul qui s'ouvre sur décision et produise en quel
 C'est ce qui en fait, dans un tri, la seule réponse disponible à court terme.
 
 
-## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
+## LE FIL DE LA DÉMONSTRATION — une idée par chapitre
 
-Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
-cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
-« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
+Une idée par chapitre, dans l'ordre. Lues à la suite, elles donnent le raisonnement complet
+de la vidéo.
+
+L'idée = ce que le spectateur doit avoir compris à la fin du chapitre.
+En clair = la même chose expliquée en détail, pour toi.
+À l'écran = ce qu'on montre pendant.
 
 Ch.1 · Ouverture
-La big idea : le mot que toute la profession emploie est faux, et ce n'est pas une querelle
-de vocabulaire. Dans une crise, attendre est raisonnable. Dans un tri, attendre est une
-position — celle de ceux qui tombent.
+
+L'idée : le mot que tout le monde emploie est faux, et ça change ce qu'il faut faire.
+
+En clair : une crise, ça touche tout le monde pareil, et la bonne réaction est d'attendre
+que ça passe. Un tri, ça sépare ceux qui montent de ceux qui tombent, et attendre devient
+une manière de choisir son camp. Ce n'est pas une querelle de vocabulaire : c'est deux
+conduites opposées.
+
 À l'écran : « Ce n'est pas la crise. C'est un tri. », plein écran.
 
+
 Ch.2 · D'où je parle
-La big idea : je regarde ce marché depuis l'extérieur, par les chiffres de demandes
-entrantes. C'est une vue que personne n'a de l'intérieur d'un cabinet.
+
+L'idée : tu vois ce marché de l'extérieur, par les chiffres de demandes entrantes.
+
+En clair : un cabinet ne voit que son propre carnet. Toi tu vois combien de gens cherchent
+un architecte, dans quels départements, et à quelle vitesse ça bouge. C'est une vue que
+personne n'a depuis l'intérieur d'une agence.
+
 À l'écran : rien, plan de face.
 
+
 Ch.3 · Ce qui est documenté, et ce qui ne l'est pas
-La big idea : je sépare ce qui est prouvé de ce qui circule. Le triplement des liquidations
-existe, mais c'est un chiffre girondin relayé par France 3 — le présenter comme national
-serait faux, et je le dis moi-même avant qu'on me le reproche.
+
+L'idée : tu sépares toi-même ce qui est prouvé de ce qui circule dans la profession.
+
+En clair : on entend beaucoup que les liquidations d'agences ont triplé. Le chiffre existe,
+mais il vient d'un article de France 3 portant sur la Gironde. Le présenter comme national
+serait faux. Tu le dis toi-même, avant que quelqu'un le trouve — et ça rend crédible tout ce
+que tu affirmes ensuite.
+
 À l'écran : l'article de France 3, avec la mention GIRONDE ajoutée en gros par-dessus.
 
+
 Ch.4 · Les trois causes, dans l'ordre
-La big idea : ce n'est pas une fatalité, c'est un enchaînement identifiable — les taux, le
-coût de construction, la concurrence sur la maîtrise d'œuvre. Et surtout le décalage : un
-carnet plein aujourd'hui est le reflet de signatures d'il y a un an et demi.
+
+L'idée : ce n'est pas une fatalité, c'est un enchaînement qu'on peut nommer.
+
+En clair : les taux d'intérêt qui montent et qui bloquent les projets des particuliers, le
+coût de construction qui rend des chantiers infaisables, et la concurrence d'acteurs qui
+vendent la maîtrise d'œuvre au client final. Et une quatrième chose, qui n'est pas une cause
+mais un piège : le décalage. Un carnet plein aujourd'hui vient de signatures d'il y a un an
+et demi.
+
 À l'écran : les trois causes en liste, puis la frise du décalage.
 
+
 Ch.5 · Pourquoi ce n'est pas une crise
-La big idea : la démonstration par les quartiles, qui est le cœur factuel de l'épisode. Le
-quart du bas perd 10 % en deux ans pendant que le quart du haut monte, et l'écart entre les
-deux passe de 4,2 à 4,5. Une conjoncture ne fait jamais ça.
+
+L'idée : les deux extrémités de la profession vont dans des directions opposées. Une crise
+ne fait jamais ça.
+
+En clair : le quart le moins payé a perdu 10 % de revenu en deux ans pendant que le quart le
+mieux payé progressait. L'écart entre les deux est passé de 4,2 à 4,5 — autrement dit, le
+mieux payé gagne maintenant 4,5 fois ce que gagne le moins payé, contre 4,2 avant. C'est la
+démonstration factuelle de l'épisode.
+
 À l'écran : le graphique des quartiles, deux flèches opposées, « 4,2 → 4,5 ».
 
+
 Ch.6 · Ce que fait le groupe qui monte
-La big idea : la variable n'est ni le talent ni la taille du cabinet, c'est le nombre de
-sources de projets. Ceux qui traversent en ont plusieurs ; ceux qui tombent en avaient une
-seule, et elle s'est fermée.
+
+L'idée : ce qui sépare les deux groupes, c'est le nombre d'endroits d'où viennent leurs
+projets.
+
+En clair : ni le talent ni la taille de l'agence. Ceux qui traversent ont plusieurs sources
+de projets. Ceux qui tombent en avaient une seule — un prescripteur, une zone, un type de
+client — et elle s'est fermée.
+
 À l'écran : deux schémas opposés, une flèche entrante contre quatre.
 
+
 Ch.7 · L'objection de la trésorerie
-La big idea : « je n'ai pas l'argent pour investir maintenant » est l'objection la plus
-légitime de l'épisode, et on y répond honnêtement — le premier levier à monter est gratuit,
-c'est la trouvabilité locale. On ne fait pas semblant que tout coûte zéro.
+
+L'idée : « je n'ai pas l'argent pour investir en ce moment » est une objection légitime, et
+tu y réponds honnêtement.
+
+En clair : tu ne fais pas semblant que tout est gratuit. Le premier levier à monter ne coûte
+rien : revendiquer sa fiche Google et écrire ce qu'on fait et où. C'est en traitant
+l'objection au lieu de la contourner que tu gardes l'audience jusqu'au bout.
+
 À l'écran : le premier levier, gratuit, écrit en une ligne.
 
+
 Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
-La big idea : la publicité en ligne est la seule source de demandes qu'on ouvre
-volontairement, et le moment est contre-intuitif — quand un marché se tend, les annonceurs
-coupent leurs budgets, donc les enchères baissent. C'est mécaniquement le moment où une
-demande coûte le moins cher.
+
+L'idée : la publicité en ligne est la seule source de projets qu'on ouvre quand on le
+décide. Et le moment est meilleur qu'il n'y paraît.
+
+En clair : quand un marché se tend, les annonceurs coupent leurs budgets. Comme la publicité
+se vend aux enchères, moins d'annonceurs veut dire des enchères plus basses. Donc le moment
+où tout le monde arrête est mécaniquement celui où une demande coûte le moins cher. C'est
+contre-intuitif, et c'est vrai.
+
 À l'écran : la page essort.agency/ressources.
 
+
 Ch.9 · Sortie
-La big idea : dans un tri, la question n'est pas de savoir combien de temps ça va durer,
-mais de quel côté on veut être quand ça s'arrête. La tension qu'on rouvre : le tri est déjà
-en cours, il ne commence pas demain.
+
+L'idée : la question n'est pas combien de temps ça va durer. C'est de quel côté du tri on
+veut être quand ça s'arrête.
+
+En clair : tu refermes sur la distinction du début. Et tu laisses la tension : le tri est
+déjà en cours, il ne commence pas l'an prochain.
+
 À l'écran : le graphique des quartiles, une dernière fois, trois secondes.
 
 Sources affichées :

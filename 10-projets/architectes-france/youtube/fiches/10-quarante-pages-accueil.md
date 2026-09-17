@@ -33,65 +33,121 @@ quatre choses, un même budget publicitaire produit deux fois plus de demandes, 
 demandes qu'on peut réellement traiter.
 
 
-## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
+## LE FIL DE LA DÉMONSTRATION — une idée par chapitre
 
-Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
-cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
-« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
+Une idée par chapitre, dans l'ordre. Lues à la suite, elles donnent le raisonnement complet
+de la vidéo.
+
+L'idée = ce que le spectateur doit avoir compris à la fin du chapitre.
+En clair = la même chose expliquée en détail, pour toi.
+À l'écran = ce qu'on montre pendant.
 
 Ch.1 · Ouverture
-La big idea : un relevé réel a été fait sur quarante pages d'accueil de cabinets, avec une
-grille identique pour toutes. Ce n'est pas une impression de consultant, c'est un tableur.
+
+L'idée : tu as fait un vrai relevé sur quarante pages d'accueil de cabinets, avec la même
+grille pour toutes.
+
+En clair : ce n'est pas une impression de consultant, c'est un tableur. Tu le montres
+d'entrée, noms masqués. C'est ce qui fait la différence entre un avis et une mesure.
+
 À l'écran : le tableur, noms masqués, six colonnes lisibles.
 
+
 Ch.2 · D'où je parle, et la méthode
-La big idea : la méthode est reproductible — annuaire public de l'Ordre, dix départements,
-six colonnes, une demi-journée. N'importe qui peut la refaire et vérifier.
+
+L'idée : la méthode est reproductible, et tu la donnes en entier.
+
+En clair : l'annuaire public de l'Ordre, dix départements au moins, six colonnes à remplir,
+une demi-journée. N'importe qui peut la refaire et vérifier tes chiffres. C'est ce qui
+t'interdit d'exagérer, et c'est exactement pour ça que tu l'annonces.
+
 À l'écran : l'annuaire de l'Ordre, puis la grille de relevé.
 
+
 Ch.3 · Ce qu'un maître d'ouvrage fait vraiment avant d'appeler
-La big idea : le temps de recherche silencieuse, qui change tout. Quelqu'un qui envisage des
-travaux cherche plusieurs semaines sans parler à personne, compare trois ou quatre noms, et
-n'écrit qu'à un seul. Les deux autres ne sauront jamais qu'il a existé.
+
+L'idée : il cherche pendant des semaines sans parler à personne, puis il écrit à un seul
+cabinet.
+
+En clair : c'est le mécanisme que personne ne voit, parce qu'un cabinet ne voit que les gens
+qui l'ont contacté. Celui qui a comparé trois noms et en a choisi un autre n'existe pas dans
+ses statistiques. Le cabinet constate juste que le téléphone ne sonne pas, et met ça sur le
+compte du marché.
+
 À l'écran : une frise : plusieurs semaines de silence, puis un seul message.
 
+
 Ch.4 · Les quatre personnes qui frappent à la porte
-La big idea : « le client » n'existe pas. Il y a celui qui agrandit, celui qui rénove de
-l'ancien, celui qui construit et le professionnel qui aménage un local. Aucun des quatre ne
-cherche « un architecte » — chacun cherche quelqu'un qui a déjà fait exactement ce qu'il
-veut faire.
+
+L'idée : « le client » n'existe pas. Il y a quatre profils, et chacun cherche un exemple qui
+lui ressemble.
+
+En clair : celui qui agrandit sa maison, celui qui vient d'acheter de l'ancien et doit tout
+refaire, celui qui a un terrain et veut construire, et le professionnel qui aménage un
+local. Aucun des quatre ne cherche « un architecte » — chacun cherche quelqu'un qui a déjà
+fait exactement ce qu'il veut faire. Un seul exemple comparable vaut mieux que trente
+projets magnifiques mais différents.
+
 À l'écran : les quatre profils en liste.
 
+
 Ch.5 · Ce que le relevé montre
-La big idea : le constat chiffré, une fois le relevé fait, colonne par colonne. Ce sont les
-chiffres qui sortent qui sont annoncés, quels qu'ils soient.
+
+L'idée : les chiffres que tu annonces sont ceux qui sortent du relevé, quels qu'ils soient.
+
+En clair : si le résultat contredit ce que tu pensais trouver, tu changes de conclusion, pas
+de chiffres. Tu passes les six colonnes une par une.
+
 À l'écran : les totaux du relevé, chiffres à l'image.
 
+
 Ch.6 · Pourquoi ces pages sont faites comme ça
-La big idea : ce n'est pas de la négligence, c'est un héritage de formation. On apprend à
-présenter un projet devant un jury — des gens qui connaissent le vocabulaire et savent lire
-un plan. Écrire pour quelqu'un qui n'a jamais commandé de plans est l'exercice inverse, et
-il n'est enseigné nulle part.
+
+L'idée : ce n'est pas de la négligence. C'est un héritage d'école.
+
+En clair : on apprend à présenter un projet devant un jury, c'est-à-dire devant des gens qui
+connaissent le vocabulaire et savent lire un plan. Écrire pour quelqu'un qui n'a jamais
+commandé de plans de sa vie est l'exercice exactement inverse, et il n'est enseigné nulle
+part. D'où des sites conçus comme des books : grandes images, peu de texte, navigation
+« projets / agence / contact ».
+
 À l'écran : un jury d'école d'un côté, un couple devant un écran de l'autre.
 
+
 Ch.7 · Les quatre informations qui changent tout
-La big idea : ce qu'il faut mettre au-dessus de la ligne de flottaison, c'est-à-dire avant
-tout défilement. Rien d'esthétique là-dedans : on ne parle ni de design, ni de police, ni de
-photographie, mais d'information présente ou absente — et c'est ce qui rend le chapitre
-indiscutable.
+
+L'idée : quatre choses doivent être visibles sans faire défiler la page.
+
+En clair : la zone où le cabinet travaille, le type de projet qu'il fait, un ordre de
+grandeur de budget de travaux, et une personne joignable — un nom, un visage, un numéro. Et
+tu précises que tu ne parles ni de design, ni de police, ni de photographie : uniquement
+d'information présente ou absente.
+
 À l'écran : une page reconstituée, les quatre éléments qui apparaissent un par un.
 
+
 Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
-La big idea : la page décide du prix de chaque demande. Sans ces quatre informations, chaque
-visiteur payé repart, et les demandes qui passent quand même sont des projets à 15 000 euros
-qu'on ne prendra jamais — on paie pour qualifier à la main ce que trois lignes auraient
-filtré. Une bonne page divise le coût par demande par deux sans changer un euro de budget.
+
+L'idée : la page d'accueil fixe le prix de chaque demande entrante.
+
+En clair : quand tu diffuses une campagne, tu paies chaque visiteur. S'il arrive sur une
+page qui ne dit ni où, ni quoi, ni pour quel budget, il repart : le clic est payé, la demande
+n'existe pas. Et sans ordre de grandeur annoncé, tu reçois des demandes pour des travaux à
+15 000 euros que le cabinet ne prendra jamais — tu paies pour trier à la main ce que trois
+lignes auraient filtré. Une bonne page peut diviser par deux le coût d'une demande sans
+changer un euro de budget.
+
 À l'écran : la page essort.agency/ressources.
 
+
 Ch.9 · Sortie
-La big idea : le test à faire ce soir — prendre sa première phrase et y remplacer le nom de
-son agence par celui d'un confrère. Si elle reste vraie, elle ne dit rien. La tension qu'on
-rouvre : ce test est brutal, et presque personne ne le passe.
+
+L'idée : un test à faire ce soir — remplacer le nom de son agence par celui d'un confrère
+dans sa première phrase.
+
+En clair : si elle reste vraie, elle ne dit rien. Ce test est brutal, et presque aucune page
+ne le passe. C'est la tension que tu laisses.
+
 À l'écran : le test, plein écran.
 
 

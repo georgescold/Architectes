@@ -31,68 +31,124 @@ sauf la publicité en ligne, qui produit en quelques jours. C'est ce qui en fait
 qu'on met en place avant d'en avoir besoin.
 
 
-## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
+## LE FIL DE LA DÉMONSTRATION — une idée par chapitre
 
-Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
-cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
-« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
+Une idée par chapitre, dans l'ordre. Lues à la suite, elles donnent le raisonnement complet
+de la vidéo.
+
+L'idée = ce que le spectateur doit avoir compris à la fin du chapitre.
+En clair = la même chose expliquée en détail, pour toi.
+À l'écran = ce qu'on montre pendant.
 
 Ch.1 · Ouverture
-La big idea : son canal principal a un âge, et on le lui fait découvrir par une question
-plutôt que par une affirmation. Ses cinq derniers clients lui ont été envoyés par quelqu'un —
-quel âge a cette personne ?
+
+L'idée : tu ne lui annonces rien, tu lui poses une question — et il trouve la réponse tout
+seul.
+
+En clair : ses cinq derniers clients lui ont été envoyés par quelqu'un. Quel âge a cette
+personne ? Une affirmation aurait déclenché la défense. Une question le met au travail dès
+la première minute.
+
 À l'écran : la question seule, plein écran.
 
+
 Ch.2 · D'où je parle, et ce que je ne vais pas dire
-La big idea : je ne viens pas attaquer son canal. Le bouche-à-oreille est le plus rentable
-du métier : coût nul, taux de signature imbattable, clients pré-qualifiés. Le dire d'emblée
-est ce qui permet d'être écouté pendant les douze minutes suivantes.
+
+L'idée : tu dis d'emblée que le bouche-à-oreille est excellent.
+
+En clair : coût nul, meilleur taux de signature du métier, clients déjà convaincus par celui
+qui recommande. Si tu laisses entendre le contraire, tu perds l'audience dans la première
+minute — chacun sait très bien que ses meilleurs clients viennent de là. La thèse n'est pas
+« arrêtez », elle est « ça ne suffit plus, et voici pourquoi ».
+
 À l'écran : « Le bouche-à-oreille est excellent », plein écran.
 
+
 Ch.3 · Pourquoi ce n'était pas de la paresse
-La big idea : le monocanal a été un choix rationnel. Une recommandation demande trois
-conditions simultanées — un ancien client content, quelqu'un qui a un projet, et le moment
-où le sujet vient dans la conversation. Quand les trois se produisent souvent, rien ne pousse
-à chercher autre chose.
+
+L'idée : n'avoir que ce canal a été un choix rationnel — et il faut comprendre comment il
+fonctionne avant d'en voir les limites.
+
+En clair : une recommandation demande trois conditions en même temps : un ancien client
+content, quelqu'un qui a un projet, et le moment où le sujet vient dans la conversation.
+Quand les trois se produisent souvent, rien ne pousse à chercher autre chose. Et c'est aussi
+pour ça que ce canal a le meilleur taux de signature : la personne arrive déjà convaincue par
+quelqu'un en qui elle a confiance.
+
 À l'écran : les trois conditions qui s'allument ensemble.
 
+
 Ch.4 · Les trois choses qu'il ne fait pas
-La big idea : les limites structurelles, précisément nommées — c'est le cœur de l'épisode. Il
-ne franchit pas une frontière départementale, parce qu'il circule dans un réseau social réel
-et que ces réseaux sont géographiques. Il ne s'accélère pas, parce qu'aucune des trois
-conditions ne dépend du cabinet. Et il vieillit avec ceux qui le font vivre.
+
+L'idée : les trois limites, et aucune ne dépend du cabinet — c'est le cœur de l'épisode.
+
+En clair : il ne franchit pas une frontière départementale, parce qu'une recommandation
+circule dans un réseau social réel — voisins, collègues, famille — et que ces réseaux sont
+géographiques. Il ne s'accélère pas, parce qu'aucune des trois conditions du chapitre
+précédent ne dépend de lui : on ne décide pas d'avoir trois recommandations ce mois-ci. Et il
+vieillit, parce que ceux qui recommandent sont des gens d'une même génération —
+entrepreneurs, notaires, agents immobiliers, anciens clients — qui partent à la retraite à
+peu près en même temps.
+
 À l'écran : les trois limites, une par une.
 
+
 Ch.5 · Ce que ça donne quand ça baisse
-La big idea : la baisse est invisible jusqu'à ce qu'il soit tard. Ceux qui recommandent
-partent à la retraite ensemble, sur quelques années. Une baisse de 10 % par an pendant cinq
-ans ne se remarque pas — elle s'attribue à la crise, aux taux, au marché.
+
+L'idée : la baisse est trop lente pour se voir, et on l'attribue à autre chose.
+
+En clair : une baisse de 10 % par an pendant cinq ans ne se remarque pas d'une année sur
+l'autre. Elle se met sur le compte de la crise, des taux, du marché. C'est la plus dangereuse
+des trois limites, parce qu'au moment où elle devient visible, il est trop tard pour
+construire autre chose.
+
 À l'écran : une courbe qui descend lentement, puis le total affiché d'un coup.
 
+
 Ch.6 · Le tri, rappelé en une phrase
-La big idea : la différence entre ceux qui traversent et les autres n'est pas le talent. Le
-quart du haut est au-dessus de 59 931 euros et progresse, le quart du bas sous 13 342 euros
-et perd 10 % en deux ans. Une phrase, sans rouvrir la démonstration : à zéro abonné, la
-plupart n'auront vu aucun épisode précédent.
+
+L'idée : ce qui sépare ceux qui traversent des autres n'est pas le talent.
+
+En clair : le quart le mieux payé est au-dessus de 59 931 euros et progresse, le quart le
+moins payé est sous 13 342 euros et a perdu 10 % en deux ans. Une phrase, sans rouvrir la
+démonstration : à zéro abonné, la plupart des spectateurs n'auront vu aucun épisode
+précédent.
+
 À l'écran : le graphique des quartiles, trois secondes.
 
+
 Ch.7 · Le premier pas, gratuit
-La big idea : l'exercice qui rend tout concret et ne coûte rien — dix derniers clients,
-l'origine exacte de chacun, qui a donné le nom. La plupart découvrent trois ou quatre noms
-qui reviennent : ce n'est pas un réseau, c'est une dépendance à quelques personnes.
+
+L'idée : l'exercice qui rend tout concret et ne coûte rien.
+
+En clair : ses dix derniers clients, et pour chacun, qui a donné son nom. La plupart
+découvrent trois ou quatre noms qui reviennent. Ce n'est pas un réseau, c'est une dépendance
+à quelques personnes — et chacun peut ensuite se demander quel âge elles ont.
+
 À l'écran : le tableau rempli en direct, colonne « qui a donné mon nom » en évidence.
 
+
 Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
-La big idea : le deuxième canal doit être pilotable, et le moment de le construire n'est pas
-celui où le premier baisse — tous les canaux demandent des semaines ou des mois avant de
-produire, sauf un. Un cabinet qui s'y met le jour où le téléphone s'arrête a déjà perdu deux
-trimestres. C'est une question de délai, pas un jugement de valeur sur la recommandation.
+
+L'idée : le deuxième canal se construit pendant que le premier fonctionne encore.
+
+En clair : tous les canaux demandent des semaines ou des mois avant de produire, sauf la
+publicité en ligne. Un cabinet qui s'y met le jour où le téléphone s'arrête a déjà perdu deux
+trimestres. La recommandation reste meilleure sur tout le reste : ce qui la disqualifie ici,
+c'est uniquement qu'on ne peut pas décider de la déclencher.
+
 À l'écran : la page essort.agency/ressources.
 
+
 Ch.9 · Sortie de saison
-La big idea : ce qui reste des vingt épisodes tient en une phrase — un canal qu'on ne peut
-pas ouvrir sur décision ne peut pas être le seul. On referme la saison sans mendier
-d'abonnement et sans pousser l'offre : le document gratuit, rien d'autre.
+
+L'idée : ce qui reste des vingt épisodes tient en une phrase — un canal qu'on ne peut pas
+ouvrir sur décision ne peut pas être le seul.
+
+En clair : et tu refermes sans pousser l'offre. C'est le dernier épisode, la tentation est
+grande. La règle ne change pas : le document gratuit, rien d'autre, et pas de mendicité
+d'abonnement.
+
 À l'écran : la question d'ouverture, une dernière fois.
 
 Source affichée :

@@ -30,61 +30,111 @@ fait avant toute campagne : un visiteur intéressé cherche le nom du cabinet po
 et il tombe sur cette fiche. Si elle est vide, le clic a été payé pour rien.
 
 
-## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
+## LE FIL DE LA DÉMONSTRATION — une idée par chapitre
 
-Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
-cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
-« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
+Une idée par chapitre, dans l'ordre. Lues à la suite, elles donnent le raisonnement complet
+de la vidéo.
+
+L'idée = ce que le spectateur doit avoir compris à la fin du chapitre.
+En clair = la même chose expliquée en détail, pour toi.
+À l'écran = ce qu'on montre pendant.
 
 Ch.1 · Ouverture
-La big idea : une page existe déjà à son nom, il ne l'a probablement pas créée, et elle
-passe avant son site. Google l'alimente à partir de données publiques et de contributions
-d'utilisateurs — donc il a une vitrine publique sur laquelle il n'a aucun contrôle.
+
+L'idée : une page existe déjà à son nom sur Google, il ne l'a probablement pas créée, et
+elle passe avant son site.
+
+En clair : Google fabrique des fiches d'entreprises tout seul, à partir de données publiques
+et de ce que les utilisateurs y ajoutent. Donc quelqu'un qui n'a jamais rien fait a quand
+même une page publique à son nom — et n'importe qui peut y proposer une photo, une
+modification ou un avis. C'est une situation que personne ne choisirait, et dans laquelle
+beaucoup se trouvent sans le savoir.
+
 À l'écran : « Google a créé une page à votre nom. Sans vous demander. »
 
+
 Ch.2 · D'où je parle
-La big idea : c'est la première chose que je regarde avant de lancer une campagne pour un
-cabinet, avant même son site. Pas par principe : parce que ça coûte de l'argent.
+
+L'idée : c'est la première chose que tu regardes avant de lancer une campagne, avant même le
+site.
+
+En clair : pas par principe. Parce que si cette fiche est vide, la campagne coûtera plus
+cher. Tu expliques pourquoi au chapitre 7.
+
 À l'écran : rien, plan de face.
 
+
 Ch.3 · Ce que voit vraiment un client sur son téléphone
-La big idea : la scène réelle n'est pas celle qu'il imagine. Sur mobile, « architecte + nom
-de ville » affiche une carte et trois fiches — nom, note, nombre d'avis, photo, distance. Le
-site n'est pas sur cet écran. Le premier tri se fait donc sur cinq éléments visibles en une
-seconde, dont quatre sont dans la fiche.
+
+L'idée : quand quelqu'un cherche « architecte » plus le nom de sa ville, son site n'est pas
+sur le premier écran.
+
+En clair : ce qui s'affiche, c'est une carte et trois fiches : nom, note sur cinq, nombre
+d'avis, une photo, la distance. Le site n'apparaît qu'après avoir cliqué sur une fiche. Donc
+le premier tri ne se fait ni sur la qualité du travail ni sur le portfolio, mais sur cinq
+éléments visibles en une seconde, dont quatre sont dans la fiche.
+
 À l'écran : un téléphone filmé de face, la recherche en direct.
 
+
 Ch.4 · Pourquoi personne ne vous en a parlé
-La big idea : ce n'est pas de la négligence. Personne n'a jamais reçu de notification lui
-disant que cette page existait, et rien dans la formation ni dans la pratique du métier ne
-mène à la chercher.
+
+L'idée : ce n'est pas de la négligence.
+
+En clair : personne ne reçoit de courrier lui annonçant que cette page existe. Rien dans la
+formation ni dans la pratique du métier ne mène à aller la chercher. C'est un angle mort,
+pas un oubli.
+
 À l'écran : une fiche non revendiquée, avec la mention qui le signale.
 
+
 Ch.5 · L'audit en direct
-La big idea : les six points de la grille, appliqués devant lui, dans l'ordre d'impact. Et
-le premier décide de tout : une fiche mal catégorisée — « entrepreneur », « bureau
-d'études » — ne remonte pas sur la recherche « architecte + ville », ce qui rend les cinq
-autres points inutiles.
+
+L'idée : six points à vérifier, dans l'ordre d'impact — et le premier rend les cinq autres
+inutiles s'il est faux.
+
+En clair : la catégorie principale de la fiche. Une fiche classée « entrepreneur » ou
+« bureau d'études » ne sort pas sur la recherche « architecte + ville ». Si la fiche ne
+s'affiche pas, peu importe qu'elle soit bien remplie. Ensuite viennent la zone desservie, les
+horaires, les photos, les avis, et la présence d'un numéro.
+
 À l'écran : la grille en tableau, cochée point par point.
 
+
 Ch.6 · Les cinq corrections, par ordre d'impact
-La big idea : quoi faire en premier, et que c'est rapide. La fraîcheur compte autant que le
-nombre — quarante avis qui s'arrêtent il y a trois ans valent moins que huit avis récents. Le
-tout tient en une heure et ne coûte rien.
+
+L'idée : quoi faire en premier, et combien de temps ça prend.
+
+En clair : et un point contre-intuitif sur les avis — la fraîcheur compte autant que le
+nombre. Quarante avis qui s'arrêtent il y a trois ans valent moins que huit avis récents,
+parce qu'ils signalent une activité qui s'est arrêtée. Le tout tient en une heure et ne coûte
+rien.
+
 À l'écran : les corrections classées, avec le temps que chacune prend.
 
+
 Ch.7 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
-La big idea : cette fiche multiplie le rendement de tout le reste, et c'est pour ça qu'elle
-passe avant. Un visiteur intéressé par une campagne cherche le nom du cabinet pour
-vérifier ; s'il tombe sur une fiche vide, la vérification se termine mal et le clic a été
-payé pour rien. Et elle ne suffit pas non plus : elle est plafonnée par le nombre de gens
-qui cherchent sur le territoire.
+
+L'idée : cette fiche décide du rendement de tout le reste — et elle ne suffit pas non plus.
+
+En clair : quand une campagne intéresse quelqu'un, son premier réflexe est de taper le nom
+du cabinet pour vérifier. Il tombe sur la fiche. Si elle est vide, la vérification se termine
+mal et le clic a été payé pour rien. C'est pour ça qu'on ne lance jamais une campagne sur un
+cabinet dont la fiche n'est pas revendiquée. Et à l'inverse, une fiche seule est plafonnée
+par le nombre de gens qui cherchent dans ce département : elle ne crée pas de demande, elle
+capte celle qui existe déjà.
+
 À l'écran : la page essort.agency/ressources.
 
+
 Ch.8 · Sortie
-La big idea : une heure, zéro euro, effet en quelques semaines — c'est le seul levier du
-métier qui coche les trois. La tension qu'on rouvre : sur sa zone, deux confrères l'ont
-peut-être déjà fait.
+
+L'idée : une heure, zéro euro, effet en quelques semaines — c'est le seul levier du métier
+qui coche les trois.
+
+En clair : et sur sa zone, deux confrères l'ont peut-être déjà fait. C'est la tension que tu
+laisses.
+
 À l'écran : trois fiches côte à côte, une vide.
 
 Outil montré :

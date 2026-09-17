@@ -33,62 +33,120 @@ Ce n'est pas mieux que le réseau. C'est ce qu'on met à côté pendant que le r
 construit.
 
 
-## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
+## LE FIL DE LA DÉMONSTRATION — une idée par chapitre
 
-Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
-cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
-« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
+Une idée par chapitre, dans l'ordre. Lues à la suite, elles donnent le raisonnement complet
+de la vidéo.
+
+L'idée = ce que le spectateur doit avoir compris à la fin du chapitre.
+En clair = la même chose expliquée en détail, pour toi.
+À l'écran = ce qu'on montre pendant.
 
 Ch.1 · Ouverture
-La big idea : le chiffre qui va suivre ne vient pas de moi, il vient de leur propre
-institution. C'est ce qui interdit de le contester et ce qui rend l'épisode inconfortable.
-À l'écran : « 32 983 € », plein écran, puis la couverture d'Archigraphie.
+
+L'idée : le chiffre qui arrive ne vient pas de toi. Il vient de leur propre institution.
+
+En clair : 32 983 euros de revenu médian pour un architecte libéral. Si c'était ton chiffre,
+on te le contesterait dans la première minute. Comme il vient d'Archigraphie, publié par
+l'Ordre des architectes, il n'y a rien à discuter — et c'est ce qui rend le début
+inconfortable pour celui qui regarde.
+
+À l'écran : « 32 983 € » plein écran, puis la couverture d'Archigraphie.
+
 
 Ch.2 · D'où je parle et de quand datent ces chiffres
-La big idea : je manipule des données précises et je sais lesquelles — revenus 2022,
-effectifs 2023. Annoncer le millésime avant qu'on me le demande est ce qui rend tout le
-reste crédible.
+
+L'idée : tu annonces le millésime des données avant qu'on te le demande.
+
+En clair : les revenus sont ceux de 2022, les effectifs ceux de 2023. Dire ça d'entrée coûte
+dix secondes et supprime l'objection « vos chiffres sont périmés » pour toute la vidéo. Et
+ça montre que tu as lu le document, pas juste le titre.
+
 À l'écran : la mention de l'année des données, laissée à l'image.
 
+
 Ch.3 · Le premier quartile
-La big idea : l'ampleur réelle, sans commentaire. Le quart du bas de la profession est sous
-13 342 euros — on laisse le chiffre travailler tout seul trois secondes.
+
+L'idée : le quart du bas de la profession est sous 13 342 euros par an.
+
+En clair : un quartile, c'est un quart. Si on range tous les architectes du moins payé au
+mieux payé, le premier quartile est la limite en dessous de laquelle se trouve le quart le
+moins bien payé. Tu affiches le graphique, tu lis le chiffre, et tu te tais trois secondes.
+Aucun commentaire n'ajouterait quoi que ce soit.
+
 À l'écran : le graphique 19, page 32, plein écran, silence.
 
+
 Ch.4 · Pourquoi « c'est la conjoncture » ne tient pas
-La big idea : un phénomène qui frappe n'est pas un phénomène qui écarte. Une conjoncture
-fait baisser tout le monde ensemble ; ici une moitié monte pendant que l'autre descend.
-C'est la distinction qui tient tout l'épisode.
-À l'écran : une flèche qui monte et une flèche qui descend sur le même graphique.
+
+L'idée : une mauvaise conjoncture fait baisser tout le monde. Ici, une moitié monte pendant
+que l'autre descend.
+
+En clair : c'est la distinction qui porte toute la vidéo, et elle est simple. Quand les taux
+montent et que les chantiers se raréfient, tout le monde devrait souffrir ensemble. Or le
+quart du bas a perdu 10 % en deux ans pendant que le quart du haut progressait. Ce n'est
+donc pas un phénomène qui frappe, c'est un phénomène qui sépare.
+
+À l'écran : une flèche qui monte et une flèche qui descend, sur le même graphique.
+
 
 Ch.5 · Le décalage qui trompe tout le monde
-La big idea : un carnet plein aujourd'hui ne dit rien de l'année prochaine, parce qu'un
-projet signé il y a dix-huit mois occupe encore l'agence. Ce qu'on regarde pour se rassurer
-est un indicateur du passé.
-À l'écran : une frise : signature → dix-huit mois → facturation.
+
+L'idée : un carnet plein aujourd'hui ne dit rien de l'année prochaine.
+
+En clair : un projet signé il y a un an et demi occupe encore l'agence aujourd'hui. Donc
+quelqu'un qui regarde son planning pour se rassurer regarde en fait le résultat de ses
+signatures d'avant-hier. Le vrai indicateur, c'est le nombre de nouvelles demandes reçues ce
+mois-ci — et presque personne ne le compte.
+
+À l'écran : une frise : signature, dix-huit mois, facturation.
+
 
 Ch.6 · La page que personne ne cite
-La big idea : le métier paie, mais tard. Le revenu culmine entre 55 et 64 ans, avec près de
-29 000 euros d'écart avec les moins de 35 ans — c'est la bascule de la vidéo, parce que ça
-nomme le vrai coût : trente ans.
-À l'écran : la page du revenu par tranche d'âge, pic 55-64 entouré.
+
+L'idée : ce métier paie bien, mais tard. Le revenu culmine entre 55 et 64 ans.
+
+En clair : près de 29 000 euros d'écart entre cette tranche d'âge et les moins de 35 ans.
+Autrement dit, la méthode connue pour bien gagner sa vie dans ce métier existe, mais elle
+prend trente ans — le temps de se constituer un réseau de gens qui vous recommandent. C'est
+le moment où la vidéo bascule : tu viens de chiffrer le coût de l'attente.
+
+À l'écran : la page du revenu par tranche d'âge, pic 55-64 ans entouré.
+
 
 Ch.7 · Ce qui sépare réellement les deux extrémités
-La big idea : la variable n'est ni le talent ni l'ancienneté seule, c'est le nombre de
-sources de projets. Un cabinet qui en a trois ne vit pas le même métier que celui qui en a
-une.
-À l'écran : deux schémas opposés : une seule flèche entrante, contre quatre.
+
+L'idée : ce qui sépare le haut du bas, ce n'est pas le talent. C'est le nombre d'endroits
+d'où viennent les projets.
+
+En clair : un cabinet qui reçoit des projets par trois ou quatre chemins différents ne vit
+pas le même métier que celui qui n'en a qu'un. Quand le chemin unique se ferme — un
+prescripteur part à la retraite, une zone se calme — le premier absorbe, le second tombe.
+
+À l'écran : deux schémas opposés, une seule flèche entrante contre quatre.
+
 
 Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
-La big idea : la recommandation a un défaut qui n'est pas corrigeable — elle se construit
-avec le temps, et rien ne l'accélère. La publicité en ligne est le seul levier qui ne
-dépende pas du temps qui passe, et c'est exactement ce qui manque à quelqu'un de jeune dans
-le métier.
+
+L'idée : la recommandation ne s'accélère pas. La publicité en ligne, si — et c'est tout ce
+qui les sépare.
+
+En clair : on ne décide pas d'avoir trois recommandations ce mois-ci. Elles arrivent quand
+elles arrivent, et se construire un réseau demande des années. C'est justement ce dont
+quelqu'un de jeune dans le métier ne dispose pas. La publicité est le seul levier qui ne
+demande pas d'attendre : on l'ouvre, on le ferme, on le règle.
+
 À l'écran : la page essort.agency/ressources.
 
+
 Ch.9 · Sortie
-La big idea : une action simple est possible cette semaine — compter ses sources de
-projets. La tension qu'on rouvre : la plupart des gens qui font l'exercice trouvent un.
+
+L'idée : une action simple, ce soir — compter d'où sont venus ses projets.
+
+En clair : pas « réfléchissez à votre stratégie ». Une liste, des noms, un décompte. La
+plupart de ceux qui font l'exercice trouvent une seule source. C'est la tension que tu
+laisses en partant.
+
 À l'écran : la question seule, plein écran.
 
 Source du document affiché :

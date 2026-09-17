@@ -31,63 +31,114 @@ Trente-quatre ans d'autorisation que presque personne n'utilise, ça veut dire u
 publicitaire vide — et un espace vide, ça coûte moins cher.
 
 
-## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
+## LE FIL DE LA DÉMONSTRATION — une idée par chapitre
 
-Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
-cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
-« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
+Une idée par chapitre, dans l'ordre. Lues à la suite, elles donnent le raisonnement complet
+de la vidéo.
+
+L'idée = ce que le spectateur doit avoir compris à la fin du chapitre.
+En clair = la même chose expliquée en détail, pour toi.
+À l'écran = ce qu'on montre pendant.
 
 Ch.1 · Ouverture
-La big idea : la croyance que porte toute la profession est datée, et on va dire de combien.
-Trente-quatre ans. Pas une nuance d'interprétation : un texte abrogé en 1992.
+
+L'idée : la croyance qu'ils portent tous est fausse depuis trente-quatre ans.
+
+En clair : « un architecte n'a pas le droit de faire de la publicité » n'est pas une
+interprétation discutable. C'est un texte abrogé en 1992. Tu annonces la date dès la
+première phrase.
+
 À l'écran : « Depuis 1992 », plein écran.
 
+
 Ch.2 · D'où je parle, et à qui
-La big idea : je fais de l'acquisition pour des cabinets d'architecture, donc je vis avec ce
-texte. Et une précision qui évite toute confusion : ce code concerne les architectes
-inscrits à l'Ordre, pas les architectes d'intérieur.
+
+L'idée : tu précises tout de suite que ce code ne concerne que les architectes inscrits à
+l'Ordre.
+
+En clair : les architectes d'intérieur ne sont pas soumis à ce code de déontologie. Si tu ne
+le dis pas, la moitié de l'audience va appliquer à sa situation des règles qui ne la
+concernent pas — et l'autre moitié te le reprochera en commentaire.
+
 À l'écran : le périmètre du code, affiché d'emblée.
 
+
 Ch.3 · Le texte, lu à l'écran — deux minutes maximum
-La big idea : l'article dit l'inverse de la croyance, mot pour mot. Je ne l'interprète pas,
-je le lis, et chacun peut ouvrir la page pendant la vidéo.
+
+L'idée : l'article dit exactement l'inverse de la croyance, mot pour mot.
+
+En clair : tu ne l'interprètes pas, tu le lis. Et tu affiches l'URL pour que chacun puisse
+ouvrir la page pendant la vidéo. C'est la force de l'épisode : il n'y a rien à croire, il y
+a un texte.
+
 À l'écran : le texte sur Légifrance, la phrase qui autorise surlignée, URL visible.
 
+
 Ch.4 · Depuis quand exactement
-La big idea : l'ampleur du retard. L'article qui interdisait a été abrogé et remplacé le
-même jour, en 1992, par un article qui autorise. Puis on laisse le silence faire le calcul.
+
+L'idée : l'article qui interdisait a été abrogé et remplacé le même jour, en 1992, par un
+article qui autorise.
+
+En clair : ce n'est pas un assouplissement progressif. C'est un basculement à une date
+précise. Tu affiches les deux dates côte à côte, tu laisses le silence, et chacun fait le
+calcul dans sa tête.
+
 À l'écran : les deux dates côte à côte, même jour.
 
+
 Ch.5 · Ce que le nouveau code change
-La big idea : la refonte récente du code de déontologie n'a rien modifié sur ce point. Le
-dire coupe court à la confusion de ceux qui ont entendu parler d'un nouveau texte sans le
-lire.
+
+L'idée : la refonte récente du code de déontologie n'a rien modifié sur ce point.
+
+En clair : certains ont entendu parler d'un nouveau texte entré en vigueur en 2026 sans le
+lire, et pensent que ça a pu changer. Tu coupes court en affichant l'article concerné.
+
 À l'écran : le décret, entrée en vigueur au 1er juillet 2026, article affiché.
 
+
 Ch.6 · Ce que l'Ordre en dit lui-même
-La big idea : ce n'est pas ma lecture personnelle d'un décret. L'institution elle-même
-l'écrit publiquement, et c'est la seule source qui puisse clore le débat dans les
-commentaires.
+
+L'idée : ce n'est pas ta lecture personnelle d'un décret. L'institution l'écrit publiquement.
+
+En clair : c'est la seule source qui puisse clore le débat dans les commentaires. Quelqu'un
+peut contester un consultant ; il ne conteste pas l'Ordre des architectes sur sa propre
+déontologie.
+
 À l'écran : la position publique de l'Ordre, citée à l'écran.
 
+
 Ch.7 · Les deux vraies limites
-La big idea : la bonne question n'est pas « ai-je le droit » mais « qu'est-ce que je n'ai
-pas le droit de dire ». Et la réponse tient en deux interdits : ne pas mentir, ne pas
-dénigrer. Tout le reste est autorisé — et la distinction vaut de l'argent, parce qu'elle
-libère tout ce qu'on n'osait pas faire.
+
+L'idée : la bonne question n'est pas « ai-je le droit », elle est « qu'est-ce que je n'ai pas
+le droit de dire ». Et la réponse tient en deux interdits.
+
+En clair : ne pas mentir, et ne pas dénigrer un confrère. Tout le reste est autorisé —
+montrer ses réalisations, dire sa zone, dire son type de projet, payer pour être vu. Cette
+distinction vaut de l'argent : elle libère d'un coup tout ce qu'on n'osait pas faire.
+
 À l'écran : les deux interdits en liste, puis ce qu'ils laissent faire.
 
+
 Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
-La big idea : cette croyance a survécu trente-quatre ans parce qu'elle arrangeait tout le
-monde — elle donnait une raison honorable de ne pas s'y mettre. Ce qu'elle a coûté, c'est un
-espace publicitaire entièrement vide, et donc bon marché, que quelques-uns commencent à
-occuper.
+
+L'idée : cette croyance a survécu trente-quatre ans parce qu'elle arrangeait tout le monde.
+Et elle a laissé un espace publicitaire vide.
+
+En clair : elle donnait une raison honorable de ne pas s'y mettre. Résultat, presque
+personne n'y est, et comme la publicité se vend aux enchères, l'espace est bon marché. Ce
+que la croyance a coûté à la profession, c'est exactement ce qui la rend accessible
+aujourd'hui.
+
 À l'écran : la page essort.agency/ressources.
 
+
 Ch.9 · Sortie
-La big idea : la question du droit est réglée, il ne reste que des questions de métier —
-quoi diffuser, où, pour quel budget. La tension qu'on rouvre : c'est la partie qui demande
-du travail.
+
+L'idée : la question du droit est réglée. Il ne reste que des questions de métier.
+
+En clair : quoi diffuser, où, pour quel budget. Tu laisses la tension : c'est la partie qui
+demande du travail, et c'est celle que personne n'a encore faite dans ce métier.
+
 À l'écran : les trois questions restantes, plein écran.
 
 Sources affichées :

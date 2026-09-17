@@ -30,71 +30,123 @@ des avis, des chiffres — reste au cabinet le jour où il coupe le budget. Un c
 lui, ne laisse rien derrière.
 
 
-## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
+## LE FIL DE LA DÉMONSTRATION — une idée par chapitre
 
-Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
-cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
-« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
+Une idée par chapitre, dans l'ordre. Lues à la suite, elles donnent le raisonnement complet
+de la vidéo.
+
+L'idée = ce que le spectateur doit avoir compris à la fin du chapitre.
+En clair = la même chose expliquée en détail, pour toi.
+À l'écran = ce qu'on montre pendant.
 
 Ch.1 · Ouverture
-La big idea : la mise en concurrence n'est pas un effet de bord de ces plateformes, c'est le
-produit. Ce qui s'achète n'est pas un client, c'est le droit d'enchérir contre des confrères
-sur un même projet.
+
+L'idée : sur une plateforme de mise en relation, ce qu'on achète n'est pas un client. C'est
+le droit de se battre contre des confrères sur le même projet.
+
+En clair : et ce n'est pas un effet de bord, c'est le produit lui-même. La plateforme vend la
+comparaison au client final : c'est l'argument qui la rend attractive de son côté à elle.
+
 À l'écran : « Vous n'achetez pas un client. Vous achetez le droit d'enchérir. »
 
+
 Ch.2 · D'où je parle, et mon conflit d'intérêt
-La big idea : je vends de l'acquisition, donc j'ai un intérêt direct dans ce que je raconte.
-L'annoncer franchement est ce qui le neutralise — et ça oblige à ne présenter que ce qui est
-vérifiable.
+
+L'idée : tu vends de l'acquisition, donc tu as un intérêt direct dans ce que tu racontes. Tu
+le dis toi-même.
+
+En clair : l'annoncer franchement est ce qui le neutralise. Et ça t'oblige à ne présenter que
+ce qui est vérifiable — ce qui est exactement le sujet du chapitre 5.
+
 À l'écran : la phrase, affichée telle quelle.
 
+
 Ch.3 · Pourquoi vous y êtes allé
-La big idea : ce n'était pas une erreur de jugement. Quand le téléphone ne sonne pas, une
-offre qui promet des contacts dès la semaine prochaine est parfaitement rationnelle. Le
-problème n'est pas d'y être allé, c'est de ne pas avoir fait le calcul après.
+
+L'idée : y être allé n'était pas une erreur de jugement.
+
+En clair : quand le téléphone ne sonne pas, une offre qui promet des contacts dès la semaine
+prochaine est parfaitement rationnelle. Beaucoup de spectateurs utilisent ces plateformes et
+certaines leur apportent des projets — ne jamais les faire passer pour des naïfs. Le problème
+n'est pas d'y être allé, c'est de ne pas avoir fait le calcul ensuite.
+
 À l'écran : rien, plan de face.
 
+
 Ch.4 · Le modèle économique, expliqué simplement
-La big idea : le mécanisme, sans prêter d'intention. Une plateforme est payée au contact
-vendu, pas au projet signé. Une entreprise payée au contact a donc intérêt à ce qu'il y ait
-beaucoup de contacts et à ce que chacun soit vendu plusieurs fois. C'est rationnel, c'est
-assumé publiquement, et ça se dit sans agressivité.
-À l'écran : le schéma : un contact au centre, des flèches vers plusieurs professionnels.
+
+L'idée : ces plateformes sont payées au contact vendu, pas au projet signé.
+
+En clair : cette seule phrase contient tout l'épisode. Une entreprise payée au contact a
+intérêt à ce qu'il y en ait beaucoup, et à ce que chacun soit vendu au plus grand nombre de
+professionnels possible. C'est rationnel, c'est assumé publiquement, et ça se dit sans
+agressivité. Tu expliques un modèle, tu ne prêtes aucune intention.
+
+À l'écran : le schéma — un contact au centre, des flèches vers plusieurs professionnels.
+
 
 Ch.5 · L'effet en cascade sur les honoraires
-La big idea : ça dépasse son cas personnel. Quand plusieurs propositions arrivent en même
-temps sur le même projet, elles se ressemblent sur tout sauf le montant — le client ne
-choisit pas le moins cher par principe, il choisit sur le seul axe qu'on lui a rendu
-comparable. Chacun qui baisse fixe la référence du suivant. C'est un mécanisme, pas une
-mesure : personne ne publie cet effet, et il faut le dire.
+
+L'idée : quand plusieurs propositions arrivent en même temps sur le même projet, le prix
+devient le seul critère — et ça tire tout le monde vers le bas.
+
+En clair : les propositions se ressemblent sur presque tout. Même périmètre, délais proches,
+personne n'a encore rencontré le client. Le seul élément qui varie de façon lisible, c'est le
+montant. Le client ne choisit donc pas le moins cher par avidité : il choisit sur le seul axe
+qu'on lui a rendu comparable. Et chacun qui baisse fixe la référence du suivant.
+Attention : c'est un raisonnement, pas une mesure. Personne ne publie l'effet des plateformes
+sur les honoraires en France, et tu le dis.
+
 À l'écran : quatre propositions alignées, identiques sauf le montant.
 
+
 Ch.6 · Ce que vendent réellement ces plateformes
-La big idea : l'enjeu dépasse le contact, il porte sur le positionnement. Quand une
-plateforme promet publiquement « budget, délais et entreprises verrouillés dès le départ »,
-elle décrit une mission de maîtrise d'œuvre, vendue au client final par un tiers.
+
+L'idée : l'enjeu dépasse le contact revendu. Il porte sur le positionnement du métier.
+
+En clair : quand une plateforme promet publiquement « budget, délais et entreprises
+verrouillés dès le départ », elle décrit une mission de maîtrise d'œuvre — vendue au client
+final par un tiers. Ce n'est plus seulement de la mise en relation, c'est la prestation
+elle-même qui change de vendeur.
+
 À l'écran : la promesse affichée publiquement, capture avec la date du relevé.
 
+
 Ch.7 · Le seul calcul qui compte
-La big idea : la formule, pour qu'il tranche lui-même. Pas « combien de projets », mais
-combien dépensé en contacts, combien signé, et à quel niveau d'honoraires par rapport aux
-projets directs. Les deux effets se multiplient — coût par signature élevé et montant signé
-plus bas — et c'est pour ça que le résultat surprend.
+
+L'idée : pas « combien de projets ça m'a apportés », mais combien coûte réellement une
+signature.
+
+En clair : combien dépensé en contacts, combien de projets signés, et à quel niveau
+d'honoraires par rapport aux projets qui arrivent en direct. Un cabinet qui fait ce calcul
+découvre souvent deux choses en même temps : il faut acheter plusieurs contacts pour en
+signer un, et le montant signé est plus bas que sa moyenne. Les deux effets se multiplient.
+C'est pour ça que le résultat surprend.
+
 À l'écran : le calcul en deux lignes.
 
+
 Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
-La big idea : ce que change un contact qui arrive directement, et la différence de fond
-qu'on ne voit pas tout de suite — une plateforme loue un contact, une campagne construit un
-actif. Au bout de deux ans, le cabinet qui a fait de la publicité a un site qui convertit,
-des avis et des chiffres qui lui appartiennent. Celui qui a acheté des contacts a des
-contacts.
+
+L'idée : une plateforme loue un contact. Une campagne construit quelque chose qui reste.
+
+En clair : ce qui se construit pendant qu'on diffuse — une page qui convertit, une audience,
+des avis, des chiffres qu'on connaît — appartient au cabinet le jour où il coupe le budget.
+Un contact acheté ne laisse rien derrière lui. Et la demande n'arrive pas dans le même état :
+sur une plateforme, le client est en posture de comparaison dès le départ ; sur une campagne
+qu'on pilote, il a lu la zone et le type de projet et il n'écrit qu'à un seul cabinet.
+
 À l'écran : deux colonnes, LOUER UN CONTACT et CONSTRUIRE UN ACTIF, puis la page
 essort.agency/ressources.
 
+
 Ch.9 · Sortie
-La big idea : la question à se poser ce soir n'est pas s'il faut arrêter, c'est ce qu'il
-reste au bout de deux ans. La tension qu'on rouvre : le calcul prend une heure et beaucoup
-ne l'ont jamais fait.
+
+L'idée : la question n'est pas s'il faut arrêter. C'est ce qu'il reste au bout de deux ans.
+
+En clair : le calcul prend une heure et beaucoup ne l'ont jamais fait. C'est la tension que
+tu laisses.
+
 À l'écran : « Au bout de deux ans, il vous reste quoi ? »
 
 Relevé affiché :

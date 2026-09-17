@@ -34,62 +34,108 @@ départements voisins peuvent aller du simple au triple. Diffuser sur le bon co�
 prix et ne produit pas la même chose.
 
 
-## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
+## LE FIL DE LA DÉMONSTRATION — une idée par chapitre
 
-Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
-cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
-« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
+Une idée par chapitre, dans l'ordre. Lues à la suite, elles donnent le raisonnement complet
+de la vidéo.
+
+L'idée = ce que le spectateur doit avoir compris à la fin du chapitre.
+En clair = la même chose expliquée en détail, pour toi.
+À l'écran = ce qu'on montre pendant.
 
 Ch.1 · Ouverture
-La big idea : une décision importante se prend sans donnée, alors que la donnée existe,
-qu'elle est publique et gratuite. Combien de chantiers démarrent réellement près de chez
-lui : personne ne regarde.
+
+L'idée : une décision importante se prend au hasard, alors que la donnée qui devrait la
+décider est publique et gratuite.
+
+En clair : combien de chantiers démarrent réellement dans son département. C'est disponible,
+commune par commune, mis à jour par le ministère. Personne ne va le chercher.
+
 À l'écran : la carte de l'Observatoire des territoires, plein écran.
 
+
 Ch.2 · D'où je parle
-La big idea : c'est le premier réglage que je fais avant de diffuser quoi que ce soit, parce
-qu'une zone mal choisie coûte exactement le même prix qu'une zone bien choisie.
+
+L'idée : c'est le premier réglage que tu fais avant de diffuser quoi que ce soit.
+
+En clair : parce qu'une zone mal choisie coûte exactement le même prix qu'une zone bien
+choisie. C'est le genre de décision qui ne se rattrape pas avec un meilleur message.
+
 À l'écran : rien, plan de face.
 
+
 Ch.3 · Comment la plupart choisissent leur zone
-La big idea : la décision est prise au feeling, et ce n'est pas une faute. Le département où
-l'on habite plus les communes où l'on a déjà travaillé, c'est la zone où la recommandation
-circule. Mais ça veut dire que la zone n'a pas été choisie : elle a été héritée du premier
-chantier, il y a dix ans, et personne ne l'a réexaminée depuis.
+
+L'idée : la zone n'a pas été choisie, elle a été héritée.
+
+En clair : le département où l'on habite, plus les communes où l'on a déjà travaillé. Ce
+n'est pas irrationnel — c'est la zone où la recommandation circule. Mais ça veut dire qu'elle
+a été fixée par le premier chantier, il y a dix ans, et que personne ne l'a réexaminée
+depuis.
+
 À l'écran : une carte avec un cercle dessiné à la main autour d'un département.
 
+
 Ch.4 · La manipulation, en direct
-La big idea : il peut regarder son département en trois minutes, et le comparer à ses
-voisins. L'indicateur qui compte est rapporté à 1 000 habitants, parce qu'un volume brut ne
-mesure que la démographie. Deux départements voisins peuvent aller du simple au triple.
+
+L'idée : il peut comparer son département à ses voisins en trois minutes.
+
+En clair : et le chiffre à regarder n'est pas le volume brut. Un département peuplé aura
+toujours plus de chantiers qu'un département rural — comparer les volumes ne mesure que la
+démographie. L'indicateur utile est rapporté à 1 000 habitants : il mesure l'intensité de
+construction. Deux départements voisins peuvent aller du simple au triple sur cet
+indicateur.
+
 À l'écran : la carte en direct, deux départements sélectionnés l'un après l'autre, date
 d'extraction visible.
 
+
 Ch.5 · Ce que la donnée ne dit pas
-La big idea : la limite de l'indicateur, dite avant qu'on la lui oppose. Un volume de
-logements commencés mesure la construction neuve — pas la rénovation, pas l'extension, pas
-l'aménagement de locaux. Donc jamais « ce département est mort » : un territoire à faible
-construction peut être excellent en rénovation, et c'est souvent le cas dans l'ancien.
+
+L'idée : ce chiffre ne mesure que la construction neuve.
+
+En clair : ni la rénovation, ni l'extension, ni l'aménagement de locaux — qui représentent
+une grande part de l'activité d'un cabinet. Donc jamais « ce département est mort ». Plutôt :
+« il se construit peu de neuf ici, ce qui déplace la question vers l'existant ». Un
+territoire à faible construction peut être excellent en rénovation, et c'est même souvent le
+cas dans l'ancien. Tu dis la limite avant qu'on te l'oppose.
+
 À l'écran : ce que l'indicateur couvre, et ce qu'il ne couvre pas.
 
+
 Ch.6 · Ce qu'on en fait, concrètement
-La big idea : la décision de ciblage qui en découle. Et l'autre lecture utile : les
-autorisations sont un indicateur avancé, les mises en chantier un indicateur de réalité — un
+
+L'idée : la deuxième lecture, celle qui sert vraiment — autorisés contre commencés.
+
+En clair : un logement autorisé est un permis accordé, un logement commencé est un chantier
+qui a démarré. Entre les deux, il y a des mois et des abandons. Donc les autorisations
+disent ce qui va arriver, les mises en chantier disent ce qui se fait aujourd'hui. Un
 département où les autorisations remontent depuis deux trimestres est un département où
-l'activité va arriver.
+l'activité arrive.
+
 À l'écran : deux lignes opposées, AUTORISÉS et COMMENCÉS.
 
+
 Ch.7 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
-La big idea : la publicité en ligne est le seul levier qui permette de choisir un
-territoire, et donc le seul qui rende cette donnée exploitable. Une zone de diffusion se
-règle au département, à la commune ou au rayon en kilomètres, et se change en trois clics.
-La recommandation, elle, ne franchit pas une frontière départementale — donc savoir où il
-faudrait être ne sert à rien sans un moyen d'y être.
+
+L'idée : savoir où il faudrait être ne sert à rien sans un moyen d'y être.
+
+En clair : la recommandation ne franchit pas une frontière départementale. Donc un cabinet
+qui découvre que le département voisin est trois fois plus actif n'a aucun moyen d'y aller —
+sauf à payer pour être vu. Une zone de diffusion publicitaire se règle au département, à la
+commune ou au rayon en kilomètres, et se change en trois clics. Diffuser sur le bon
+département coûte le même prix et ne produit pas la même chose.
+
 À l'écran : l'écran de réglage d'une zone, puis la page essort.agency/ressources.
 
+
 Ch.8 · Sortie
-La big idea : son département et les deux d'à côté, ce soir, en dix minutes. La tension
-qu'on rouvre : il se peut que la zone qu'il travaille depuis dix ans ne soit pas la bonne.
+
+L'idée : son département et les deux d'à côté, ce soir, en dix minutes.
+
+En clair : et il se peut que la zone qu'il travaille depuis dix ans ne soit pas la bonne.
+C'est la tension que tu laisses.
+
 À l'écran : la carte, une dernière fois.
 
 Sources affichées :

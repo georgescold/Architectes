@@ -30,62 +30,119 @@ déjà les visuels. Ce qui lui manque n'est pas du contenu, c'est le mécanisme 
 contenu devant des inconnus.
 
 
-## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
+## LE FIL DE LA DÉMONSTRATION — une idée par chapitre
 
-Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
-cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
-« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
+Une idée par chapitre, dans l'ordre. Lues à la suite, elles donnent le raisonnement complet
+de la vidéo.
+
+L'idée = ce que le spectateur doit avoir compris à la fin du chapitre.
+En clair = la même chose expliquée en détail, pour toi.
+À l'écran = ce qu'on montre pendant.
 
 Ch.1 · Ouverture
-La big idea : une grosse audience et un carnet de commandes n'ont rien à voir. 52 600
-abonnés et douze publicités en tout, par salves de quelques heures : il a l'audience, il n'a
-pas le mécanisme.
+
+L'idée : avoir beaucoup d'abonnés et avoir des projets sont deux choses sans rapport.
+
+En clair : un architecte d'intérieur français à 52 600 abonnés a diffusé douze publicités en
+tout, par salves de quelques heures. Il a l'audience. Il n'a pas le mécanisme qui transforme
+cette audience en demandes.
+
 À l'écran : le compte concerné, nom masqué, seul le nombre d'abonnés lisible.
 
+
 Ch.2 · D'où je parle
-La big idea : je regarde des comptes comme celui-là toutes les semaines, non pour juger les
-images mais pour savoir si elles produisent des demandes.
+
+L'idée : tu regardes des comptes comme celui-là toutes les semaines, et pas pour juger les
+photos.
+
+En clair : ta question est toujours la même — est-ce que ce compte produit des demandes
+entrantes, oui ou non. Le reste ne t'intéresse pas, et ce n'est pas ton métier.
+
 À l'écran : rien, plan de face.
 
+
 Ch.3 · La matière première que personne d'autre n'a
-La big idea : un architecte d'intérieur produit le meilleur contenu visuel de tout le
-bâtiment. Aucun autre métier de la construction n'a ça — et c'est précisément l'actif qu'il
-n'exploite pas.
+
+L'idée : un architecte d'intérieur produit les plus belles images de tout le bâtiment.
+
+En clair : un maçon, un couvreur, un bureau d'études n'ont rien à montrer d'attirant. Lui
+en a des centaines. C'est un avantage énorme sur n'importe quel autre métier de la
+construction, et il ne s'en sert pas pour aller chercher des clients.
+
 À l'écran : une grille de neuf photos d'intérieur, plein écran, sans commentaire.
 
+
 Ch.4 · Ce qui se passe pendant que vous publiez
-La big idea : le terrain n'est pas vide en face, et c'est mesurable. Pendant qu'il publie
-pour ceux qui le suivent déjà, 97 annonces actives promettent un plan gratuit à ses clients.
+
+L'idée : pendant qu'il publie pour ses abonnés, d'autres paient pour être devant ses
+clients.
+
+En clair : 97 publicités actives promettent un plan en 3D gratuit aux mêmes particuliers.
+Ces gens-là ne le suivent pas sur Instagram — ils n'ont aucune raison de le connaître. Ils
+voient l'annonce, pas la publication.
+
 À l'écran : la bibliothèque publicitaire, compteur à 97, date visible.
 
+
 Ch.5 · Ce que vous vous interdisez sans raison
-La big idea : le code de déontologie des architectes ne s'applique pas aux architectes
-d'intérieur. Ils sont, au sens strict, moins empêchés de communiquer que les inscrits à
-l'Ordre — et presque aucun ne le sait.
+
+L'idée : le code de déontologie des architectes ne s'applique pas aux architectes
+d'intérieur.
+
+En clair : beaucoup s'imposent des règles qui ne les concernent pas, par mimétisme avec une
+profession voisine. Le droit commun s'applique évidemment — pas de publicité mensongère, pas
+de photo d'un projet qui n'est pas le sien, pas de dénigrement. Mais au sens strict, ils sont
+moins empêchés de communiquer qu'un architecte inscrit à l'Ordre. Presque aucun ne le sait.
+
 À l'écran : le périmètre du code, affiché noir sur blanc.
 
+
 Ch.6 · Publier ou diffuser
-La big idea : publier met un contenu devant ceux qui vous suivent déjà. Diffuser le met
-devant des gens qui ne vous connaissent pas, dans une zone que vous choisissez. Ce sont deux
-mécaniques différentes, et une seule amène des inconnus.
+
+L'idée : publier, c'est montrer à ceux qui vous suivent déjà. Diffuser, c'est montrer à des
+gens qui ne vous connaissent pas.
+
+En clair : c'est la distinction centrale de l'épisode, et elle n'est pas évidente pour
+quelqu'un qui poste depuis cinq ans. Une publication touche son audience. Une diffusion
+payante va chercher des inconnus, dans le département qu'on choisit, sans dépendre de
+l'algorithme. Seule la seconde amène des gens nouveaux.
+
 À l'écran : deux colonnes opposées, PUBLIER et DIFFUSER.
 
+
 Ch.7 · Vos publications sont des créatives déjà testées
-La big idea : il possède un actif publicitaire dormant. Les publications qui ont le mieux
-marché sont des annonces déjà validées par un public réel — la partie la plus coûteuse d'une
-campagne est déjà faite, et elle est gratuite.
+
+L'idée : ses publications qui ont le mieux marché sont des publicités déjà validées par un
+public réel.
+
+En clair : dans une campagne, la partie la plus longue et la plus coûteuse, c'est de trouver
+quelle image fonctionne. Lui a déjà la réponse : il lui suffit de regarder quelles
+publications ont le plus réagi ces deux dernières années. Ce travail est fait, et il est
+gratuit.
+
 À l'écran : une publication avec ses chiffres, puis la même image présentée en annonce.
 
+
 Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
-La big idea : la publicité en ligne est le seul levier qui transforme ce stock d'images en
-demandes entrantes. Et le ticket d'entrée n'a rien à voir avec les budgets des enseignes,
-parce qu'on ne diffuse pas sur la France entière mais sur un département.
+
+L'idée : la publicité en ligne est ce qui transforme ce stock d'images en demandes
+entrantes.
+
+En clair : et le budget n'a rien à voir avec celui des enseignes de cuisine. Elles diffusent
+sur la France entière, lui diffuse sur un département. Ce n'est pas la même dépense, et
+c'est précisément pour ça qu'un cabinet peut exister à côté d'elles.
+
 À l'écran : la page essort.agency/ressources.
 
+
 Ch.9 · Sortie
-La big idea : trois photos qui ont déjà bien marché, une zone, une phrase. C'est tout ce
-qu'il faut pour commencer. La tension qu'on rouvre : ces images existent déjà, elles
-attendent depuis des années.
+
+L'idée : trois photos qui ont déjà bien marché, une zone, une phrase. C'est tout ce qu'il
+faut pour commencer.
+
+En clair : tu termines sur quelque chose de faisable dans la soirée. La tension : ces images
+existent déjà, elles attendent depuis des années.
+
 À l'écran : trois photos, une carte de département, une phrase.
 
 Source des relevés affichés :

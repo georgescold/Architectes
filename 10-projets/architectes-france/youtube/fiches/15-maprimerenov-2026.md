@@ -30,62 +30,109 @@ comme ces projets sont plus petits, il en faut un flux régulier : exactement ce
 recommandation ne sait pas produire.
 
 
-## LE FIL DE LA DÉMONSTRATION — une big idea par chapitre
+## LE FIL DE LA DÉMONSTRATION — une idée par chapitre
 
-Chaque chapitre installe une idée, et une seule. Lues à la suite, ces idées sont le
-cheminement complet de la vidéo : si l'une saute, la suivante ne tient plus.
-« À l'écran » indique ce qu'on montre pendant que l'idée s'installe.
+Une idée par chapitre, dans l'ordre. Lues à la suite, elles donnent le raisonnement complet
+de la vidéo.
+
+L'idée = ce que le spectateur doit avoir compris à la fin du chapitre.
+En clair = la même chose expliquée en détail, pour toi.
+À l'écran = ce qu'on montre pendant.
 
 Ch.1 · Ouverture
-La big idea : un marché monte pendant qu'on regarde celui qui baisse. Tout le monde parle de
-la chute des permis de construire ; à côté, la rénovation d'ampleur financée est publique et
-chiffrée.
+
+L'idée : pendant que tout le monde regarde le marché qui baisse, un autre monte.
+
+En clair : on parle partout de la chute des permis de construire. À côté, la rénovation
+financée par l'État est publique, chiffrée, et personne n'en parle sous l'angle des clients
+qu'elle crée.
+
 À l'écran : « Le marché n'a pas disparu. Il a changé d'adresse. »
 
+
 Ch.2 · D'où je parle
-La big idea : je ne suis pas conseiller en aides publiques. Je regarde une population de
-gens qui cherchent, et par quel chemin on peut être devant eux quand ils cherchent.
+
+L'idée : tu n'es pas conseiller en aides publiques, et tu le dis.
+
+En clair : tu ne vas pas expliquer comment monter un dossier ni détailler des barèmes. Ce
+que tu regardes, c'est une population de gens qui cherchent, et par quel chemin on peut être
+devant eux au bon moment.
+
 À l'écran : rien, plan de face.
 
+
 Ch.3 · L'état du dispositif — deux minutes maximum
-La big idea : où en est MaPrimeRénov' à la date du relevé, affichée à l'écran. Suspendu au
-1er janvier 2026 faute de budget voté, rouvert le 23 février. Budget 2026 de 3,6 milliards,
-parcours accompagné obligatoire pour les logements F et G. C'est le sujet le plus périssable
-de la chaîne, et le dire protège la vidéo.
+
+L'idée : où en est MaPrimeRénov' à la date exacte de ton relevé, affichée à l'écran.
+
+En clair : suspendue au 1er janvier 2026 faute de budget voté, rouverte le 23 février.
+Budget 2026 de 3,6 milliards contre 3,4 en 2025. Le parcours accompagné devient obligatoire
+pour les logements classés F ou G. C'est le sujet le plus périssable de la chaîne : tu
+revérifies tout la veille du tournage et tu affiches la date en permanence.
+
 À l'écran : la frise du dispositif, date du relevé en bandeau permanent.
 
+
 Ch.4 · Ce que ça déplace concrètement
-La big idea : ça crée une population de propriétaires avec une contrainte et un budget. Une
-rénovation d'ampleur, ce n'est pas une isolation isolée : c'est un bouquet de travaux,
-plusieurs lots, un calendrier et un dossier — exactement ce qu'un propriétaire ne sait pas
-conduire seul.
+
+L'idée : ça crée une population de propriétaires avec une obligation et un budget.
+
+En clair : une rénovation d'ampleur, ce n'est pas une isolation isolée. C'est un bouquet de
+travaux qui doit faire gagner au logement au moins deux classes énergétiques. En langage de
+chantier : plusieurs lots, plusieurs entreprises, des arbitrages techniques, un calendrier et
+un dossier. C'est-à-dire exactement ce qu'un propriétaire ne sait pas conduire seul. Et le
+parcours accompagné obligatoire pour les F et G signifie qu'un professionnel entre dans la
+boucle par construction — la question n'est pas s'il y en aura un, mais qui.
+
 À l'écran : ce que contient une rénovation d'ampleur, en liste.
 
+
 Ch.5 · La nuance que personne ne dit
-La big idea : le cœur honnête de l'épisode — le volume contre la valeur. La rénovation, c'est
-déjà 62 % des travaux déclarés par les architectes en volume, mais seulement 38 % en valeur.
-Archigraphie écrit noir sur blanc que ces travaux entraînent des honoraires moindres que le
-neuf. Donc ce n'est pas un eldorado : c'est là que sont les projets, et ils sont plus petits.
+
+L'idée : la rénovation, c'est là que sont les projets — et ce sont des projets plus petits.
+
+En clair : Archigraphie donne les deux chiffres. En volume, la rénovation représente 62 % des
+travaux déclarés par les architectes. En valeur, elle ne pèse que 38 %. Le document écrit
+noir sur blanc que ces travaux entraînent des honoraires moindres que le neuf. Donc ce n'est
+pas un eldorado, et le dire renforce ta crédibilité au lieu de l'affaiblir.
+
 À l'écran : deux barres opposées, 62 % du volume contre 38 % de la valeur.
 
+
 Ch.6 · Pourquoi votre réseau ne vous y emmènera pas
-La big idea : ce marché est structurellement invisible depuis la recommandation. Celui qui
-monte un dossier n'a pas d'architecte, n'en a jamais eu, n'en connaît aucun — il n'est dans
-le réseau de personne. En revanche il cherche activement en ligne pendant des semaines avant
-de contacter qui que ce soit.
-À l'écran : un schéma : le réseau d'un cabinet, et ce propriétaire, entièrement à l'extérieur.
+
+L'idée : ces propriétaires ne sont dans le réseau de personne.
+
+En clair : celui qui monte un dossier de rénovation d'ampleur n'a pas d'architecte, n'en a
+jamais eu, et n'en connaît aucun. Personne ne le présentera. En revanche il a une
+caractéristique très nette : il cherche activement en ligne, pendant des semaines, avant de
+contacter qui que ce soit.
+
+À l'écran : un schéma — le réseau d'un cabinet, et ce propriétaire, entièrement à
+l'extérieur.
+
 
 Ch.7 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
-La big idea : un marché de volume exige un flux régulier, pas trois projets d'un coup au
-printemps. Or la recommandation fonctionne par à-coups par définition. La publicité en ligne
-est le seul levier qui touche un profil aussi précis — zone, type de logement, moment de
-recherche — et le seul qui produise un flux qu'on règle.
+
+L'idée : des projets plus petits, ça veut dire qu'il en faut plus, et donc plus régulièrement.
+
+En clair : si chaque projet rapporte moins, il en faut mécaniquement davantage pour faire la
+même année — pas trois d'un coup au printemps et rien ensuite, mais un flux. Or la
+recommandation fonctionne par à-coups, par définition : elle dépend de qui a parlé à qui, ce
+mois-là. La publicité en ligne est le seul levier qui touche un profil aussi précis — zone,
+type de logement, moment de recherche — et le seul qui produise un flux qu'on règle.
+
 À l'écran : la page essort.agency/ressources.
 
+
 Ch.8 · Sortie
-La big idea : le dispositif bouge tous les trimestres, donc on revérifie avant d'agir — mais
-la population de propriétaires, elle, ne disparaîtra pas. La tension qu'on rouvre : ils
+
+L'idée : le dispositif bouge tous les trimestres, mais les propriétaires, eux, ne
+disparaîtront pas.
+
+En clair : tu redis qu'il faut revérifier avant d'agir, et tu laisses la tension : ils
 cherchent en ce moment.
+
 À l'écran : la date du relevé, une dernière fois.
 
 Sources affichées :
