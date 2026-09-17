@@ -20,8 +20,7 @@ C'est la donnée qui devrait décider d'une zone de prospection, et elle est à 
 Travailler une zone à faible activité en espérant qu'elle produise, c'est le moyen le plus
 cher de ne pas trouver de clients.
 
-
-### La solution que j'apporte dans cette vidéo
+Ce que la vidéo apporte en réponse :
 
 Choisir sa zone sur la donnée, puis régler sa diffusion dessus.
 
@@ -33,6 +32,37 @@ Puis la partie qui rend le chiffre utile : une zone de diffusion publicitaire se
 département, à la commune ou au rayon en kilomètres, et se change en trois clics. Deux
 départements voisins peuvent aller du simple au triple. Diffuser sur le bon coûte le même
 prix et ne produit pas la même chose.
+
+
+## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+
+PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
+ÉCRAN = ce que tu montres, et qui sert de preuve.
+Les phrases sont écrites pour être affichées telles quelles.
+
+1 · Ch.1 · PHRASE — « Combien de chantiers démarrent près de chez vous ? »
+2 · Ch.1 · PHRASE — « C'est public. Et personne ne regarde. »
+3 · Ch.3 · ÉCRAN — une carte de France avec un cercle dessiné à la main autour d'un
+département : la zone choisie au feeling.
+4 · Ch.3 · PHRASE — « Vous n'avez pas choisi votre zone. Vous en avez hérité. »
+5 · Ch.4 · ÉCRAN — la carte de l'Observatoire des territoires en direct, logements
+commencés pour 1 000 habitants, URL et date d'extraction visibles.
+6 · Ch.4 · ÉCRAN — deux départements voisins sélectionnés l'un après l'autre, leurs deux
+chiffres affichés côte à côte.
+7 · Ch.4 · PHRASE — « Même distance. Pas le même marché. »
+8 · Ch.5 · ÉCRAN — deux lignes qui s'opposent à l'écran : AUTORISÉS = ce qui arrive ·
+COMMENCÉS = ce qui se fait.
+9 · Ch.5 · PHRASE — « Ça ne mesure que le neuf. »
+10 · Ch.5 · PHRASE — « Donc jamais "ce département est mort". »
+11 · Ch.6 · ÉCRAN — l'écran de réglage d'une zone de diffusion : département, commune,
+rayon en kilomètres.
+12 · Ch.6 · PHRASE — « Trois clics. »
+13 · Ch.7 · ÉCRAN — la page essort.agency/ressources.
+14 · Ch.8 · PHRASE — « Votre département, et les deux d'à côté. Ce soir. »
+
+Sources affichées :
+https://www.observatoire-des-territoires.gouv.fr/nombre-de-logements-commences-constructions-neuves-par-pour-1-000-habitants
+https://www.statistiques.developpement-durable.gouv.fr/donnees-des-permis-de-construire-et-autres-autorisations-durbanisme
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

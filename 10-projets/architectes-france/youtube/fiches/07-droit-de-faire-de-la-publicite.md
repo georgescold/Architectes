@@ -17,8 +17,7 @@ Donc la question utile n'est pas « est-ce que j'ai le droit », elle est régl�
 « qu'est-ce que je n'ai pas le droit de dire », et la réponse tient en deux interdits. Tout
 le reste est un problème d'acquisition, pas de déontologie.
 
-
-### La solution que j'apporte dans cette vidéo
+Ce que la vidéo apporte en réponse :
 
 Passer de « est-ce que j'ai le droit » à « qu'est-ce que je diffuse, où, et pour quel
 budget ».
@@ -30,6 +29,36 @@ qui ne vous connaissent pas.
 
 Trente-quatre ans d'autorisation que presque personne n'utilise, ça veut dire un espace
 publicitaire vide — et un espace vide, ça coûte moins cher.
+
+
+## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+
+PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
+ÉCRAN = ce que tu montres, et qui sert de preuve.
+Les phrases sont écrites pour être affichées telles quelles.
+
+1 · Ch.1 · PHRASE — « Depuis 1992. »
+2 · Ch.1 · PHRASE — « Vous avez le droit de faire de la publicité depuis 34 ans. »
+3 · Ch.2 · ÉCRAN — la distinction affichée d'emblée : ce chapitre concerne les architectes
+inscrits à l'Ordre · les architectes d'intérieur ne sont pas concernés par ce code.
+4 · Ch.3 · ÉCRAN — le texte de l'article sur Légifrance, la phrase qui autorise surlignée,
+URL visible.
+5 · Ch.3 · PHRASE — « Lisez la phrase vous-même. »
+6 · Ch.4 · ÉCRAN — la date d'abrogation et la date du texte de remplacement, côte à côte :
+même jour.
+7 · Ch.4 · PHRASE — « Abrogé et remplacé le même jour. »
+8 · Ch.5 · ÉCRAN — le décret du nouveau code de déontologie, entrée en vigueur au
+1er juillet 2026, article affiché.
+9 · Ch.5 · PHRASE — « Le nouveau code n'a rien changé là-dessus. »
+10 · Ch.6 · ÉCRAN — la position publique de l'Ordre, citée à l'écran.
+11 · Ch.7 · ÉCRAN — les deux seules limites, en liste : ne pas mentir · ne pas dénigrer.
+12 · Ch.7 · PHRASE — « Deux interdits. C'est tout. »
+13 · Ch.8 · ÉCRAN — la page essort.agency/ressources.
+14 · Ch.9 · PHRASE — « La question n'est plus le droit. C'est quoi diffuser, et où. »
+
+Sources affichées :
+https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000722752/
+https://www.architectes.org/
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

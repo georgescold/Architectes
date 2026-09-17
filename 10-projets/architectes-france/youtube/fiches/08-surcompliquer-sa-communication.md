@@ -18,8 +18,7 @@ Et l'obstacle n'est pas la paresse : c'est le perfectionnisme, qu'on leur a not�
 six ans. Attendre que le book soit étoffé, que la charte soit finie, que le site soit
 parfait. Pendant ce temps, zéro demande.
 
-
-### La solution que j'apporte dans cette vidéo
+Ce que la vidéo apporte en réponse :
 
 Écrire trois informations, aujourd'hui, avant de refaire quoi que ce soit.
 
@@ -30,6 +29,32 @@ euro.
 Et c'est aussi la condition pour que la suite ait un sens : une campagne envoie des gens
 sur une page. Si la page ne dit pas ces trois choses, chaque visiteur est payé et repart.
 C'est pour ça qu'on ne diffuse jamais avant de les avoir écrites.
+
+
+## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+
+PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
+ÉCRAN = ce que tu montres, et qui sert de preuve.
+Les phrases sont écrites pour être affichées telles quelles.
+
+1 · Ch.1 · PHRASE — « Il ne vous manque pas une stratégie. »
+2 · Ch.1 · PHRASE — « Il vous manque trois informations. »
+3 · Ch.3 · PHRASE — « Ce n'est pas de la paresse. C'est du perfectionnisme. »
+4 · Ch.3 · PHRASE — « On vous l'a noté pendant six ans. »
+5 · Ch.4 · ÉCRAN — un compteur à zéro, plein écran, qui ne bouge pas pendant que tu
+énumères les mois d'attente.
+6 · Ch.5 · ÉCRAN — une page d'accueil reconstituée par toi, telle que la voit un visiteur :
+grande image, aucune phrase. Chronomètre de 5 secondes en surimpression.
+7 · Ch.5 · PHRASE — « Cinq secondes. Il n'a rien appris. »
+8 · Ch.6 · ÉCRAN — les trois informations, une par une, qui s'ajoutent à l'écran :
+OÙ · QUOI · À PARTIR DE COMBIEN.
+9 · Ch.6 · PHRASE — « La troisième fait peur. C'est celle qui trie. »
+10 · Ch.7 · ÉCRAN — la réécriture en direct : la page avant, puis la même page avec les
+trois informations en haut. Les deux côte à côte à la fin.
+11 · Ch.7 · PHRASE — « Une heure de travail. Zéro euro. »
+12 · Ch.8 · ÉCRAN — la page essort.agency/ressources.
+13 · Ch.9 · PHRASE — « Remplacez le nom de votre agence par celui d'un confrère. »
+14 · Ch.9 · PHRASE — « Si la phrase reste vraie, elle ne dit rien. »
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

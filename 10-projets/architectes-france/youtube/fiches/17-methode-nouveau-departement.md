@@ -15,8 +15,7 @@ C'est-à-dire sans avoir décidé qui, où, pour quoi.
 Un lancement d'acquisition suit exactement les mêmes phases qu'un projet d'architecture.
 La méthode, il la connaît déjà. Il ne l'a simplement jamais appliquée à ses propres clients.
 
-
-### La solution que j'apporte dans cette vidéo
+Ce que la vidéo apporte en réponse :
 
 Appliquer à ses propres clients la méthode qu'on applique déjà à ses projets.
 
@@ -28,6 +27,32 @@ qui se transforme.
 Et je donne la raison de l'ordre, qui est la vraie valeur de l'épisode : chaque phase rend
 la suivante mesurable. Lancer une campagne sans esquisse ne donne pas un mauvais résultat,
 ça donne un résultat illisible — on a dépensé sans rien apprendre.
+
+
+## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+
+PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
+ÉCRAN = ce que tu montres, et qui sert de preuve.
+Les phrases sont écrites pour être affichées telles quelles.
+
+1 · Ch.1 · ÉCRAN — les phases d'une mission de maîtrise d'œuvre, alignées de gauche à
+droite comme une frise.
+2 · Ch.1 · PHRASE — « Vous ne démarrez jamais un chantier sans ça. »
+3 · Ch.1 · ÉCRAN — la même frise, vide, sous le mot ACQUISITION.
+4 · Ch.3 · PHRASE — « Vous n'avez pas eu un mauvais résultat. »
+5 · Ch.3 · PHRASE — « Vous n'avez rien appris du tout. »
+6 · Ch.4 · ÉCRAN — PHASE 1 · ESQUISSE, et les trois questions qui s'affichent : qui · où ·
+pour quoi. Livrable : trois lignes écrites.
+7 · Ch.4 · ÉCRAN — les trois lignes écrites en direct devant la caméra.
+8 · Ch.5 · ÉCRAN — PHASE 2 · PERMIS. Livrable : une fiche revendiquée, une page réécrite.
+9 · Ch.6 · ÉCRAN — PHASE 3 · CHANTIER. Livrable : des demandes entrantes mesurées.
+10 · Ch.7 · ÉCRAN — PHASE 4 · DIRECTION DE L'EXÉCUTION. Livrable : un taux de
+transformation connu.
+11 · Ch.7 · PHRASE — « Celle-là, tout le monde la saute. »
+12 · Ch.8 · ÉCRAN — les quatre phases réunies, avec une flèche qui va de chacune à la
+suivante : chaque phase rend la suivante mesurable.
+13 · Ch.8 · ÉCRAN — la page essort.agency/ressources.
+14 · Ch.9 · PHRASE — « L'esquisse tient en trois lignes. Écrivez-les ce soir. »
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

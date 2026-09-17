@@ -16,8 +16,7 @@ La solution n'est pas de mieux défendre son tarif. C'est de faire arriver les g
 sachant déjà à quoi ils s'engagent — ce qui est un problème d'acquisition, pas de
 négociation.
 
-
-### La solution que j'apporte dans cette vidéo
+Ce que la vidéo apporte en réponse :
 
 Faire arriver les gens en sachant déjà à quoi ils s'engagent.
 
@@ -29,6 +28,34 @@ Une demande venue d'une plateforme arrive avec trois concurrents en face et se g
 prix. Une demande venue d'une campagne qu'on pilote arrive après avoir lu la zone, le type
 de projet et l'ordre de grandeur, et elle n'écrit qu'à un seul cabinet. C'est la même
 prestation, dans deux conversations opposées.
+
+
+## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+
+PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
+ÉCRAN = ce que tu montres, et qui sert de preuve.
+Les phrases sont écrites pour être affichées telles quelles.
+
+1 · Ch.1 · PHRASE — « Ne baissez pas. »
+2 · Ch.1 · PHRASE — « Ça ne vous fera pas signer plus. »
+3 · Ch.3 · ÉCRAN — le calcul en direct, chiffres ronds annoncés comme tels : six projets ·
+250 000 € de travaux · 12 % · 180 000 € d'honoraires.
+4 · Ch.3 · ÉCRAN — la ligne suivante qui s'affiche : −20 % → −36 000 € sur l'année.
+5 · Ch.3 · PHRASE — « Le même travail. Moins 36 000 €. »
+6 · Ch.4 · PHRASE — « Tous les postes sont compressés. Pas seulement le vôtre. »
+7 · Ch.5 · PHRASE — « Ce n'est pas une donnée. C'est ce que vous vous dites entre vous. »
+8 · Ch.6 · PHRASE — « On vous a appris que votre temps ne valait rien. »
+9 · Ch.6 · PHRASE — « Six ans de charrettes. Ça ne s'oublie pas tout seul. »
+10 · Ch.7 · ÉCRAN — trois cases vides qui se remplissent : OÙ · QUOI · À PARTIR DE COMBIEN.
+Puis une quatrième, PRIX, qui s'allume en dernier.
+11 · Ch.7 · PHRASE — « S'il commence par le prix, c'est que rien d'autre n'a été dit. »
+12 · Ch.8 · ÉCRAN — deux colonnes : PLATEFORME → trois concurrents en face · CAMPAGNE →
+un seul cabinet contacté.
+13 · Ch.8 · ÉCRAN — la page essort.agency/ressources.
+14 · Ch.9 · PHRASE — « La négociation se gagne avant le rendez-vous. »
+
+Ordre de grandeur d'honoraires affiché :
+https://www.hemea.com/fr/architecture/architecte-interieur/prix
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

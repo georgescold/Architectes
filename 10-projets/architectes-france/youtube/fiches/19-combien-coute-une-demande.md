@@ -18,8 +18,7 @@ Et la plupart ne le connaissent pas, parce qu'on ne leur a jamais appris à rais
 coût de conquête : dans leur formation, un projet a un coût de construction, pas un coût
 d'acquisition.
 
-
-### La solution que j'apporte dans cette vidéo
+Ce que la vidéo apporte en réponse :
 
 Donner le tableau qui rend la décision évidente, avec ses chiffres à lui.
 
@@ -31,6 +30,36 @@ Et l'argument qui compte vraiment n'est pas que la publicité serait moins chèr
 qu'elle est le seul canal dont on connaisse le prix. Le bouche-à-oreille n'envoie pas de
 facture, mais il n'envoie pas de statistiques non plus — donc on ne peut prendre aucune
 décision dessus.
+
+
+## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+
+PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
+ÉCRAN = ce que tu montres, et qui sert de preuve.
+Les phrases sont écrites pour être affichées telles quelles.
+
+1 · Ch.1 · ÉCRAN — le calcul d'ouverture, chiffres ronds annoncés comme tels :
+250 000 € de travaux × 12 % = 30 000 €.
+2 · Ch.1 · PHRASE — « Un seul projet. »
+3 · Ch.3 · PHRASE — « On ne vous a jamais appris à raisonner en coût d'acquisition. »
+4 · Ch.3 · PHRASE — « Le mot n'existe pas dans votre formation. »
+5 · Ch.4 · ÉCRAN — la mauvaise unité barrée à l'écran : € PAR MOIS. Puis la bonne qui
+s'affiche : % DES HONORAIRES.
+6 · Ch.5 · ÉCRAN — le tableur vide, six cases numérotées, construit en direct.
+7 · Ch.5 · ÉCRAN — la formule de la case 5 écrite en clair : coût d'une demande ÷ (taux 1
+× taux 2).
+8 · Ch.6 · PHRASE — « La prospection n'est pas gratuite. »
+9 · Ch.6 · PHRASE — « Une demi-journée de relances, valorisée à votre taux horaire. »
+10 · Ch.7 · ÉCRAN — la case 6 seule, en gros, avec tes trois seuils de lecture affichés
+comme ta lecture et non comme une norme.
+11 · Ch.7 · PHRASE — « Le problème est presque toujours dans les taux. »
+12 · Ch.7 · PHRASE — « Et les taux, ça se corrige sans dépenser un euro de plus. »
+13 · Ch.8 · PHRASE — « Le bouche-à-oreille n'envoie pas de facture. Ni de statistiques. »
+14 · Ch.8 · ÉCRAN — la page essort.agency/ressources.
+15 · Ch.9 · PHRASE — « Cases 1 à 3, avec vos chiffres. Une heure de travail. »
+
+Ordre de grandeur d'honoraires affiché :
+https://www.hemea.com/fr/architecture/architecte-interieur/prix
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

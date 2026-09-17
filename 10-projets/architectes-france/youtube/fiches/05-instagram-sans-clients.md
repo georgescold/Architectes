@@ -17,8 +17,7 @@ mécanisme.
 Et pendant ce temps, 97 publicités actives promettent un plan 3D gratuit à ses clients.
 Sa photothèque n'est pas un portfolio : c'est un stock de créatives déjà testées qui dort.
 
-
-### La solution que j'apporte dans cette vidéo
+Ce que la vidéo apporte en réponse :
 
 Transformer une photothèque qui dort en demandes entrantes.
 
@@ -29,6 +28,34 @@ avec une seule phrase qui dit ce que vous faites et où.
 Un architecte d'intérieur part avec l'avantage que personne n'a dans le bâtiment : il a
 déjà les visuels. Ce qui lui manque n'est pas du contenu, c'est le mécanisme qui met ce
 contenu devant des inconnus.
+
+
+## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+
+PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
+ÉCRAN = ce que tu montres, et qui sert de preuve.
+Les phrases sont écrites pour être affichées telles quelles.
+
+1 · Ch.1 · PHRASE — « 52 600 abonnés. »
+2 · Ch.1 · PHRASE — « 12 publicités. En tout. »
+3 · Ch.2 · ÉCRAN — le compte concerné, nom masqué, seul le nombre d'abonnés lisible.
+4 · Ch.3 · ÉCRAN — une grille de neuf photos d'intérieur, plein écran, sans commentaire.
+5 · Ch.3 · PHRASE — « Personne d'autre dans le bâtiment n'a ça. »
+6 · Ch.4 · ÉCRAN — la bibliothèque publicitaire, 97 annonces actives promettant un plan
+gratuit, date visible.
+7 · Ch.4 · PHRASE — « Pendant que vous publiez, eux diffusent. »
+8 · Ch.5 · PHRASE — « Le code de déontologie ne vous concerne pas. »
+9 · Ch.5 · PHRASE — « Vous êtes les moins empêchés, et les moins présents. »
+10 · Ch.6 · ÉCRAN — deux colonnes côte à côte : PUBLIER → ceux qui vous suivent déjà ·
+DIFFUSER → des gens qui ne vous connaissent pas, dans la zone que vous choisissez.
+11 · Ch.7 · PHRASE — « Vos publications sont des créatives déjà testées. »
+12 · Ch.7 · ÉCRAN — une publication avec ses chiffres d'engagement, puis la même image
+présentée comme une annonce.
+13 · Ch.8 · ÉCRAN — la page essort.agency/ressources.
+14 · Ch.9 · PHRASE — « Trois photos qui ont marché. Une zone. Une phrase. »
+
+Source des relevés affichés :
+https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

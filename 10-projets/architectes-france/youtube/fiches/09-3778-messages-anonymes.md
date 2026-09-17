@@ -16,8 +16,7 @@ pas de compétence.
 Et deux d'entre elles se règlent vite : l'incertitude, en ayant un canal de demandes qu'on
 contrôle, et le travail gratuit, en annonçant son ordre de grandeur avant le rendez-vous.
 
-
-### La solution que j'apporte dans cette vidéo
+Ce que la vidéo apporte en réponse :
 
 Traiter les deux douleurs qui se règlent, et le dire clairement pour les trois autres.
 
@@ -28,6 +27,32 @@ avant le rendez-vous, ce qui fait disparaître la moitié des visites inutiles.
 
 Les honoraires, la considération et l'isolement ne se règlent pas par une campagne. Je le
 dis dans la vidéo, et c'est ce qui rend les deux premières crédibles.
+
+
+## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+
+PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
+ÉCRAN = ce que tu montres, et qui sert de preuve.
+Les phrases sont écrites pour être affichées telles quelles.
+
+1 · Ch.1 · PHRASE — « 3 778 messages. »
+2 · Ch.1 · PHRASE — « Écrits par des gens qui savaient que personne ne les identifierait. »
+3 · Ch.2 · ÉCRAN — la composition du corpus, en liste : 247 publications · 3 531
+commentaires · majorité anglophone · moins de 200 messages français.
+4 · Ch.2 · PHRASE — « Je vous donne la limite avant que vous la trouviez. »
+5 · Ch.3 · ÉCRAN — un verbatim anonymisé sur les honoraires, texte blanc sur fond noir,
+aucun pseudo, aucune interface visible.
+6 · Ch.4 · PHRASE — « Je ne sais pas d'où viendra le prochain projet. »
+7 · Ch.4 · ÉCRAN — le verbatim de celui qui décrit 90 % d'appels sans réponse, anonymisé.
+8 · Ch.5 · PHRASE — « Trois heures de rendez-vous. Zéro euro facturé. »
+9 · Ch.6 · ÉCRAN — le titre du fil « pourquoi tout le monde nous déteste », seul, plein
+écran, sans capture d'interface.
+10 · Ch.7 · PHRASE — « Chacun croit être le seul. »
+11 · Ch.8 · ÉCRAN — les cinq douleurs en liste, puis deux d'entre elles qui s'allument en
+vert : l'incertitude · le travail gratuit.
+12 · Ch.8 · PHRASE — « Ces deux-là se règlent. Les trois autres, non. »
+13 · Ch.9 · ÉCRAN — la page essort.agency/ressources.
+14 · Ch.10 · PHRASE — « Aucune des cinq ne se règle en devenant meilleur architecte. »
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

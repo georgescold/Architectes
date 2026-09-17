@@ -19,8 +19,7 @@ Autrement dit, ce métier a une seule méthode connue pour bien payer, et elle p
 ans — le temps de se constituer un réseau de prescripteurs. Toute la question est de
 savoir s'il existe un chemin plus court. Il en existe un, et c'est mon métier.
 
-
-### La solution que j'apporte dans cette vidéo
+Ce que la vidéo apporte en réponse :
 
 Le chemin plus court, c'est d'arrêter d'attendre que le réseau se constitue et d'ouvrir une
 source de projets qui, elle, se décide.
@@ -32,6 +31,34 @@ quelques jours, sur la zone et le type de projet qu'on choisit.
 
 Ce n'est pas mieux que le réseau. C'est ce qu'on met à côté pendant que le réseau se
 construit.
+
+
+## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+
+PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
+ÉCRAN = ce que tu montres, et qui sert de preuve.
+Les phrases sont écrites pour être affichées telles quelles.
+
+1 · Ch.1 · PHRASE — « 32 983 € »
+2 · Ch.1 · PHRASE — « C'est le revenu médian d'un architecte libéral. »
+3 · Ch.2 · ÉCRAN — la couverture d'Archigraphie 2024-2026, puis la mention de l'année des
+données : revenus 2022, effectifs 2023. Tu la laisses à l'image.
+4 · Ch.3 · ÉCRAN — le graphique 19, page 32, en plein écran, sans commentaire pendant
+trois secondes.
+5 · Ch.3 · PHRASE — « Le quart du bas : moins de 13 342 €. »
+6 · Ch.4 · PHRASE — « Une crise frappe tout le monde. »
+7 · Ch.4 · PHRASE — « Là, une moitié monte pendant que l'autre descend. »
+8 · Ch.5 · ÉCRAN — une flèche qui monte et une flèche qui descend, sur le même graphique,
+en surimpression.
+9 · Ch.6 · ÉCRAN — la page du revenu par tranche d'âge, avec le pic 55-64 ans entouré.
+10 · Ch.6 · PHRASE — « Trente ans pour arriver là. »
+11 · Ch.7 · PHRASE — « Ce n'est pas le talent qui sépare les deux. »
+12 · Ch.7 · PHRASE — « C'est le nombre de sources de projets. »
+13 · Ch.8 · ÉCRAN — la page essort.agency/ressources.
+14 · Ch.9 · PHRASE — « Combien de sources avez-vous, vraiment ? »
+
+Source du document affiché :
+https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

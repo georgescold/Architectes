@@ -18,8 +18,7 @@ Un marché sans concurrence publicitaire et sans concurrence gratuite, ça n'arr
 jamais. La seule chose qui manque, c'est d'aller le chercher — parce que ce client-là ne
 vous trouvera jamais tout seul.
 
-
-### La solution que j'apporte dans cette vidéo
+Ce que la vidéo apporte en réponse :
 
 Aller chercher ce client là où il se décide, au lieu d'attendre qu'il pense à un architecte
 d'intérieur — ce qu'il ne fera pas, puisqu'il ne sait pas que ce métier s'occupe de son
@@ -32,6 +31,37 @@ décoration.
 
 C'est le seul moyen d'exister dans la tête de quelqu'un qui n'a jamais tapé « architecte
 d'intérieur » de sa vie.
+
+
+## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+
+PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
+ÉCRAN = ce que tu montres, et qui sert de preuve.
+Les phrases sont écrites pour être affichées telles quelles.
+
+1 · Ch.1 · PHRASE — « 97 publicités promettent un plan gratuit à vos clients. »
+2 · Ch.1 · PHRASE — « Sur le client dont je vais vous parler : zéro. »
+3 · Ch.2 · ÉCRAN — la bibliothèque publicitaire, recherche sur la conception gratuite,
+compteur à 97, date du relevé visible à l'image.
+4 · Ch.3 · ÉCRAN — le CERFA 13824*04, autorisation de travaux en ERP, pages sécurité et
+accessibilité encadrées en rouge.
+5 · Ch.3 · PHRASE — « Il n'achète pas du style. Il achète une date d'ouverture. »
+6 · Ch.3 · ÉCRAN — les cinq catégories d'ERP, en liste simple à l'écran.
+7 · Ch.4 · PHRASE — « Le loyer court pendant les travaux. »
+8 · Ch.4 · PHRASE — « Un mois de retard = un mois payé pour rien. »
+9 · Ch.5 · ÉCRAN — recherche « architecte restaurant » dans la bibliothèque publicitaire :
+aucun résultat actif, date visible.
+10 · Ch.5 · PHRASE — « 0 publicité active sur ce segment. »
+11 · Ch.6 · PHRASE — « Il ne tapera jamais "architecte d'intérieur". »
+12 · Ch.6 · PHRASE — « Il tape le nom de son problème, pas le nom de votre métier. »
+13 · Ch.7 · ÉCRAN — les trois lignes du ciblage écrites en direct : la zone · le type de
+local · le moment (ouverture, reprise, mise aux normes).
+14 · Ch.8 · ÉCRAN — la page essort.agency/ressources, immobile, pendant que tu parles.
+15 · Ch.9 · PHRASE — « Dans votre ville, cette semaine, des locaux changent de main. »
+
+Sources des chiffres affichés :
+https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
+https://www.service-public.fr/particuliers/vosdroits/R11311
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

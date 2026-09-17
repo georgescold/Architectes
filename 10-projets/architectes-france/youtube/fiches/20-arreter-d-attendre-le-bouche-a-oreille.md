@@ -16,8 +16,7 @@ font vivre.
 Ce n'est donc pas une stratégie, c'est un héritage — et un héritage se consomme. La question
 n'est pas de l'abandonner, elle est de savoir ce qu'on met à côté avant qu'il ne baisse.
 
-
-### La solution que j'apporte dans cette vidéo
+Ce que la vidéo apporte en réponse :
 
 Construire le deuxième canal pendant que le premier fonctionne encore.
 
@@ -30,6 +29,39 @@ peut pas être le seul. Et le moment de construire le second n'est pas celui où
 baisse, parce que tous les canaux demandent des semaines ou des mois avant de produire —
 sauf la publicité en ligne, qui produit en quelques jours. C'est ce qui en fait la sécurité
 qu'on met en place avant d'en avoir besoin.
+
+
+## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+
+PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
+ÉCRAN = ce que tu montres, et qui sert de preuve.
+Les phrases sont écrites pour être affichées telles quelles.
+
+1 · Ch.1 · PHRASE — « Vos cinq derniers clients. »
+2 · Ch.1 · PHRASE — « Qui vous les a envoyés ? »
+3 · Ch.2 · PHRASE — « Je ne vais pas vous dire d'arrêter. C'est votre meilleur canal. »
+4 · Ch.3 · ÉCRAN — les trois conditions d'une recommandation, qui doivent s'allumer en
+même temps : un ancien client content · quelqu'un qui a un projet · le moment où le sujet
+vient dans la conversation.
+5 · Ch.3 · PHRASE — « Aucune des trois ne dépend de vous. »
+6 · Ch.4 · ÉCRAN — les trois limites, une par une : une frontière départementale barrée ·
+un bouton grisé · un visage qui vieillit.
+7 · Ch.4 · PHRASE — « Il ne franchit pas un département. »
+8 · Ch.4 · PHRASE — « Il ne s'accélère pas. »
+9 · Ch.4 · PHRASE — « Il vieillit avec ceux qui le font vivre. »
+10 · Ch.5 · ÉCRAN — une courbe qui descend de 10 % par an pendant cinq ans, presque plate
+à l'œil. Puis le total affiché d'un coup.
+11 · Ch.5 · PHRASE — « Trop lent pour se voir. Assez pour tout changer. »
+12 · Ch.6 · ÉCRAN — le graphique des quartiles d'Archigraphie, rappelé trois secondes,
+sans être re-expliqué.
+13 · Ch.7 · ÉCRAN — le tableau des dix derniers clients, rempli en direct, colonne
+« qui a donné mon nom » mise en évidence.
+14 · Ch.8 · ÉCRAN — la page essort.agency/ressources.
+15 · Ch.9 · PHRASE — « Le moment de construire le second, c'est pendant que le premier
+fonctionne encore. »
+
+Source affichée :
+https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

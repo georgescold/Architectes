@@ -17,8 +17,7 @@ Une fiche vide à côté de deux fiches remplies, sur trois noms comparés, ça 
 avec aucun budget publicitaire. C'est le levier le moins cher du métier, et le plus
 négligé.
 
-
-### La solution que j'apporte dans cette vidéo
+Ce que la vidéo apporte en réponse :
 
 Revendiquer sa fiche et la corriger en six points, dans l'ordre d'impact.
 
@@ -29,6 +28,35 @@ zone, les horaires, les photos, les avis, le numéro.
 Une heure de travail, zéro euro, effet en quelques semaines. Et c'est aussi ce qui doit être
 fait avant toute campagne : un visiteur intéressé cherche le nom du cabinet pour vérifier,
 et il tombe sur cette fiche. Si elle est vide, le clic a été payé pour rien.
+
+
+## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+
+PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
+ÉCRAN = ce que tu montres, et qui sert de preuve.
+Les phrases sont écrites pour être affichées telles quelles.
+
+1 · Ch.1 · PHRASE — « Google a créé une page à votre nom. »
+2 · Ch.1 · PHRASE — « Sans vous demander. »
+3 · Ch.3 · ÉCRAN — un téléphone filmé de face, recherche « architecte + ville » : la carte
+et les trois fiches remplissent l'écran, aucun site visible.
+4 · Ch.3 · PHRASE — « Votre site n'est pas là. »
+5 · Ch.3 · ÉCRAN — les cinq éléments qu'un client voit en une seconde, entourés un par un :
+nom · note · nombre d'avis · photo · distance.
+6 · Ch.4 · PHRASE — « N'importe qui peut y ajouter une photo. »
+7 · Ch.5 · ÉCRAN — l'audit en direct sur la fiche choisie, les six points cochés ou non
+dans un tableau à l'écran.
+8 · Ch.5 · PHRASE — « La catégorie est fausse. Tout le reste ne sert plus à rien. »
+9 · Ch.6 · ÉCRAN — les corrections classées par impact, de haut en bas, avec le temps que
+chacune prend.
+10 · Ch.6 · PHRASE — « 40 avis qui s'arrêtent il y a trois ans < 8 avis récents. »
+11 · Ch.7 · PHRASE — « Un client intéressé cherche votre nom pour vérifier. »
+12 · Ch.7 · PHRASE — « Fiche vide = clic payé pour rien. »
+13 · Ch.7 · ÉCRAN — la page essort.agency/ressources.
+14 · Ch.8 · PHRASE — « Une heure. Zéro euro. Effet en quelques semaines. »
+
+Outil montré :
+https://www.google.com/business/
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

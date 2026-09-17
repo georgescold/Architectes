@@ -17,8 +17,7 @@ Ce qui sépare les deux groupes n'est ni le talent ni la taille. C'est le nombre
 de projets. Ceux qui traversent en ont plusieurs ; ceux qui tombent en avaient une seule,
 et elle s'est fermée.
 
-
-### La solution que j'apporte dans cette vidéo
+Ce que la vidéo apporte en réponse :
 
 Se doter d'une deuxième source de projets pendant que la première tient encore.
 
@@ -29,6 +28,35 @@ sauf un.
 
 La publicité en ligne est le seul qui s'ouvre sur décision et produise en quelques jours.
 C'est ce qui en fait, dans un tri, la seule réponse disponible à court terme.
+
+
+## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+
+PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
+ÉCRAN = ce que tu montres, et qui sert de preuve.
+Les phrases sont écrites pour être affichées telles quelles.
+
+1 · Ch.1 · PHRASE — « Ce n'est pas la crise. »
+2 · Ch.1 · PHRASE — « C'est un tri. »
+3 · Ch.2 · ÉCRAN — la couverture d'Archigraphie, année des données affichée.
+4 · Ch.3 · ÉCRAN — l'article de France 3, titre lisible, avec la mention GIRONDE ajoutée en
+gros par-dessus. Tu montres toi-même que c'est régional.
+5 · Ch.3 · PHRASE — « Régional. Pas national. »
+6 · Ch.4 · ÉCRAN — les trois causes en liste : les taux · le coût des matériaux · la
+concurrence sur la maîtrise d'œuvre.
+7 · Ch.5 · ÉCRAN — le graphique des quartiles, avec les deux extrémités entourées et une
+flèche opposée sur chacune.
+8 · Ch.5 · PHRASE — « 4,2 → 4,5 »
+9 · Ch.5 · PHRASE — « L'écart se creuse. Une crise ne fait pas ça. »
+10 · Ch.6 · PHRASE — « Ceux qui montent ont plusieurs sources. »
+11 · Ch.7 · PHRASE — « Quand tout le monde coupe, les enchères baissent. »
+12 · Ch.8 · ÉCRAN — la page essort.agency/ressources.
+13 · Ch.9 · PHRASE — « Dans une crise, attendre est raisonnable. »
+14 · Ch.9 · PHRASE — « Dans un tri, c'est une position. »
+
+Sources affichées :
+https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
+https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/ils-font-face-a-une-chute-abyssale-des-commandes-l-inquietude-des-architectes-qui-voient-le-nombre-de-liquidations-judiciaires-multiplie-par-trois-3313596.html
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

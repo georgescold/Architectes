@@ -20,8 +20,7 @@ ce que je veux faire, là où j'habite, pour un budget comme le mien. Et une pag
 répond pas à ça ne peut convertir aucun trafic, qu'il vienne de Google, d'Instagram ou
 d'une campagne payante.
 
-
-### La solution que j'apporte dans cette vidéo
+Ce que la vidéo apporte en réponse :
 
 Mettre quatre informations au-dessus de la ligne de flottaison : la zone, le type de
 projet, un ordre de grandeur d'enveloppe, un interlocuteur joignable.
@@ -32,6 +31,32 @@ Dans la vidéo, je montre le relevé, puis je réécris une page en direct avec 
 Et c'est ce qui décide du prix de toute acquisition future : sur une page qui dit ces
 quatre choses, un même budget publicitaire produit deux fois plus de demandes, et des
 demandes qu'on peut réellement traiter.
+
+
+## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+
+PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
+ÉCRAN = ce que tu montres, et qui sert de preuve.
+Les phrases sont écrites pour être affichées telles quelles.
+
+1 · Ch.1 · PHRASE — « 40 pages d'accueil. »
+2 · Ch.1 · PHRASE — « Une seule question : est-ce que je saurais quoi faire de vous ? »
+3 · Ch.2 · ÉCRAN — ton tableur de relevé, noms masqués, les six colonnes lisibles.
+4 · Ch.3 · ÉCRAN — une frise du temps : plusieurs semaines de recherche en silence, puis
+un seul message envoyé, tout à la fin.
+5 · Ch.3 · PHRASE — « Vous ne saurez jamais que les deux autres ont existé. »
+6 · Ch.4 · ÉCRAN — les quatre profils en liste : il agrandit · il rénove de l'ancien · il
+construit · il aménage un local.
+7 · Ch.4 · PHRASE — « Aucun des quatre ne cherche "un architecte". »
+8 · Ch.4 · PHRASE — « Chacun cherche quelqu'un qui a déjà fait la même chose. »
+9 · Ch.5 · ÉCRAN — les totaux de ton relevé, colonne par colonne, chiffres à l'image.
+10 · Ch.6 · PHRASE — « Ces pages sont faites pour un jury. »
+11 · Ch.6 · PHRASE — « Le client n'est pas un jury. »
+12 · Ch.7 · ÉCRAN — une page reconstituée par toi, avec les quatre informations qui
+apparaissent une par une au-dessus de la ligne de flottaison.
+13 · Ch.8 · ÉCRAN — la page essort.agency/ressources.
+14 · Ch.9 · PHRASE — « Votre première phrase, avec le nom d'un confrère à la place du
+vôtre. Toujours vraie ? »
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

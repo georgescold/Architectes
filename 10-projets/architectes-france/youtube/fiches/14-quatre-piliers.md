@@ -17,8 +17,7 @@ L'exercice qui fait basculer la vidéo tient en une question : ouvrez la liste d
 clients des trois dernières années, et demandez-vous quel âge a la personne qui vous a
 envoyé chacun d'eux.
 
-
-### La solution que j'apporte dans cette vidéo
+Ce que la vidéo apporte en réponse :
 
 Monter le quatrième pilier, et dans le bon ordre.
 
@@ -29,6 +28,32 @@ quelques semaines. Contenu, plusieurs mois de régularité. Publicité, quelques
 Un cabinet qui a besoin de projets dans six semaines n'a donc qu'une seule option parmi les
 quatre. Ce n'est pas un jugement de valeur : la recommandation reste la meilleure en taux de
 signature. C'est la seule qui donne un interrupteur.
+
+
+## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+
+PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
+ÉCRAN = ce que tu montres, et qui sert de preuve.
+Les phrases sont écrites pour être affichées telles quelles.
+
+1 · Ch.1 · ÉCRAN — quatre colonnes dessinées, trois vides, une seule remplie.
+2 · Ch.1 · PHRASE — « Vous en avez un sur quatre. »
+3 · Ch.1 · PHRASE — « Et c'est celui sur lequel vous ne pouvez rien. »
+4 · Ch.3 · ÉCRAN — un tableau vide à remplir avec le spectateur : client · qui l'a envoyé ·
+âge de cette personne.
+5 · Ch.3 · PHRASE — « Combien de noms différents dans la colonne du milieu ? »
+6 · Ch.4 · PHRASE — « Ce n'était pas une erreur. Ça marchait. »
+7 · Ch.5 · ÉCRAN — les quatre piliers avec leurs trois caractéristiques, en tableau :
+délai · coût · pilotable oui/non.
+8 · Ch.5 · ÉCRAN — la colonne DÉLAI seule, qui reste à l'écran : plusieurs mois ·
+quelques semaines · plusieurs mois · quelques jours.
+9 · Ch.5 · PHRASE — « Un seul produit en quelques jours. »
+10 · Ch.6 · PHRASE — « Ce n'est pas une stratégie. C'est une rente. »
+11 · Ch.6 · PHRASE — « Une rente peut s'arrêter en un trimestre. »
+12 · Ch.7 · PHRASE — « La recommandation reste la meilleure. Elle n'a juste pas
+d'interrupteur. »
+13 · Ch.7 · ÉCRAN — la page essort.agency/ressources.
+14 · Ch.8 · PHRASE — « Vos clients des trois dernières années. Ce soir. »
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

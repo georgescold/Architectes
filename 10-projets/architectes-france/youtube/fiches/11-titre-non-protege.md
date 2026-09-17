@@ -16,8 +16,7 @@ de chez lui, et si d'autres en ont dit du bien.
 La légitimité qu'on cherche dans un texte de loi se fabrique en trois preuves, et elles
 sont toutes à portée de main.
 
-
-### La solution que j'apporte dans cette vidéo
+Ce que la vidéo apporte en réponse :
 
 Remplacer un titre qu'on n'aura pas par trois preuves qu'on peut avoir cette semaine.
 
@@ -29,6 +28,35 @@ Puis la partie qui décide vraiment : être le premier nom que la personne trouv
 zone. Quelqu'un qui vous a trouvé, lu et vérifié ne cherche pas un troisième nom. Et pour
 être ce premier nom sans attendre dix ans de réputation, il n'existe qu'un levier
 immédiat : la publicité en ligne.
+
+
+## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+
+PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
+ÉCRAN = ce que tu montres, et qui sert de preuve.
+Les phrases sont écrites pour être affichées telles quelles.
+
+1 · Ch.1 · PHRASE — « Le titre n'est pas protégé. »
+2 · Ch.1 · PHRASE — « Et une loi ne réglerait pas votre problème. »
+3 · Ch.3 · ÉCRAN — la loi de 1977 à l'écran, la protection du titre d'architecte
+surlignée, puis un cadre vide à côté : rien pour l'architecture d'intérieur.
+4 · Ch.3 · PHRASE — « Écrivez toujours "architecte d'intérieur" en entier. »
+5 · Ch.3 · ÉCRAN — la page du CFAI et sa liste d'écoles reconnues, URL visible.
+6 · Ch.3 · PHRASE — « Reconnaissance professionnelle. Pas protection légale. »
+7 · Ch.4 · ÉCRAN — les trois critères réels d'un client, en liste : ça ressemble à mon
+projet · c'est près de chez moi · d'autres en disent du bien.
+8 · Ch.4 · PHRASE — « Il ne vérifie pas votre diplôme. »
+9 · Ch.5 · PHRASE — « Le code de déontologie ne s'applique pas à vous. »
+10 · Ch.5 · PHRASE — « Vous êtes moins empêché qu'un architecte inscrit. »
+11 · Ch.6 · ÉCRAN — les trois preuves qui s'empilent : une réalisation comparable · des
+avis lisibles ailleurs que chez vous · un périmètre écrit.
+12 · Ch.6 · PHRASE — « Pas la plus belle. La plus proche de son projet. »
+13 · Ch.7 · ÉCRAN — la page essort.agency/ressources.
+14 · Ch.8 · PHRASE — « La vraie barrière, c'est d'être le premier nom qu'il trouve. »
+
+Sources affichées :
+https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000522423/
+https://www.cfai.fr/en/se-former-a-l-architecture-interieure/les-ecoles-reconnues
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

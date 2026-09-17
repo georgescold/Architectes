@@ -16,8 +16,7 @@ actives sur l'expression « constructeur de maisons », 2 sur « architecte DPLG
 Et le spectateur repart avec la manipulation exacte pour le vérifier lui-même, puis pour
 auditer son propre département.
 
-
-### La solution que j'apporte dans cette vidéo
+Ce que la vidéo apporte en réponse :
 
 Voir le vide, puis l'occuper.
 
@@ -28,6 +27,34 @@ partout, c'est une place libre.
 Occuper cette place ne demande pas un budget de constructeur. Ça demande de diffuser là où
 personne ne diffuse — c'est-à-dire au moment où la publicité en ligne coûte le moins cher,
 parce que personne n'enchérit en face.
+
+
+## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+
+PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
+ÉCRAN = ce que tu montres, et qui sert de preuve.
+Les phrases sont écrites pour être affichées telles quelles.
+
+1 · Ch.1 · PHRASE — « 130 · 2 »
+2 · Ch.1 · PHRASE — « À gauche les constructeurs. À droite les architectes. »
+3 · Ch.2 · ÉCRAN — la page d'accueil de la bibliothèque publicitaire, URL bien lisible.
+4 · Ch.3 · PHRASE — « Cet outil ne classe pas par métier. »
+5 · Ch.3 · PHRASE — « Donc jamais "les seuls". Jamais "aucun". »
+6 · Ch.4 · PHRASE — « Un espace vide coûte moins cher. »
+7 · Ch.5 · ÉCRAN — une publicité diffusée dans dix villes à la fois, avec le compteur de
+diffusions en évidence, pour montrer la duplication.
+8 · Ch.6 · ÉCRAN — la manipulation en direct, curseur visible : pays France · type Toutes
+· expression exacte entre guillemets · statut Actives. Date du jour affichée en bandeau.
+9 · Ch.6 · ÉCRAN — les deux compteurs côte à côte, capture figée, date visible.
+10 · Ch.7 · ÉCRAN — les quatre lectures, en liste : qui diffuse · depuis quand · combien de
+créatives · ce que dit le texte.
+11 · Ch.8 · ÉCRAN — la fiche d'un annonceur qui a arrêté de diffuser, avec la date de fin.
+12 · Ch.8 · PHRASE — « Il a arrêté. La place est libre. »
+13 · Ch.9 · ÉCRAN — la page essort.agency/ressources.
+14 · Ch.10 · PHRASE — « Votre département, ce soir, dix minutes. »
+
+Source de toutes les captures :
+https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

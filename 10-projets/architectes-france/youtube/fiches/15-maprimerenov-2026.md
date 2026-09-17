@@ -16,8 +16,7 @@ petits. Il en faut donc davantage, et plus régulièrement.
 C'est précisément ce que la recommandation ne sait pas faire : elle n'a pas l'adresse de
 ces propriétaires, et elle ne produit pas un flux régulier.
 
-
-### La solution que j'apporte dans cette vidéo
+Ce que la vidéo apporte en réponse :
 
 Aller chercher des propriétaires que personne ne vous présentera jamais.
 
@@ -29,6 +28,36 @@ C'est le profil le plus facile à toucher par la publicité en ligne — ciblage
 type de logement, au moment où il cherche — et le plus difficile à toucher autrement. Et
 comme ces projets sont plus petits, il en faut un flux régulier : exactement ce que la
 recommandation ne sait pas produire.
+
+
+## LE FIL VISUEL — ce qui s'affiche à l'écran, dans l'ordre
+
+PHRASE = un texte court en plein écran, deux à trois secondes, pendant que tu parles.
+ÉCRAN = ce que tu montres, et qui sert de preuve.
+Les phrases sont écrites pour être affichées telles quelles.
+
+1 · Ch.1 · PHRASE — « Le marché n'a pas disparu. »
+2 · Ch.1 · PHRASE — « Il a changé d'adresse. »
+3 · Ch.3 · ÉCRAN — la frise du dispositif : suspendu au 1er janvier 2026 · rouvert le
+23 février 2026. Date de ton relevé affichée en bandeau permanent.
+4 · Ch.3 · ÉCRAN — le guide officiel de l'Anah ouvert à la page des parcours, URL visible.
+5 · Ch.3 · PHRASE — « Parcours accompagné obligatoire pour les F et G. »
+6 · Ch.4 · ÉCRAN — le chiffre d'Archigraphie en deux barres opposées : 62 % du volume ·
+38 % de la valeur.
+7 · Ch.4 · PHRASE — « C'est là que sont les projets. »
+8 · Ch.4 · PHRASE — « Et ils sont plus petits. »
+9 · Ch.5 · ÉCRAN — la phrase d'Archigraphie citée telle quelle à l'écran, sur les
+honoraires moindres qu'en neuf.
+10 · Ch.5 · PHRASE — « Plus petits = il en faut plus = il en faut plus souvent. »
+11 · Ch.6 · PHRASE — « Ce propriétaire ne connaît aucun architecte. »
+12 · Ch.6 · PHRASE — « Et aucun architecte ne le connaît. »
+13 · Ch.7 · ÉCRAN — la page essort.agency/ressources.
+14 · Ch.8 · PHRASE — « Revérifiez le dispositif avant d'agir. Il bouge tous les
+trimestres. »
+
+Sources affichées :
+https://www.anah.gouv.fr/sites/default/files/2026-02/Anah-FR-Guide_des_aides_Fev2026_WEB_20260224.pdf
+https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier
