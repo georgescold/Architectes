@@ -86,14 +86,18 @@ mois.
 En clair : dès qu'un local accueille du public, il tombe sous une réglementation de sécurité
 et d'accessibilité, et les travaux demandent une autorisation administrative, avec notice de
 sécurité, notice d'accessibilité et plans avant-après. Le délai d'instruction est de quatre
-mois, cinq s'il faut un permis de construire — et pendant ce temps, le bail court. Aucune
-enseigne de mobilier ne prend ça en charge : ce n'est pas leur métier et ça ne vend pas de
-meubles.
+mois, cinq s'il faut un permis de construire. Et il y a une seconde échéance que personne
+n'anticipe : rouvrir au public après travaux demande une autorisation du maire, et la
+demande de visite se dépose plus d'un mois avant la date d'ouverture prévue. Deux
+administrations, deux délais, et le bail qui court entre les deux. Aucune enseigne de
+mobilier ne prend ça en charge : ce n'est pas leur métier et ça ne vend pas de meubles.
 
-À l'écran : le CERFA 13824*04, pages sécurité et accessibilité encadrées, puis le délai de
-quatre mois affiché seul.
+À l'écran : le CERFA 13824*04, pages sécurité et accessibilité encadrées. Puis une frise en
+deux temps : 4 MOIS d'instruction avant les travaux, 1 MOIS avant l'ouverture pour la
+demande de visite.
 Liens : https://entreprendre.service-public.gouv.fr/vosdroits/R10190
         https://entreprendre.service-public.gouv.fr/vosdroits/F31687
+        https://entreprendre.service-public.gouv.fr/vosdroits/F34333
 
 
 Ch.4 · Jusqu'où il peut aller seul

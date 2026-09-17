@@ -257,6 +257,97 @@ https://www.architectes.org/modele-de-notice-descriptive-de-securite-91461
 https://boussoluss.fr/notice-securite-erp-5eme-categorie/
 
 
+## 3 bis. CE QUE FAIT CONCRÈTEMENT UN ARCHITECTE D'INTÉRIEUR SUR UN LOCAL PRO
+
+Pour que Loys comprenne ce qu'il vend, pas pour l'expliquer aux architectes dans une vidéo.
+À l'écran, le métier reste plafonné à deux minutes.
+
+Les plans, c'est la partie visible et c'est peut-être un cinquième du travail. Le reste
+tient en cinq blocs, dans l'ordre du projet.
+
+
+### Bloc 1 — le dossier administratif, avant tout
+
+L'autorisation de travaux ERP : formulaire CERFA 13824, notice de sécurité, notice
+d'accessibilité, plans avant et après travaux. Instruction jusqu'à 4 mois.
+https://entreprendre.service-public.gouv.fr/vosdroits/F31687
+
+Et souvent, en parallèle, une déclaration préalable pour la devanture — parce que changer
+une vitrine, une porte ou une enseigne modifie l'aspect extérieur. Plus une autorisation
+d'enseigne, qui dépend du règlement local de publicité de la commune. Si le local est dans
+le périmètre d'un monument historique, l'architecte des Bâtiments de France entre dans la
+boucle et le calendrier s'allonge encore.
+
+C'est le bloc que le client ne voit pas venir, et c'est celui qui décide de sa date.
+
+
+### Bloc 2 — la conception technique, qui n'est pas « les plans »
+
+Un plan d'aménagement montre où vont les choses. Ce qui fait tenir le chantier, c'est ce
+qu'il y a derrière : plans d'exécution, calepinage, réservations pour les réseaux, et un
+descriptif technique lot par lot — électricité, plomberie, ventilation, menuiserie, sols,
+peinture, signalétique.
+
+Sur un restaurant, s'ajoutent des contraintes qui commandent tout le reste et qu'aucun
+logiciel de plan gratuit ne traite : l'extraction et le désenfumage, le bac à graisses,
+la chambre froide, l'organisation de la cuisine pour que le propre et le sale ne se croisent
+jamais. Plus, côté salle : largeur des circulations, sanitaires accessibles, seuil d'entrée,
+éclairage de sécurité, alarme.
+
+C'est exactement ce que METRO écrit quand il exclut la cuisine de son outil gratuit : « les
+contraintes et les normes très complexes nécessitent un accompagnement ».
+
+
+### Bloc 3 — la consultation des entreprises
+
+Constituer le dossier de consultation, le transmettre aux entreprises, récupérer les devis,
+les comparer poste par poste, détecter ce qui manque dans une offre trop basse, négocier,
+et arrêter les marchés.
+
+Ce bloc a une valeur directe et chiffrable pour le client : un comparatif sérieux fait
+souvent économiser plus que les honoraires.
+
+
+### Bloc 4 — la direction du chantier
+
+Un planning avec son chemin critique — quel retard décale l'ouverture et quel retard ne la
+décale pas. Des réunions de chantier régulières avec compte rendu écrit. Le visa des plans
+d'atelier des entreprises. Le contrôle de ce qui est posé par rapport à ce qui a été commandé.
+La validation des situations de travaux, donc des paiements.
+
+Et la gestion des imprévus, qui est le vrai métier : amiante ou plomb découverts dans
+l'existant, réseaux non conformes, mur porteur là où il ne devait pas y en avoir. Chacun de
+ces aléas est une décision à prendre en quelques jours, sinon le chantier s'arrête.
+
+
+### Bloc 5 — la réception et l'ouverture
+
+Les opérations préalables à la réception, la liste des réserves, leur levée, le procès-verbal
+de réception, le dossier des ouvrages exécutés.
+
+Puis la partie que personne n'anticipe : l'ouverture au public d'un ERP qui a fait l'objet
+de travaux demande une autorisation du maire. L'exploitant écrit à la mairie pour demander
+la visite de la commission de sécurité et d'accessibilité, et cette demande doit être
+déposée plus d'un mois avant la date d'ouverture prévue. La commission visite, rend un avis,
+le maire autorise par arrêté notifié en recommandé. En cas de refus, le recours devant le
+tribunal administratif se compte en mois.
+https://entreprendre.service-public.gouv.fr/vosdroits/F34333
+
+Nuance à connaître : un ERP de 5e catégorie sans locaux à sommeil — le cas de la plupart des
+petits commerces et restaurants — n'a pas la même obligation de visite. Il envoie une
+description sommaire des travaux à la mairie. Ne jamais dire « la commission passe dans tous
+les cas », c'est faux.
+
+
+### Ce que ça veut dire pour l'EP01
+
+Le client n'achète pas un plan, il achète quelqu'un qui tient une date entre deux
+administrations. Et la date d'ouverture n'est pas une préférence commerciale : elle dépend
+d'une instruction de 4 mois en amont et d'une demande à déposer un mois avant en aval.
+
+C'est là qu'est la valeur, et c'est là qu'est l'angle publicitaire.
+
+
 ## 4. LE MARCHÉ EN CHIFFRES — source unique et vérifiée
 
 Document de référence : Archigraphie 2024-2026, publié par le Conseil national de l'Ordre
