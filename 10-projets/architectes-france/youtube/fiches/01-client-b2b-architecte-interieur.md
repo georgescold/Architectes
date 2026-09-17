@@ -225,6 +225,15 @@ nombre de personnes accueillies, la 5e étant la plus petite et la plus fréquen
 Prescripteur. Quelqu'un qui envoie des clients sans être payé pour ça : notaire, agent
 immobilier, entreprise du bâtiment, ancien client.
 
+Instruction. Le temps pendant lequel la mairie examine le dossier, entre le dépôt et la
+réponse. Ce n'est pas la durée des travaux : c'est l'attente avant d'avoir le droit de
+commencer. À l'oral, dis « le temps que la mairie examine le dossier » plutôt
+qu'« instruction ».
+
+Accord tacite. Passé le délai, l'absence de réponse vaut autorisation. Sur une autorisation
+de travaux ERP, c'est 4 mois — et c'est de là que vient le chiffre, ce n'est pas une
+moyenne.
+
 Les autres mots de cet épisode — maître d'ouvrage, personne morale, permis de construire,
 autorisation de travaux — sont expliqués dans la section « Qui a le droit de signer quoi »
 plus bas. Ne les emploie jamais avant de les avoir définis à l'écran.

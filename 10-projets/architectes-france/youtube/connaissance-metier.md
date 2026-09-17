@@ -54,6 +54,23 @@ Autorisation de travaux, ou AT. L'autorisation propre aux ERP, pour modifier l'i
 d'un local qui reçoit du public sans toucher la façade ni la structure. Formulaire CERFA
 13824. Délai d'instruction : 4 mois. Aucun architecte n'y est obligatoire.
 
+Instruction. Le temps pendant lequel l'administration examine le dossier. Il commence le
+jour du dépôt en mairie et finit le jour où la réponse arrive. Pendant ce temps, il ne se
+passe rien pour le demandeur : il attend. Ce n'est pas la durée des travaux, c'est la durée
+de l'examen du dossier avant d'avoir le droit de commencer.
+
+Accord tacite. Si l'administration ne répond pas dans le délai d'instruction, l'autorisation
+est réputée accordée. Pour une autorisation de travaux ERP, c'est au bout de 4 mois, en
+application de l'article R.122-16 du code de la construction et de l'habitation. C'est de là
+que vient le chiffre de 4 mois : ce n'est pas une moyenne observée, c'est le délai au terme
+duquel le silence vaut oui. Exception : ça ne s'applique pas si une dérogation
+d'accessibilité a été demandée et refusée.
+https://www.service-public.gouv.fr/demarches-silence-vaut-accord/demarches/100
+
+En amont, en aval. Avant et après. En amont du chantier, c'est l'instruction du dossier de
+travaux. En aval, c'est la demande d'autorisation d'ouverture au public. Deux mots à éviter
+à l'oral : dire « avant les travaux » et « avant l'ouverture ».
+
 ERP. Établissement recevant du public : tout local où des gens entrent, qu'ils paient ou
 non. Restaurant, boutique, cabinet médical, salle de sport. Classé en 5 catégories selon
 le nombre de personnes accueillies, la 5e étant la plus petite et la plus fréquente.
@@ -269,8 +286,19 @@ tient en cinq blocs, dans l'ordre du projet.
 ### Bloc 1 — le dossier administratif, avant tout
 
 L'autorisation de travaux ERP : formulaire CERFA 13824, notice de sécurité, notice
-d'accessibilité, plans avant et après travaux. Instruction jusqu'à 4 mois.
+d'accessibilité, plans avant et après travaux.
 https://entreprendre.service-public.gouv.fr/vosdroits/F31687
+
+Ce qui se passe pendant les 4 mois d'instruction, et c'est utile de le savoir pour l'écrire
+dans une annonce. Le dossier est déposé en mairie. La mairie vérifie qu'il est complet, puis
+le transmet à la commission de sécurité et à la commission d'accessibilité. Ces commissions
+ne siègent pas à la demande : elles se réunissent périodiquement, et un dossier déposé juste
+après une séance attend la suivante. Elles rendent un avis, la mairie décide. Et si rien
+n'arrive au bout de 4 mois, l'autorisation est réputée accordée.
+
+Le seul levier, et c'est exactement ce que vend l'architecte : déposer un dossier complet du
+premier coup. Un dossier incomplet déclenche une demande de pièces, et le compteur repart.
+C'est la différence entre ouvrir en juin et ouvrir en septembre.
 
 Et souvent, en parallèle, une déclaration préalable pour la devanture — parce que changer
 une vitrine, une porte ou une enseigne modifie l'aspect extérieur. Plus une autorisation
