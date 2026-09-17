@@ -250,6 +250,54 @@ Guide officiel de l'Anah, à montrer à l'écran :
 https://www.anah.gouv.fr/sites/default/files/2026-02/Anah-FR-Guide_des_aides_Fev2026_WEB_20260224.pdf
 
 
+## 7 bis. LE B2B DE L'AMÉNAGEMENT — CE QUI EST VRAI (relevé du 17/09/2026)
+
+Vérifié parce que l'EP01 reposait dessus. Détail complet dans
+strategie/marche-b2b-amenagement.md
+
+Il est FAUX de dire que personne n'offre de conception gratuite sur le professionnel.
+METRO met à disposition Roomplanner, logiciel de plan 2D/3D « totalement gratuit » pour la
+salle de restaurant. Mais METRO écrit lui-même que la cuisine en est exclue : « les
+contraintes et les normes très complexes nécessitent un accompagnement ». L'outil est en
+libre-service, et aucun prix n'est indiqué pour le bureau d'études cuisine — ne jamais
+affirmer qu'il est gratuit.
+https://www.metro.fr/service/amenagement/logiciel-amenagement-plans-restaurant
+
+Formulation juste : ce qui est offert couvre l'implantation du mobilier, pas la conformité
+du local.
+
+L'espace publicitaire, lui, est bien vide, et c'est mesuré sur deux régies. Meta, expressions
+exactes : « agencement commercial » 0, « agencement de restaurant » 0, « agencement de
+magasin » 1 (une usine chinoise d'enseignes LED). Google, centre de transparence, région
+France : racinea.fr 0 annonce, conceptrenodeco.fr 1 annonce, contre ~400 pour hemea.com.
+https://adstransparency.google.com/?region=FR
+
+⚠️ Un espace publicitaire vide n'est pas la preuve que le marché est bon. L'explication
+concurrente est que ce marché a un canal historique : les salons et la prescription.
+EquipHotel attend 113 000 visiteurs professionnels du 2 au 5 novembre 2026. Nommer cette
+explication dans la vidéo.
+
+Règle de l'architecte obligatoire sur un ERP, et elle est favorable : pour une modification
+intérieure sans changement de façade ni de structure, une autorisation de travaux suffit et
+aucun architecte n'est requis. L'architecte inscrit à l'Ordre devient obligatoire seulement
+si le maître d'ouvrage est une personne morale ET qu'il y a construction, ou si une personne
+physique crée plus de 150 m². Délai d'instruction : 4 mois pour une AT, 5 mois pour un
+permis de construire.
+https://entreprendre.service-public.gouv.fr/vosdroits/F31687
+
+La franchise n'est pas un marché adressable : un franchisé applique le concept de son
+réseau, réalisé par l'agenceur référencé. 93 395 points de vente franchisés en France en
+2025, +2 605 en un an (Fédération Française de la Franchise, mars 2026). Toute campagne
+« commerces qui ouvrent » doit exclure la franchise.
+https://www.franchise-fff.com/wp-content/uploads/2026/03/FFF-CP-indicateursFranchise2025-mars2026-V2.pdf
+
+Dans la définition officielle du métier, l'agenceur travaille « à partir d'un concept
+d'architecte d'intérieur ou de designer » : la conception est en amont et appartient à
+l'architecte d'intérieur. En pratique, beaucoup d'agenceurs l'ont absorbée avec un bureau
+d'études intégré.
+https://www.chambre-agencement.org/
+
+
 ## 8. LES CONCURRENTS RÉELS, ET CE QU'ILS VENDENT
 
 Ils ne sont pas confrères, donc la confraternité ne les protège pas. On peut les nommer.
@@ -335,3 +383,6 @@ Liste des erreurs que j'ai moi-même commises ou failli commettre en écrivant l
   Promettre l'exclusivité départementale, qui n'est plus un engagement.
   Annoncer un nombre de pages qu'on n'a pas compté.
   Présenter un zéro publicité comme une preuve que le marché est bon. C'est une hypothèse.
+  Dire que personne n'offre de conception gratuite sur le B2B. METRO le fait, sur la salle.
+  Viser les commerces qui ouvrent sans exclure la franchise : le franchisé ne décide pas.
+  Croire qu'un architecte inscrit est obligatoire sur un ERP. Pas pour une AT seule.

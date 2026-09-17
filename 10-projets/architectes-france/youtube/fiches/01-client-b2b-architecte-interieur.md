@@ -5,18 +5,22 @@
 
 ## LA BIG IDEA
 
-Il existe un segment de clientèle où l'architecte d'intérieur n'a aucun concurrent
-gratuit. Sur le résidentiel, il affronte des enseignes qui offrent la conception pour
-vendre du mobilier — 97 publicités actives le promettent en ce moment. Sur le
-professionnel, personne n'offre rien, parce que ce qui est demandé n'est pas du style
-mais un dossier réglementaire.
+Il existe un segment de clientèle où la conception gratuite ne peut pas aller jusqu'au
+bout. Sur le résidentiel, l'architecte d'intérieur affronte des enseignes qui offrent le
+plan pour vendre du mobilier — 97 publicités actives le promettent en ce moment. Sur le
+professionnel, du gratuit existe aussi : METRO met à disposition un logiciel de plan 3D
+« totalement gratuit » pour la salle de restaurant. Mais il s'arrête là où ça devient
+sérieux, et METRO l'écrit lui-même : la cuisine en est exclue, parce que « les contraintes
+et les normes très complexes nécessitent un accompagnement ».
 
-Et ce segment n'est disputé par personne : « architecte restaurant » ne renvoie aucune
-publicité active en France.
+C'est toute la différence entre les deux segments. Chez le particulier, le plan gratuit
+suffit à emporter le projet. Chez le professionnel, il ne règle ni la conformité du local,
+ni le dossier à déposer en mairie — et l'instruction dure quatre mois pendant lesquels le
+loyer court.
 
-Un marché sans concurrence publicitaire et sans concurrence gratuite, ça n'arrive presque
-jamais. La seule chose qui manque, c'est d'aller le chercher — parce que ce client-là ne
-vous trouvera jamais tout seul.
+Et ce segment n'est disputé par personne en publicité : « architecte restaurant »,
+« agencement commercial » et « agencement de restaurant » ne renvoient aucune publicité
+active en France.
 
 Ce que la vidéo apporte en réponse :
 
@@ -25,8 +29,9 @@ d'intérieur — ce qu'il ne fera pas, puisqu'il ne sait pas que ce métier s'oc
 problème.
 
 Concrètement, dans la vidéo : la publicité en ligne permet de diffuser sur une zone
-précise, auprès de gens qui ouvrent ou reprennent un local, avec un message qui parle de
-leur contrainte réelle — la date d'ouverture et le passage en commission — et pas de
+précise, auprès de gens qui ouvrent ou reprennent un local indépendant — hors franchise,
+puisqu'un franchisé applique le concept de son réseau — avec un message qui parle de leur
+contrainte réelle : la date d'ouverture et les quatre mois d'instruction. Pas de
 décoration.
 
 C'est le seul moyen d'exister dans la tête de quelqu'un qui n'a jamais tapé « architecte
@@ -44,14 +49,15 @@ En clair = la même chose expliquée en détail, pour toi.
 
 Ch.1 · Ouverture
 
-L'idée : il existe un type de client pour lequel personne ne casse les prix et personne ne
-fait de publicité.
+L'idée : il existe un type de client pour lequel le plan gratuit ne suffit pas — et pour
+lequel personne ne fait de publicité.
 
 En clair : sur les particuliers, un architecte d'intérieur se bat contre des enseignes de
-cuisine et de mobilier qui offrent la conception pour vendre leurs meubles. 97 publicités le
-promettent en ce moment. Sur les professionnels — restaurants, cabinets, commerces —
-personne ne promet rien de gratuit, et personne ne fait de publicité non plus. Les deux en
-même temps, c'est rarissime.
+cuisine et de mobilier qui offrent le plan pour vendre leurs meubles. 97 publicités le
+promettent en ce moment. Sur les professionnels, du gratuit existe aussi, il ne faut pas le
+cacher — mais il s'arrête à l'implantation du mobilier, et il ne prend en charge ni la
+conformité du local ni le dossier à déposer. Et sur ce segment-là, personne ne fait de
+publicité.
 
 À l'écran : la bibliothèque publicitaire, recherche sur la conception gratuite, compteur à
 97, date du relevé visible.
@@ -72,41 +78,51 @@ comparaison-là, quel que soit son talent.
 Ch.3 · Le segment où ça ne marche pas comme ça — deux minutes maximum
 
 L'idée : un professionnel qui ouvre un local ne cherche pas quelqu'un pour décorer. Il
-cherche quelqu'un pour obtenir son autorisation d'ouverture.
+cherche quelqu'un pour obtenir son autorisation de travaux — et l'instruction dure quatre
+mois.
 
 En clair : dès qu'un local accueille du public, il tombe sous une réglementation de sécurité
-et d'accessibilité, et les travaux demandent une autorisation administrative. Ce n'est pas
-un plan d'aménagement, c'est un dossier. Aucune enseigne de mobilier ne peut offrir ça : ce
-n'est pas leur métier et ça ne vend pas de meubles.
+et d'accessibilité, et les travaux demandent une autorisation administrative, avec notice de
+sécurité, notice d'accessibilité et plans avant-après. Le délai d'instruction est de quatre
+mois, cinq s'il faut un permis de construire — et pendant ce temps, le bail court. Aucune
+enseigne de mobilier ne prend ça en charge : ce n'est pas leur métier et ça ne vend pas de
+meubles.
 
-À l'écran : le CERFA 13824*04, autorisation de travaux en ERP, pages sécurité et
-accessibilité encadrées.
+À l'écran : le CERFA 13824*04, pages sécurité et accessibilité encadrées, puis le délai de
+quatre mois affiché seul.
 
 
 Ch.4 · Jusqu'où il peut aller seul
 
-L'idée : il y a une limite à ce qu'un architecte d'intérieur peut porter seul sur ce type de
-projet, et mieux vaut la connaître avant de s'engager.
+L'idée : sur l'aménagement intérieur d'un local existant, il peut porter le projet en
+entier. L'architecte inscrit à l'Ordre n'est obligatoire que dans deux cas précis.
 
-En clair : tu la dis vite, en une phrase, et tu passes. Le but n'est pas de faire un cours
-de réglementation — c'est d'éviter qu'il se lance sur un chantier qu'il ne pourra pas
-signer, et de montrer que tu sais de quoi tu parles.
+En clair : c'est la bonne nouvelle du chapitre, et presque personne ne la connaît. Quand les
+travaux modifient l'intérieur sans toucher la façade ni la structure, une autorisation de
+travaux suffit, et aucun architecte n'est légalement requis. L'architecte devient
+obligatoire seulement si le maître d'ouvrage est une société et qu'il y a construction, ou
+si un particulier crée plus de 150 m² de surface de plancher. Autrement dit, la très grande
+majorité des ouvertures de commerce lui est accessible. Tu le dis en une phrase, avec la
+source à l'écran, et tu passes.
 
-À l'écran : la limite écrite en une ligne, et les cas où un architecte inscrit à l'Ordre
-devient obligatoire.
+À l'écran : les deux cas où l'architecte est obligatoire, en liste, avec le lien
+service-public visible.
 
 
 Ch.5 · Ce que dit le marché publicitaire de ce segment
 
-L'idée : sur ce type de client, personne ne fait de publicité. Et ce n'est pas une
-impression : c'est un compteur.
+L'idée : sur ce type de client, personne ne fait de publicité — ni les architectes
+d'intérieur, ni ceux qui les concurrencent.
 
-En clair : tu tapes « architecte restaurant » dans la bibliothèque publicitaire de Meta et
-tu montres le résultat. Avec la précision qui te rend incontestable : l'outil ne classe pas
-par métier, donc tu annonces un nombre de résultats sur une expression exacte, à une date
-donnée, et rien de plus. Jamais « les seuls en France ».
+En clair : tu tapes « architecte restaurant », puis « agencement commercial », puis
+« agencement de restaurant » dans la bibliothèque publicitaire de Meta. Zéro à chaque fois.
+Et tu montres la même chose côté Google avec le centre de transparence publicitaire : les
+agenceurs spécialisés en restaurants n'y diffusent pas non plus, quand une plateforme comme
+hemea y affiche des centaines d'annonces sur le résidentiel. Avec la précision qui te rend
+incontestable : ces outils ne classent pas par métier, donc tu annonces un nombre de
+résultats sur une expression exacte, à une date donnée. Jamais « les seuls en France ».
 
-À l'écran : la recherche en direct, aucun résultat actif, date visible.
+À l'écran : les deux recherches en direct, Meta puis Google, dates visibles.
 
 
 Ch.6 · Pourquoi ce client ne viendra jamais tout seul
@@ -124,13 +140,24 @@ bouche-à-oreille entre particuliers ne le ramèneront jamais. Il faut aller le 
 
 Ch.7 · Comment on va le chercher — le cœur de la vidéo
 
-L'idée : puisqu'il ne vient pas, on va devant lui. Et ça se décide en trois réglages.
+L'idée : puisqu'il ne vient pas, on va devant lui. Et ça se décide en trois réglages, plus
+une exclusion.
 
 En clair : la zone où on diffuse, le type de local visé, et le moment — quelqu'un qui vient
-de signer un bail ou qui prépare une ouverture. C'est le chapitre le plus long de la vidéo
-parce que c'est le seul qui parle de ton métier à toi.
+de signer un bail ou qui prépare une ouverture. Et l'exclusion qui fait toute la différence :
+la franchise. Un franchisé applique le concept de son réseau, réalisé par l'agenceur
+référencé — il n'a aucune décision à prendre, et il y a 93 395 points de vente franchisés en
+France. Viser « les commerces qui ouvrent » sans exclure la franchise, c'est payer pour des
+gens qui ne peuvent pas dire oui. C'est le chapitre le plus long de la vidéo parce que c'est
+le seul qui parle de ton métier à toi.
 
-À l'écran : les trois lignes du ciblage, écrites en direct devant la caméra.
+À l'écran : les trois lignes du ciblage écrites en direct, puis l'exclusion ajoutée en
+quatrième ligne.
+
+Sources des chiffres affichés :
+https://www.franchise-fff.com/wp-content/uploads/2026/03/FFF-CP-indicateursFranchise2025-mars2026-V2.pdf
+https://entreprendre.service-public.gouv.fr/vosdroits/F31687
+https://www.metro.fr/service/amenagement/logiciel-amenagement-plans-restaurant
 
 
 Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
@@ -262,6 +289,48 @@ https://www.ura.fr/reglementation/reglementation-type-n
 Mots à employer sans hésiter : autorisation de travaux, notice de sécurité, notice
 d'accessibilité, plans cotés, commission de sécurité, maître d'œuvre, agencement, CHR.
 
+
+
+### Ce que le gratuit couvre, et où il s'arrête
+
+C'est la correction la plus importante de cet épisode, et elle vient d'une vérification
+faite le 17/09/2026.
+
+Il est faux de dire que personne n'offre rien sur le professionnel. METRO met à disposition
+Roomplanner, un logiciel de plan 2D/3D pour la salle de restaurant, décrit sur sa page comme
+« totalement gratuit ».
+https://www.metro.fr/service/amenagement/logiciel-amenagement-plans-restaurant
+
+Deux limites, écrites par METRO lui-même, et ce sont elles qui font l'épisode. L'outil est
+en libre-service : c'est le restaurateur qui dessine. Et il exclut la cuisine — « les
+contraintes et les normes très complexes nécessitent un accompagnement ».
+
+Sur le bureau d'études que METRO propose pour la cuisine, la page n'indique aucun prix. Ne
+jamais dire qu'il est gratuit : ce n'est pas écrit.
+
+Même logique chez les agenceurs CHR, qui produisent des plans 3D dans le cadre de leur devis
+d'agencement. La conception y est un moyen de vendre du mobilier et de la pose.
+
+La formulation juste est donc : ce qui est offert couvre l'implantation du mobilier, pas la
+conformité du local.
+
+
+### Pourquoi l'espace publicitaire est vide, et l'explication concurrente
+
+Le vide est réel et mesuré sur deux régies. Mais un espace vide n'est pas une preuve que le
+marché est bon — c'est une hypothèse, et il existe une explication concurrente sérieuse qu'il
+faut nommer dans la vidéo plutôt que de la laisser arriver en commentaire.
+
+Ce marché a un canal historique qui fonctionne : les salons et la prescription entre
+professionnels. EquipHotel attend 113 000 visiteurs professionnels et plus de 1 100
+exposants du 2 au 5 novembre 2026, et réunit « investisseurs, exploitants, designers et
+prescripteurs ».
+https://www.equiphotel.com/fr-fr.html
+
+Ce canal est annuel et coûteux. C'est exactement ce qui laisse la place à quelqu'un qui,
+lui, peut être présent toute l'année sur un département.
+
+Détail complet du relevé : strategie/marche-b2b-amenagement.md
 
 
 ## LE PIÈGE — la frontière entre les deux métiers
