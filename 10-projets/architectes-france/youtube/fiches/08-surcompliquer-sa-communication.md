@@ -145,6 +145,14 @@ personne ne passe ce test, et c'est la tension que tu laisses.
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier
 
+### Les mots de cet épisode, à ne jamais employer sans les expliquer
+
+Maîtrise d'œuvre. La mission de celui qui conçoit le projet et suit le chantier. Si tu
+l'emploies à l'oral, remplace-le par « la conception et le suivi du chantier » : le mot ne
+dit rien à quelqu'un d'extérieur, et le sujet de l'épisode est justement de parler comme le
+client.
+
+
 
 ### Pourquoi cet épisode n'a aucune source externe
 

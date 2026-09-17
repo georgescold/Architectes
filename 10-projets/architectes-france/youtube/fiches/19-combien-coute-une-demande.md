@@ -160,6 +160,19 @@ https://www.hemea.com/fr/architecture/architecte-interieur/prix
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier
 
+### Les mots de cet épisode, à ne jamais employer sans les expliquer
+
+Taux de transformation. Le pourcentage qui passe d'une étape à la suivante : sur dix demandes
+reçues, combien deviennent un rendez-vous, puis sur dix rendez-vous, combien deviennent une
+signature. Ce sont les cases 2 et 3 du tableur, et ils se multiplient entre eux.
+
+Coût par demande, et coût par signature. Le premier est ce que coûte un contact entrant. Le
+second est ce que coûte un projet réellement signé : le coût par demande divisé par le
+produit des deux taux. Toute la vidéo tient sur cette différence.
+
+Demande entrante. Quelqu'un qui contacte le cabinet de lui-même. Ne dis jamais « lead ».
+
+
 
 ### Pourquoi ce chiffre n'existe dans presque aucun cabinet
 

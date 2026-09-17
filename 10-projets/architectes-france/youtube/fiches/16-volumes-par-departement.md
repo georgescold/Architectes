@@ -145,6 +145,16 @@ https://www.statistiques.developpement-durable.gouv.fr/donnees-des-permis-de-con
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier
 
+### Les mots de cet épisode, à ne jamais employer sans les expliquer
+
+Logements autorisés, et logements commencés. Un logement autorisé est un permis accordé. Un
+logement commencé est un chantier qui a démarré. Entre les deux, il y a des mois et des
+abandons — d'où les deux lectures du chapitre 6.
+
+Prescripteur. Quelqu'un qui envoie des clients sans être payé pour ça : notaire, agent
+immobilier, entreprise du bâtiment, ancien client.
+
+
 
 ### Les deux sources, et ce qu'elles contiennent
 

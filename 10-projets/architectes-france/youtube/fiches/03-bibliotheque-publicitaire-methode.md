@@ -160,6 +160,20 @@ https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=F
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier
 
+### Les mots de cet épisode, à ne jamais employer sans les expliquer
+
+Créative. Le visuel d'une publicité : l'image ou la vidéo, avec son texte. Une même campagne
+peut tester plusieurs créatives. C'est du vocabulaire d'agence — à expliquer en une phrase la
+première fois que tu l'emploies, ou à remplacer par « version de la publicité ».
+
+Enchère. La publicité en ligne ne se vend pas à prix fixe. Plusieurs annonceurs qui veulent
+toucher les mêmes personnes enchérissent, et le prix monte avec le nombre de concurrents en
+face. C'est le mécanisme qui rend un espace vide moins cher, et il est au cœur du chapitre 4.
+
+Changement de destination. Transformer un local d'un usage vers un autre — un logement en
+commerce, par exemple.
+
+
 
 ### Ce qu'est cette bibliothèque et pourquoi elle existe
 

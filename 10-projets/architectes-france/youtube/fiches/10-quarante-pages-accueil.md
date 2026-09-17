@@ -153,6 +153,16 @@ ne le passe. C'est la tension que tu laisses.
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier
 
+### Les mots de cet épisode, à ne jamais employer sans les expliquer
+
+Maître d'ouvrage. Le client. Celui qui commande les travaux et qui les paie. Dans cet
+épisode, c'est le particulier ou le professionnel qui cherche un architecte.
+
+Ligne de flottaison. Ce qu'on voit d'une page web sans avoir à faire défiler l'écran. Image
+de bateau : au-dessus, c'est visible ; en dessous, ça n'existe pas pour la plupart des
+visiteurs. Explique-le à l'oral la première fois, c'est du vocabulaire de métier.
+
+
 ⚠️ Le relevé n'existe pas encore. Aucun chiffre ne se prononce avant qu'il soit fait — ni
 « 38 sur 40 », ni « la majorité », ni « presque tous ».
 

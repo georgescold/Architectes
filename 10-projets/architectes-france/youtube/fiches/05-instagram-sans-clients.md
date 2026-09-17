@@ -151,6 +151,18 @@ https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=F
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier
 
+### Les mots de cet épisode, à ne jamais employer sans les expliquer
+
+Publier, et diffuser. C'est la distinction centrale de l'épisode. Publier met un contenu
+devant ceux qui vous suivent déjà. Diffuser paie pour le mettre devant des gens qui ne vous
+connaissent pas, dans une zone choisie. Deux mécaniques différentes, une seule amène des
+inconnus.
+
+Créative. Le visuel d'une publicité : l'image ou la vidéo, avec son texte. Quand on dit que
+ses publications sont « des créatives déjà testées », on veut dire que le travail de trouver
+l'image qui accroche est déjà fait. Explique le mot la première fois.
+
+
 
 ### Pourquoi ce métier produit le meilleur contenu du bâtiment
 

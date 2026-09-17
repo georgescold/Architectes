@@ -140,6 +140,18 @@ tu laisses.
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier
 
+### Les mots de cet épisode, à ne jamais employer sans les expliquer
+
+Prescripteur. Quelqu'un qui envoie des clients sans être payé pour ça : notaire, agent
+immobilier, entreprise du bâtiment, ancien client. C'est le cœur de l'exercice du chapitre 3
+— on liste les prescripteurs, puis on regarde leur âge.
+
+Taux de transformation. Le pourcentage qui passe d'une étape à la suivante : sur dix demandes
+reçues, combien deviennent un rendez-vous, puis une signature.
+
+Changement de destination. Transformer un local d'un usage vers un autre.
+
+
 Cet épisode est une synthèse : sa valeur ne vient pas d'une source externe mais de la
 clarté du modèle et de l'ordre de montage. C'est le seul de la chaîne dans ce cas, et ça se
 dit.

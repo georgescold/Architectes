@@ -154,6 +154,25 @@ https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/ils-fo
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier
 
+### Les mots de cet épisode, à ne jamais employer sans les expliquer
+
+Quartile. Si on range tous les architectes du moins payé au mieux payé, le premier quartile
+est la limite en dessous de laquelle se trouve le quart le moins bien payé, et le troisième
+quartile la limite au-dessus de laquelle se trouve le quart le mieux payé. C'est l'outil qui
+permet de montrer que les deux extrémités bougent en sens opposé. Redonne la définition en
+une phrase au chapitre 5 : personne ne l'a en tête.
+
+Prescripteur. Quelqu'un qui envoie des clients sans être payé pour ça : notaire, agent
+immobilier, entreprise du bâtiment, ancien client.
+
+Maîtrise d'œuvre. La mission de celui qui conçoit le projet et suit le chantier. Quand on
+parle de la concurrence sur la maîtrise d'œuvre, on parle d'acteurs qui vendent cette
+mission au client final.
+
+Enchère. La publicité en ligne se vend aux enchères : le prix monte avec le nombre
+d'annonceurs qui visent les mêmes personnes. C'est ce qui rend le chapitre 8 vrai.
+
+
 
 ### Ce qui est établi, et ce qui ne l'est pas
 

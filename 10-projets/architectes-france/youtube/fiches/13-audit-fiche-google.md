@@ -143,6 +143,14 @@ https://www.google.com/business/
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier
 
+### Les mots de cet épisode, à ne jamais employer sans les expliquer
+
+Maître d'ouvrage. Le client. Celui qui commande les travaux et qui les paie.
+
+Demande entrante. Quelqu'un qui contacte le cabinet de lui-même. Ne dis jamais « lead » dans
+la vidéo.
+
+
 
 ### D'où sort cette fiche que personne n'a créée
 

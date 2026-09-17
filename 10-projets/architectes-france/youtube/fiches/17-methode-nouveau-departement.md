@@ -148,6 +148,19 @@ saute. C'est la tension que tu laisses.
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier
 
+### Les mots de cet épisode, à ne jamais employer sans les expliquer
+
+Maîtrise d'œuvre. La mission de celui qui conçoit le projet et suit le chantier. C'est la
+suite de phases que l'épisode emprunte comme analogie : esquisse, avant-projet, permis,
+projet, chantier.
+
+Taux de transformation. Le pourcentage qui passe d'une étape à la suivante : sur dix demandes
+reçues, combien deviennent un rendez-vous, puis une signature. C'est le livrable de la
+phase 4.
+
+Prescripteur. Quelqu'un qui envoie des clients sans être payé pour ça.
+
+
 
 ### Pourquoi cette analogie fonctionne, et où elle casse
 

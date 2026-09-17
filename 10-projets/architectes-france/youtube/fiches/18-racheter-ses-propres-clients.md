@@ -155,6 +155,16 @@ https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=F
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier
 
+### Les mots de cet épisode, à ne jamais employer sans les expliquer
+
+Maîtrise d'œuvre. La mission de celui qui conçoit le projet et suit le chantier. Le point
+du chapitre 6 est qu'une plateforme qui promet « budget, délais et entreprises verrouillés »
+décrit cette mission-là, et la vend elle-même au client final.
+
+Enchère. La publicité en ligne se vend aux enchères : le prix monte avec le nombre
+d'annonceurs qui visent les mêmes personnes.
+
+
 
 ### Ce que vend une plateforme, exactement
 

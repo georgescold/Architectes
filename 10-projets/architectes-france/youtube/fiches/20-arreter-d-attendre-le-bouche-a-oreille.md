@@ -157,6 +157,18 @@ https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembr
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier
 
+### Les mots de cet épisode, à ne jamais employer sans les expliquer
+
+Prescripteur. Quelqu'un qui envoie des clients sans être payé pour ça : notaire, agent
+immobilier, entreprise du bâtiment, ancien client. C'est le mot central de l'épisode : le
+bouche-à-oreille, ce sont des prescripteurs, et un prescripteur part à la retraite.
+
+Quartile. Si on range tous les architectes du moins payé au mieux payé, le premier quartile
+est la limite du quart le moins bien payé, le troisième celle du quart le mieux payé. Tu ne
+le développes pas ici — c'est l'EP02 — mais tu redonnes la définition en une phrase au
+chapitre 6.
+
+
 
 ### Comment fonctionne réellement une recommandation
 

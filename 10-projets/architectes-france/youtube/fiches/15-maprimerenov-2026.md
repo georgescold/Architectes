@@ -142,6 +142,17 @@ https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembr
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier
 
+### Les mots de cet épisode, à ne jamais employer sans les expliquer
+
+Prescripteur. Quelqu'un qui envoie des clients sans être payé pour ça : notaire, agent
+immobilier, entreprise du bâtiment, ancien client. Le point de l'épisode est que les
+propriétaires en rénovation d'ampleur ne sont dans le carnet d'aucun prescripteur.
+
+Rénovation d'ampleur. Un bouquet de travaux qui doit faire gagner au logement au moins deux
+classes énergétiques, avec un accompagnement obligatoire. À distinguer de la rénovation
+« par geste », qui ne porte que sur un poste — une isolation, une chaudière.
+
+
 ⚠️ C'est l'épisode le plus périssable de la chaîne. Le dispositif a été suspendu puis
 rouvert en deux mois. Tout se revérifie la veille du tournage, et la date du relevé
 s'affiche à l'écran.

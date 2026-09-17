@@ -94,19 +94,23 @@ quatre mois affiché seul.
 
 Ch.4 · Jusqu'où il peut aller seul
 
-L'idée : sur l'aménagement intérieur d'un local existant, il peut porter le projet en
-entier. L'architecte inscrit à l'Ordre n'est obligatoire que dans deux cas précis.
+L'idée : tant qu'on reste à l'intérieur du local, il fait tout seul. C'est seulement quand
+le projet touche la façade ou ajoute de la surface qu'il lui faut un architecte inscrit à
+l'Ordre.
 
-En clair : c'est la bonne nouvelle du chapitre, et presque personne ne la connaît. Quand les
-travaux modifient l'intérieur sans toucher la façade ni la structure, une autorisation de
-travaux suffit, et aucun architecte n'est légalement requis. L'architecte devient
-obligatoire seulement si le maître d'ouvrage est une société et qu'il y a construction, ou
-si un particulier crée plus de 150 m² de surface de plancher. Autrement dit, la très grande
-majorité des ouvertures de commerce lui est accessible. Tu le dis en une phrase, avec la
-source à l'écran, et tu passes.
+En clair : c'est la bonne nouvelle du chapitre, et presque personne ne la connaît.
+L'obligation d'avoir un architecte est accrochée au permis de construire, et à rien d'autre.
+Refaire l'intérieur d'un local existant ne demande pas de permis de construire : une
+autorisation de travaux suffit, et aucun architecte n'est légalement requis. C'est le cas le
+plus fréquent d'une ouverture de commerce. En revanche, dès qu'il faut un permis de
+construire — extension, plus de 20 m² créés, façade ou structure touchée — et comme un
+restaurant ou une boutique est presque toujours une société, un architecte inscrit devient
+obligatoire quelle que soit la surface : les sociétés n'ont droit à aucune dérogation. Tu le
+dis en une phrase, avec la source à l'écran, et tu passes.
 
-À l'écran : les deux cas où l'architecte est obligatoire, en liste, avec le lien
-service-public visible.
+À l'écran : deux colonnes. À GAUCHE, on touche seulement l'intérieur : il fait tout. À
+DROITE, on touche la façade ou on ajoute de la surface : il s'associe. Lien de l'Ordre
+visible.
 
 
 Ch.5 · Ce que dit le marché publicitaire de ce segment
@@ -185,6 +189,21 @@ laisses une tension : quelqu'un d'autre finira par y aller.
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier
+
+### Les mots de cet épisode, à ne jamais employer sans les expliquer
+
+ERP. Établissement recevant du public : tout local où des gens entrent, qu'ils paient ou
+non. Restaurant, boutique, cabinet médical, salle de sport. Classé en 5 catégories selon le
+nombre de personnes accueillies, la 5e étant la plus petite et la plus fréquente. Dis
+« établissement recevant du public » en entier la première fois, le sigle ensuite.
+
+Prescripteur. Quelqu'un qui envoie des clients sans être payé pour ça : notaire, agent
+immobilier, entreprise du bâtiment, ancien client.
+
+Les autres mots de cet épisode — maître d'ouvrage, personne morale, permis de construire,
+autorisation de travaux — sont expliqués dans la section « Qui a le droit de signer quoi »
+plus bas. Ne les emploie jamais avant de les avoir définis à l'écran.
+
 
 Cette section n'est pas dans la vidéo. Elle est là pour que tu comprennes la chaîne complète
 et que tu puisses la raconter sans notes, ou répondre à n'importe quelle question en
@@ -289,6 +308,50 @@ https://www.ura.fr/reglementation/reglementation-type-n
 Mots à employer sans hésiter : autorisation de travaux, notice de sécurité, notice
 d'accessibilité, plans cotés, commission de sécurité, maître d'œuvre, agencement, CHR.
 
+
+
+### Qui a le droit de signer quoi, expliqué une fois pour toutes
+
+Cette règle décide de quels clients l'architecte d'intérieur peut démarcher seul. Elle est
+simple, mais elle est toujours énoncée en jargon. Voilà les trois mots, puis la règle.
+
+Le maître d'ouvrage, c'est le client. Celui qui commande les travaux et qui les paie. À ne
+pas confondre avec le maître d'œuvre, qui est celui qui conçoit et qui suit le chantier —
+c'est-à-dire l'architecte d'intérieur lui-même dans notre cas.
+
+Une personne physique, c'est un particulier qui signe en son nom propre. Une personne
+morale, c'est une société : SARL, SAS, SCI, association. Un restaurant, une boutique, un
+cabinet médical sont presque toujours des sociétés.
+
+Le permis de construire, c'est l'autorisation lourde. On en a besoin quand on crée plus de
+20 m² de surface, quand on fait une extension, ou quand on change la destination du local
+en touchant la façade ou la structure. Pour tout le reste — refaire l'intérieur, déplacer
+des cloisons, changer un faux plafond, installer un équipement — il faut seulement une
+autorisation de travaux, ou une déclaration préalable.
+
+La règle tient alors en une phrase : l'obligation d'architecte est accrochée au permis de
+construire, et à rien d'autre.
+https://www.architectes.org/actualites/dans-quel-cas-le-recours-larchitecte-est-il-obligatoire-91255
+
+Ce qui donne trois cas :
+
+  Pas de permis de construire — donc une autorisation de travaux ou une déclaration
+  préalable seule. Aucun architecte n'est obligatoire, quel que soit le client. C'est le
+  cas le plus fréquent d'un aménagement de local existant, et l'architecte d'intérieur
+  porte le projet en entier.
+
+  Permis de construire et le client est une société. Un architecte inscrit à l'Ordre est
+  obligatoire, sans aucun seuil de surface. Les sociétés n'ont droit à aucune dérogation :
+  même pour 30 m², il en faut un.
+
+  Permis de construire et le client est un particulier en son nom propre. Un architecte est
+  obligatoire seulement au-dessus de 150 m² de surface de plancher.
+
+Ce que ça veut dire concrètement pour l'épisode : tant qu'on reste à l'intérieur d'un local
+existant, l'architecte d'intérieur n'a personne à aller chercher. Le jour où le projet
+attaque la façade ou ajoute de la surface, et comme le client est presque toujours une
+société, il lui faut un architecte inscrit à ses côtés — quelle que soit la taille du
+chantier.
 
 
 ### Ce que le gratuit couvre, et où il s'arrête
@@ -433,18 +496,32 @@ https://www.alsace-eurometropole.cci.fr/sanction-ouverture-erp-sans-autorisation
 
 ### 4. Jusqu'où il peut aller seul
 
-À faire comprendre : la limite, dite vite et sans pédanterie, pour qu'il ne se lance pas
-sur un projet qu'il ne peut pas signer.
+À faire comprendre : qu'il peut porter seul la très grande majorité de ces projets, et à
+quel moment exactement ça change.
 
 Exemple de formulation :
-« Une limite, et je la dis parce qu'elle change qui vous pouvez démarcher. Tant qu'il n'y
-a pas de permis de construire, vous y allez seul. Dès qu'on crée plus de 20 m² ou qu'on
-change la destination en touchant la façade ou un mur porteur, il faut un architecte
-inscrit à l'Ordre — parce qu'un restaurant, c'est une société, et qu'une société n'a
-jamais droit au seuil de 150 m². Donc dans ce cas-là vous vous associez. Ça ne change rien
-à ce qui suit, mais ça évite de perdre un rendez-vous. »
+« Une précision, et elle est à votre avantage. Tout le monde croit qu'il faut un architecte
+inscrit à l'Ordre dès qu'on touche à un local professionnel. C'est faux.
+
+L'obligation d'avoir un architecte est accrochée au permis de construire, et à rien
+d'autre. Or refaire l'intérieur d'un local existant ne demande pas de permis de construire.
+Déplacer des cloisons, refaire un faux plafond, changer le commerce, reprendre les
+installations : tout ça relève de l'autorisation de travaux. Aucun architecte n'est
+obligatoire. Vous faites le projet en entier, vous montez le dossier, vous le déposez.
+
+Ça bascule à un seul moment : quand le projet demande un permis de construire. Une
+extension, plus de 20 m² créés, la façade ou la structure touchée. Là, il faut un architecte
+inscrit — et attention, sans aucun seuil de surface, parce que votre client est une société.
+Le seuil de 150 m² dont vous avez entendu parler ne vaut que pour un particulier qui
+construit en son nom propre. Une SARL, une SAS, une SCI n'y ont jamais droit, même pour
+30 m².
+
+Donc : à l'intérieur, vous êtes seul maître à bord. Dès qu'on sort du local, vous vous
+associez à un confrère architecte. Ça évite de perdre un rendez-vous, et ça vous fait
+gagner tous les autres. »
 
 Preuve :
+https://www.architectes.org/actualites/dans-quel-cas-le-recours-larchitecte-est-il-obligatoire-91255
 https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037667650
 
 

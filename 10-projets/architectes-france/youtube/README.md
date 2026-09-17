@@ -243,6 +243,38 @@ existe derrière** — et c'est ce qui fait cliquer sur la description trois vid
 
 ---
 
+### AUCUN MOT DE MÉTIER N'EST EMPLOYÉ SANS ÊTRE EXPLIQUÉ
+
+C'est la règle la plus souvent violée, et celle qui coûte le plus cher — parce qu'un mot
+que le spectateur ne comprend pas le fait décrocher sans qu'il sache pourquoi.
+
+Elle vaut à deux niveaux :
+
+1. **Dans la fiche**, pour que Loys comprenne complètement ce qu'il va dire. Une fiche qui
+   emploie « maître d'ouvrage », « personne morale » ou « quartile » sans les définir est
+   une fiche inutilisable. Le niveau de détail attendu est celui-ci :
+
+   > Une personne morale, c'est une société : SARL, SAS, SCI, association. Un restaurant ou
+   > une boutique sont presque toujours des sociétés. La distinction compte parce que les
+   > dérogations de surface ne valent jamais pour une société.
+
+   Pas : « le maître d'ouvrage est une société avec construction ».
+
+2. **Dans la vidéo**, où le mot se définit à voix haute, sur place, la première fois qu'il
+   est prononcé. Jamais « on y reviendra ».
+
+Le lexique complet est dans `connaissance-metier.md`, section 0. Chaque fiche ouvre sa
+section AVANT DE TOURNER par « Les mots de cet épisode » : uniquement les termes que cette
+fiche-là emploie, définis en français courant.
+
+Le test, quand tu écris : est-ce que quelqu'un qui n'a jamais mis les pieds dans une agence
+d'architecture comprend cette phrase du premier coup ? Si la réponse demande une seconde
+lecture, la phrase est à réécrire.
+
+⚠️ Ça vaut aussi pour le vocabulaire d'acquisition — créative, enchère, taux de
+transformation, ligne de flottaison. Ce sont des mots d'agence, pas du français.
+
+
 ### LE FIL DE LA DÉMONSTRATION — la section qui porte l'épisode
 
 Chaque fiche contient, juste sous la big idea de l'épisode, une idée par chapitre, dans

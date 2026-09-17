@@ -10,6 +10,112 @@ Règle de fonctionnement : quand une fiche vidéo contredit ce document, c'est l
 a tort.
 
 
+## 0. LE LEXIQUE — aucun de ces mots ne s'emploie sans être expliqué
+
+Règle : si un mot de cette liste apparaît dans une vidéo ou dans une fiche, il est défini
+avant d'être utilisé. Pas en note de bas de page, pas « on va y revenir » — défini sur place,
+en une ou deux phrases de français courant. Un mot que le spectateur ne comprend pas est un
+mot qui le fait décrocher, et un mot que Loys ne comprend pas est une erreur qui finira dans
+une vidéo.
+
+
+### Les mots du chantier
+
+Maître d'ouvrage. Le client. Celui qui commande les travaux et qui les paie. Dans nos
+vidéos, c'est le client de l'architecte — jamais l'architecte lui-même.
+
+Maître d'œuvre, et maîtrise d'œuvre. Celui qui conçoit le projet et qui suit le chantier :
+l'architecte, l'architecte d'intérieur, ou un maître d'œuvre indépendant. La maîtrise
+d'œuvre, c'est cette mission-là. Les deux mots se ressemblent et ne désignent pas du tout la
+même personne : le maître d'ouvrage paie, le maître d'œuvre exécute.
+
+Personne physique. Un particulier qui signe en son nom propre.
+
+Personne morale. Une société : SARL, SAS, SCI, association. Un restaurant, une boutique ou
+un cabinet médical sont presque toujours des personnes morales. La distinction compte parce
+que les dérogations de surface ne valent jamais pour une société.
+
+Surface de plancher. La surface intérieure construite, calculée sous plafond, hors murs
+extérieurs et hors surfaces de moins de 1,80 m de hauteur. C'est l'unité de mesure de
+l'urbanisme, pas la surface habitable d'une annonce immobilière.
+
+Changement de destination. Transformer un local d'un usage vers un autre — un logement en
+commerce, un commerce en restaurant. Ça déclenche une autorisation, et un permis de
+construire si ça touche la façade ou la structure.
+
+Permis de construire. L'autorisation lourde. Nécessaire quand on crée plus de 20 m² de
+surface, qu'on fait une extension, ou qu'on change la destination en touchant la façade ou
+la structure. Délai d'instruction : 5 mois sur un ERP.
+
+Déclaration préalable. L'autorisation légère, pour les petits travaux et les modifications
+d'aspect extérieur. Aucun architecte n'y est jamais obligatoire.
+
+Autorisation de travaux, ou AT. L'autorisation propre aux ERP, pour modifier l'intérieur
+d'un local qui reçoit du public sans toucher la façade ni la structure. Formulaire CERFA
+13824. Délai d'instruction : 4 mois. Aucun architecte n'y est obligatoire.
+
+ERP. Établissement recevant du public : tout local où des gens entrent, qu'ils paient ou
+non. Restaurant, boutique, cabinet médical, salle de sport. Classé en 5 catégories selon
+le nombre de personnes accueillies, la 5e étant la plus petite et la plus fréquente.
+
+Agenceur. L'entreprise qui fabrique et pose l'aménagement d'un local professionnel. Dans la
+définition officielle du métier, il travaille à partir d'un concept d'architecte d'intérieur
+ou de designer. Beaucoup ont absorbé la conception avec un bureau d'études intégré.
+
+
+### Les mots des chiffres
+
+Médiane. La valeur qui coupe une population en deux. Un revenu médian de 32 983 euros veut
+dire que la moitié des architectes gagnent moins, l'autre moitié plus. Ce n'est pas la
+moyenne : une poignée de très gros revenus tire la moyenne vers le haut, jamais la médiane.
+
+Quartile. Le même principe, mais en quatre parts. Si on range tous les architectes du moins
+payé au mieux payé, le premier quartile est la limite en dessous de laquelle se trouve le
+quart le moins bien payé, et le troisième quartile la limite au-dessus de laquelle se trouve
+le quart le mieux payé. C'est l'outil qui permet de montrer que les deux extrémités d'une
+profession bougent dans des directions opposées.
+
+Le contract. Le nom que le secteur de l'ameublement donne au marché professionnel : hôtels,
+restaurants, commerces, bureaux, par opposition au meuble vendu aux particuliers. À éviter
+à l'oral, personne ne le comprend hors du métier.
+
+
+### Les mots de l'acquisition
+
+Prescripteur. Quelqu'un qui envoie des clients sans être payé pour ça : un notaire, un agent
+immobilier, une entreprise du bâtiment, un ancien client. C'est le moteur du
+bouche-à-oreille, et c'est aussi ce qui le rend fragile — un prescripteur part à la retraite.
+
+Publier, et diffuser. Publier, c'est mettre un contenu devant ceux qui vous suivent déjà.
+Diffuser, c'est payer pour le mettre devant des gens qui ne vous connaissent pas, dans une
+zone qu'on choisit. Ce sont deux mécaniques différentes, et une seule amène des inconnus.
+
+Créative. Le visuel d'une publicité — l'image ou la vidéo, avec son texte. Une même campagne
+peut tester plusieurs créatives. À expliquer systématiquement : c'est du vocabulaire
+d'agence, pas du français.
+
+Enchère. La publicité en ligne ne se vend pas à prix fixe : plusieurs annonceurs qui veulent
+toucher les mêmes personnes enchérissent, et le prix monte avec le nombre de concurrents.
+D'où la conséquence qui revient dans plusieurs épisodes : un espace où personne ne diffuse
+coûte moins cher.
+
+Demande entrante. Quelqu'un qui contacte le cabinet de lui-même. On ne dit jamais « lead »
+dans une vidéo.
+
+Taux de transformation. Le pourcentage qui passe d'une étape à la suivante. Sur dix demandes
+reçues, combien deviennent un rendez-vous ; sur dix rendez-vous, combien deviennent une
+signature. Les deux se multiplient entre eux, et c'est pour ça qu'ils comptent plus que le
+prix d'un contact.
+
+Coût par demande, et coût par signature. Ce que coûte un contact entrant, et ce que coûte un
+projet effectivement signé. Le second est le premier divisé par le produit des deux taux de
+transformation.
+
+Ligne de flottaison. Ce qu'on voit d'une page web sans avoir à faire défiler l'écran. Image
+de bateau : au-dessus, c'est visible ; en dessous, ça n'existe pas pour la plupart des
+visiteurs.
+
+
 ## 1. DEUX MÉTIERS QUI PORTENT PRESQUE LE MÊME NOM
 
 C'est la distinction la plus importante de tout le dossier. La confondre, c'est perdre

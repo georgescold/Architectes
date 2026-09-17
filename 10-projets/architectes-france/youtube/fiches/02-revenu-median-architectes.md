@@ -155,6 +155,17 @@ https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembr
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier
 
+### Les mots de cet épisode, à ne jamais employer sans les expliquer
+
+Prescripteur. Quelqu'un qui envoie des clients sans être payé pour ça : un notaire, un agent
+immobilier, une entreprise du bâtiment, un ancien client. C'est le moteur du
+bouche-à-oreille.
+
+Médiane et moyenne. La médiane coupe la population en deux : la moitié gagne moins, la
+moitié gagne plus. La moyenne, elle, est tirée vers le haut par une poignée de très gros
+revenus. C'est pour ça que la médiane est le bon chiffre ici, et il faut le dire à l'oral.
+
+
 
 ### D'où viennent ces chiffres, exactement
 

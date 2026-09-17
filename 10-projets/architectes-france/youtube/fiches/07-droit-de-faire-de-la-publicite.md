@@ -148,6 +148,19 @@ https://www.architectes.org/
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier
 
+### Les mots de cet épisode, à ne jamais employer sans les expliquer
+
+Enchère. La publicité en ligne ne se vend pas à prix fixe. Plusieurs annonceurs qui veulent
+toucher les mêmes personnes enchérissent, et le prix monte avec le nombre de concurrents en
+face. C'est le mécanisme qui rend le chapitre 8 vrai : un espace où presque personne ne
+diffuse est un espace bon marché. Explique-le en une phrase, sinon la conclusion tombe à
+plat.
+
+Code de déontologie. Les règles professionnelles que l'Ordre impose à ses inscrits. Elles
+n'ont rien à voir avec la loi générale : un architecte d'intérieur, qui n'est inscrit nulle
+part, n'y est pas soumis.
+
+
 
 ### L'histoire du texte, et elle est spectaculaire
 
