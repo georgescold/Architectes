@@ -162,10 +162,13 @@ L'idée : puisqu'il ne vient pas, on va devant lui. Et ça se décide en trois r
 une exclusion.
 
 En clair : la zone où on diffuse, le type de local visé, et le moment — quelqu'un qui vient
-de signer un bail ou qui prépare une ouverture. Puis le choix du canal, et il y en a deux :
-la recherche Google, où la personne se déclare en tapant son problème, et le fil
-d'actualité, où c'est vous qui allez la chercher. La recherche d'abord pour l'intention, le
-fil ensuite pour le volume. Et l'exclusion qui fait toute la différence : la franchise. Un franchisé applique le concept de son réseau, réalisé par l'agenceur
+de signer un bail ou qui prépare une ouverture. Puis tu traites l'objection Google, qui va
+venir de toute façon : oui, celui qui cherche se déclare tout seul, mais dans un seul
+département ils sont une poignée par mois, ils cherchent des semaines après la signature, et
+quand ils cherchent ils ouvrent trois onglets. Le fil d'actualité met le cabinet devant eux
+le jour où ça se décide, et comme seul nom. La recherche Google vient en complément, quand
+on a vérifié qu'il y a du volume. Et l'exclusion qui fait toute la différence : la
+franchise. Un franchisé applique le concept de son réseau, réalisé par l'agenceur
 référencé — il n'a aucune décision à prendre, et il y a 93 395 points de vente franchisés en
 France. Viser « les commerces qui ouvrent » sans exclure la franchise, c'est payer pour des
 gens qui ne peuvent pas dire oui. C'est le chapitre le plus long de la vidéo parce que c'est
@@ -184,7 +187,7 @@ https://www.metro.fr/service/amenagement/logiciel-amenagement-plans-restaurant
 Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
 
 L'idée : la publicité en ligne est le seul moyen d'être devant ce client pendant les
-quelques semaines où il prépare son ouverture.
+quelques semaines où il prépare son ouverture — et d'y être avant qu'il compare.
 
 En clair : sa contrainte n'existe que pendant une courte période. Après, le local est ouvert
 et le sujet est clos. Aucun canal lent ne peut attraper ça — ni le référencement, ni la
@@ -645,24 +648,32 @@ Le professionnel ne cherche pas vos réalisations, il cherche à savoir si vous 
 faire rater sa date. Une phrase comme "dossier déposé en janvier, ouverture en juin" vaut
 mieux que trente photos.
 
-Trois : vous diffusez, et sur ce segment il y a deux canaux qui ne font pas le même
-travail.
+Trois : vous diffusez sur la zone. Pas sur la France. Sur les gérants d'établissement de
+votre département.
 
-Le premier, c'est la recherche Google. Quelqu'un qui vient de signer un bail tape son
-problème : "autorisation de travaux ERP", "mise aux normes accessibilité commerce",
-"aménager un local à [ville]". Il se déclare lui-même. Vous ne payez que des gens qui ont
-déjà le problème — c'est le canal le plus rentable de ce segment, et il est presque vide :
-j'ai regardé les spécialistes de la conception de restaurants, zéro annonce.
+Et là je vais anticiper une objection, parce qu'elle est bonne : pourquoi ne pas attendre
+qu'ils cherchent sur Google ? Après tout, quelqu'un qui tape "autorisation de travaux ERP"
+a déjà le problème, et il se déclare tout seul.
 
-Le second, c'est le fil d'actualité, Facebook et Instagram. Là, personne ne cherche rien.
-C'est vous qui allez chercher les gérants d'établissement de votre département. C'est moins
-précis, mais c'est ce qui donne du volume — parce que le nombre de gens qui tapent ces
-requêtes chaque mois, dans un seul département, est faible.
+Trois raisons.
 
-L'ordre compte : la recherche d'abord parce qu'elle capte l'intention, le fil ensuite pour
-le volume. Et avant de dépenser un euro, vous vérifiez combien de gens cherchent
-réellement ces mots dans votre zone — ça se fait gratuitement, et c'est ce qui décide du
-budget. »
+La première, c'est le volume. Dans un seul département, le nombre de gens qui tapent ces
+mots dans un mois se compte sur les doigts d'une main. C'est le canal le moins cher par
+signature, et c'est aussi celui qui ne remplit pas un agenda. On ne construit pas l'activité
+d'un cabinet sur quinze recherches par mois.
+
+La deuxième, c'est le moment. Quelqu'un ne cherche pas le jour où il signe son bail. Il
+cherche des semaines plus tard, quand il a compris qu'il y avait un problème — et à ce
+moment-là, il a déjà demandé autour de lui. Le fil d'actualité, lui, vous met devant lui le
+jour de la signature.
+
+La troisième, c'est ce qu'il fait de vous. Sur une page de résultats, il ouvre trois
+onglets : vous êtes un candidat parmi trois, et la conversation commencera par le prix. Dans
+son fil, vous êtes le seul nom qu'il ait vu. Ce n'est pas la même prestation qui se vend.
+
+Donc : le fil d'abord, parce que c'est là qu'est le volume et l'antériorité. Et la recherche
+Google en complément, le jour où vous vérifiez qu'il y a assez de volume sur votre zone pour
+que ça vaille la peine. Cette vérification est gratuite et elle prend une demi-heure. »
 
 
 ### 8. LE BLOC ACQUISITION — deux minutes pleines, jamais expédié

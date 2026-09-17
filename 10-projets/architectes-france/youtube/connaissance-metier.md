@@ -404,6 +404,38 @@ d'études intégré.
 https://www.chambre-agencement.org/
 
 
+## 7 ter. META OU GOOGLE — la réponse à donner, et pourquoi
+
+L'objection « pourquoi ne pas faire de la recherche Google plutôt ? » arrivera dans les
+commentaires et en rendez-vous. Elle est bonne, et on y répond par l'arithmétique, pas en
+l'évitant.
+
+Ce qui est vrai pour Google : celui qui tape « autorisation de travaux ERP » a déjà le
+problème et se déclare seul. C'est le meilleur coût par signature du marché quand le volume
+existe. Ne jamais prétendre le contraire — un spectateur qui s'y connaît le verrait.
+
+Les trois raisons qui font que ce n'est pas le moteur sur ce segment :
+
+  Le volume. Dans un seul département, ces requêtes se comptent sur les doigts d'une main
+  chaque mois. Un canal qui produit quinze impressions ne remplit pas un agenda.
+  Le moment. On ne cherche pas le jour de la signature du bail, mais des semaines après —
+  quand on a déjà demandé autour de soi.
+  La comparaison. Sur une page de résultats, on ouvre trois onglets. Dans un fil
+  d'actualité, il n'y a qu'un nom.
+
+La position d'Essort, donc : le fil Facebook et Instagram est le moteur, parce qu'il donne
+le volume et l'antériorité. La recherche Google est un complément, à ajouter quand une
+vérification du volume sur la zone montre que ça vaut la peine.
+
+⚠️ Cette vérification est gratuite et se fait avec le planificateur de mots-clés de Google
+Ads. Tant qu'elle n'a pas été faite sur une zone donnée, on ne dit ni « il y a du volume »
+ni « il n'y en a pas ». On dit qu'on ne l'a pas mesuré.
+
+Cohérence avec l'offre : la gestion Meta à 999 € est l'offre courante ; l'accompagnement
+global sur mesure peut couvrir d'autres leviers, dont la recherche. Ne jamais recommander
+publiquement un canal qu'on ne saurait pas opérer, et ne jamais nier un canal qui marche.
+
+
 ## 8. LES CONCURRENTS RÉELS, ET CE QU'ILS VENDENT
 
 Ils ne sont pas confrères, donc la confraternité ne les protège pas. On peut les nommer.
