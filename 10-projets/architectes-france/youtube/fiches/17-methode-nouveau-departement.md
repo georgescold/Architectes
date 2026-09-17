@@ -86,6 +86,7 @@ vingt pages : ce sont trois lignes écrites. C'est la phase la plus courte, la m
 coûteuse, et celle que tout le monde saute.
 
 À l'écran : les trois lignes écrites en direct devant la caméra.
+Lien : https://www.observatoire-des-territoires.gouv.fr/nombre-de-logements-commences-constructions-neuves-par-pour-1-000-habitants
 
 
 Ch.5 · Phase 2 — être trouvable
@@ -134,6 +135,7 @@ illisible ne permet aucune décision suivante. La publicité n'intervient qu'en 
 c'est le seul moyen d'ouvrir un territoire où l'on ne connaît personne.
 
 À l'écran : les quatre phases reliées par des flèches, puis la page essort.agency/ressources.
+Lien : https://essort.agency/ressources
 
 
 Ch.9 · Sortie

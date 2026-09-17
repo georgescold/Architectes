@@ -62,6 +62,7 @@ une demi-journée. N'importe qui peut la refaire et vérifier tes chiffres. C'es
 t'interdit d'exagérer, et c'est exactement pour ça que tu l'annonces.
 
 À l'écran : l'annuaire de l'Ordre, puis la grille de relevé.
+Lien : https://www.architectes.org/
 
 
 Ch.3 · Ce qu'un maître d'ouvrage fait vraiment avant d'appeler
@@ -138,6 +139,7 @@ lignes auraient filtré. Une bonne page peut diviser par deux le coût d'une dem
 changer un euro de budget.
 
 À l'écran : la page essort.agency/ressources.
+Lien : https://essort.agency/ressources
 
 
 Ch.9 · Sortie

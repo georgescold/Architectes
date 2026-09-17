@@ -115,6 +115,7 @@ démonstration : à zéro abonné, la plupart des spectateurs n'auront vu aucun 
 précédent.
 
 À l'écran : le graphique des quartiles, trois secondes.
+Lien : https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
 
 Ch.7 · Le premier pas, gratuit
@@ -138,6 +139,7 @@ trimestres. La recommandation reste meilleure sur tout le reste : ce qui la disq
 c'est uniquement qu'on ne peut pas décider de la déclencher.
 
 À l'écran : la page essort.agency/ressources.
+Lien : https://essort.agency/ressources
 
 
 Ch.9 · Sortie de saison
@@ -150,9 +152,6 @@ grande. La règle ne change pas : le document gratuit, rien d'autre, et pas de m
 d'abonnement.
 
 À l'écran : la question d'ouverture, une dernière fois.
-
-Source affichée :
-https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

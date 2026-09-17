@@ -302,9 +302,14 @@ Quatre règles :
 2. **Aucun mot de jargon de production.** Pas de « la bascule de la vidéo », pas de « le
    cœur factuel », pas de « l'ennemi de l'épisode ». Ces mots-là sont vides pour qui lit la
    fiche six mois plus tard.
-3. **Rien ne se désigne sans se nommer.** Jamais « les trois autres » ou « ce mécanisme » :
+3. **Le lien est sous la ligne « À l'écran », jamais ailleurs.** Dès qu'un chapitre montre
+   un document, une capture ou une recherche, l'adresse est écrite juste en dessous, sur une
+   ligne `Lien :`. On ne renvoie pas à une liste de sources en fin de section : au tournage,
+   on suit le fil de haut en bas et on doit pouvoir ouvrir la page au moment où on en parle.
+   Ça vaut autant pour les textes officiels que pour les relevés publicitaires.
+4. **Rien ne se désigne sans se nommer.** Jamais « les trois autres » ou « ce mécanisme » :
    on écrit lesquels, à chaque fois, même si c'est répété.
-4. **Toute capture qui contient un chiffre porte la date du relevé à l'image**, et aucun
+5. **Toute capture qui contient un chiffre porte la date du relevé à l'image**, et aucun
    cabinet n'est identifiable — les reconstitutions sont fabriquées par toi.
 
 

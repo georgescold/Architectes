@@ -77,6 +77,7 @@ OBLIGATOIRES = [
     (r"L'idée :", "une idee annoncee pour chaque chapitre"),
     (r"En clair :", "l'explication detaillee de chaque idee"),
     (r"### Les mots de cet épisode", "le lexique des termes employes par l'episode"),
+    (r"\nLiens? : https?://", "les liens places sous les lignes « A l'ecran »"),
     (r"publicit[ée] en ligne", "la phrase qui designe la publicite en ligne comme levier"),
     (r"essort\.agency/ressources", "le lien vers le document gratuit"),
 ]

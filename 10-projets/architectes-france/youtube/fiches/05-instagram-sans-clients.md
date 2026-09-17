@@ -48,6 +48,7 @@ tout, par salves de quelques heures. Il a l'audience. Il n'a pas le mécanisme q
 cette audience en demandes.
 
 À l'écran : le compte concerné, nom masqué, seul le nombre d'abonnés lisible.
+Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
 
 
 Ch.2 · D'où je parle
@@ -82,6 +83,7 @@ Ces gens-là ne le suivent pas sur Instagram — ils n'ont aucune raison de le c
 voient l'annonce, pas la publication.
 
 À l'écran : la bibliothèque publicitaire, compteur à 97, date visible.
+Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
 
 
 Ch.5 · Ce que vous vous interdisez sans raison
@@ -95,6 +97,8 @@ de photo d'un projet qui n'est pas le sien, pas de dénigrement. Mais au sens st
 moins empêchés de communiquer qu'un architecte inscrit à l'Ordre. Presque aucun ne le sait.
 
 À l'écran : le périmètre du code, affiché noir sur blanc.
+Liens : https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000722752/
+        https://www.cfai.fr/en/se-former-a-l-architecture-interieure/les-ecoles-reconnues
 
 
 Ch.6 · Publier ou diffuser
@@ -121,6 +125,7 @@ publications ont le plus réagi ces deux dernières années. Ce travail est fait
 gratuit.
 
 À l'écran : une publication avec ses chiffres, puis la même image présentée en annonce.
+Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
 
 
 Ch.8 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
@@ -133,6 +138,7 @@ sur la France entière, lui diffuse sur un département. Ce n'est pas la même d
 c'est précisément pour ça qu'un cabinet peut exister à côté d'elles.
 
 À l'écran : la page essort.agency/ressources.
+Lien : https://essort.agency/ressources
 
 
 Ch.9 · Sortie
@@ -144,9 +150,6 @@ En clair : tu termines sur quelque chose de faisable dans la soirée. La tension
 existent déjà, elles attendent depuis des années.
 
 À l'écran : trois photos, une carte de département, une phrase.
-
-Source des relevés affichés :
-https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

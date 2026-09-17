@@ -48,6 +48,7 @@ En clair : 130 publicités actives sur l'expression « constructeur de maisons �
 n'importe qui peut revérifier pendant la vidéo.
 
 À l'écran : les deux compteurs côte à côte, date du relevé visible.
+Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
 
 
 Ch.2 · D'où je parle
@@ -60,6 +61,7 @@ depuis quand, et avec quel message. Tu ne découvres pas l'outil devant eux, tu 
 toutes les semaines.
 
 À l'écran : la page d'accueil de la bibliothèque publicitaire, URL lisible.
+Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
 
 
 Ch.3 · Les trois limites de l'outil
@@ -75,6 +77,7 @@ de résultats sur une expression exacte, à une date. Ces limites annoncées d'e
 tout le reste de la vidéo incontestable.
 
 À l'écran : une recherche « architecte » qui remonte des écoles et des magazines.
+Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
 
 
 Ch.4 · Ce que vaut un espace publicitaire vide
@@ -99,6 +102,7 @@ ne peux pas lutter », il faut regarder s'il s'agit de dix messages différents 
 copié dix fois.
 
 À l'écran : une annonce dupliquée par zone, compteur de diffusions en évidence.
+Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
 
 
 Ch.6 · La manipulation, en direct
@@ -109,6 +113,7 @@ En clair : choisir le pays, taper l'expression exacte entre guillemets, régler 
 les annonces actives. Rien d'autre. Tu le fais à l'écran, lentement, curseur visible.
 
 À l'écran : la manipulation filmée, date du jour affichée en bandeau.
+Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
 
 
 Ch.7 · Les quatre lectures d'une bibliothèque
@@ -121,6 +126,7 @@ est une annonce qui rapporte — personne ne paie deux ans pour rien. C'est le v
 la vidéo.
 
 À l'écran : les quatre lectures en liste, puis appliquées à un annonceur réel.
+Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
 
 
 Ch.8 · Le cas qui vient de s'arrêter
@@ -131,6 +137,7 @@ En clair : un annonceur qui diffusait depuis deux ans et qui s'arrête, ça se v
 ne sais pas, c'est pourquoi — et tu le dis. Tu montres le fait, pas une interprétation.
 
 À l'écran : la fiche d'un annonceur, date de fin de diffusion visible.
+Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
 
 
 Ch.9 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
@@ -143,6 +150,7 @@ jour où trois confrères s'y mettent, le prix d'une demande n'est plus le même
 principe de l'enchère vu au chapitre 4. L'avantage existe maintenant, pas dans trois ans.
 
 À l'écran : la page essort.agency/ressources.
+Lien : https://essort.agency/ressources
 
 
 Ch.10 · Sortie
@@ -153,9 +161,7 @@ En clair : tu ne demandes rien d'autre. Et tu laisses la tension : il va peut-ê
 qu'un confrère diffuse déjà.
 
 À l'écran : le champ de recherche, vide, curseur qui clignote.
-
-Source de toutes les captures :
-https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
+Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

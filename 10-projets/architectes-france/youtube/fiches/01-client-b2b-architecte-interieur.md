@@ -61,6 +61,7 @@ publicité.
 
 À l'écran : la bibliothèque publicitaire, recherche sur la conception gratuite, compteur à
 97, date du relevé visible.
+Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
 
 
 Ch.2 · Le problème du marché sur lequel il est
@@ -73,6 +74,7 @@ professionnels. Il choisit entre payer et ne pas payer. Personne ne gagne cette
 comparaison-là, quel que soit son talent.
 
 À l'écran : deux annonces d'enseignes qui promettent le plan gratuit, côte à côte.
+Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
 
 
 Ch.3 · Le segment où ça ne marche pas comme ça — deux minutes maximum
@@ -90,6 +92,8 @@ meubles.
 
 À l'écran : le CERFA 13824*04, pages sécurité et accessibilité encadrées, puis le délai de
 quatre mois affiché seul.
+Liens : https://www.service-public.fr/particuliers/vosdroits/R11311
+        https://entreprendre.service-public.gouv.fr/vosdroits/F31687
 
 
 Ch.4 · Jusqu'où il peut aller seul
@@ -111,6 +115,8 @@ dis en une phrase, avec la source à l'écran, et tu passes.
 À l'écran : deux colonnes. À GAUCHE, on touche seulement l'intérieur : il fait tout. À
 DROITE, on touche la façade ou on ajoute de la surface : il s'associe. Lien de l'Ordre
 visible.
+Liens : https://www.architectes.org/actualites/dans-quel-cas-le-recours-larchitecte-est-il-obligatoire-91255
+        https://entreprendre.service-public.gouv.fr/vosdroits/F31687
 
 
 Ch.5 · Ce que dit le marché publicitaire de ce segment
@@ -127,6 +133,8 @@ incontestable : ces outils ne classent pas par métier, donc tu annonces un nomb
 résultats sur une expression exacte, à une date donnée. Jamais « les seuls en France ».
 
 À l'écran : les deux recherches en direct, Meta puis Google, dates visibles.
+Liens : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
+        https://adstransparency.google.com/?region=FR
 
 
 Ch.6 · Pourquoi ce client ne viendra jamais tout seul
@@ -157,6 +165,7 @@ le seul qui parle de ton métier à toi.
 
 À l'écran : les trois lignes du ciblage écrites en direct, puis l'exclusion ajoutée en
 quatrième ligne.
+Lien : https://www.franchise-fff.com/wp-content/uploads/2026/03/FFF-CP-indicateursFranchise2025-mars2026-V2.pdf
 
 Sources des chiffres affichés :
 https://www.franchise-fff.com/wp-content/uploads/2026/03/FFF-CP-indicateursFranchise2025-mars2026-V2.pdf
@@ -175,6 +184,7 @@ recommandation, ni le contenu. Ce qui manque à un cabinet, ce n'est pas du tale
 système qui le mette devant les bonnes personnes au bon moment.
 
 À l'écran : la page essort.agency/ressources.
+Lien : https://essort.agency/ressources
 
 
 Ch.9 · Sortie

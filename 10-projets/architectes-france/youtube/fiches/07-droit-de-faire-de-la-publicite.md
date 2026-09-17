@@ -61,6 +61,7 @@ le dis pas, la moitié de l'audience va appliquer à sa situation des règles qu
 concernent pas — et l'autre moitié te le reprochera en commentaire.
 
 À l'écran : le périmètre du code, affiché d'emblée.
+Lien : https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000722752/
 
 
 Ch.3 · Le texte, lu à l'écran — deux minutes maximum
@@ -72,6 +73,7 @@ ouvrir la page pendant la vidéo. C'est la force de l'épisode : il n'y a rien �
 a un texte.
 
 À l'écran : le texte sur Légifrance, la phrase qui autorise surlignée, URL visible.
+Lien : https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000722752/
 
 
 Ch.4 · Depuis quand exactement
@@ -84,6 +86,7 @@ précise. Tu affiches les deux dates côte à côte, tu laisses le silence, et c
 calcul dans sa tête.
 
 À l'écran : les deux dates côte à côte, même jour.
+Lien : https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000722752/
 
 
 Ch.5 · Ce que le nouveau code change
@@ -94,6 +97,7 @@ En clair : certains ont entendu parler d'un nouveau texte entré en vigueur en 2
 lire, et pensent que ça a pu changer. Tu coupes court en affichant l'article concerné.
 
 À l'écran : le décret, entrée en vigueur au 1er juillet 2026, article affiché.
+Lien : https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000722752/
 
 
 Ch.6 · Ce que l'Ordre en dit lui-même
@@ -105,6 +109,7 @@ peut contester un consultant ; il ne conteste pas l'Ordre des architectes sur sa
 déontologie.
 
 À l'écran : la position publique de l'Ordre, citée à l'écran.
+Lien : https://www.architectes.org/
 
 
 Ch.7 · Les deux vraies limites
@@ -130,6 +135,7 @@ que la croyance a coûté à la profession, c'est exactement ce qui la rend acce
 aujourd'hui.
 
 À l'écran : la page essort.agency/ressources.
+Lien : https://essort.agency/ressources
 
 
 Ch.9 · Sortie
@@ -140,10 +146,6 @@ En clair : quoi diffuser, où, pour quel budget. Tu laisses la tension : c'est l
 demande du travail, et c'est celle que personne n'a encore faite dans ce métier.
 
 À l'écran : les trois questions restantes, plein écran.
-
-Sources affichées :
-https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000722752/
-https://www.architectes.org/
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

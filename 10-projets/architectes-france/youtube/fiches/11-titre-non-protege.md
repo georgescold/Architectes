@@ -75,6 +75,8 @@ protection légale — et aucun client ne connaît ce sigle. Point pratique à d
 écrire « architecte d'intérieur » en entier, jamais « architecte » seul.
 
 À l'écran : la loi de 1977 surlignée, puis un cadre vide à côté.
+Liens : https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000522423/
+        https://www.cfai.fr/en/se-former-a-l-architecture-interieure/les-ecoles-reconnues
 
 
 Ch.4 · Ce qu'un client vérifie vraiment
@@ -101,6 +103,7 @@ confraternité de l'Ordre ne les concernent pas. Le statut qu'ils vivent comme u
 est aussi une liberté qu'ils n'exercent pas.
 
 À l'écran : le périmètre du code, affiché noir sur blanc.
+Lien : https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000722752/
 
 
 Ch.6 · Les trois preuves qui remplacent un titre
@@ -127,6 +130,7 @@ troisième nom — il arrête de comparer. Être ce premier nom prend dix ans pa
 Il n'existe qu'un levier pour l'être tout de suite : payer pour être vu.
 
 À l'écran : la page essort.agency/ressources.
+Lien : https://essort.agency/ressources
 
 
 Ch.8 · Sortie
@@ -138,10 +142,6 @@ En clair : et ces trois places sont déjà occupées par quelqu'un. C'est la ten
 laisses.
 
 À l'écran : une page de résultats, trois noms, le sien absent.
-
-Sources affichées :
-https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000522423/
-https://www.cfai.fr/en/se-former-a-l-architecture-interieure/les-ecoles-reconnues
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

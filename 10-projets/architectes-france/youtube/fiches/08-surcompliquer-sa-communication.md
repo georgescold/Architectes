@@ -130,6 +130,7 @@ ne dit ni où, ni quoi, ni pour quel budget, il repart et le clic a été payé 
 pour ça qu'on n'ouvre jamais une campagne avant que ces trois lignes soient écrites.
 
 À l'écran : la page essort.agency/ressources.
+Lien : https://essort.agency/ressources
 
 
 Ch.9 · Sortie

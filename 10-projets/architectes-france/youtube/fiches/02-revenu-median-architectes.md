@@ -52,6 +52,7 @@ l'Ordre des architectes, il n'y a rien à discuter — et c'est ce qui rend le d
 inconfortable pour celui qui regarde.
 
 À l'écran : « 32 983 € » plein écran, puis la couverture d'Archigraphie.
+Lien : https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
 
 Ch.2 · D'où je parle et de quand datent ces chiffres
@@ -63,6 +64,7 @@ dix secondes et supprime l'objection « vos chiffres sont périmés » pour tout
 ça montre que tu as lu le document, pas juste le titre.
 
 À l'écran : la mention de l'année des données, laissée à l'image.
+Lien : https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
 
 Ch.3 · Le premier quartile
@@ -75,6 +77,7 @@ moins bien payé. Tu affiches le graphique, tu lis le chiffre, et tu te tais tro
 Aucun commentaire n'ajouterait quoi que ce soit.
 
 À l'écran : le graphique 19, page 32, plein écran, silence.
+Lien : https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
 
 Ch.4 · Pourquoi « c'est la conjoncture » ne tient pas
@@ -88,6 +91,7 @@ quart du bas a perdu 10 % en deux ans pendant que le quart du haut progressait. 
 donc pas un phénomène qui frappe, c'est un phénomène qui sépare.
 
 À l'écran : une flèche qui monte et une flèche qui descend, sur le même graphique.
+Lien : https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
 
 Ch.5 · Le décalage qui trompe tout le monde
@@ -112,6 +116,7 @@ prend trente ans — le temps de se constituer un réseau de gens qui vous recom
 le moment où la vidéo bascule : tu viens de chiffrer le coût de l'attente.
 
 À l'écran : la page du revenu par tranche d'âge, pic 55-64 ans entouré.
+Lien : https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
 
 Ch.7 · Ce qui sépare réellement les deux extrémités
@@ -137,6 +142,7 @@ quelqu'un de jeune dans le métier ne dispose pas. La publicité est le seul lev
 demande pas d'attendre : on l'ouvre, on le ferme, on le règle.
 
 À l'écran : la page essort.agency/ressources.
+Lien : https://essort.agency/ressources
 
 
 Ch.9 · Sortie
@@ -148,9 +154,6 @@ plupart de ceux qui font l'exercice trouvent une seule source. C'est la tension 
 laisses en partant.
 
 À l'écran : la question seule, plein écran.
-
-Source du document affiché :
-https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

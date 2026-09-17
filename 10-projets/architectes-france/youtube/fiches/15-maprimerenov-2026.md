@@ -71,6 +71,8 @@ pour les logements classés F ou G. C'est le sujet le plus périssable de la cha
 revérifies tout la veille du tournage et tu affiches la date en permanence.
 
 À l'écran : la frise du dispositif, date du relevé en bandeau permanent.
+Liens : https://www.effy.fr/magazine/maprimerenov-une-suspension-temporaire-a-partir-du-1er-janvier-2026
+        https://www.anah.gouv.fr/sites/default/files/2026-02/Anah-FR-Guide_des_aides_Fev2026_WEB_20260224.pdf
 
 
 Ch.4 · Ce que ça déplace concrètement
@@ -85,6 +87,7 @@ parcours accompagné obligatoire pour les F et G signifie qu'un professionnel en
 boucle par construction — la question n'est pas s'il y en aura un, mais qui.
 
 À l'écran : ce que contient une rénovation d'ampleur, en liste.
+Lien : https://www.anah.gouv.fr/sites/default/files/2026-02/Anah-FR-Guide_des_aides_Fev2026_WEB_20260224.pdf
 
 
 Ch.5 · La nuance que personne ne dit
@@ -97,6 +100,7 @@ noir sur blanc que ces travaux entraînent des honoraires moindres que le neuf. 
 pas un eldorado, et le dire renforce ta crédibilité au lieu de l'affaiblir.
 
 À l'écran : deux barres opposées, 62 % du volume contre 38 % de la valeur.
+Lien : https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
 
 Ch.6 · Pourquoi votre réseau ne vous y emmènera pas
@@ -123,6 +127,7 @@ mois-là. La publicité en ligne est le seul levier qui touche un profil aussi p
 type de logement, moment de recherche — et le seul qui produise un flux qu'on règle.
 
 À l'écran : la page essort.agency/ressources.
+Lien : https://essort.agency/ressources
 
 
 Ch.8 · Sortie
@@ -134,10 +139,6 @@ En clair : tu redis qu'il faut revérifier avant d'agir, et tu laisses la tensio
 cherchent en ce moment.
 
 À l'écran : la date du relevé, une dernière fois.
-
-Sources affichées :
-https://www.anah.gouv.fr/sites/default/files/2026-02/Anah-FR-Guide_des_aides_Fev2026_WEB_20260224.pdf
-https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

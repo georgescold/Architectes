@@ -51,6 +51,7 @@ l'exemple et que 12 % est un ordre de grandeur de marché, pas un barème. Puis 
 garder ce chiffre en tête pour toute la vidéo.
 
 À l'écran : le calcul en trois lignes, puis « un seul projet ».
+Lien : https://www.hemea.com/fr/architecture/architecte-interieur/prix
 
 
 Ch.2 · D'où je parle
@@ -142,6 +143,7 @@ mesure de bout en bout. Et parfois la comparaison lui est défavorable : on le s
 semaines et on arrête. C'est ça, son vrai avantage — elle donne un bouton.
 
 À l'écran : la page essort.agency/ressources.
+Lien : https://essort.agency/ressources
 
 
 Ch.9 · Sortie
@@ -153,9 +155,6 @@ En clair : et il va apprendre des choses sur son activité qu'il ne sait pas auj
 C'est la tension que tu laisses.
 
 À l'écran : le tableur, cases 1 à 3 surlignées.
-
-Ordre de grandeur d'honoraires affiché :
-https://www.hemea.com/fr/architecture/architecte-interieur/prix
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

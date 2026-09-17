@@ -126,6 +126,7 @@ redis que la recommandation reste la meilleure en taux de signature : ce qui lui
 c'est un interrupteur.
 
 À l'écran : l'ordre de montage, puis la page essort.agency/ressources.
+Lien : https://essort.agency/ressources
 
 
 Ch.8 · Sortie

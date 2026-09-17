@@ -72,6 +72,7 @@ pour exactement le même travail. Tu précises que 12 % est un ordre de grandeur
 le marché, pas un barème — les barèmes d'honoraires sont interdits.
 
 À l'écran : le calcul construit ligne par ligne, puis le total négatif seul.
+Lien : https://www.hemea.com/fr/architecture/architecte-interieur/prix
 
 
 Ch.4 · Raison 1 — une mise en concurrence structurelle
@@ -138,6 +139,7 @@ grandeur, et elle n'écrit qu'à un seul cabinet. Même prestation, deux convers
 opposées.
 
 À l'écran : deux colonnes opposées, puis la page essort.agency/ressources.
+Lien : https://essort.agency/ressources
 
 
 Ch.9 · Sortie
@@ -149,9 +151,6 @@ En clair : c'est quelques heures de travail, et presque personne ne l'a fait. C'
 tension que tu laisses.
 
 À l'écran : la phrase seule, plein écran.
-
-Ordre de grandeur d'honoraires affiché :
-https://www.hemea.com/fr/architecture/architecte-interieur/prix
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

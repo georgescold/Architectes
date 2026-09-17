@@ -72,6 +72,7 @@ serait faux. Tu le dis toi-même, avant que quelqu'un le trouve — et ça rend 
 que tu affirmes ensuite.
 
 À l'écran : l'article de France 3, avec la mention GIRONDE ajoutée en gros par-dessus.
+Lien : https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/ils-font-face-a-une-chute-abyssale-des-commandes-l-inquietude-des-architectes-qui-voient-le-nombre-de-liquidations-judiciaires-multiplie-par-trois-3313596.html
 
 
 Ch.4 · Les trois causes, dans l'ordre
@@ -98,6 +99,7 @@ mieux payé gagne maintenant 4,5 fois ce que gagne le moins payé, contre 4,2 av
 démonstration factuelle de l'épisode.
 
 À l'écran : le graphique des quartiles, deux flèches opposées, « 4,2 → 4,5 ».
+Lien : https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
 
 Ch.6 · Ce que fait le groupe qui monte
@@ -135,6 +137,7 @@ où tout le monde arrête est mécaniquement celui où une demande coûte le moi
 contre-intuitif, et c'est vrai.
 
 À l'écran : la page essort.agency/ressources.
+Lien : https://essort.agency/ressources
 
 
 Ch.9 · Sortie
@@ -146,10 +149,7 @@ En clair : tu refermes sur la distinction du début. Et tu laisses la tension : 
 déjà en cours, il ne commence pas l'an prochain.
 
 À l'écran : le graphique des quartiles, une dernière fois, trois secondes.
-
-Sources affichées :
-https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
-https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/ils-font-face-a-une-chute-abyssale-des-commandes-l-inquietude-des-architectes-qui-voient-le-nombre-de-liquidations-judiciaires-multiplie-par-trois-3313596.html
+Lien : https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

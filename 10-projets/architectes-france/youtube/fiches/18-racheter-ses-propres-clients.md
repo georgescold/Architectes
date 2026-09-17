@@ -110,6 +110,7 @@ final par un tiers. Ce n'est plus seulement de la mise en relation, c'est la pre
 elle-même qui change de vendeur.
 
 À l'écran : la promesse affichée publiquement, capture avec la date du relevé.
+Lien : https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
 
 
 Ch.7 · Le seul calcul qui compte
@@ -138,6 +139,7 @@ qu'on pilote, il a lu la zone et le type de projet et il n'écrit qu'à un seul 
 
 À l'écran : deux colonnes, LOUER UN CONTACT et CONSTRUIRE UN ACTIF, puis la page
 essort.agency/ressources.
+Lien : https://essort.agency/ressources
 
 
 Ch.9 · Sortie
@@ -148,9 +150,6 @@ En clair : le calcul prend une heure et beaucoup ne l'ont jamais fait. C'est la 
 tu laisses.
 
 À l'écran : « Au bout de deux ans, il vous reste quoi ? »
-
-Relevé affiché :
-https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

@@ -75,6 +75,7 @@ le premier tri ne se fait ni sur la qualité du travail ni sur le portfolio, mai
 éléments visibles en une seconde, dont quatre sont dans la fiche.
 
 À l'écran : un téléphone filmé de face, la recherche en direct.
+Lien : https://www.google.com/business/
 
 
 Ch.4 · Pourquoi personne ne vous en a parlé
@@ -86,6 +87,7 @@ formation ni dans la pratique du métier ne mène à aller la chercher. C'est un
 pas un oubli.
 
 À l'écran : une fiche non revendiquée, avec la mention qui le signale.
+Lien : https://www.google.com/business/
 
 
 Ch.5 · L'audit en direct
@@ -99,6 +101,7 @@ s'affiche pas, peu importe qu'elle soit bien remplie. Ensuite viennent la zone d
 horaires, les photos, les avis, et la présence d'un numéro.
 
 À l'écran : la grille en tableau, cochée point par point.
+Lien : https://www.google.com/business/
 
 
 Ch.6 · Les cinq corrections, par ordre d'impact
@@ -125,6 +128,7 @@ par le nombre de gens qui cherchent dans ce département : elle ne crée pas de 
 capte celle qui existe déjà.
 
 À l'écran : la page essort.agency/ressources.
+Lien : https://essort.agency/ressources
 
 
 Ch.8 · Sortie
@@ -136,9 +140,6 @@ En clair : et sur sa zone, deux confrères l'ont peut-être déjà fait. C'est l
 laisses.
 
 À l'écran : trois fiches côte à côte, une vide.
-
-Outil montré :
-https://www.google.com/business/
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier

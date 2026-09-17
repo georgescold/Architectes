@@ -145,6 +145,7 @@ signé. Les honoraires, la considération et l'isolement sont plus profonds : un
 change rien, et le dire est ce qui rend les deux premières crédibles.
 
 À l'écran : deux douleurs qui s'allument, trois qui restent grises.
+Lien : https://essort.agency/ressources
 
 
 Ch.10 · Sortie

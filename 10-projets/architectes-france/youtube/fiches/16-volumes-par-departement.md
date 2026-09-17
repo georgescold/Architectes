@@ -52,6 +52,7 @@ En clair : combien de chantiers démarrent réellement dans son département. C'
 commune par commune, mis à jour par le ministère. Personne ne va le chercher.
 
 À l'écran : la carte de l'Observatoire des territoires, plein écran.
+Lien : https://www.observatoire-des-territoires.gouv.fr/nombre-de-logements-commences-constructions-neuves-par-pour-1-000-habitants
 
 
 Ch.2 · D'où je parle
@@ -88,6 +89,7 @@ indicateur.
 
 À l'écran : la carte en direct, deux départements sélectionnés l'un après l'autre, date
 d'extraction visible.
+Lien : https://www.observatoire-des-territoires.gouv.fr/nombre-de-logements-commences-constructions-neuves-par-pour-1-000-habitants
 
 
 Ch.5 · Ce que la donnée ne dit pas
@@ -101,6 +103,7 @@ territoire à faible construction peut être excellent en rénovation, et c'est 
 cas dans l'ancien. Tu dis la limite avant qu'on te l'oppose.
 
 À l'écran : ce que l'indicateur couvre, et ce qu'il ne couvre pas.
+Lien : https://www.statistiques.developpement-durable.gouv.fr/donnees-des-permis-de-construire-et-autres-autorisations-durbanisme
 
 
 Ch.6 · Ce qu'on en fait, concrètement
@@ -114,6 +117,7 @@ département où les autorisations remontent depuis deux trimestres est un dépa
 l'activité arrive.
 
 À l'écran : deux lignes opposées, AUTORISÉS et COMMENCÉS.
+Lien : https://www.statistiques.developpement-durable.gouv.fr/donnees-des-permis-de-construire-et-autres-autorisations-durbanisme
 
 
 Ch.7 · LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
@@ -127,6 +131,7 @@ commune ou au rayon en kilomètres, et se change en trois clics. Diffuser sur le
 département coûte le même prix et ne produit pas la même chose.
 
 À l'écran : l'écran de réglage d'une zone, puis la page essort.agency/ressources.
+Lien : https://essort.agency/ressources
 
 
 Ch.8 · Sortie
@@ -137,10 +142,7 @@ En clair : et il se peut que la zone qu'il travaille depuis dix ans ne soit pas 
 C'est la tension que tu laisses.
 
 À l'écran : la carte, une dernière fois.
-
-Sources affichées :
-https://www.observatoire-des-territoires.gouv.fr/nombre-de-logements-commences-constructions-neuves-par-pour-1-000-habitants
-https://www.statistiques.developpement-durable.gouv.fr/donnees-des-permis-de-construire-et-autres-autorisations-durbanisme
+Lien : https://www.observatoire-des-territoires.gouv.fr/nombre-de-logements-commences-constructions-neuves-par-pour-1-000-habitants
 
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier
