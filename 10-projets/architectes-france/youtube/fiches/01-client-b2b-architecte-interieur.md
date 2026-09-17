@@ -162,8 +162,10 @@ L'idée : puisqu'il ne vient pas, on va devant lui. Et ça se décide en trois r
 une exclusion.
 
 En clair : la zone où on diffuse, le type de local visé, et le moment — quelqu'un qui vient
-de signer un bail ou qui prépare une ouverture. Et l'exclusion qui fait toute la différence :
-la franchise. Un franchisé applique le concept de son réseau, réalisé par l'agenceur
+de signer un bail ou qui prépare une ouverture. Puis le choix du canal, et il y en a deux :
+la recherche Google, où la personne se déclare en tapant son problème, et le fil
+d'actualité, où c'est vous qui allez la chercher. La recherche d'abord pour l'intention, le
+fil ensuite pour le volume. Et l'exclusion qui fait toute la différence : la franchise. Un franchisé applique le concept de son réseau, réalisé par l'agenceur
 référencé — il n'a aucune décision à prendre, et il y a 93 395 points de vente franchisés en
 France. Viser « les commerces qui ouvrent » sans exclure la franchise, c'est payer pour des
 gens qui ne peuvent pas dire oui. C'est le chapitre le plus long de la vidéo parce que c'est
@@ -368,6 +370,56 @@ existant, l'architecte d'intérieur n'a personne à aller chercher. Le jour où 
 attaque la façade ou ajoute de la surface, et comme le client est presque toujours une
 société, il lui faut un architecte inscrit à ses côtés — quelle que soit la taille du
 chantier.
+
+
+### À quoi ressemble une annonce sur ce segment
+
+C'est la question que le spectateur se pose pendant tout le chapitre 7, et si tu n'y réponds
+pas il repart sans rien. Montre de vraies annonces à l'écran, écrites par toi.
+
+Le réflexe à ne pas suivre, et il faut le dire : « Ne perdez plus de temps, confiez-nous
+votre projet ». C'est une phrase que n'importe quel prestataire de n'importe quel métier
+peut écrire. Elle ne dit rien de vérifiable, elle parle de celui qui vend, et le lecteur ne
+s'y reconnaît pas. La règle est la même que pour un titre de vidéo : un fait précis que la
+personne reconnaît, pas une promesse générale.
+
+Ce qui marche sur ce segment, c'est de nommer la somme d'argent qui part pendant que rien
+n'avance.
+
+
+Angle 1 — le loyer qui court. C'est le plus fort, parce qu'il est chiffrable par le lecteur
+lui-même.
+
+  « Votre bail a commencé. Votre chiffre d'affaires, non.
+  L'instruction d'une autorisation de travaux prend jusqu'à 4 mois. Pendant ce temps, le
+  loyer tombe et la salle est vide.
+  [Cabinet] — architecte d'intérieur, aménagement de locaux recevant du public dans le
+  [département]. Plans, notice de sécurité, notice d'accessibilité : dossier complet.
+  → Parlons de votre date d'ouverture. »
+
+
+Angle 2 — le dossier qui revient. Il parle à celui qui a déjà commencé et qui a peur.
+
+  « Un dossier incomplet ne se corrige pas : il repart de zéro.
+  Notice de sécurité, notice d'accessibilité, plans avant et après. Les trois, dès le
+  premier dépôt.
+  [Cabinet] — [département]. »
+
+
+Angle 3 — la question, pour capter en amont ceux qui cherchent encore.
+
+  « Vous ouvrez un commerce dans le [département] ?
+  Ce qu'il faut avoir réglé avant de commencer les travaux — et dans quel ordre. »
+  → document gratuit, puis rendez-vous
+
+C'est l'angle qui ramène le plus de contacts et le moins de projets signés à court terme.
+Il se garde pour construire une audience, pas pour remplir un agenda cette semaine.
+
+
+Ce qui est interdit dans ces annonces : promettre un délai d'obtention. L'instruction ne
+dépend pas de l'architecte, elle dépend de la mairie et des commissions. On peut s'engager
+sur la date de dépôt du dossier, jamais sur la date d'autorisation. Une annonce qui promet
+« autorisation en 3 semaines » est une publicité trompeuse.
 
 
 ### Ce que le gratuit couvre, et où il s'arrête
@@ -593,9 +645,24 @@ Le professionnel ne cherche pas vos réalisations, il cherche à savoir si vous 
 faire rater sa date. Une phrase comme "dossier déposé en janvier, ouverture en juin" vaut
 mieux que trente photos.
 
-Trois : vous diffusez sur la zone. Pas sur la France. Sur les gérants d'établissement de
-votre département. Et là on est sur un ciblage que la publicité en ligne sait faire et que
-rien d'autre ne sait faire. »
+Trois : vous diffusez, et sur ce segment il y a deux canaux qui ne font pas le même
+travail.
+
+Le premier, c'est la recherche Google. Quelqu'un qui vient de signer un bail tape son
+problème : "autorisation de travaux ERP", "mise aux normes accessibilité commerce",
+"aménager un local à [ville]". Il se déclare lui-même. Vous ne payez que des gens qui ont
+déjà le problème — c'est le canal le plus rentable de ce segment, et il est presque vide :
+j'ai regardé les spécialistes de la conception de restaurants, zéro annonce.
+
+Le second, c'est le fil d'actualité, Facebook et Instagram. Là, personne ne cherche rien.
+C'est vous qui allez chercher les gérants d'établissement de votre département. C'est moins
+précis, mais c'est ce qui donne du volume — parce que le nombre de gens qui tapent ces
+requêtes chaque mois, dans un seul département, est faible.
+
+L'ordre compte : la recherche d'abord parce qu'elle capte l'intention, le fil ensuite pour
+le volume. Et avant de dépenser un euro, vous vérifiez combien de gens cherchent
+réellement ces mots dans votre zone — ça se fait gratuitement, et c'est ce qui décide du
+budget. »
 
 
 ### 8. LE BLOC ACQUISITION — deux minutes pleines, jamais expédié
