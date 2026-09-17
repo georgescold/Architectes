@@ -142,6 +142,82 @@ cherchent ces termes ni ce que coûte le clic. Pour ça, il faut le planificateu
 de Google Ads, qui demande un compte — à faire avant d'engager un budget.
 
 
+## 2 quater. LE VOLUME DE RECHERCHE — ce qu'on a pu mesurer, et ce qui reste à faire
+
+Question posée : la recherche Google est-elle un moteur possible sur ce segment, ou
+seulement un complément ?
+
+### Ce qui n'a pas pu être fait
+
+Le planificateur de mots-clés de Google Ads demande un compte connecté. Google Trends
+répond 429 depuis cet environnement. Aucun volume mensuel chiffré n'a donc été relevé, et
+aucune affirmation de volume ne doit être faite dans une vidéo tant que le planificateur
+n'a pas tourné.
+
+### La mesure de substitution utilisée
+
+L'autocomplétion de Google ne propose une suggestion qu'au-dessus d'un seuil réel de
+recherches. Compter les suggestions rendues pour « requête + ville » donne donc un signal
+de présence, ville par ville. Ce n'est pas un volume, c'est un seuil franchi ou non.
+
+Endpoint utilisé, sans compte :
+https://suggestqueries.google.com/complete/search?client=firefox&hl=fr&gl=fr&q=REQUETE
+
+Relevé du 18/09/2026, nombre de suggestions rendues :
+
+                                      Paris   Nantes   Aurillac
+  agencement magasin                    10       7         1
+  agenceur                              10      10         3
+  aménagement restaurant                 4       2         0
+  architecte d'intérieur restaurant      1       1         0
+  agencement restaurant                  1       1         0
+  autorisation de travaux ERP            1       0         0
+  architecte d'intérieur commerce        0       0         0
+  mise aux normes accessibilité ERP      0       0         0
+
+Et sur un gradient plus large, pour « agencement magasin + ville » : Paris 10, Lyon 10,
+Bordeaux 10, Nantes 7, Clermont-Ferrand 6, Aurillac 1, Guéret 1, Mende 1.
+
+### Ce que ça dit
+
+Deux familles de requêtes, et elles ne se comportent pas pareil.
+
+Les requêtes d'équipement et de fabrication — « agencement magasin », « agenceur » —
+existent partout et fortement dans les métropoles. C'est cohérent avec le relevé
+publicitaire : ce sont les équipementiers qui diffusent.
+
+Les requêtes de conception — « architecte d'intérieur restaurant », « architecte d'intérieur
+commerce » — franchissent à peine le seuil à Paris et Nantes, et pas du tout ailleurs.
+
+Les requêtes de procédure — « autorisation de travaux ERP », « mise aux normes
+accessibilité » — sont nationales et génériques, sans déclinaison par ville. Quelqu'un qui
+les tape cherche à comprendre une règle, pas à trouver un prestataire près de chez lui.
+
+### Conclusion, à la portée de ce qui est mesuré
+
+Rien ici ne contredit la position retenue : sur un département moyen ou rural, la recherche
+Google ne peut pas être le moteur d'acquisition d'un cabinet, parce que les requêtes de
+conception n'y franchissent même pas le seuil de l'autocomplétion. Sur Paris et les grandes
+métropoles, la question mérite d'être posée avec de vrais chiffres.
+
+⚠️ C'est un signal de présence, pas une mesure de volume. Ne jamais dire « il y a X
+recherches par mois » sur la base de ce tableau.
+
+### Ce qu'il reste à faire, une demi-heure
+
+Passer cette liste dans le planificateur de mots-clés, ciblage par département, pour obtenir
+les volumes mensuels et les coûts par clic estimés :
+
+  autorisation de travaux ERP · autorisation de travaux commerce · CERFA 13824
+  aménagement restaurant · agencement restaurant · agenceur restaurant
+  architecte d'intérieur restaurant · architecte d'intérieur commerce
+  architecte d'intérieur professionnel · aménagement local commercial
+  rénovation local commercial · mise aux normes accessibilité commerce
+  accessibilité ERP travaux · ouvrir un commerce travaux · agencement magasin
+
+Trois départements à comparer pour trancher : un dense, un moyen, un rural.
+
+
 ## 3. Qui capte le travail, puisque ce n'est pas par la publicité
 
 ### Les agenceurs
