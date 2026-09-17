@@ -160,6 +160,21 @@ laisses.
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier
 
+### Les mots de cet épisode, à ne jamais employer sans les expliquer
+
+Corpus. L'ensemble des messages collectés et classés. Dis « les messages que j'ai lus »
+plutôt que « le corpus » à l'oral : le mot fait universitaire et met de la distance là où il
+faut de la proximité.
+
+Échantillon représentatif. Un échantillon est représentatif quand sa composition reflète
+celle de la population entière — même proportion d'âges, de régions, de statuts. Le nôtre ne
+l'est pas, et c'est exactement pour ça qu'aucun pourcentage n'est permis dans cet épisode :
+un pourcentage calculé sur un échantillon non représentatif ne mesure rien.
+
+Concours. Une mise en compétition où plusieurs professionnels remettent un projet et où un
+seul est retenu. Les autres ont travaillé gratuitement. C'est la douleur n°3 de l'épisode.
+
+
 
 ### Ce qu'est ce corpus, exactement
 

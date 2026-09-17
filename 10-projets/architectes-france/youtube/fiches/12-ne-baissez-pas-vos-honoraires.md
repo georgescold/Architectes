@@ -156,6 +156,27 @@ https://www.hemea.com/fr/architecture/architecte-interieur/prix
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier
 
+### Les mots de cet épisode, à ne jamais employer sans les expliquer
+
+Honoraires. La rémunération du travail de conception et de suivi, généralement exprimée en
+pourcentage du montant des travaux. À ne pas confondre avec le montant des travaux
+lui-même, qui va aux entreprises.
+
+Barème d'honoraires. Une grille de tarifs recommandée par une profession. C'est interdit :
+n'en propose jamais, et présente toujours les 12 % comme un ordre de grandeur observé sur le
+marché, pas comme une référence.
+
+Charrette. Le mot du métier pour la nuit blanche avant un rendu. Il vient des écoles
+d'architecture. Tu peux l'employer — c'est leur vocabulaire à eux, et il crée de la
+complicité au chapitre 6 — mais explique-le en trois mots pour ceux qui ne l'ont jamais
+entendu.
+
+Mise en concurrence. Le fait de demander plusieurs propositions sur un même projet pour les
+comparer. Ce n'est pas une agression du client : c'est une pratique normale d'achat. Le
+problème de l'épisode n'est pas qu'elle existe, c'est qu'elle porte sur le prix faute
+d'autre chose à comparer.
+
+
 
 ### Les ordres de grandeur, et pourquoi on ne peut pas en faire un barème
 

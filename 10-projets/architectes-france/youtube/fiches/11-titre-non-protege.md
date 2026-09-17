@@ -146,6 +146,26 @@ https://www.cfai.fr/en/se-former-a-l-architecture-interieure/les-ecoles-reconnue
 
 ## AVANT DE TOURNER — le mécanisme, expliqué en entier
 
+### Les mots de cet épisode, à ne jamais employer sans les expliquer
+
+Titre protégé. Un titre est protégé quand la loi réserve son usage à des gens qui remplissent
+des conditions précises, et punit celui qui s'en réclame sans les remplir. « Architecte »
+est protégé, « architecte d'intérieur » ne l'est pas.
+
+Code de déontologie. Les règles professionnelles que l'Ordre des architectes impose à ses
+inscrits — confraternité, publicité, relations avec les clients. Ce ne sont pas des lois
+générales : quelqu'un qui n'est inscrit nulle part n'y est pas soumis. C'est tout le
+chapitre 5.
+
+CFAI. Le Conseil français des architectes d'intérieur. Il reconnaît une liste d'écoles et
+délivre une dénomination professionnelle. Ce n'est ni un ordre, ni une protection légale —
+et aucun client ne connaît ce sigle. Développe-le en entier la première fois.
+
+Droit commun. Les règles qui s'appliquent à tout le monde, par opposition aux règles propres
+à une profession. Pas de publicité mensongère, pas de photo d'un projet qui n'est pas le
+sien, pas de dénigrement.
+
+
 
 ### Ce qui est protégé, et ce qui ne l'est pas
 
