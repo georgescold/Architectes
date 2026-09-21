@@ -194,7 +194,31 @@ Trois sigles circulent, et ils désignent la même profession à des époques di
   supplémentaire. C'est elle qui permet de s'inscrire à l'Ordre et de signer un permis de
   construire.
 
-https://www.hemea.com/fr/architecture/architecte/dplg-de-hmonp
+Ce ne sont pas des spécialisations. Ce sont les étapes d'un même parcours, créé par la
+réforme de 2005 qui a aligné les études d'architecture sur le schéma licence-master :
+
+  3 ans → diplôme d'études en architecture, grade de licence
+  + 2 ans → diplôme d'État d'architecte (DEA), grade de master
+  + la HMONP → 150 heures de formation théorique et au moins 6 mois de mise en situation
+  professionnelle à temps plein
+https://www.culture.gouv.fr/thematiques/architecture/formations-recherche-et-metiers/les-formations-d-architecte-et-de-paysagiste/les-cursus-et-les-diplomes
+https://www.architectes.org/preparer-la-hmonp-90415
+
+Pourquoi le DE seul ne suffit pas : signer un permis de construire engage la responsabilité
+personnelle de l'architecte, au sens des articles 3 et 10 de la loi de 1977. Le diplôme
+valide qu'on sait concevoir ; l'habilitation valide qu'on sait porter cette responsabilité.
+Sans elle, pas d'inscription à l'Ordre, donc pas de titre et pas de signature. Un diplômé
+d'État sans habilitation travaille comme salarié, sous la responsabilité d'un architecte
+inscrit.
+
+Les DPLG : plus aucun n'est délivré depuis 2007, mais ceux qui l'ont restent architectes à
+vie, et n'ont pas besoin de passer la HMONP — l'ancien diplôme réunissait les deux étapes.
+Exercer sans remplir ces conditions est une usurpation de titre : un an de prison et
+15 000 € d'amende.
+https://entreprendre.service-public.gouv.fr/vosdroits/F38232
+
+Conséquence pour Essort : les clients possibles sont seulement les inscrits — DPLG ou
+DE-HMONP. Un diplômé d'État salarié n'a pas d'agence à remplir.
 
 Conséquence pour la chaîne : quand on dit « architecte », on parle de quelqu'un d'inscrit
 à l'Ordre, soumis à un code de déontologie, et qui peut signer un permis de construire.
