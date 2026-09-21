@@ -97,6 +97,17 @@ Accompagnateur Rénov'. Le professionnel agréé par l'État qui suit une rénov
 de A à Z : audit, plan de financement, choix des devis, démarches. Obligatoire pour ce
 parcours.
 
+PLU — plan local d'urbanisme. Le règlement d'urbanisme propre à une commune ou une
+intercommunalité : ce qu'on peut construire, où, quelle hauteur, quels matériaux. C'est la
+première source de contraintes qui changent d'une ville à l'autre.
+
+ABF — architecte des Bâtiments de France. Le fonctionnaire de l'État qui donne son accord
+aux travaux près des monuments historiques et dans les centres protégés. Sans son accord, la
+mairie ne peut pas autoriser les travaux.
+
+Site patrimonial remarquable. Un centre ancien protégé — l'ancien « secteur sauvegardé ».
+Même règle : accord de l'ABF.
+
 ERP. Établissement recevant du public : tout local où des gens entrent, qu'ils paient ou
 non. Restaurant, boutique, cabinet médical, salle de sport. Classé en 5 catégories selon
 le nombre de personnes accueillies, la 5e étant la plus petite et la plus fréquente.
@@ -783,6 +794,60 @@ l'implantation du mobilier et ne couvre pas la conformité du local. Voir le § 
 C'est le meilleur acheteur du backend.
 
 
+## 9 bis. LES SEGMENTS DE MARCHÉ — où l'architecte a un terrain à lui
+
+Relevé du 21/09/2026, détail et sources dans strategie/segments-opportunites.md et
+strategie/reglementations-locales.md.
+
+La logique commune : une obligation, une échéance ou une aide force quelqu'un à faire des
+travaux ; une contrainte que le catalogue d'un constructeur ou le plan gratuit d'une enseigne
+ne sait pas traiter ; un public qu'on isole en publicité par zone, âge ou profil.
+
+Vingt segments, en trois familles.
+
+Ce qui change d'une commune à l'autre : abords des monuments historiques · sites
+patrimoniaux remarquables et loi Malraux · loi Littoral · sols argileux · permis de louer ·
+diagnostic structurel des immeubles anciens · dispositif Denormandie.
+
+Les obligations nationales datées : bailleurs face au DPE · audit énergétique à la vente ·
+MaPrimeRénov' et Accompagnateur Rénov' · MaPrimeAdapt' · meublés de tourisme · plan
+pluriannuel de travaux des copropriétés · décret tertiaire · toitures solaires ou végétalisées
+· transformation de bureaux en logements · densification.
+
+Les locaux professionnels : commerces et restaurants · mise en accessibilité des ERP ·
+micro-crèches.
+
+Les chiffres à retenir, tous lus à la source :
+
+  400 000 avis d'ABF par an, dont plus de la moitié en abords de monuments.
+  Loi Littoral : plus de 1 200 communes.
+  Extension : déclaration préalable jusqu'à 40 m² en zone urbaine d'un PLU, 20 m² ailleurs
+  ou en site protégé. Règle nationale, pas régionale.
+  Malraux : réduction d'impôt de 22 %, 30 % avec plan de sauvegarde, sur 400 000 € de
+  dépenses maximum en quatre ans.
+  Denormandie : travaux d'au moins 25 % du coût de l'opération, jusqu'au 31/12/2027.
+  Permis de louer : amende jusqu'à 5 000 €, 15 000 € en récidive.
+  MaPrimeAdapt' : 70 % ou 50 % des travaux, plafond 22 000 € HT, dès 70 ans sans condition
+  de perte d'autonomie.
+  Copropriétés : plan pluriannuel obligatoire pour tout immeuble d'habitation de plus de 15
+  ans depuis le 1er janvier 2025, et un architecte peut l'établir.
+  Décret tertiaire : 1 000 m² et plus, -40 % en 2030, -50 % en 2040, -60 % en 2050.
+  Toitures : 30 %, puis 40 % en 2026, 50 % en 2027.
+  Micro-crèches : 7 m² par place, 5,5 m² en zone très dense.
+
+Les meilleurs segments pour un architecte inscrit : MaPrimeRénov' avec le rôle
+d'Accompagnateur, les bailleurs avant 2028, les abords de monuments, la transformation de
+bureaux, les copropriétés.
+
+Les meilleurs pour un architecte d'intérieur : MaPrimeAdapt', commerces et restaurants,
+micro-crèches, meublés de tourisme dans les grandes villes. C'est la réponse à l'idée qu'ils
+ne font que du particulier : ils ont au moins quatre segments où la conception intérieure est
+exactement ce qu'on achète.
+
+Ce classement est une lecture de praticien. Aucun volume de demande n'a été mesuré segment
+par segment.
+
+
 ## 10. LES PIÈGES QUI REVIENNENT
 
 Liste des erreurs que j'ai moi-même commises ou failli commettre en écrivant les fiches.
@@ -805,3 +870,11 @@ Liste des erreurs que j'ai moi-même commises ou failli commettre en écrivant l
   Dire que personne n'offre de conception gratuite sur le B2B. METRO le fait, sur la salle.
   Viser les commerces qui ouvrent sans exclure la franchise : le franchisé ne décide pas.
   Croire qu'un architecte inscrit est obligatoire sur un ERP. Pas pour une AT seule.
+  Présenter les seuils d'extension comme une règle bretonne ou régionale. Ils sont
+  nationaux : 40 m² en zone urbaine d'un PLU, 20 m² ailleurs.
+  Dire qu'un ABF impose un architecte. Il impose son accord, pas un architecte.
+  Présenter l'obligation de DPE des meublés de tourisme comme générale. Elle ne vise que
+  les logements soumis à changement d'usage.
+  Dire qu'un architecte d'intérieur peut être Accompagnateur Rénov'. Il n'est pas dans la
+  liste des catégories éligibles.
+  Affirmer le nombre d'ERP encore non accessibles. Aucune source fiable.
