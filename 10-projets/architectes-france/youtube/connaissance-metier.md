@@ -71,6 +71,32 @@ En amont, en aval. Avant et après. En amont du chantier, c'est l'instruction du
 travaux. En aval, c'est la demande d'autorisation d'ouverture au public. Deux mots à éviter
 à l'oral : dire « avant les travaux » et « avant l'ouverture ».
 
+DPE — diagnostic de performance énergétique. La « note énergie » d'un logement, de A (très
+économe) à G (très énergivore). Obligatoire pour vendre ou louer, réalisé par un
+diagnostiqueur certifié, valable 10 ans. Voir la section 7 pour le détail du calcul.
+
+Étiquette, ou classe énergétique. La lettre de A à G que donne le DPE. « Gagner deux
+étiquettes », c'est passer par exemple de F à D.
+
+Passoire thermique. Un logement classé F ou G : il laisse passer la chaleur l'hiver et la
+fraîcheur l'été, et il coûte cher à chauffer.
+
+Énergie finale, énergie primaire. L'énergie finale, c'est ce que le compteur mesure — ce qui
+est facturé. L'énergie primaire, c'est ce qu'il a fallu mobiliser en amont pour la produire
+et l'acheminer. Pour l'électricité, il faut davantage que 1 kWh de ressource pour livrer
+1 kWh à la prise, d'où un coefficient de conversion. Le DPE classe les logements en énergie
+primaire.
+
+RGE — reconnu garant de l'environnement. Le label qu'une entreprise du bâtiment doit avoir
+pour que ses travaux ouvrent droit à MaPrimeRénov'.
+
+MaPrimeRénov'. L'aide de l'État, versée par l'Anah depuis 2020, qui finance une partie des
+travaux de rénovation énergétique d'un logement. Détail en section 7.
+
+Accompagnateur Rénov'. Le professionnel agréé par l'État qui suit une rénovation d'ampleur
+de A à Z : audit, plan de financement, choix des devis, démarches. Obligatoire pour ce
+parcours.
+
 ERP. Établissement recevant du public : tout local où des gens entrent, qu'ils paient ou
 non. Restaurant, boutique, cabinet médical, salle de sport. Classé en 5 catégories selon
 le nombre de personnes accueillies, la 5e étant la plus petite et la plus fréquente.
@@ -473,6 +499,78 @@ https://particulier.hellio.com/blog/financement/maprimerenov-2026
 
 Guide officiel de l'Anah, à montrer à l'écran :
 https://www.anah.gouv.fr/sites/default/files/2026-02/Anah-FR-Guide_des_aides_Fev2026_WEB_20260224.pdf
+
+
+### Le DPE, qui décide de tout le reste
+
+Ce qu'il mesure : deux choses, chacune notée de A à G. La consommation d'énergie primaire,
+en kWh par m² et par an. Et les émissions de gaz à effet de serre, en kg de CO2 par m² et par
+an. La classe retenue est la plus défavorable des deux — c'est la règle du « double seuil ».
+https://www.service-public.gouv.fr/particuliers/vosdroits/F16096
+
+Les seuils, pour un logement de plus de 40 m² situé sous 800 m d'altitude (arrêté du 25 mars
+2024) :
+
+  Classe   Énergie primaire     Gaz à effet de serre
+  A        moins de 70          moins de 6
+  B        70 à 110             6 à 11
+  C        110 à 180            11 à 30
+  D        180 à 250            30 à 50
+  E        250 à 330            50 à 70
+  F        330 à 420            70 à 100
+  G        420 et plus          100 et plus
+
+  (kWh / m² / an)               (kg CO2 / m² / an)
+https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000049446339
+
+Pour les logements de 40 m² et moins, les seuils sont ajustés depuis le 1er juillet 2024.
+
+Comment il est calculé : un diagnostiqueur certifié visite le logement, ou part de ses
+documents techniques, et relève ce qui détermine la consommation — isolation des murs, de la
+toiture et des planchers, fenêtres, système de chauffage, production d'eau chaude,
+ventilation. Un calcul réglementaire en déduit une consommation dite conventionnelle :
+occupation et météo standard. Les factures ne servent pas au calcul. Deux ménages aux
+habitudes différentes dans le même logement ont donc le même DPE.
+
+Changement au 1er janvier 2026 : le coefficient qui convertit l'électricité en énergie
+primaire est passé de 2,3 à 1,9. Les logements chauffés à l'électricité ont mécaniquement
+gagné en classement, sans aucun travaux.
+
+Ce qui en fait un déclencheur commercial — le calendrier de la loi Climat et résilience, tel
+que publié par le ministère : un logement classé G ne peut plus être mis en location
+depuis 2025, un F à partir de 2028, un E à partir de 2034. Et les loyers des F et G sont gelés
+depuis le 25 août 2022.
+https://www.ecologie.gouv.fr/politiques-publiques/diagnostic-performance-energetique-dpe
+
+C'est pour un bailleur ce que le bail est pour le commerçant de l'EP01 : une date qui
+l'oblige à agir.
+
+
+### MaPrimeRénov' au 1er septembre 2026 — lu dans le guide officiel
+
+Source : MaPrimeRénov', le mode d'emploi, Anah, édition de septembre 2026.
+https://www.anah.gouv.fr/document/maprimerenov-mode-emploi
+
+Deux parcours. Par geste : le changement de chauffage pour une énergie moins polluante. Et la
+rénovation d'ampleur : au moins deux travaux d'isolation — murs, fenêtres, sols ou toiture —
+avec un gain d'au moins deux étiquettes, un accompagnement obligatoire et une aide plus
+élevée.
+
+Rénovation d'ampleur, conditions pour un propriétaire occupant : logement construit il y a
+au moins 15 ans, occupé en résidence principale au moins 8 mois par an, DPE de E à G, travaux
+réalisés par une entreprise RGE, et rester 3 ans dans le logement après la prime. Rendez-vous
+avec un conseiller France Rénov' obligatoire avant le dépôt.
+
+Taux d'aide en rénovation d'ampleur, selon les revenus : 80 % pour les ménages très
+modestes, 60 % modestes, 45 % intermédiaires, 10 % supérieurs. Plafond de travaux : 30 000 €
+HT pour un gain de deux étiquettes, 40 000 € HT pour trois ou plus.
+
+Nouveauté au 1er septembre 2026 : en maison individuelle, une rénovation d'ampleur ne doit
+ni intégrer ni conserver un chauffage au fioul, au gaz ou au charbon.
+
+⚠️ Un résumé automatique de ce même guide m'avait donné des taux de 90/75/60/40 % et des
+classes D à G. C'était faux. Les chiffres ci-dessus sont lus dans le texte du PDF. Toujours
+lire la source, jamais son résumé.
 
 
 ## 7 bis. LE B2B DE L'AMÉNAGEMENT — CE QUI EST VRAI (relevé du 17/09/2026)

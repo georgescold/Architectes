@@ -70,7 +70,8 @@ Budget 2026 de 3,6 milliards contre 3,4 en 2025. Le parcours accompagné devient
 pour les logements classés F ou G. C'est le sujet le plus périssable de la chaîne : tu
 revérifies tout la veille du tournage et tu affiches la date en permanence.
 
-À l'écran : la frise du dispositif, date du relevé en bandeau permanent.
+À l'écran : la frise du dispositif, date du relevé en bandeau permanent. Puis l'étiquette
+DPE de A à G, avec F et G surlignées.
 Liens : https://www.effy.fr/magazine/maprimerenov-une-suspension-temporaire-a-partir-du-1er-janvier-2026
         https://www.anah.gouv.fr/sites/default/files/2026-02/Anah-FR-Guide_des_aides_Fev2026_WEB_20260224.pdf
 
@@ -149,9 +150,27 @@ Prescripteur. Quelqu'un qui envoie des clients sans être payé pour ça : notai
 immobilier, entreprise du bâtiment, ancien client. Le point de l'épisode est que les
 propriétaires en rénovation d'ampleur ne sont dans le carnet d'aucun prescripteur.
 
-Rénovation d'ampleur. Un bouquet de travaux qui doit faire gagner au logement au moins deux
-classes énergétiques, avec un accompagnement obligatoire. À distinguer de la rénovation
-« par geste », qui ne porte que sur un poste — une isolation, une chaudière.
+MaPrimeRénov'. L'aide de l'État, versée par l'Anah depuis 2020, qui paie une partie des
+travaux de rénovation énergétique d'un logement. Selon les revenus du ménage, entre 10 % et
+80 % du montant des travaux en rénovation d'ampleur.
+
+DPE — diagnostic de performance énergétique. La « note énergie » d'un logement, de A à G.
+Il mesure deux choses : la consommation d'énergie et les émissions de gaz à effet de serre,
+toutes deux ramenées au m² et à l'année. La plus mauvaise des deux donne la lettre. Il est
+réalisé par un diagnostiqueur certifié, obligatoire pour vendre ou louer, valable 10 ans.
+
+Classe, ou étiquette. La lettre du DPE. « Gagner deux classes », c'est passer par exemple
+de F à D.
+
+Passoire thermique. Un logement classé F ou G.
+
+Rénovation d'ampleur. Au moins deux travaux d'isolation — murs, fenêtres, sols ou toiture —
+qui font gagner au logement au moins deux classes, avec un accompagnement obligatoire. À
+distinguer de la rénovation « par geste », qui ne porte que sur un poste, le chauffage.
+
+Accompagnateur Rénov'. Le professionnel agréé qui suit une rénovation d'ampleur : audit,
+financement, devis, démarches. Obligatoire pour ce parcours — c'est ce qui fait entrer un
+professionnel dans la boucle, quoi qu'il arrive.
 
 
 ⚠️ C'est l'épisode le plus périssable de la chaîne. Le dispositif a été suspendu puis
@@ -171,6 +190,41 @@ obligatoire pour les logements classés F ou G, et l'isolation des murs sort du 
 geste.
 https://particulier.hellio.com/blog/financement/maprimerenov-2026
 https://www.anah.gouv.fr/sites/default/files/2026-02/Anah-FR-Guide_des_aides_Fev2026_WEB_20260224.pdf
+
+Ce que dit le guide de l'Anah dans son édition de septembre 2026 — à relire la veille du
+tournage, c'est la version à jour. Rénovation d'ampleur : logement de plus de 15 ans, résidence
+principale au moins 8 mois par an, DPE de E à G, au moins deux travaux d'isolation, gain
+d'au moins deux classes, entreprise RGE. Aide de 80 % du montant des travaux pour les ménages
+très modestes, 60 % modestes, 45 % intermédiaires, 10 % supérieurs, dans un plafond de
+30 000 € HT pour deux classes gagnées et 40 000 € HT pour trois ou plus.
+
+Et une règle nouvelle au 1er septembre 2026 : en maison individuelle, une rénovation
+d'ampleur ne peut plus garder un chauffage au fioul, au gaz ou au charbon. Concrètement, le
+chauffage est changé dans le même projet — un lot de plus, donc un projet plus complexe à
+coordonner, ce qui renforce l'intérêt d'un maître d'œuvre.
+https://www.anah.gouv.fr/document/maprimerenov-mode-emploi
+
+
+### Ce qu'est le DPE, puisque toute la vidéo en dépend
+
+Le DPE est la note énergie du logement, de A à G. Il mesure deux choses : la consommation
+d'énergie, en kWh par m² et par an, et les émissions de gaz à effet de serre, en kg de CO2
+par m² et par an. La classe retenue est la plus mauvaise des deux.
+
+Il n'est pas calculé à partir des factures. Un diagnostiqueur certifié relève ce qui
+détermine la consommation — isolation, fenêtres, chauffage, eau chaude, ventilation — et un
+calcul réglementaire en déduit une consommation standard, à occupation et météo identiques
+pour tout le monde. C'est ce qui permet de comparer deux logements entre eux.
+
+Les seuils pour un logement de plus de 40 m² : une classe F commence à 330 kWh/m²/an, une
+G à 420. Tableau complet dans connaissance-metier.md, section 7.
+https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000049446339
+
+Le point qui en fait un sujet d'acquisition : le calendrier de la loi Climat et résilience.
+Un logement G ne peut plus être mis en location depuis 2025, un F à partir de 2028, un E à
+partir de 2034. Pour un propriétaire bailleur, c'est une date butoir — exactement comme le
+bail qui court dans l'EP01.
+https://www.ecologie.gouv.fr/politiques-publiques/diagnostic-performance-energetique-dpe
 
 
 ### Ce que « rénovation d'ampleur » veut dire, et pourquoi ça vous concerne

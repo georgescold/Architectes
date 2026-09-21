@@ -53,3 +53,7 @@ tmp/
 *.wav
 *.mov
 *.mkv
+
+# Dossiers de montage video : modeles de transcription, dependances CUDA, audio.
+# Plusieurs Go, et des fichiers de plus de 100 Mo que GitHub refuse.
+10-projets/architectes-france/**/montage-*/
