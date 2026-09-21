@@ -546,6 +546,57 @@ C'est pour un bailleur ce que le bail est pour le commerçant de l'EP01 : une da
 l'oblige à agir.
 
 
+### Les obligations réelles liées au DPE — il n'y en a pas pour tout le monde
+
+Un propriétaire qui habite son logement n'a aucune obligation de le rénover, ni d'atteindre
+une classe. Les obligations touchent deux situations seulement.
+
+La location. Un logement classé G ne peut plus être mis en location depuis 2025, un F à
+partir de 2028, un E à partir de 2034.
+https://www.ecologie.gouv.fr/politiques-publiques/diagnostic-performance-energetique-dpe
+
+La vente. Pour une maison individuelle, ou un immeuble dont on est l'unique propriétaire,
+classé E, F ou G, le vendeur doit fournir un audit énergétique — obligatoire pour F et G
+depuis le 1er avril 2023, pour E depuis le 1er janvier 2025, et pour D à partir du 1er
+janvier 2034. Les appartements en copropriété ne sont pas concernés. L'audit propose des
+scénarios de travaux chiffrés, valables 5 ans, mais n'oblige ni le vendeur ni l'acheteur à
+les réaliser.
+https://www.service-public.gouv.fr/particuliers/vosdroits/F37110
+
+Et pour toucher MaPrimeRénov' en rénovation d'ampleur, le passage par un Accompagnateur
+Rénov' est obligatoire. Ce n'est pas une obligation de rénover : c'est la condition de l'aide.
+
+
+### Qui peut être l'Accompagnateur Rénov' — et l'architecte en fait partie
+
+Catégories éligibles à l'agrément : opérateurs historiques de l'Anah et espaces France
+Rénov', architectes, auditeurs énergétiques qualifiés, sociétés de tiers-financement,
+collectivités, opérateurs de programmes locaux.
+https://france-renov.gouv.fr/mon-accompagnateur-renov/demande-agrement
+
+Pour un architecte, l'inscription au tableau de l'Ordre suffit pour demander l'agrément,
+sans formation imposée. Agrément valable 5 ans, national. Assurance de responsabilité civile
+générale, pas de décennale pour cette mission.
+https://www.architectes.org/actualites/monaccompagnateurrenov-lordre-repond-vos-questions-102462
+
+Le point décisif, écrit par l'Ordre : « L'architecte MAR est autorisé à cumuler les missions
+MAR et de maîtrise d'œuvre sous condition d'indépendance et de neutralité vis-à-vis des
+entreprises de travaux. La signature d'un contrat global de rénovation (maîtrise d'œuvre +
+travaux) est donc interdite. » Deux contrats distincts avec le ménage.
+
+L'audit énergétique : un architecte inscrit peut le réaliser s'il a suivi la formation
+FEEBAT MOE 5A-5B ou DynaMoe 1. C'est aussi lui qui peut réaliser l'audit obligatoire à la
+vente, avec la même formation.
+
+Rémunération de la mission d'accompagnement : prix libre, mais la part financée par
+MaPrimeRénov' est plafonnée à 2 000 € TTC, prise en charge de 20 % à 100 % selon les revenus
+du ménage. La valeur n'est pas dans cette mission : elle est dans la maîtrise d'œuvre qui
+peut suivre.
+
+⚠️ Architectes d'intérieur : ils ne figurent pas dans la liste des catégories éligibles. Ne
+jamais dire qu'un architecte d'intérieur peut être Accompagnateur Rénov' en tant que tel.
+
+
 ### MaPrimeRénov' au 1er septembre 2026 — lu dans le guide officiel
 
 Source : MaPrimeRénov', le mode d'emploi, Anah, édition de septembre 2026.

@@ -241,6 +241,43 @@ professionnel entre dans la boucle par construction — la question n'est pas s'
 quelqu'un, mais qui.
 
 
+### L'architecte peut être le professionnel obligatoire — c'est l'angle de l'épisode
+
+Pour toucher MaPrimeRénov' en rénovation d'ampleur, le propriétaire doit passer par un
+Accompagnateur Rénov'. Et un architecte inscrit à l'Ordre peut être agréé pour ce rôle :
+l'inscription suffit pour demander l'agrément, sans formation imposée.
+https://www.architectes.org/actualites/monaccompagnateurrenov-lordre-repond-vos-questions-102462
+
+Surtout, l'Ordre l'écrit noir sur blanc : l'architecte agréé peut cumuler cette mission avec
+la maîtrise d'œuvre des travaux, à condition de rester indépendant des entreprises — deux
+contrats distincts, jamais un contrat global maîtrise d'œuvre + travaux.
+
+Traduit en langage d'acquisition : l'architecte agréé n'attend plus qu'on lui envoie le
+projet. Il est la porte d'entrée obligatoire du parcours, et il peut ensuite en conduire les
+travaux. La mission d'accompagnement elle-même est peu payée — la part prise en charge est
+plafonnée à 2 000 € TTC — mais c'est elle qui ouvre la maîtrise d'œuvre.
+
+⚠️ Deux limites à dire à l'écran. Ça ne vaut que pour les architectes inscrits à l'Ordre :
+les architectes d'intérieur ne figurent pas dans la liste des catégories éligibles. Et le
+propriétaire choisit librement son accompagnateur parmi tous ceux qui sont agréés —
+l'agrément ne donne pas de clients, il donne le droit d'être choisi. C'est précisément là
+que l'acquisition entre en jeu.
+
+
+### Ce qui est obligatoire, et ce qui ne l'est pas
+
+Un propriétaire qui habite son logement n'a aucune obligation de le rénover, quelle que soit
+sa classe. Ne jamais dire le contraire.
+
+Les obligations réelles : un bailleur ne peut plus louer un G depuis 2025, un F à partir de
+2028, un E à partir de 2034. Et un vendeur de maison classée E, F ou G doit fournir un audit
+énergétique, qui propose des travaux sans les imposer.
+https://www.service-public.gouv.fr/particuliers/vosdroits/F37110
+
+Les deux publics qui ont une date butoir sont donc le bailleur et le vendeur — c'est sur eux
+que le ciblage publicitaire est le plus efficace.
+
+
 ### Le chiffre qui structure tout l'épisode
 
 Il vient d'Archigraphie, section « Les architectes dans la rénovation », pages 52-53, source
@@ -515,3 +552,7 @@ N'annoncer aucune échéance future non sourcée : la mention d'une obligation a
 Toujours dire la nuance volume contre valeur : 62 % en volume, 38 % en valeur.
 Ne pas présenter la rénovation comme un eldorado.
 Ne pas confondre rénovation par geste et rénovation d'ampleur.
+Ne jamais dire qu'un propriétaire occupant est obligé de rénover : aucune obligation ne pèse
+sur lui. Les obligations touchent la location et la vente.
+Accompagnateur Rénov' : vrai pour les architectes inscrits à l'Ordre, faux pour les
+architectes d'intérieur. Toujours préciser à qui ça s'adresse.
