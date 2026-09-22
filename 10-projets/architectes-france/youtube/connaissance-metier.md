@@ -135,6 +135,11 @@ premier quart de la file est le premier quartile ; celui de la personne au milie
 médiane ; celui de la personne aux trois quarts est le troisième quartile. Un quartile est
 donc une frontière, pas un groupe.
 
+Trois frontières découpent quatre groupes de 25 % chacun : sous le premier quartile, entre
+le premier quartile et la médiane, entre la médiane et le troisième quartile, au-dessus du
+troisième. Archigraphie emploie parfois « premier quartile » pour désigner à la fois la
+frontière et le groupe qui est en dessous — d'où la confusion fréquente.
+
 Deux pièges de lecture. Un quartile qui baisse ne veut pas dire que les mêmes personnes
 gagnent moins : le classement est refait chaque année, avec des gens qui arrivent et d'autres
 qui partent. Et une frontière peut baisser simplement parce que la population change —
@@ -941,6 +946,10 @@ Liste des erreurs que j'ai moi-même commises ou failli commettre en écrivant l
   professions liées à l'architecture », architectes d'intérieur compris. C'est un bénéfice
   (recettes moins dépenses professionnelles), pas un chiffre d'affaires.
   Présenter un quartile comme une catégorie de cabinets. C'est un seuil de revenu.
+  Déduire l'âge des architectes de chaque quartile en croisant les moyennes par âge avec
+  les seuils. C'est impossible : une moyenne ne dit rien de la répartition à l'intérieur
+  d'une tranche d'âge. Il faudrait des quartiles calculés par tranche d'âge, que la CIPAV
+  ne publie pas.
   Dire que le quart du haut « monte » ou « progresse ». Il est stable : +0,8 % entre 2020
   et 2022. C'est le bas qui décroche.
   Dater la baisse de 10 % du premier quartile de 2019. Elle se mesure depuis le pic de 2020.
