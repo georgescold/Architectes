@@ -119,6 +119,15 @@ ou de designer. Beaucoup ont absorbé la conception avec un bureau d'études int
 
 ### Les mots des chiffres
 
+CIPAV — Caisse interprofessionnelle de prévoyance et d'assurance vieillesse. La caisse de
+retraite obligatoire des architectes qui exercent à leur compte, et de nombreuses autres
+professions libérales : ingénieurs, géomètres, experts, consultants. Elle gère leur retraite
+de base, leur retraite complémentaire et leur couverture invalidité-décès. Depuis le 1er
+janvier 2023, les cotisations sont encaissées par l'Urssaf, qui les lui reverse. Les salariés
+n'y cotisent pas. C'est de ses fichiers que viennent les revenus d'Archigraphie : seuls les
+architectes qui y cotisent apparaissent dans ces chiffres.
+https://www.lacipav.fr/presentation-cipav
+
 Médiane. La valeur qui coupe une population en deux. Un revenu médian de 32 983 euros veut
 dire que la moitié des architectes gagnent moins, l'autre moitié plus. Ce n'est pas la
 moyenne : une poignée de très gros revenus tire la moyenne vers le haut, jamais la médiane.
