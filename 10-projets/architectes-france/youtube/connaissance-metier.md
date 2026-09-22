@@ -477,9 +477,20 @@ Revenus, graphique 19 page 32, source CIPAV, champ libéraux et associés non sa
 Revenus par âge, graphique 20, page 33, revenu moyen en 2022 : moins de 35 ans 25 404 € ;
 35-44 ans 42 721 € ; 45-54 ans 54 479 € ; 55-64 ans 54 199 € ; 65 ans et plus 39 570 €.
 Écart de près de 29 000 euros entre les moins de 35 ans et les 45-64 ans. En 2022, les
-45-54 ans passent pour la première fois devant les 55-64 ans, dont le plus haut historique
-est de 57 277 €. Archigraphie titre la page « des différences de revenu selon l'âge qui
+45-54 ans passent pour la première fois devant les 55-64 ans, dont le plus haut sur 2012-2022
+est de 57 277 € — en 2007, avant la crise, ils étaient autour de 66 000 €. Archigraphie titre la page « des différences de revenu selon l'âge qui
 s'amenuisent ». Ce sont des moyennes : aucune donnée ne croise l'âge et les quartiles.
+
+Ce que le graphique montre quand même, et qu'on peut dire : sur toutes les années de 2004 à
+2022, les courbes restent rangées par âge — moins de 35 ans en bas, 45-64 ans en haut, les 65
+ans et plus redescendent. La relation entre l'âge et le revenu moyen est donc nette et stable,
+en forme de cloche. Trois précautions : c'est vrai en moyenne, pas pour chaque architecte ;
+l'écart se resserre (rapport d'environ 2,7 en 2004 entre les 55-64 ans et les moins de 35 ans,
+environ 2,1 en 2022 entre les 45-54 ans et les moins de 35 ans) ; et le graphique ne dit pas
+pourquoi. L'explication par le réseau de recommandation est une interprétation. Deux autres
+effets peuvent jouer sans qu'on puisse les mesurer : les générations plus anciennes se sont
+installées dans un autre marché, et ceux qui n'y arrivaient pas ont pu quitter le métier
+avant 45 ans, ce qui remonte mécaniquement la moyenne des plus âgés.
 
 Ce que mesurent ces revenus : le bénéfice non commercial, c'est-à-dire les recettes moins les
 dépenses professionnelles, cotisations sociales obligatoires déduites — l'équivalent

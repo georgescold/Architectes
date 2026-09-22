@@ -280,7 +280,7 @@ l'écart entre les plus jeunes et les 45-64 ans est « de plus du double, avec p
 euros d'écart de revenus annuels en moyenne ».
 
 ⚠️ Deux lectures à ne pas faire. 57 277 € n'est pas le revenu actuel des 55-64 ans : c'est
-leur plus haut niveau sur la période, et ils sont redescendus à 54 199 € en 2022. Et en 2022,
+leur plus haut niveau sur 2012-2022, et ils sont redescendus à 54 199 € en 2022. Et en 2022,
 pour la première fois, les 45-54 ans passent devant les 55-64 ans. Archigraphie titre même
 cette page « des différences de revenu selon l'âge qui s'amenuisent ». Le dire toi-même
 renforce la vidéo : l'écart reste du simple au double.
@@ -321,7 +321,7 @@ la courbe.
 
 39 570 euros n'est pas un pic de carrière : c'est le revenu moyen des 65 ans et plus en
 2022, en baisse. Et 57 277 euros non plus : c'est le plus haut niveau atteint par les 55-64
-ans sur la période, pas leur revenu de 2022, qui est de 54 199 euros.
+ans sur 2012-2022, pas leur revenu de 2022, qui est de 54 199 euros.
 
 
 
@@ -576,7 +576,8 @@ Ne jamais dire que le haut « monte » : il est stable (+0,8 % entre 2020 et 202
 bas qui décroche.
 La baisse de 10 % se mesure depuis le pic de 2020, pas depuis 2019.
 Ne jamais dire que le revenu culmine à 55-64 ans : en 2022, ce sont les 45-54 ans qui sont
-en tête, de peu. 57 277 € est un plus haut historique, pas un revenu actuel.
+en tête, de peu. 57 277 € est le plus haut de 2012-2022, pas un revenu actuel — et en 2007 les 55-64 ans
+étaient autour de 66 000 €.
 Les moyennes par âge ne sont pas des quartiles : on ne connaît pas l'âge des architectes du
 quart du haut ou du bas.
 Dire « le seuil du quart le moins payé a baissé », jamais « les architectes du bas ont perdu
