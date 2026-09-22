@@ -469,9 +469,19 @@ Revenus, graphique 19 page 32, source CIPAV, champ libéraux et associés non sa
   troisième quartile 59 931 euros
   rapport Q3/Q1 passé de 4,2 en 2019 à 4,5 en 2022
 
-Revenus par âge, page 32 : pic à 57 277 euros de revenu moyen chez les 55-64 ans. Écart de
-près de 29 000 euros avec les moins de 35 ans. Les 65 ans et plus retombent à 39 570 euros
-en 2022.
+Revenus par âge, graphique 20, page 33, revenu moyen en 2022 : moins de 35 ans 25 404 € ;
+35-44 ans 42 721 € ; 45-54 ans 54 479 € ; 55-64 ans 54 199 € ; 65 ans et plus 39 570 €.
+Écart de près de 29 000 euros entre les moins de 35 ans et les 45-64 ans. En 2022, les
+45-54 ans passent pour la première fois devant les 55-64 ans, dont le plus haut historique
+est de 57 277 €. Archigraphie titre la page « des différences de revenu selon l'âge qui
+s'amenuisent ». Ce sont des moyennes : aucune donnée ne croise l'âge et les quartiles.
+
+Ce que mesurent ces revenus : le bénéfice non commercial, c'est-à-dire les recettes moins les
+dépenses professionnelles, cotisations sociales obligatoires déduites — l'équivalent
+approximatif d'un salaire net avant impôt.
+https://bofip.impots.gouv.fr/bofip/4627-PGP
+Ramenés au mois en 2022 : premier quartile 1 112 €, médiane 2 749 €, troisième quartile
+4 994 €. Le premier quartile est sous le SMIC net à temps plein, 1 302,64 € au 1er mai 2022.
 
 Effectifs, graphique 13 page 24, source CNOA, année 2023 :
   11 658 libéraux
@@ -794,15 +804,21 @@ benchmark-annonceurs.md.
 
 Trois personas, et ce qui les distingue n'est pas l'âge mais l'ennemi qu'ils affrontent.
 
+⚠️ Les tranches d'âge ci-dessous sont des estimations, pas des données. Elles sont déduites
+du parcours : un DPLG a obtenu son diplôme avant 2007, donc a au moins une vingtaine
+d'années de métier ; un DE-HMONP récent a une à quatre années d'exercice. Pour les
+architectes d'intérieur, aucune statistique n'existe. Ne jamais les présenter comme des
+chiffres.
+
 ### P1 — l'architecte installé, 48-62 ans
 
 Il est très probablement DPLG, puisque le titre n'est plus délivré depuis 2007. Il a donc
 au moins vingt ans de métier.
 
-Ce que disent les chiffres sur lui : s'il est dans le troisième quartile, il gagne plus de
-59 931 euros et sa situation s'améliore. S'il est dans le premier, il a vu son seuil
-baisser de 10 % en deux ans. Le pic de revenu du métier est dans sa tranche d'âge, ce qui
-veut dire que s'il n'y est pas arrivé maintenant, il n'y arrivera plus par la méthode
+Ce que disent les chiffres sur lui : s'il est dans le quart le mieux payé, il gagne plus de
+59 931 euros, un seuil stable. S'il est dans le quart le moins payé, ce seuil a baissé de
+10 % depuis 2020. Et le revenu moyen du métier est au plus haut entre 45 et 64 ans — sa
+tranche d'âge : s'il n'y est pas arrivé maintenant, il n'y arrivera plus par la méthode
 qu'il emploie.
 
 Son ennemi : le constructeur de maisons individuelles.
@@ -812,8 +828,8 @@ Ce qui le fait fuir : le tutoiement, les emojis, le vocabulaire growth.
 
 DE-HMONP, puisque c'est la voie actuelle. Une à quatre années d'exercice.
 
-Ce que disent les chiffres sur lui : il est dans la tranche d'âge où l'écart avec les
-55-64 ans atteint près de 29 000 euros par an. Ce n'est pas une anomalie de son cabinet,
+Ce que disent les chiffres sur lui : les moins de 35 ans gagnent en moyenne 25 404 euros,
+près de 29 000 euros de moins que les 45-64 ans. Ce n'est pas une anomalie de son cabinet,
 c'est la structure du métier.
 
 Son ennemi : le constructeur, et le système qui l'a formé sans jamais lui parler de

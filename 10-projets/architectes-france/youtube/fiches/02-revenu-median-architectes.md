@@ -12,8 +12,9 @@ choque, mais il n'est pas le sujet.
 
 Le sujet, c'est que le seuil du quart le moins payé a perdu 10 % depuis 2020 pendant que
 celui du quart le mieux payé ne bougeait pas. Une conjoncture frappe tout le monde ; quand
-seul le bas décroche, ce n'est pas une conjoncture. Et la deuxième information du document le confirme : le revenu
-culmine entre 55 et 64 ans, avec près de 29 000 euros d'écart avec les moins de 35 ans.
+seul le bas décroche, ce n'est pas une conjoncture. Et la deuxième information du document
+le confirme : le revenu moyen est au plus haut entre 45 et 64 ans, autour de 54 000 euros,
+soit plus du double des moins de 35 ans — près de 29 000 euros d'écart.
 
 Autrement dit, ce métier a une seule méthode connue pour bien payer, et elle prend trente
 ans — le temps de se constituer un réseau de prescripteurs. Toute la question est de
@@ -26,7 +27,7 @@ source de projets qui, elle, se décide.
 
 Dans la vidéo, je montre ce qui sépare réellement les deux quartiles : pas le talent, mais
 le fait d'avoir ou non un canal qu'on peut ouvrir quand on en a besoin. La recommandation
-met trente ans à produire ce revenu-là. La publicité en ligne produit des demandes en
+met vingt à trente ans à produire ce revenu-là. La publicité en ligne produit des demandes en
 quelques jours, sur la zone et le type de projet qu'on choisit.
 
 Ce n'est pas mieux que le réseau. C'est ce qu'on met à côté pendant que le réseau se
@@ -112,14 +113,18 @@ mois-ci — et presque personne ne le compte.
 
 Ch.6 · La page que personne ne cite
 
-L'idée : ce métier paie bien, mais tard. Le revenu culmine entre 55 et 64 ans.
+L'idée : ce métier paie bien, mais tard. Le revenu moyen est au plus haut entre 45 et 64
+ans.
 
-En clair : près de 29 000 euros d'écart entre cette tranche d'âge et les moins de 35 ans.
-Autrement dit, la méthode connue pour bien gagner sa vie dans ce métier existe, mais elle
-prend trente ans — le temps de se constituer un réseau de gens qui vous recommandent. C'est
-le moment où la vidéo bascule : tu viens de chiffrer le coût de l'attente.
+En clair : en 2022, les 45-54 ans gagnent en moyenne 54 479 euros et les 55-64 ans 54 199
+euros, contre 25 404 euros pour les moins de 35 ans — plus du double, près de 29 000 euros
+d'écart. Autrement dit, la méthode connue pour bien gagner sa vie dans ce métier existe, mais
+elle prend vingt à trente ans — le temps de se constituer un réseau de gens qui vous
+recommandent. C'est le moment où la vidéo bascule : tu viens de chiffrer le coût de
+l'attente.
 
-À l'écran : la page du revenu par tranche d'âge, pic 55-64 ans entouré.
+À l'écran : la page du revenu par tranche d'âge, les deux courbes du haut entourées, et
+celle des moins de 35 ans en bas.
 Lien : https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
 
@@ -198,8 +203,22 @@ l'Ordre ou d'autres professionnels, tels que les architectes d'intérieur, les a
 navals, etc. » Le chiffre ne décrit donc pas uniquement des architectes inscrits.
 
 Ce que mesure le chiffre : le bénéfice, pas le chiffre d'affaires. Les recettes encaissées
-moins les dépenses professionnelles payées dans l'année — ce qui reste à l'architecte pour
-vivre, avant impôt.
+moins les dépenses professionnelles payées dans l'année. Et parmi ces dépenses, les
+cotisations sociales obligatoires — retraite, prévoyance — sont déduites. C'est donc à peu
+près l'équivalent du salaire net avant impôt d'un salarié : ce qui reste à l'architecte pour
+vivre, avant l'impôt sur le revenu. À peu près seulement — une partie de la CSG n'est pas
+déductible, et un indépendant n'a ni congés payés ni assurance chômage.
+https://bofip.impots.gouv.fr/bofip/4627-PGP
+
+Ramené au mois, en 2022 : un quart des architectes à leur compte déclare moins de 1 112 €
+par mois, la moitié moins de 2 749 €, et un quart plus de 4 994 €.
+
+Et une comparaison que tu peux faire, à condition de la présenter comme telle : 1 112 € par
+mois, c'est moins que le SMIC net d'un salarié à temps plein, qui était de 1 302,64 € au 1er
+mai 2022. Dire « un quart des architectes à leur compte gagne moins que le SMIC » est
+défendable. Dire « un quart des architectes est payé sous le SMIC » ne l'est pas : le champ
+ne couvre ni les salariés ni tous les associés.
+https://travail-emploi.gouv.fr/smic-revalorisation-de-2-65-compter-du-1er-mai-2022
 
 Ils datent de 2022. Les effectifs, eux, de 2023. C'est le dernier état publié, et tu dois
 l'annoncer dès la première minute : quelqu'un qui ouvre le PDF pendant la vidéo verra la
@@ -252,12 +271,23 @@ pendant que le haut tient n'est pas une conjoncture. C'est un écartement, et un
 suppose que les uns font quelque chose que les autres ne font pas.
 
 
-### Pourquoi le revenu culmine à 55-64 ans
+### Pourquoi le revenu est au plus haut entre 45 et 64 ans
 
-C'est la deuxième information du document, et personne ne la cite. Le revenu moyen atteint
-son sommet à 57 277 euros chez les 55-64 ans. Le document écrit que l'écart avec les plus
-jeunes est « de plus du double, avec près de 29 000 euros d'écart de revenus annuels en
-moyenne ».
+C'est la deuxième information du document, et personne ne la cite. Graphique 20, page 33,
+revenu moyen par tranche d'âge en 2022 : moins de 35 ans, 25 404 € ; 35-44 ans, 42 721 € ;
+45-54 ans, 54 479 € ; 55-64 ans, 54 199 € ; 65 ans et plus, 39 570 €. Le document écrit que
+l'écart entre les plus jeunes et les 45-64 ans est « de plus du double, avec près de 29 000
+euros d'écart de revenus annuels en moyenne ».
+
+⚠️ Deux lectures à ne pas faire. 57 277 € n'est pas le revenu actuel des 55-64 ans : c'est
+leur plus haut niveau sur la période, et ils sont redescendus à 54 199 € en 2022. Et en 2022,
+pour la première fois, les 45-54 ans passent devant les 55-64 ans. Archigraphie titre même
+cette page « des différences de revenu selon l'âge qui s'amenuisent ». Le dire toi-même
+renforce la vidéo : l'écart reste du simple au double.
+
+Ces chiffres sont des moyennes par tranche d'âge, pas des quartiles. Archigraphie ne croise
+nulle part l'âge et les quartiles : on ne sait pas quel âge ont les architectes du quart du
+haut ou du quart du bas.
 
 L'explication tient au canal. Dans ce métier, les projets viennent de la recommandation, et
 la recommandation est un capital qui s'accumule très lentement : un client satisfait en
@@ -265,7 +295,7 @@ amène un autre deux ans plus tard, un prescripteur en amène trois sur une déc
 une carrière entière pour constituer un réseau qui produit sans effort.
 
 Autrement dit, ce n'est pas un métier mal payé. C'est un métier dont la seule méthode connue
-pour bien payer demande trente ans. Et il y a un corollaire plus dur : la courbe redescend
+pour bien payer demande vingt à trente ans. Et il y a un corollaire plus dur : la courbe redescend
 après 65 ans, parce que le réseau part à la retraite en même temps que celui qui l'a
 construit.
 
@@ -283,14 +313,15 @@ s'agissait d'une catégorie d'agences.
 
 Et le seul levier qui ne dépende pas du temps qui passe, c'est la publicité en ligne. Elle
 permet d'être devant quelqu'un qui a un projet aujourd'hui sans avoir vingt ans de
-réputation derrière soi. C'est littéralement ce qui raccourcit les trente ans que décrit la
-courbe.
+réputation derrière soi. C'est littéralement ce qui raccourcit les vingt à trente ans que décrit
+la courbe.
 
 
 ### Erreur à ne pas reproduire
 
 39 570 euros n'est pas un pic de carrière : c'est le revenu moyen des 65 ans et plus en
-2022, en baisse. Le sommet est à 57 277 euros chez les 55-64 ans.
+2022, en baisse. Et 57 277 euros non plus : c'est le plus haut niveau atteint par les 55-64
+ans sur la période, pas leur revenu de 2022, qui est de 54 199 euros.
 
 
 
@@ -420,12 +451,13 @@ Votre carnet de commandes n'est pas un thermomètre. C'est un rétroviseur. »
 vidéo.
 
 Exemple de formulation :
-« Regardez la courbe par tranche d'âge. Le revenu moyen culmine entre 55 et 64 ans, à
-57 277 euros. Et le document écrit ceci : l'écart entre les plus jeunes et les 45-64 ans
-est de plus du double, avec près de 29 000 euros de différence par an.
+« Regardez la courbe par tranche d'âge. En 2022, le revenu moyen est au plus haut entre 45
+et 64 ans, autour de 54 000 euros. Les moins de 35 ans sont à 25 404 euros. Et le document
+écrit ceci : l'écart entre les plus jeunes et les 45-64 ans est de plus du double, avec près
+de 29 000 euros de différence par an.
 
 Ce document ne décrit pas un métier mal payé. Il décrit un métier dont la seule méthode
-connue pour bien gagner sa vie demande trente ans — parce que c'est le temps qu'il faut
+connue pour bien gagner sa vie demande vingt à trente ans — parce que c'est le temps qu'il faut
 pour se constituer un réseau de prescripteurs. La question n'est donc pas de savoir si ce
 métier paie. C'est de savoir s'il existe un chemin plus court. »
 
@@ -451,7 +483,7 @@ en a quatre ne s'en aperçoit presque pas. Celui qui en a une ferme boutique. »
 publicité en ligne est le seul levier qui ne dépende pas du temps qui passe.
 
 Exemple de formulation :
-« Revenons sur les trente ans. Pourquoi est-ce que ça prend trente ans ? Parce que la
+« Revenons sur ces vingt à trente ans. Pourquoi est-ce que ça prend autant de temps ? Parce que la
 recommandation est un capital qui s'accumule très lentement : un client content en amène
 un autre, deux ans plus tard. C'est une excellente source, la meilleure en taux de
 signature — et c'est la plus lente du monde.
@@ -463,7 +495,7 @@ la courbe qui redescend après 65 ans.
 La publicité en ligne, elle, ne dépend pas du temps qui passe. Vous décidez un mardi
 matin que vous voulez parler aux propriétaires de maison de votre département, et vous
 leur parlez le mardi après-midi. Vous n'avez pas besoin de vingt ans de réputation pour
-que quelqu'un vous découvre. C'est littéralement ce qui raccourcit les trente ans. »
+que quelqu'un vous découvre. C'est littéralement ce qui raccourcit ces vingt à trente ans. »
 
 Puis, au nous :
 « Chez Essort, quand un cabinet arrive, on ne commence jamais par la publicité. On regarde
@@ -494,7 +526,7 @@ publicité — c'est faux depuis 1992, et je vous montre le texte dans la vidéo
 
 Principal : La moitié des architectes gagnent moins de 32 983 € par an
 Variante : Le quart du bas perd 10 %, le quart du haut ne bouge pas. Ce n'est pas la conjoncture.
-Variante : Ce métier n'a qu'une méthode connue pour bien payer, et elle prend trente ans
+Variante : Ce métier n'a qu'une méthode connue pour bien payer, et elle prend vingt ans
 
 Miniature : « 32 983 € » en très gros, dessous en petit « source : CIPAV ». Bandeau
 discret « Archigraphie 2024-2026 ». Visage à droite, sourcils levés. Le chiffre est la
@@ -543,6 +575,10 @@ Ne jamais présenter un quartile comme une catégorie de cabinets.
 Ne jamais dire que le haut « monte » : il est stable (+0,8 % entre 2020 et 2022). C'est le
 bas qui décroche.
 La baisse de 10 % se mesure depuis le pic de 2020, pas depuis 2019.
+Ne jamais dire que le revenu culmine à 55-64 ans : en 2022, ce sont les 45-54 ans qui sont
+en tête, de peu. 57 277 € est un plus haut historique, pas un revenu actuel.
+Les moyennes par âge ne sont pas des quartiles : on ne connaît pas l'âge des architectes du
+quart du haut ou du bas.
 Dire « le seuil du quart le moins payé a baissé », jamais « les architectes du bas ont perdu
 10 % de leur revenu ».
 Aucune promesse de faire changer quelqu'un de quartile.
