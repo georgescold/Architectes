@@ -125,7 +125,57 @@ Exemple, signal 4 :
   Si ce n'est pas le sujet du moment, répondez « non merci » et j'en reste là.
 
 
+## Test sur la Gironde — 22/09/2026
+
+Des chiffres seulement. Les listes nominatives restent en local : ce dépôt est public, on n'y
+met jamais de liste de prospects.
+
+Signal 3, les installations. Base Sirene, code 71.11Z, Gironde, entreprises actives :
+1 708 entreprises, dont 814 entrepreneurs individuels, 619 SARL ou EURL, 250 SAS ou SASU.
+37 créées dans les 12 derniers mois, 89 dans les 24 derniers mois. Moitié à Bordeaux (753),
+puis Mérignac, Bègles, Talence. Aucune en diffusion partielle dans le résultat.
+Limite : 71.11Z ne garantit pas l'inscription à l'Ordre, et beaucoup d'architectes
+d'intérieur sont codés 74.10Z (design) — à interroger à part.
+Source : https://recherche-entreprises.api.gouv.fr (paramètres activite_principale=71.11Z,
+departement=33, etat_administratif=A).
+Verdict : le meilleur volume, avec une date qui dit « besoin de clients maintenant ».
+
+Signal 2, la publicité. Bibliothèque Meta, recherche sans ordre imposé :
+  « architecte Bordeaux », annonces actives : 16 résultats. Une seule vraie agence de
+  conception qui vise des particuliers. Le reste : écoles, immobilier, fournisseurs, et deux
+  prestataires qui vendent de l'acquisition aux architectes.
+  « architecte d'intérieur Bordeaux », actives : 7 résultats, même constat.
+  « architecte d'intérieur Bordeaux », tout l'historique : 250 résultats, dont une poignée
+  d'agences et de designers d'intérieur identifiables.
+  « architecte Gironde », tout l'historique : 91 résultats, dont 4 cabinets d'architecture
+  ou d'architecture intérieure identifiables.
+Au total, moins d'une dizaine de cabinets girondins ont fait de la publicité Meta à un moment
+— lecture des premiers écrans de résultats, pas un comptage exhaustif.
+Verdict : peu de volume, mais le message le plus fort, parce qu'il part de leur propre
+historique. Et l'espace publicitaire local est presque vide : ce qui confirme l'angle des
+épisodes sur la publicité.
+⚠️ Deux prestataires ciblent déjà les architectes en publicité sur cette zone. Ce
+sont des concurrents d'Essort ; ils vendent du référencement Google et de la visibilité dans
+les réponses des IA, pas la publicité Meta comme moteur.
+
+Signal 1, les plateformes. Archibien, page « architectes à Bordeaux » : 20 agences
+affichées, dont 14 basées en Gironde (les autres à Paris et Biarritz). C'est une sélection
+mise en avant, pas l'annuaire complet ; hemea et Houzz n'ont pas d'URL de liste par ville
+accessible directement — à parcourir à la main depuis leur moteur de recherche.
+Verdict : une quinzaine de cabinets par plateforme, intention d'achat maximale. Petit
+volume, message très facile à personnaliser (EP18).
+
+Signaux 4 à 7 : non mesurés automatiquement. La recherche Google bloque les requêtes
+automatisées, LinkedIn exige une connexion, et la veille Architecte Libre n'a pas été
+relancée pour ce test.
+
+Ordre conseillé pour la Gironde : les 37 installations de l'année (signal 3), puis la
+quinzaine de cabinets sur les plateformes (signal 1), puis la dizaine d'annonceurs (signal
+2). Soit une soixantaine de messages, chacun appuyé sur un fait précis.
+
+
 ## À vérifier avant de lancer
 
   Les conditions d'utilisation de chaque plateforme avant d'y chercher des profils.
-  Le volume réel de chaque signal sur un département test, pour savoir lequel vaut l'effort.
+  Parmi les 37 installations, lesquelles sont inscrites à l'Ordre (vérification une par
+  une dans l'annuaire, sans extraction).
