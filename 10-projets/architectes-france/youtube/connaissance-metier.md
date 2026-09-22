@@ -516,6 +516,24 @@ https://bofip.impots.gouv.fr/bofip/4627-PGP
 Ramenés au mois en 2022 : premier quartile 1 112 €, médiane 2 749 €, troisième quartile
 4 994 €. Le premier quartile est sous le SMIC net à temps plein, 1 302,64 € au 1er mai 2022.
 
+La concentration des revenus, calculée à partir d'Archigraphie. Le document ne la donne
+pas, mais on peut l'encadrer sans aucune hypothèse : chaque personne du quart le moins payé
+gagne moins de 13 342 €, chaque personne du deuxième quart moins de 32 983 €, et ainsi de
+suite, alors que le revenu moyen de l'ensemble est de 48 370 € (graphique 18, même source,
+même année). En 2022 :
+
+  le quart le moins payé touche au plus 6,9 % de l'ensemble des revenus ;
+  la moitié la moins payée, au plus 23,9 % ;
+  la moitié la mieux payée, au moins 76,1 % ;
+  le quart le mieux payé, au moins 45,1 %, et gagne en moyenne au moins 87 000 €.
+
+Ce sont des planchers et des plafonds, pas des estimations : la réalité est au moins aussi
+concentrée. Formulation pour la vidéo : « la moitié la mieux payée des architectes à leur
+compte touche au moins les trois quarts de tous les revenus ». Deux limites : ce sont des
+revenus, pas des parts de marché — on ne sait pas quelle part des projets ou des honoraires
+chacun capte ; et le champ est celui de la CIPAV. Aucun chiffre ne permet de dire « 20 % font
+80 % ».
+
 Effectifs, graphique 13 page 24, source CNOA, année 2023 :
   11 658 libéraux
   15 266 associés
