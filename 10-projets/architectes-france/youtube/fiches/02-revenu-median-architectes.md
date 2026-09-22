@@ -7,8 +7,8 @@ abonnés.
 
 ## LA BIG IDEA
 
-Le revenu médian d'un architecte libéral est de 32 983 euros. Le chiffre choque, mais il
-n'est pas le sujet.
+Le revenu médian des architectes qui exercent à leur compte est de 32 983 euros. Le chiffre
+choque, mais il n'est pas le sujet.
 
 Le sujet, c'est que le quart du bas a perdu 10 % en deux ans pendant que le quart du haut
 montait. Une conjoncture frappe tout le monde ; ce qui écarte les deux extrémités n'est
@@ -46,7 +46,8 @@ Ch.1 · Ouverture
 
 L'idée : le chiffre qui arrive ne vient pas de toi. Il vient de leur propre institution.
 
-En clair : 32 983 euros de revenu médian pour un architecte libéral. Si c'était ton chiffre,
+En clair : 32 983 euros de revenu médian pour les architectes qui exercent à leur compte.
+Si c'était ton chiffre,
 on te le contesterait dans la première minute. Comme il vient d'Archigraphie, publié par
 l'Ordre des architectes, il n'y a rien à discuter — et c'est ce qui rend le début
 inconfortable pour celui qui regarde.
@@ -177,8 +178,25 @@ de l'Ordre des architectes. L'édition en cours s'appelle 2024-2026 et fait 83 p
 https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
 Les revenus qu'il contient ne viennent pas d'un sondage : ils viennent de la CIPAV, la
-caisse de retraite des professions libérales. Ce sont des revenus déclarés, sur le champ
-des architectes libéraux et associés non salariés — les salariés d'agence n'y sont pas.
+caisse de retraite des professions libérales. Archigraphie précise lui-même, page 30, que
+cette base « ne prend en compte qu'une partie des architectes ».
+
+Qui est dedans : les architectes à leur compte — entreprise individuelle, auto-entrepreneur,
+gérant d'EURL — et les associés qui dirigent leur société en étant majoritaires.
+
+Qui n'y est pas : tous les salariés, et aussi les associés minoritaires d'une société, qui
+sont rémunérés comme des salariés. Or depuis 2018, les associés sont plus nombreux que les
+libéraux : 15 266 contre 11 658 en 2023. Une part importante des architectes « en cabinet »
+n'apparaît donc pas dans ce graphique.
+
+Et la précision que presque personne ne lit, en note 6 : « Les données transmises concernent
+l'ensemble des professions liées à l'architecture. Il peut s'agir d'architectes inscrits à
+l'Ordre ou d'autres professionnels, tels que les architectes d'intérieur, les architectes
+navals, etc. » Le chiffre ne décrit donc pas uniquement des architectes inscrits.
+
+Ce que mesure le chiffre : le bénéfice, pas le chiffre d'affaires. Les recettes encaissées
+moins les dépenses professionnelles payées dans l'année — ce qui reste à l'architecte pour
+vivre, avant impôt.
 
 Ils datent de 2022. Les effectifs, eux, de 2023. C'est le dernier état publié, et tu dois
 l'annoncer dès la première minute : quelqu'un qui ouvre le PDF pendant la vidéo verra la
@@ -233,9 +251,14 @@ construit.
 
 ### Pourquoi c'est ton sujet à toi
 
-Tout ce qui précède décrit un problème de canal, pas de compétence. Les cabinets du
-troisième quartile ne conçoivent pas mieux : ils ont plusieurs sources de projets là où les
+Tout ce qui précède décrit un problème de canal, pas de compétence. Les architectes du quart
+le mieux payé ne conçoivent pas mieux : ils ont plusieurs sources de projets là où les
 autres en ont une.
+
+⚠️ Un quartile est un seuil de revenu, pas un type de structure. Le graphique ne dit pas
+qui est dans le quart du haut — indépendants seuls ou dirigeants de société, grosses ou
+petites structures. Ne jamais dire « les cabinets du troisième quartile » comme s'il
+s'agissait d'une catégorie d'agences.
 
 Et le seul levier qui ne dépende pas du temps qui passe, c'est la publicité en ligne. Elle
 permet d'être devant quelqu'un qui a un projet aujourd'hui sans avoir vingt ans de
@@ -269,9 +292,15 @@ cette vidéo est une idée, jamais une personne.
 Ils datent de 2022 et je le dis dès le début. Ce sont les derniers publiés par l'Ordre.
 
 « La CIPAV ne couvre pas les architectes en société. »
-Exact, le champ est celui des libéraux et associés non salariés, c'est écrit sous le
-graphique. C'est aussi pour ça que je montre les effectifs par mode d'exercice : 11 658
-libéraux contre 15 266 associés en 2023.
+En partie seulement. Les associés majoritaires qui dirigent leur société y sont ; les
+associés minoritaires, rémunérés comme des salariés, n'y sont pas. Archigraphie l'écrit
+lui-même : cette base ne couvre qu'une partie des architectes. C'est aussi pour ça que je
+montre les effectifs par mode d'exercice : 11 658 libéraux contre 15 266 associés en 2023.
+
+« Ce ne sont même pas que des architectes. »
+Exact, et je le dis : la note 6 d'Archigraphie précise que la base comprend aussi des
+architectes d'intérieur et d'autres professions de l'architecture. Ça ne change pas la
+lecture de l'écart entre le haut et le bas, mesuré chaque année sur le même champ.
 
 « Le revenu déclaré n'est pas le revenu réel en société. »
 Recevable pour les associés. Ça ne change pas la tendance, mesurée chaque année de la
@@ -290,8 +319,9 @@ que le troisième montait.
 À faire comprendre : que le chiffre ne vient pas de moi mais de leur propre institution.
 
 Exemple de formulation :
-« 32 983 euros. C'est le revenu médian d'un architecte libéral en France. Ce n'est pas mon
-chiffre : c'est celui de votre caisse de retraite, publié par votre propre Ordre. Et il y a
+« 32 983 euros. C'est le revenu médian des architectes qui exercent à leur compte en France.
+Ce n'est pas mon chiffre : c'est celui de votre caisse de retraite, publié par votre propre
+Ordre. Et il y a
 une autre page dans ce document, que personne ne cite jamais, qui explique pourquoi
 certains cabinets s'en sortent très bien en ce moment. »
 
@@ -307,7 +337,15 @@ quoi dans ce marché. J'ai lu les 83 pages.
 
 Une précision tout de suite : le document s'appelle Archigraphie 2024-2026, mais les
 revenus dedans sont ceux de 2022 et les effectifs ceux de 2023. Ce sont les derniers
-publiés. Je le dis maintenant pour qu'on ne me le reproche pas dans dix minutes. »
+publiés.
+
+Et deuxième précision, parce que le document la fait lui-même : ces revenus viennent de la
+caisse de retraite, donc ils couvrent les architectes à leur compte et ceux qui dirigent
+leur société — pas les salariés, ni les associés minoritaires. Ils comprennent aussi
+d'autres métiers de l'architecture, comme les architectes d'intérieur. Et c'est un
+bénéfice, pas un chiffre d'affaires : ce qui reste une fois les frais payés.
+
+Je le dis maintenant pour qu'on ne me le reproche pas dans dix minutes. »
 
 
 ### 3. Le premier quartile
@@ -316,7 +354,7 @@ publiés. Je le dis maintenant pour qu'on ne me le reproche pas dans dix minutes
 
 Exemple de formulation, débit lent :
 « Le premier quartile, c'est-à-dire les 25 % qui gagnent le moins : moins de 13 342 euros
-par an. Un quart de la profession libérale, tous âges confondus. »
+par an. Un quart des architectes à leur compte, tous âges confondus. »
 
 Marquer un silence, puis :
 « Et ce seuil a baissé de 10 % en deux ans. »
@@ -444,8 +482,9 @@ miniature, aucune photo nécessaire.
 ## DESCRIPTION YOUTUBE
 
 ```
-32 983 € : le revenu médian d'un architecte libéral, d'après les données CIPAV publiées
-par l'Ordre des architectes. Mais le chiffre intéressant n'est pas celui-là — c'est
+32 983 € : le revenu médian des architectes qui exercent à leur compte, d'après les données
+CIPAV publiées par l'Ordre des architectes (champ : indépendants et associés non salariés,
+toutes professions de l'architecture confondues). Mais le chiffre intéressant n'est pas celui-là — c'est
 l'écart entre le premier et le troisième quartile, passé de 4,2 à 4,5 en trois ans.
 
 Données de revenus : 2022. Effectifs : 2023. Ce sont les derniers états publiés.
@@ -476,4 +515,7 @@ Montrer le PDF, jamais un graphique refait.
 Annoncer l'année des données dès la première minute.
 Ton calme sur le premier quartile.
 Aucun cabinet nommé, aucune comparaison entre confrères.
+Ne jamais dire « le revenu d'un architecte » tout court : dire « des architectes à leur
+compte », et préciser que la base couvre aussi d'autres professions de l'architecture.
+Ne jamais présenter un quartile comme une catégorie de cabinets.
 Aucune promesse de faire changer quelqu'un de quartile.

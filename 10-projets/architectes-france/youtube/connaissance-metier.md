@@ -902,3 +902,9 @@ Liste des erreurs que j'ai moi-même commises ou failli commettre en écrivant l
   Dire qu'un architecte d'intérieur peut être Accompagnateur Rénov'. Il n'est pas dans la
   liste des catégories éligibles.
   Affirmer le nombre d'ERP encore non accessibles. Aucune source fiable.
+  Dire « le revenu médian d'un architecte » sans préciser le champ. Les chiffres CIPAV
+  d'Archigraphie couvrent les indépendants et les associés non salariés — pas les
+  salariés, ni les associés minoritaires — et, selon la note 6 page 30, « l'ensemble des
+  professions liées à l'architecture », architectes d'intérieur compris. C'est un bénéfice
+  (recettes moins dépenses professionnelles), pas un chiffre d'affaires.
+  Présenter un quartile comme une catégorie de cabinets. C'est un seuil de revenu.
