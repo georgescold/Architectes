@@ -109,8 +109,8 @@ Ch.6 · Le tri, rappelé en une phrase
 
 L'idée : ce qui sépare ceux qui traversent des autres n'est pas le talent.
 
-En clair : le quart le mieux payé est au-dessus de 59 931 euros et progresse, le quart le
-moins payé est sous 13 342 euros et a perdu 10 % en deux ans. Une phrase, sans rouvrir la
+En clair : le quart le mieux payé est au-dessus de 59 931 euros et tient, le quart le
+moins payé est sous 13 342 euros et a perdu 10 % depuis 2020. Une phrase, sans rouvrir la
 démonstration : à zéro abonné, la plupart des spectateurs n'auront vu aucun épisode
 précédent.
 
@@ -227,7 +227,7 @@ C'est le dernier de la saison. Il peut rappeler en une phrase les constats des a
 plupart des spectateurs n'auront vu aucune des précédentes.
 
 Le rappel utile, en une ligne : le quart du haut de la profession est au-dessus de 59 931
-euros et progresse, le quart du bas sous 13 342 euros et perd 10 % en deux ans. Ces chiffres
+euros et tient, le quart du bas sous 13 342 euros et a perdu 10 % depuis 2020. Ces chiffres
 appartiennent à l'EP02, on les cite sans les développer.
 https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
@@ -360,8 +360,8 @@ talent.
 
 Exemple de formulation :
 « Un chiffre que je ne vais pas développer parce qu'il mérite sa propre vidéo : dans cette
-profession, le quart du haut gagne plus de 59 931 euros et progresse, pendant que le quart
-du bas est sous 13 342 euros et perd 10 % en deux ans.
+profession, le quart du haut gagne plus de 59 931 euros et tient bon, pendant que le quart
+du bas est sous 13 342 euros et a perdu 10 % depuis 2020.
 
 Ce qui sépare les deux, ce n'est pas le talent. C'est le nombre de canaux. »
 

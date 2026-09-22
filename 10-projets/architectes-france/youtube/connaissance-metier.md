@@ -127,7 +127,24 @@ Quartile. Le même principe, mais en quatre parts. Si on range tous les architec
 payé au mieux payé, le premier quartile est la limite en dessous de laquelle se trouve le
 quart le moins bien payé, et le troisième quartile la limite au-dessus de laquelle se trouve
 le quart le mieux payé. C'est l'outil qui permet de montrer que les deux extrémités d'une
-profession bougent dans des directions opposées.
+profession ne vivent pas la même chose.
+
+Comment on le calcule, concrètement : on range tout le monde du plus petit revenu au plus
+grand, puis on coupe la file en quatre parts égales. Le revenu de la personne placée au
+premier quart de la file est le premier quartile ; celui de la personne au milieu est la
+médiane ; celui de la personne aux trois quarts est le troisième quartile. Un quartile est
+donc une frontière, pas un groupe.
+
+Deux pièges de lecture. Un quartile qui baisse ne veut pas dire que les mêmes personnes
+gagnent moins : le classement est refait chaque année, avec des gens qui arrivent et d'autres
+qui partent. Et une frontière peut baisser simplement parce que la population change —
+l'arrivée massive de petits revenus suffit à la tirer vers le bas.
+
+Les chiffres d'Archigraphie, relus au graphique 19 : premier quartile 14 753 € en 2020,
+13 342 € en 2022, soit −9,6 % (« 10 % » dans le texte) ; troisième quartile 59 457 € puis
+59 931 €, soit +0,8 %, stable ; médiane 32 203 € puis 32 983 €, +2,4 %. Rapport entre le
+troisième et le premier quartile : 4,2 en 2019, 4,5 en 2022. La baisse de 10 % se mesure
+depuis le pic de 2020 — depuis 2019, elle n'est que de 5 %.
 
 Le contract. Le nom que le secteur de l'ameublement donne au marché professionnel : hôtels,
 restaurants, commerces, bureaux, par opposition au meuble vendu aux particuliers. À éviter
@@ -908,3 +925,6 @@ Liste des erreurs que j'ai moi-même commises ou failli commettre en écrivant l
   professions liées à l'architecture », architectes d'intérieur compris. C'est un bénéfice
   (recettes moins dépenses professionnelles), pas un chiffre d'affaires.
   Présenter un quartile comme une catégorie de cabinets. C'est un seuil de revenu.
+  Dire que le quart du haut « monte » ou « progresse ». Il est stable : +0,8 % entre 2020
+  et 2022. C'est le bas qui décroche.
+  Dater la baisse de 10 % du premier quartile de 2019. Elle se mesure depuis le pic de 2020.

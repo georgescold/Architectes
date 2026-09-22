@@ -10,9 +10,9 @@ abonnés.
 Le revenu médian des architectes qui exercent à leur compte est de 32 983 euros. Le chiffre
 choque, mais il n'est pas le sujet.
 
-Le sujet, c'est que le quart du bas a perdu 10 % en deux ans pendant que le quart du haut
-montait. Une conjoncture frappe tout le monde ; ce qui écarte les deux extrémités n'est
-pas une conjoncture. Et la deuxième information du document le confirme : le revenu
+Le sujet, c'est que le seuil du quart le moins payé a perdu 10 % depuis 2020 pendant que
+celui du quart le mieux payé ne bougeait pas. Une conjoncture frappe tout le monde ; quand
+seul le bas décroche, ce n'est pas une conjoncture. Et la deuxième information du document le confirme : le revenu
 culmine entre 55 et 64 ans, avec près de 29 000 euros d'écart avec les moins de 35 ans.
 
 Autrement dit, ce métier a une seule méthode connue pour bien payer, et elle prend trente
@@ -83,15 +83,18 @@ Lien : https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13
 
 Ch.4 · Pourquoi « c'est la conjoncture » ne tient pas
 
-L'idée : une mauvaise conjoncture fait baisser tout le monde. Ici, une moitié monte pendant
-que l'autre descend.
+L'idée : une mauvaise conjoncture fait baisser tout le monde. Ici, seul le bas décroche :
+le haut tient.
 
 En clair : c'est la distinction qui porte toute la vidéo, et elle est simple. Quand les taux
-montent et que les chantiers se raréfient, tout le monde devrait souffrir ensemble. Or le
-quart du bas a perdu 10 % en deux ans pendant que le quart du haut progressait. Ce n'est
-donc pas un phénomène qui frappe, c'est un phénomène qui sépare.
+montent et que les chantiers se raréfient, tout le monde devrait souffrir ensemble. Or entre
+2020 et 2022, le seuil du quart le moins payé a baissé de 10 %, pendant que celui du quart
+le mieux payé restait stable, autour de 59 000 euros — Archigraphie écrit qu'il « se
+maintient ». Ce n'est donc pas un phénomène qui frappe tout le monde, c'est un phénomène qui
+sépare.
 
-À l'écran : une flèche qui monte et une flèche qui descend, sur le même graphique.
+À l'écran : sur le même graphique, la ligne du haut qui reste à plat, et celle du bas qui
+descend depuis 2020.
 Lien : https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
 
@@ -213,6 +216,19 @@ Un quartile coupe la population en quatre parts égales. Le premier quartile est
 sous lequel se trouvent les 25 % qui gagnent le moins. La médiane coupe en deux. Le
 troisième quartile est le seuil au-dessus duquel se trouvent les 25 % qui gagnent le plus.
 
+Deux pièges de lecture, à connaître pour ne pas les commettre à l'oral.
+
+Un quartile qui baisse ne veut pas dire que les mêmes personnes gagnent moins. Chaque année,
+on refait le classement de tous ceux qui sont dans la base. Le premier quartile de 2022 n'est
+pas composé des mêmes architectes que celui de 2020 : certains sont montés, d'autres sont
+arrivés, d'autres sont partis. Ce qui a baissé, c'est la frontière du quart le plus bas.
+
+Et cette frontière peut baisser parce que la population change. Archigraphie indique que le
+nombre d'auto-entrepreneurs affiliés à la CIPAV a été multiplié par quatre depuis 2018. S'ils
+sont comptés dans les quartiles, ce que le document ne précise pas, leur arrivée suffit à
+tirer le premier quartile vers le bas. Ne l'affirme ni dans un sens ni dans l'autre : dis
+« le seuil a baissé », jamais « les architectes du bas ont perdu 10 % de leur revenu ».
+
 C'est pour ça qu'on ne parle jamais de moyenne dans cette vidéo. Trois seuils racontent une
 distribution ; une moyenne ne raconte rien.
 
@@ -222,12 +238,17 @@ distribution ; une moyenne ne raconte rien.
 En 2022 : premier quartile à 13 342 euros, médiane à 32 983 euros, troisième quartile à
 59 931 euros. Graphique 19, page 32.
 
-Le premier quartile a baissé de 10 % en deux ans. Le troisième est monté. Le rapport entre
-les deux est passé de 4,2 en 2019 à 4,5 en 2022.
+Le premier quartile a baissé de 10 % depuis son pic de 2020 : de 14 753 à 13 342 euros,
+soit −9,6 %, arrondi à 10 % par Archigraphie. Sur les mêmes deux ans, le troisième quartile
+est passé de 59 457 à 59 931 euros : +0,8 %, c'est-à-dire stable. Le rapport entre les deux
+est passé de 4,2 en 2019 à 4,5 en 2022.
 
-C'est cette divergence qui porte toute la vidéo. Une conjoncture frappe les deux extrémités
+Attention aux périodes : la baisse de 10 % se mesure depuis le pic de 2020. Depuis 2019, elle
+n'est que de 5 %. Ne mélange jamais les deux.
+
+C'est cet écart qui porte toute la vidéo. Une conjoncture frappe les deux extrémités
 ensemble : quand le marché se contracte, tout le monde encaisse. Ce qui fait baisser le bas
-pendant que le haut monte n'est pas une conjoncture. C'est un écartement, et un écartement
+pendant que le haut tient n'est pas une conjoncture. C'est un écartement, et un écartement
 suppose que les uns font quelque chose que les autres ne font pas.
 
 
@@ -307,8 +328,8 @@ Recevable pour les associés. Ça ne change pas la tendance, mesurée chaque ann
 même façon sur le même champ.
 
 « On fait ce métier par passion. »
-La passion ne paie pas l'URSSAF, et le premier quartile a perdu 10 % en deux ans pendant
-que le troisième montait.
+La passion ne paie pas l'URSSAF, et le premier quartile a perdu 10 % depuis 2020 pendant
+que le troisième restait stable.
 
 
 ## LE DÉROULÉ
@@ -369,11 +390,12 @@ https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembr
 À faire comprendre : qu'un phénomène qui écarte n'est pas un phénomène qui frappe.
 
 Exemple de formulation :
-« Pendant que le bas perdait 10 %, le troisième quartile, lui, est monté. Il est à 59 931
-euros. Et le rapport entre les deux est passé de 4,2 à 4,5 en trois ans — c'est écrit noir
-sur blanc dans le document.
+« Pendant que le bas perdait 10 %, le troisième quartile, lui, n'a pas bougé. Il est à
+59 931 euros, exactement là où il était. Et le rapport entre les deux est passé de 4,2 à 4,5
+en trois ans — c'est écrit noir sur blanc dans le document.
 
-Une conjoncture, ça frappe tout le monde. Ce qui frappe le bas pendant que le haut monte,
+Une conjoncture, ça frappe tout le monde. Ce qui ne frappe que le bas pendant que le haut
+tient,
 ça porte un autre nom. Et ça veut dire qu'il y a quelque chose que les uns font et que les
 autres ne font pas. »
 
@@ -471,7 +493,7 @@ publicité — c'est faux depuis 1992, et je vous montre le texte dans la vidéo
 ## TITRE ET MINIATURE
 
 Principal : La moitié des architectes gagnent moins de 32 983 € par an
-Variante : Le quart du bas perd 10 %, le quart du haut monte. Ce n'est pas la conjoncture.
+Variante : Le quart du bas perd 10 %, le quart du haut ne bouge pas. Ce n'est pas la conjoncture.
 Variante : Ce métier n'a qu'une méthode connue pour bien payer, et elle prend trente ans
 
 Miniature : « 32 983 € » en très gros, dessous en petit « source : CIPAV ». Bandeau
@@ -518,4 +540,9 @@ Aucun cabinet nommé, aucune comparaison entre confrères.
 Ne jamais dire « le revenu d'un architecte » tout court : dire « des architectes à leur
 compte », et préciser que la base couvre aussi d'autres professions de l'architecture.
 Ne jamais présenter un quartile comme une catégorie de cabinets.
+Ne jamais dire que le haut « monte » : il est stable (+0,8 % entre 2020 et 2022). C'est le
+bas qui décroche.
+La baisse de 10 % se mesure depuis le pic de 2020, pas depuis 2019.
+Dire « le seuil du quart le moins payé a baissé », jamais « les architectes du bas ont perdu
+10 % de leur revenu ».
 Aucune promesse de faire changer quelqu'un de quartile.

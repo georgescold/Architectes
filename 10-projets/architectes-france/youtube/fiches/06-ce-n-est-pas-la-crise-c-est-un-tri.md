@@ -6,8 +6,8 @@
 ## LA BIG IDEA
 
 Une crise frappe tout le monde. Un tri sépare. Or les deux extrémités de la profession ne
-vont pas dans le même sens : le premier quartile de revenus a perdu 10 % en deux ans
-pendant que le troisième montait, et l'écart entre les deux est passé de 4,2 à 4,5.
+vivent pas la même chose : le seuil du premier quartile a perdu 10 % depuis 2020 pendant que
+le troisième restait stable, et l'écart entre les deux est passé de 4,2 à 4,5.
 
 Ce n'est donc pas une conjoncture. Et la distinction n'est pas sémantique : dans une crise,
 attendre est raisonnable. Dans un tri, attendre est une position — celle de ceux qui
@@ -90,15 +90,16 @@ et demi.
 
 Ch.5 · Pourquoi ce n'est pas une crise
 
-L'idée : les deux extrémités de la profession vont dans des directions opposées. Une crise
-ne fait jamais ça.
+L'idée : le bas de la profession décroche pendant que le haut tient. Une crise ne fait pas
+ça : elle fait baisser tout le monde.
 
-En clair : le quart le moins payé a perdu 10 % de revenu en deux ans pendant que le quart le
-mieux payé progressait. L'écart entre les deux est passé de 4,2 à 4,5 — autrement dit, le
+En clair : le seuil du quart le moins payé a baissé de 10 % entre 2020 et 2022, pendant que
+celui du quart le mieux payé restait stable, autour de 59 000 euros. L'écart entre les deux est passé de 4,2 à 4,5 — autrement dit, le
 mieux payé gagne maintenant 4,5 fois ce que gagne le moins payé, contre 4,2 avant. C'est la
 démonstration factuelle de l'épisode.
 
-À l'écran : le graphique des quartiles, deux flèches opposées, « 4,2 → 4,5 ».
+À l'écran : le graphique des quartiles, la ligne du haut à plat et celle du bas qui
+descend depuis 2020, puis « 4,2 → 4,5 ».
 Lien : https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
 
@@ -159,7 +160,7 @@ Lien : https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13
 Quartile. Si on range tous les architectes du moins payé au mieux payé, le premier quartile
 est la limite en dessous de laquelle se trouve le quart le moins bien payé, et le troisième
 quartile la limite au-dessus de laquelle se trouve le quart le mieux payé. C'est l'outil qui
-permet de montrer que les deux extrémités bougent en sens opposé. Redonne la définition en
+permet de montrer que le bas décroche pendant que le haut tient. Redonne la définition en
 une phrase au chapitre 5 : personne ne l'a en tête.
 
 Prescripteur. Quelqu'un qui envoie des clients sans être payé pour ça : notaire, agent
@@ -220,9 +221,12 @@ Une crise est un choc qui frappe l'ensemble d'un secteur. Quand le marché se co
 gros comme les petits encaissent, et la reprise profite à tous. Dans une crise, attendre est
 rationnel.
 
-Or les données de la CIPAV montrent autre chose. Entre 2019 et 2022, le premier quartile de
-revenus a baissé de 10 % pendant que le troisième montait, et le rapport entre les deux est
-passé de 4,2 à 4,5.
+Or les données de la CIPAV montrent autre chose. Depuis son pic de 2020, le seuil du premier
+quartile a baissé de 10 %, pendant que le troisième restait stable. Et le rapport entre les
+deux est passé de 4,2 en 2019 à 4,5 en 2022.
+
+⚠️ Attention aux périodes : les 10 % se mesurent depuis 2020. Depuis 2019, la baisse n'est
+que de 5 %.
 https://www.architectes.org/sites/cnoa/files/2025-04/ARCHIGRAPHIE-2024_13decembre_WEB_0.pdf
 
 Un phénomène qui écarte les deux extrémités n'est pas un choc commun. C'est un tri : les
@@ -283,7 +287,7 @@ sur la presse citée comme presse.
 
 « Tout le monde souffre, y compris les gros. »
 Les données CIPAV disent le contraire sur le champ des libéraux et associés non salariés :
-le troisième quartile progresse pendant que le premier recule.
+le premier quartile recule pendant que le troisième reste stable.
 
 « Un chiffre régional ne prouve rien. »
 Exact, c'est pour ça que je le présente comme régional. Il illustre, il ne démontre pas.
@@ -357,8 +361,8 @@ mois. »
 À faire comprendre : la démonstration par les quartiles, qui est le cœur factuel.
 
 Exemple de formulation :
-« Maintenant le chiffre qui tranche. Entre 2019 et 2022, le premier quartile de revenus a
-perdu 10 %. Le troisième, lui, est monté. Et le rapport entre les deux est passé de 4,2 à
+« Maintenant le chiffre qui tranche. Depuis 2020, le seuil du premier quartile de revenus a
+perdu 10 %. Le troisième, lui, n'a pas bougé. Et le rapport entre les deux est passé de 4,2 à
 4,5.
 
 Si c'était la conjoncture, les deux extrémités baisseraient ensemble. Un phénomène qui
@@ -460,8 +464,8 @@ Miniature : deux courbes qui divergent. Texte « TRI » en très gros. Visage à
 
 ```
 Une crise frappe tout le monde. Un tri sépare. Dans la profession, le premier quartile de
-revenus a perdu 10 % en deux ans pendant que le troisième montait — le rapport entre les
-deux est passé de 4,2 à 4,5. Ce n'est pas le profil d'une crise.
+revenus a perdu 10 % depuis 2020 pendant que le troisième restait stable — le rapport entre
+les deux est passé de 4,2 à 4,5. Ce n'est pas le profil d'une crise.
 
 Chiffres CIPAV 2022, publiés par l'Ordre des architectes. Les données nationales de
 défaillances du secteur ne sont pas disponibles en accès libre : je le dis dans la vidéo.
