@@ -160,6 +160,14 @@ Les chiffres d'Archigraphie, relus au graphique 19 : premier quartile 14 753 €
 troisième et le premier quartile : 4,2 en 2019, 4,5 en 2022. La baisse de 10 % se mesure
 depuis le pic de 2020 — depuis 2019, elle n'est que de 5 %.
 
+Dispersion des revenus. Le terme statistique pour dire à quel point les revenus sont
+éloignés les uns des autres. L'Insee l'emploie, et la mesure le plus souvent par le rapport
+entre le 9e et le 1er décile (D9/D1). Archigraphie la mesure par le rapport entre le
+troisième et le premier quartile : 4,2 en 2019, 4,5 en 2022. Terme exact, mais de
+statisticien : à l'oral, dire « l'écart entre ceux qui gagnent le plus et ceux qui gagnent le
+moins », ou le définir une fois. Archigraphie parle aussi d'« inégalités de revenus ».
+https://www.insee.fr/fr/metadonnees/definition/c1080
+
 Le contract. Le nom que le secteur de l'ameublement donne au marché professionnel : hôtels,
 restaurants, commerces, bureaux, par opposition au meuble vendu aux particuliers. À éviter
 à l'oral, personne ne le comprend hors du métier.
