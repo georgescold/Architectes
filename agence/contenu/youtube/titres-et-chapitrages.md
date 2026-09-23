@@ -2,15 +2,15 @@
 
 > **Remplace [`planning-20-videos.md`](planning-20-videos.md)**, qui s'appuyait sur
 > l'exclusivité départementale et le prix de 1 000 € — deux éléments retirés par
-> [`offre-actuelle.md`](../strategie/offre-actuelle.md).
+> [`offre-actuelle.md`](../../offre/offre-actuelle.md).
 >
 > **Sources de cadrage :**
-> [`offre-actuelle.md`](../strategie/offre-actuelle.md) (999 €, garantie, essai) ·
-> [`cible-avatar.md`](../strategie/cible-avatar.md) (les 4 situations, la manière de parler) ·
-> [`marche-et-cible.md`](../strategie/marche-et-cible.md) (chiffres, vérités, déclencheurs) ·
-> [`benchmark-annonceurs.md`](../strategie/benchmark-annonceurs.md) (preuves Meta) ·
-> [`03-marketing-copy/structure-ceo.md`](../../../03-marketing-copy/structure-ceo.md) (les 11 blocs) ·
-> [`02-acquisition/youtube.md`](../../../02-acquisition/youtube.md) (hook, titres, miniatures, watch time).
+> [`offre-actuelle.md`](../../offre/offre-actuelle.md) (999 €, garantie, essai) ·
+> [`cible-avatar.md`](../../cible/cible-avatar.md) (les 4 situations, la manière de parler) ·
+> [`marche-et-cible.md`](../../marche/marche-et-cible.md) (chiffres, vérités, déclencheurs) ·
+> [`benchmark-annonceurs.md`](../../acquisition/pub/benchmark-annonceurs.md) (preuves Meta) ·
+> [`03-marketing-copy/structure-ceo.md`](../../../base-valere/03-marketing-copy/structure-ceo.md) (les 11 blocs) ·
+> [`02-acquisition/youtube.md`](../../../base-valere/02-acquisition/youtube.md) (hook, titres, miniatures, watch time).
 >
 > **Modèle de titres :** chaîne *Franck Marc | Affiliation* (@franckaffiliation,
 > 1,42 k abonnés, 52 vidéos), relevée le 16/09/2026.
@@ -45,7 +45,7 @@ Rien de joli. **Le texte de la miniature ne redit jamais le titre.**
 
 Franck vend de l'affiliation à des gens qui veulent un revenu. **Nous vendons à des
 professionnels diplômés, en crise, qui se font déjà mépriser par leurs clients.**
-Trois interdits qui découlent de [`cible-avatar.md`](../strategie/cible-avatar.md) § *Manière de parler* :
+Trois interdits qui découlent de [`cible-avatar.md`](../../cible/cible-avatar.md) § *Manière de parler* :
 
 - ❌ **« ou t'es mort », « même avec 60 de QI »** → chez un architecte dont le confrère
   vient d'être liquidé, l'humour d'ultimatum passe pour de la moquerie. On garde la
@@ -64,8 +64,8 @@ Trois interdits qui découlent de [`cible-avatar.md`](../strategie/cible-avatar.
 
 ## 2. Le chapitrage type — structure CEO adaptée à YouTube
 
-Les 11 blocs de [`structure-ceo.md`](../../../03-marketing-copy/structure-ceo.md), pliés aux
-contraintes de watch time de [`youtube.md`](../../../02-acquisition/youtube.md).
+Les 11 blocs de [`structure-ceo.md`](../../../base-valere/03-marketing-copy/structure-ceo.md), pliés aux
+contraintes de watch time de [`youtube.md`](../../../base-valere/02-acquisition/youtube.md).
 **Toutes les vidéos ci-dessous suivent ce squelette**, seule la durée des blocs varie.
 
 ```
@@ -98,7 +98,7 @@ Chaque bloc : **titre** · **miniature** (texte seul, jamais celui du titre) ·
 **la grande idée** (l'hypothèse narrative qui porte la vidéo) · **le chapitrage**.
 
 🅐 architecte DE · 🅑 architecte d'intérieur · 🅐🅑 les deux
-Les 4 situations de [`cible-avatar.md`](../strategie/cible-avatar.md) sont notées
+Les 4 situations de [`cible-avatar.md`](../../cible/cible-avatar.md) sont notées
 **S1** installation récente · **S2** dépendant du bouche-à-oreille ·
 **S3** beaux contenus sans conversations · **S4** équipe de 2 à 5.
 
@@ -220,7 +220,7 @@ personne ne les identifie sont deux métiers différents.*
 | 14:00 | Outro → **vidéo 1** (les chiffres) |
 
 > ⚠️ **Vidéo à fort potentiel d'outlier : personne d'autre ne détient ce corpus.**
-> Il est dans [`recherche/`](../recherche/README.md). Ne jamais gonfler le chiffre.
+> Il est dans [`recherche/`](../../marche/recherche/README.md). Ne jamais gonfler le chiffre.
 
 ---
 
@@ -288,7 +288,7 @@ celui qu'on trouve en premier.*
 
 > ⚠️ **La vidéo la plus délicate de la liste.** Ton d'allié, jamais de donneur de leçons.
 > Vérifier chaque point juridique. Ne citer aucun chiffre de population du métier :
-> il n'est pas sourçable ([`marche-et-cible.md`](../strategie/marche-et-cible.md) § 5).
+> il n'est pas sourçable ([`marche-et-cible.md`](../../marche/marche-et-cible.md) § 5).
 
 ### 10. 🅐🅑 S2 · « Les architectes en ont marre de racheter leurs propres clients »
 **Miniature :** un même contact dupliqué ×4 · `vendu 4 fois`
@@ -330,7 +330,7 @@ pas une opinion — c'est consultable publiquement en dix minutes, et je montre 
 | 12:00 | ★ Le guide |
 | 14:00 | Outro → **vidéo 12** |
 
-> Sourcé sur [`benchmark-annonceurs.md`](../strategie/benchmark-annonceurs.md).
+> Sourcé sur [`benchmark-annonceurs.md`](../../acquisition/pub/benchmark-annonceurs.md).
 > On cite des faits publics et horodatés. **Aucun commentaire de valeur sur la qualité
 > du travail d'un confrère** — art. 17 à 19.
 
@@ -456,7 +456,7 @@ Dès que vous raisonnez en coût par signature, c'est une ligne de compte de ré
 | 14:00 | Outro → **vidéo 20** |
 
 > ⚠️ Dire explicitement qu'**une opportunité n'est pas un contrat signé**, et que le
-> budget publicitaire est distinct. C'est écrit dans [`offre-actuelle.md`](../strategie/offre-actuelle.md)
+> budget publicitaire est distinct. C'est écrit dans [`offre-actuelle.md`](../../offre/offre-actuelle.md)
 > et le cacher détruit la relation au premier mois.
 
 ### 18. 🅐🅑 S4 · « L'acquisition d'un cabinet repose sur 4 PILIERS (et vous n'en avez qu'un) »

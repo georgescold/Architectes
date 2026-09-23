@@ -67,12 +67,12 @@ youtube/
 └── pdf/                   ← les 20 PDF prêts à imprimer / lire au tournage
 ```
 
-Documents de cadrage : [`offre-actuelle.md`](../strategie/offre-actuelle.md) ·
-[`cible-avatar.md`](../strategie/cible-avatar.md) · [`marche-et-cible.md`](../strategie/marche-et-cible.md) ·
-[`benchmark-annonceurs.md`](../strategie/benchmark-annonceurs.md) ·
+Documents de cadrage : [`offre-actuelle.md`](../../offre/offre-actuelle.md) ·
+[`cible-avatar.md`](../../cible/cible-avatar.md) · [`marche-et-cible.md`](../../marche/marche-et-cible.md) ·
+[`benchmark-annonceurs.md`](../../acquisition/pub/benchmark-annonceurs.md) ·
 [`titres-et-chapitrages.md`](titres-et-chapitrages.md) (les 20 sujets,
-version courte) · [`structure-ceo.md`](../../../03-marketing-copy/structure-ceo.md) ·
-[`youtube.md`](../../../02-acquisition/youtube.md).
+version courte) · [`structure-ceo.md`](../../../base-valere/03-marketing-copy/structure-ceo.md) ·
+[`youtube.md`](../../../base-valere/02-acquisition/youtube.md).
 
 ---
 
@@ -389,8 +389,8 @@ l'intro dynamique suivie d'un corps plat. Une open loop toutes les ~3 minutes.
 | Un CTA vers le site à la fin | Fait sortir de YouTube, coûte du watch time |
 | Nommer un confrère négativement, comparer deux cabinets | **Article 17** du code de déontologie (confraternité). ⚠️ Ne vise que les **confrères** : un constructeur de maisons ou une plateforme n'en est pas un |
 | Avancer un chiffre ou une promesse qu'on ne peut pas prouver | Pratique commerciale trompeuse, **L. 121-2** du code de la consommation. Peines **L. 132-2** : 5 ans et 750 000 € quand c'est en ligne. C'est la limite la plus sérieuse de toute la chaîne |
-| Citer un résultat client non documenté | [`cible-avatar.md`](../strategie/cible-avatar.md) |
-| Dire « 1 000 € » | C'est **999 €** — [`offre-actuelle.md`](../strategie/offre-actuelle.md) |
+| Citer un résultat client non documenté | [`cible-avatar.md`](../../cible/cible-avatar.md) |
+| Dire « 1 000 € » | C'est **999 €** — [`offre-actuelle.md`](../../offre/offre-actuelle.md) |
 | Promettre l'exclusivité départementale | Retirée des engagements publics |
 | Annoncer un nombre d'architectes d'intérieur | Non sourçable |
 | Une vanne de type « même avec 60 de QI » | Chez un architecte dont le confrère vient d'être liquidé, ça passe pour de la moquerie |
@@ -468,7 +468,7 @@ n'est **pas** la miniature : c'est le hook et la voix.
 ## 6. Régénérer les PDF
 
 ```bash
-cd 10-projets/architectes-france/youtube
+cd agence/contenu/youtube
 python build.py          # les 20
 python build.py 07 13    # seulement ces épisodes
 ```

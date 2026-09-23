@@ -740,7 +740,7 @@ lire la source, jamais son résumé.
 ## 7 bis. LE B2B DE L'AMÉNAGEMENT — CE QUI EST VRAI (relevé du 17/09/2026)
 
 Vérifié parce que l'EP01 reposait dessus. Détail complet dans
-strategie/marche-b2b-amenagement.md
+agence/marche/marche-b2b-amenagement.md
 
 Il est FAUX de dire que personne n'offre de conception gratuite sur le professionnel.
 METRO met à disposition Roomplanner, logiciel de plan 2D/3D « totalement gratuit » pour la
@@ -904,8 +904,8 @@ C'est le meilleur acheteur du backend.
 
 ## 9 bis. LES SEGMENTS DE MARCHÉ — où l'architecte a un terrain à lui
 
-Relevé du 21/09/2026, détail et sources dans strategie/segments-opportunites.md et
-strategie/reglementations-locales.md.
+Relevé du 21/09/2026, détail et sources dans agence/marche/segments-opportunites.md et
+agence/marche/reglementations-locales.md.
 
 La logique commune : une obligation, une échéance ou une aide force quelqu'un à faire des
 travaux ; une contrainte que le catalogue d'un constructeur ou le plan gratuit d'une enseigne

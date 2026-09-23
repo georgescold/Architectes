@@ -1,15 +1,15 @@
 # Le site Essort — carte du dépôt
 
 Le site a son **propre dépôt git** : [`Enzdo/essort`](https://github.com/Enzdo/essort).
-Il est cloné dans `10-projets/architectes-france/site/` et **ignoré** par le dépôt
-Process (voir `.gitignore` à la racine). Conséquence pratique :
+Il est cloné dans `agence/site/` et **ignoré** par le dépôt de l'agence
+(voir `.gitignore` à la racine). Conséquence pratique :
 
 - on lit la base de connaissance et le code du site dans la même session ;
 - les commits du site se font **dans** `site/`, sur son remote à lui ;
 - un `git add -A` à la racine n'embarque jamais le site.
 
 ```bash
-cd "10-projets/architectes-france/site" && git pull
+cd agence/site && git pull
 ```
 
 ## Ce que c'est

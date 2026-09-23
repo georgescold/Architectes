@@ -1,6 +1,6 @@
 # Données brutes de la recherche marché — 16/09/2026
 
-Corpus collecté pour [`marche-et-cible.md`](../strategie/marche-et-cible.md).
+Corpus collecté pour [`marche-et-cible.md`](../marche-et-cible.md).
 **Ce sont des sources brutes, pas la base de connaissance.** On n'y répond jamais
 directement : on cite le document d'analyse, qui est vérifié et sourcé.
 

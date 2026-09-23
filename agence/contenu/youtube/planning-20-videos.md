@@ -1,8 +1,8 @@
 # 20 vidéos YouTube — architectes & architectes d'intérieur
 
-> Dérivé de [`marche-et-cible.md`](../strategie/marche-et-cible.md) (§ 8 vérités refusées,
+> Dérivé de [`marche-et-cible.md`](../../marche/marche-et-cible.md) (§ 8 vérités refusées,
 > § 10 déclencheurs, § 13 paysage YouTube, § 15 interdits) et de
-> [`02-acquisition/youtube.md`](../../../02-acquisition/youtube.md) (titres, miniatures,
+> [`02-acquisition/youtube.md`](../../../base-valere/02-acquisition/youtube.md) (titres, miniatures,
 > hook, biais de négativité, session watch time).
 
 ## Les 6 règles appliquées à chaque idée

@@ -180,15 +180,15 @@ avatar, payer sa communauté en affiliation.
 | Doc de travail Avatar + Offre | `07-templates/doc-travail-avatar-offre.md` |
 | Livres, outils, fournisseurs, marchés | `02-acquisition/ressources-fournisseurs.md` |
 
-## Je travaille sur le projet Essort
+## Je travaille sur l'agence Essort
 | Référence | Fichier |
 |---|---|
-| Point d’entrée actuel | `10-projets/architectes-france/README.md` |
-| Offre Meta 999 € et accompagnement global sur mesure | `10-projets/architectes-france/strategie/offre-actuelle.md` |
-| Cible et avatar, indépendants et équipes 1–5 | `10-projets/architectes-france/strategie/cible-avatar.md` |
-| Recherche marché détaillée | `10-projets/architectes-france/strategie/marche-et-cible.md` |
-| Lead magnet final, 57 pages | `10-projets/architectes-france/leadmagnet/guide-acquisition-marketing-architectes-2026.pdf` |
-| VSL V11 et fichiers de lecture | `10-projets/architectes-france/vsl/v11/LIRE-MOI-V11.md` |
+| Point d’entrée de l'agence | [`agence/README.md`](../agence/README.md) |
+| Offre actuelle | [`agence/offre/offre-actuelle.md`](../agence/offre/offre-actuelle.md) |
+| Cible et avatar, indépendants et équipes 1–5 | [`agence/cible/cible-avatar.md`](../agence/cible/cible-avatar.md) |
+| Recherche marché détaillée | [`agence/marche/marche-et-cible.md`](../agence/marche/marche-et-cible.md) |
+| Lead magnet final, 57 pages | [`agence/acquisition/leadmagnet/`](../agence/acquisition/leadmagnet/README.md) |
+| VSL V11 et fichiers de lecture | [`agence/acquisition/vsl/`](../agence/acquisition/vsl/README.md) |
 
 ---
 

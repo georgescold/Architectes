@@ -6,8 +6,8 @@ d’intérieur — 2026.**
 - [`guide-acquisition-marketing-architectes-2026.pdf`](guide-acquisition-marketing-architectes-2026.pdf) : PDF final de 57 pages.
 - [`tierlist-acquisition-architectes-2026.png`](tierlist-acquisition-architectes-2026.png) : tier list utilisée dans la conclusion.
 - `texte-reference.txt` : texte extrait du PDF pour rechercher rapidement un passage ; ce n’est pas le fichier de composition.
-- [`references/crm-notes.md`](references/crm-notes.md) : vérifications et limites de la démonstration CRM.
-- `references/crm-essort/` : clone local du CRM utilisé pour préparer les captures du guide ; dépôt Git séparé, non intégré à la base principale.
+- [`crm.md`](../../crm.md) : vérifications et limites de la démonstration CRM utilisée pour les captures du guide.
+- [`crm/`](../../crm/) : le CRM Essort (dépôt Git séparé `Enzdo/crm`), qui contient la route `/demo` des captures.
 
 Le dossier source de mise en page n’était plus présent lors du dernier nettoyage.
 Le PDF constitue donc la référence visuelle et éditoriale. Une prochaine refonte

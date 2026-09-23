@@ -1,4 +1,4 @@
-# CRM : provenance, démo et limites de vérification
+# Le CRM Essort — provenance, démo et limites de vérification
 
 Inspecté le 15 septembre 2026. Dépôt fourni par l'utilisateur : https://github.com/Enzdo/crm.git
 Commit cloné : `207f026d4ee1d8b7ce78ee561cacdfb9ff5e3635`.
@@ -19,7 +19,7 @@ Fichiers de référence : `components/leads/*`, `lib/queries/leads.ts`, `lib/act
 
 ## Démonstration locale
 
-Clone de référence : `10-projets/architectes-france/leadmagnet/references/crm-essort`.
+Clone : `agence/crm/` — dépôt Git séparé (`Enzdo/crm`), ignoré par le dépôt de l'agence. Ses commits se font dans ce dossier, sur son propre remote.
 Serveur Next local : `http://127.0.0.1:3199` ; session exec actuelle 30500 (redémarrage après ajustement des polices).
 
 - Tableau : http://127.0.0.1:3199/demo

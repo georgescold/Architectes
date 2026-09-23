@@ -1,4 +1,54 @@
-# Process Infoproduit — Base de connaissance
+# Essort — le dossier de l'agence
+
+## Ce que c'est
+
+**Essort** est une agence d'acquisition. Elle gère la publicité Facebook et Instagram
+(Meta) des **architectes et architectes d'intérieur** indépendants ou en petites équipes,
+pour leur faire venir des demandes de projets. Loys n'est pas architecte : il fait de
+l'acquisition pour des cabinets d'architecture — ni en dessous, ni en confrère.
+
+Ce dossier contient tout ce qui fait tourner l'agence (`agence/`) et la méthode dont
+elle se sert (`base-valere/`).
+
+## Carte
+
+| Dossier | Contenu |
+|---|---|
+| `agence/offre/` | L'offre actuelle. **Fait foi** pour le prix, le périmètre, la garantie et l'essai — ne jamais citer un prix de mémoire |
+| `agence/cible/` | Cible, avatar, personas. **Fait foi** pour la manière de parler aux cabinets |
+| `agence/marche/` | Le marché : chiffres (Archigraphie), B2B de l'aménagement, segments, réglementations locales, corpus de recherche |
+| `agence/acquisition/` | `pub/` (angles, benchmark des annonceurs, preuves Meta, montages) · `vsl/` · `leadmagnet/` (le guide gratuit) |
+| `agence/contenu/youtube/` | La chaîne « Essort Architectes » : 20 fiches, connaissance métier, planning |
+| `agence/emailing/` | La séquence de 12 mois après le guide, et les séquences par profil |
+| `agence/prospection/` | Prospection sortante : signaux, règles, test Gironde. Listes nominatives dans `listes/`, hors Git |
+| `agence/site/` · `agence/site.md` | Le site essort.agency — dépôt séparé `Enzdo/essort` |
+| `agence/crm/` · `agence/crm.md` | Le CRM Essort — dépôt séparé `Enzdo/crm` |
+| `base-valere/` | La méthode Business OS — voir la seconde partie de ce fichier |
+
+## Où chercher
+
+- **L'offre, un prix, la garantie** → `agence/offre/offre-actuelle.md`
+- **À qui on parle, comment** → `agence/cible/cible-avatar.md`
+- **Un chiffre du marché, un argument** → `agence/marche/` puis `agence/contenu/youtube/connaissance-metier.md`
+- **Une pub, un angle, un concurrent** → `agence/acquisition/pub/`
+- **Un épisode YouTube** → `agence/contenu/youtube/README.md`
+- **Trouver et contacter des cabinets** → `agence/prospection/prospection-sortante.md`
+- **Le site ou le CRM** → `agence/site.md`, `agence/crm.md`
+- **La méthode (copy, funnel, closing, scaling)** → `base-valere/`, avec les règles ci-dessous
+
+## Règles de l'agence
+
+1. **Ce dépôt est public** (`georgescold/Architectes`). Jamais de liste de prospects,
+   d'export de profils, de clé ou de donnée client dans un fichier versionné.
+2. **Trois dépôts Git** : ce dossier, `agence/site/` et `agence/crm/`. Les deux derniers
+   sont ignorés ici ; leurs commits se font dans leur propre dossier. Pousser le site
+   déclenche un déploiement en production : demander avant.
+3. **Tout ce qui est affirmé en public est vérifié à la source** : chiffres, lois, liens.
+4. **Le contenu sert à avoir des clients.**
+
+---
+
+# La méthode — base Valère (`base-valere/`)
 
 ## Ce que c'est
 
@@ -10,7 +60,7 @@ bases », les 27 lives, l'Atelier Organique, les Marketing Tips, les bonus membr
 annuel et les 13 sessions de Q&A. Un praticien qui a spend 5-6M€ sur ses propres
 funnels et dépassé 100M€ de CA sur un business.
 
-⚠️ Le dossier `transcript business os/` contient les **sources brutes non traitées**
+⚠️ Le dossier `base-valere/transcript business os/` contient les **sources brutes non traitées**
 (195 fichiers, ~888 000 mots de transcription automatique). Il est versionné pour
 archive, mais ce n'est **pas** la base de connaissance :
 
@@ -21,43 +71,43 @@ archive, mais ce n'est **pas** la base de connaissance :
 - ✅ N'y revenir que pour vérifier une citation ou ingérer un passage manqué — et
   vérifier d'abord qu'il n'est pas déjà dans la base.
 
-Voir `transcript business os/README.md`.
+Voir `base-valere/transcript business os/README.md`.
 
 ## Comment répondre aux questions
 
 1. **Toujours répondre en français**, ton direct, pas de langue de bois.
 2. **Chercher d'abord dans les fichiers de ce dossier** avant de répondre de mémoire.
    La connaissance ici prime sur les généralités marketing.
-3. Si la question porte sur **un process** → `06-process/PROCESS-MAITRE.md`
+3. Si la question porte sur **un process** → `base-valere/06-process/PROCESS-MAITRE.md`
    → pour **écrire** un process (déléguer, automatiser, sortir le fondateur de la
-   boucle) : `06-process/creer-un-process.md`
-4. Si la question porte sur **du copy à écrire** → `03-marketing-copy/` + `07-templates/`
-   → pour **auditer un texte déjà écrit** : `03-marketing-copy/10-questions.md`
-   → pour **produire des VSL en série** (SOP, mécanisme unique) : `03-marketing-copy/vsl-sop-production.md`
-5. Si la question porte sur **de la pub** → `02-acquisition/`
-   → **créatives image / statiques** : `02-acquisition/creatives-statiques.md`
-   → **YouTube organique** (scripts, titres, miniatures, voix) : `02-acquisition/youtube.md`
-   → **devenir affilié / media buyer pour d'autres** : `02-acquisition/affiliation.md` § Partie 2
-6. Si on demande **"optimise mon funnel"** → `05-funnel/optimisation-checklist.md`
-   → si on demande **"audite ma page / ma VSL / ma créative"** → `05-funnel/teardowns.md`
-   → pour des **modèles de funnels qui tournent** : `05-funnel/funnels-gagnants.md`
-   → pour les **upsells / OTO** : `05-funnel/upsells.md`
-7. Si la question porte sur **le scaling / l'équipe / la structure** → `08-scaling/`
-   → **recruter** (qui, dans quel ordre, quelles questions) : `08-scaling/recrutement.md`
-   → **délivrer et faire monter la LTV** (CSM, back-end) : `08-scaling/delivrabilite-csm.md`
-   → **productivité / dopamine / deep work** : `08-scaling/productivite.md`
+   boucle) : `base-valere/06-process/creer-un-process.md`
+4. Si la question porte sur **du copy à écrire** → `base-valere/03-marketing-copy/` + `base-valere/07-templates/`
+   → pour **auditer un texte déjà écrit** : `base-valere/03-marketing-copy/10-questions.md`
+   → pour **produire des VSL en série** (SOP, mécanisme unique) : `base-valere/03-marketing-copy/vsl-sop-production.md`
+5. Si la question porte sur **de la pub** → `base-valere/02-acquisition/`
+   → **créatives image / statiques** : `base-valere/02-acquisition/creatives-statiques.md`
+   → **YouTube organique** (scripts, titres, miniatures, voix) : `base-valere/02-acquisition/youtube.md`
+   → **devenir affilié / media buyer pour d'autres** : `base-valere/02-acquisition/affiliation.md` § Partie 2
+6. Si on demande **"optimise mon funnel"** → `base-valere/05-funnel/optimisation-checklist.md`
+   → si on demande **"audite ma page / ma VSL / ma créative"** → `base-valere/05-funnel/teardowns.md`
+   → pour des **modèles de funnels qui tournent** : `base-valere/05-funnel/funnels-gagnants.md`
+   → pour les **upsells / OTO** : `base-valere/05-funnel/upsells.md`
+7. Si la question porte sur **le scaling / l'équipe / la structure** → `base-valere/08-scaling/`
+   → **recruter** (qui, dans quel ordre, quelles questions) : `base-valere/08-scaling/recrutement.md`
+   → **délivrer et faire monter la LTV** (CSM, back-end) : `base-valere/08-scaling/delivrabilite-csm.md`
+   → **productivité / dopamine / deep work** : `base-valere/08-scaling/productivite.md`
 8. Si la question porte sur **la vente par appel** (closing téléphonique, high
-   ticket, objections, setting, closers) → `10-closing/`
-   → pour **construire et scaler** le funnel qui remplit l'agenda : `10-closing/call-funnel.md`
+   ticket, objections, setting, closers) → `base-valere/10-closing/`
+   → pour **construire et scaler** le funnel qui remplit l'agenda : `base-valere/10-closing/call-funnel.md`
    ⚠️ Ne jamais confondre avec le « closing » d'une VSL (= la fin du texte de
-   vente) qui est dans `03-marketing-copy/vsl.md`
-9. **Avant de répondre à toute question fermée** ("est-ce que je dois…", "low ou high ticket", "quel budget") → vérifier `09-faq/arbitrages.md`, la réponse y est peut-être déjà tranchée
+   vente) qui est dans `base-valere/03-marketing-copy/vsl.md`
+9. **Avant de répondre à toute question fermée** ("est-ce que je dois…", "low ou high ticket", "quel budget") → vérifier `base-valere/09-faq/arbitrages.md`, la réponse y est peut-être déjà tranchée
 10. Si la question porte sur **comment Valère pense / raisonne / décide** (arbitrages
-   de vie, apprentissage, niveaux, priorités) → `01-principes/modele-mental.md`
+   de vie, apprentissage, niveaux, priorités) → `base-valere/01-principes/modele-mental.md`
 11. Si la question porte sur **un lancement** (organique, sans pub) →
-   `06-process/lancement-organique.md`
+   `base-valere/06-process/lancement-organique.md`
 12. Si la question porte sur **le low ticket vers le high ticket** →
-   `04-produit/low-to-high-ticket.md`
+   `base-valere/04-produit/low-to-high-ticket.md`
 
 ## Les 4 lois non négociables
 
@@ -67,30 +117,30 @@ Ces règles écrasent toute autre considération. Si une réponse les viole, ell
    Message = marketing. Personne = acquisition. Moment = timing marché.
 2. **Objectif unique : LTV ↑ , CPA ↓.** Toute tâche qui ne sert ni l'un ni l'autre
    n'a rien à faire dans la journée.
-   → Les leviers : `01-principes/strategie-unique.md`
+   → Les leviers : `base-valere/01-principes/strategie-unique.md`
 3. **La structure CEO (Blair Warren) est dans TOUT** : VSL, ads, emails, closing,
-   séquences. Voir `03-marketing-copy/structure-ceo.md`.
+   séquences. Voir `base-valere/03-marketing-copy/structure-ceo.md`.
 4. **On vend un résultat + de l'urgence. Jamais un produit.**
    Marketing = ce que le marché *veut*. Produit = ce dont il *a besoin*.
 
-## Carte du dossier
+## Carte de la base
 
 54 fichiers, ~131 000 mots.
 
 | Dossier | Contenu |
 |---|---|
-| `01-principes/` | Principes premiers, équation du business (+ **le tableau de cohorte LTV**), **stratégie unique & leviers LTV/CAC**, ⭐ **modèle mental** (comment il pense) |
-| `02-acquisition/` | Facebook Ads, Facebook vs YouTube, setup anti-ban, organique, ⭐ **YouTube de A à Z**, ⭐ **créatives statiques**, ⭐ **affiliation (annonceur ET affilié)**, fournisseurs |
-| `03-marketing-copy/` | Biais cognitifs, structure CEO, **headline/hook/big idea**, VSL, ⭐ **SOP de production de VSL**, leads, body, **10 questions & One Belief**, **27 outils de closing**, créatives, emailing (+ **atelier mail de A à Z**), avatar & offre |
-| `04-produit/` | Philosophie produit, MVP, formats DFY/DWY/DIY, pricing, ⭐ **low → high ticket** |
-| `05-funnel/` | Anatomie du funnel, **6 structures de landing page**, checklist d'optimisation, **teardowns commentés**, ⭐ **upsells / OTO**, ⭐ **4 funnels gagnants décortiqués**, stratégie de portefeuille |
-| `06-process/` | **PROCESS-MAITRE.md** — le pipeline complet · ⭐ **créer un process** · ⭐ **lancement organique** |
-| `07-templates/` | Scripts ads, 10 types de leads, objets email, prompts IA, docs de travail, ⭐ **8 hacks marketing applicables aujourd'hui** |
-| `08-scaling/` | Passer de 100k à 300k, ⭐ **recrutement (système complet)**, équipe & rémunération, structure, expatriation, ⭐ **CSM / délivrabilité produit**, ⭐ **creative strategist**, ⭐ **productivité** |
-| `09-faq/` | Arbitrages tranchés (~9 500 mots, 5 parties) — les questions récurrentes, déjà décidées |
-| `10-closing/` | **Vente par appel** — principes premiers, script en 16 parties, objections, garantie, setting, closers, ⭐ **construire et scaler un call funnel** |
+| `base-valere/01-principes/` | Principes premiers, équation du business (+ **le tableau de cohorte LTV**), **stratégie unique & leviers LTV/CAC**, ⭐ **modèle mental** (comment il pense) |
+| `base-valere/02-acquisition/` | Facebook Ads, Facebook vs YouTube, setup anti-ban, organique, ⭐ **YouTube de A à Z**, ⭐ **créatives statiques**, ⭐ **affiliation (annonceur ET affilié)**, fournisseurs |
+| `base-valere/03-marketing-copy/` | Biais cognitifs, structure CEO, **headline/hook/big idea**, VSL, ⭐ **SOP de production de VSL**, leads, body, **10 questions & One Belief**, **27 outils de closing**, créatives, emailing (+ **atelier mail de A à Z**), avatar & offre |
+| `base-valere/04-produit/` | Philosophie produit, MVP, formats DFY/DWY/DIY, pricing, ⭐ **low → high ticket** |
+| `base-valere/05-funnel/` | Anatomie du funnel, **6 structures de landing page**, checklist d'optimisation, **teardowns commentés**, ⭐ **upsells / OTO**, ⭐ **4 funnels gagnants décortiqués**, stratégie de portefeuille |
+| `base-valere/06-process/` | **PROCESS-MAITRE.md** — le pipeline complet · ⭐ **créer un process** · ⭐ **lancement organique** |
+| `base-valere/07-templates/` | Scripts ads, 10 types de leads, objets email, prompts IA, docs de travail, ⭐ **8 hacks marketing applicables aujourd'hui** |
+| `base-valere/08-scaling/` | Passer de 100k à 300k, ⭐ **recrutement (système complet)**, équipe & rémunération, structure, expatriation, ⭐ **CSM / délivrabilité produit**, ⭐ **creative strategist**, ⭐ **productivité** |
+| `base-valere/09-faq/` | Arbitrages tranchés (~9 500 mots, 5 parties) — les questions récurrentes, déjà décidées |
+| `base-valere/10-closing/` | **Vente par appel** — principes premiers, script en 16 parties, objections, garantie, setting, closers, ⭐ **construire et scaler un call funnel** |
 
-Point d'entrée narratif : `00-INDEX.md`
+Point d'entrée narratif : `base-valere/00-INDEX.md`
 
 ## Vocabulaire maison
 

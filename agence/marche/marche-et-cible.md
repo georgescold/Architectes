@@ -3,7 +3,7 @@
 > Document de compréhension profonde du marché. Socle de **tout** le contenu YouTube,
 > des créatives, des VSL et des scripts d'appel d'Essort.
 >
-> **Référence commerciale :** voir [offre actuelle](offre-actuelle.md) et [cible confirmée](cible-avatar.md). Gestion Meta : **999 €/mois**, budget publicitaire séparé ; accompagnement global sur mesure. Les profils ci-dessous sont des hypothèses de recherche, pas des faits établis pour chaque cabinet. Les mentions d’exclusivité départementale sont historiques et ne constituent pas un engagement actuel confirmé.
+> **Référence commerciale :** voir [offre actuelle](../offre/offre-actuelle.md) et [cible confirmée](../cible/cible-avatar.md). Gestion Meta : **999 €/mois**, budget publicitaire séparé ; accompagnement global sur mesure. Les profils ci-dessous sont des hypothèses de recherche, pas des faits établis pour chaque cabinet. Les mentions d’exclusivité départementale sont historiques et ne constituent pas un engagement actuel confirmé.
 >
 > **Méthode** — trois sources croisées :
 > 1. **Données officielles** : Archigraphie 2024-2026 (CNOA, 162 p. — données CIPAV,

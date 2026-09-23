@@ -477,7 +477,7 @@ https://www.equiphotel.com/fr-fr.html
 Ce canal est annuel et coûteux. C'est exactement ce qui laisse la place à quelqu'un qui,
 lui, peut être présent toute l'année sur un département.
 
-Détail complet du relevé : strategie/marche-b2b-amenagement.md
+Détail complet du relevé : agence/marche/marche-b2b-amenagement.md
 
 
 ## LE PIÈGE — la frontière entre les deux métiers
