@@ -1,0 +1,22 @@
+Bonjour [prénom],
+
+Dans le précédent mail, nous expliquions qu’un nouveau site n’est pas toujours nécessaire pour recevoir des demandes. Mais comment savoir si celles qui arrivent correspondent à votre cabinet ?
+
+Prenons un exemple : vous souhaitez développer la rénovation complète d’appartements. Pourtant, plusieurs personnes vous contactent uniquement pour choisir la décoration d’une pièce.
+
+Avant d’augmenter le budget, nous regardons ce qui a pu créer ce décalage.
+
+Si l’annonce dit seulement « Repensez votre intérieur », elle laisse imaginer des prestations très différentes. Nous pouvons préciser « Vous envisagez la rénovation complète de votre appartement ? » et ajouter une question sur l’étendue des travaux dans le formulaire.
+
+L’idée est simple : aider le propriétaire à comprendre, avant de vous contacter, si votre cabinet correspond à son projet.
+
+Nous regardons ensuite les nouvelles demandes avec vos retours. Recevez-vous davantage de projets correspondant aux missions recherchées ? C’est ce qui permet de juger l’ajustement, au-delà du nombre de clics.
+
+Notre plateforme de suivi réunit les demandes et leur avancement pour garder cette lecture commune. Vous gardez le choix des projets ; nous travaillons sur la façon de les attirer.
+
+Découvrez comment nous pilotons vos campagnes : https://essort.agency/. Vous verrez ce que vous pouvez nous confier et comment vous gardez de la visibilité sur les demandes reçues.
+
+Loys et Enzo — Essort
+
+{{identite_expediteur}}
+Se désinscrire : {{lien_desinscription}}

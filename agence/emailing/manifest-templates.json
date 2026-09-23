@@ -1,0 +1,322 @@
+[
+  {
+    "id": "E01",
+    "jour": 0,
+    "objet": "Votre guide, [prénom]",
+    "apercu": "Pour faire venir les projets que vous avez envie de concevoir.",
+    "html": "html/E01.html",
+    "texte": "texte/E01.txt",
+    "image": "guide-apercu.png",
+    "cta": "Guide"
+  },
+  {
+    "id": "E02",
+    "jour": 2,
+    "objet": "Votre prochain beau projet",
+    "apercu": "Une campagne commence par ce que vous avez envie de concevoir.",
+    "html": "html/E02.html",
+    "texte": "texte/E02.txt",
+    "image": "villa-bandeau.jpg",
+    "cta": "Méthode"
+  },
+  {
+    "id": "E03",
+    "jour": 5,
+    "objet": "Au-delà du bouche-à-oreille",
+    "apercu": "Faire découvrir votre valeur avant qu’on vous recommande.",
+    "html": "html/E03.html",
+    "texte": "texte/E03.txt",
+    "image": "parcours.png",
+    "cta": "Méthode"
+  },
+  {
+    "id": "E04",
+    "jour": 9,
+    "objet": "Ce que la photo ne vend pas",
+    "apercu": "Le propriétaire voit une pièce. Aidez-le à y voir son projet.",
+    "html": "html/E04.html",
+    "texte": "texte/E04.txt",
+    "image": "interieur-bandeau.jpg",
+    "cta": "Méthode"
+  },
+  {
+    "id": "E05",
+    "jour": 14,
+    "objet": "De la pub, à votre image",
+    "apercu": "Faire connaître votre cabinet sans le transformer en enseigne promotionnelle.",
+    "html": "html/E05.html",
+    "texte": "texte/E05.txt",
+    "image": "interieur-bandeau.jpg",
+    "cta": "Méthode"
+  },
+  {
+    "id": "E06",
+    "jour": 21,
+    "objet": "Vous concevez. On diffuse.",
+    "apercu": "Ce que vous pouvez réellement nous déléguer pour 999 € par mois.",
+    "html": "html/E06.html",
+    "texte": "texte/E06.txt",
+    "image": "delegation.png",
+    "cta": "Rendez-vous"
+  },
+  {
+    "id": "E07",
+    "jour": 28,
+    "objet": "Le bon filtre",
+    "apercu": "Recevoir une demande utile, avant même le premier échange.",
+    "html": "html/E07.html",
+    "texte": "texte/E07.txt",
+    "image": "parcours.png",
+    "cta": "Méthode"
+  },
+  {
+    "id": "E08",
+    "jour": 35,
+    "objet": "Un site beau… et utile",
+    "apercu": "Votre visiteur doit savoir pourquoi vous contacter.",
+    "html": "html/E08.html",
+    "texte": "texte/E08.txt",
+    "image": "plans-bandeau.jpg",
+    "cta": "Rendez-vous"
+  },
+  {
+    "id": "E09",
+    "jour": 42,
+    "objet": "Choisir ce qu’on attire",
+    "apercu": "Une campagne ciblée ne limite pas les ambitions de votre cabinet.",
+    "html": "html/E09.html",
+    "texte": "texte/E09.txt",
+    "image": "villa-bandeau.jpg",
+    "cta": "Méthode"
+  },
+  {
+    "id": "E10",
+    "jour": 49,
+    "objet": "Tout voir, sans tout gérer",
+    "apercu": "La plateforme de suivi fait partie de ce que vous nous déléguez.",
+    "html": "html/E10.html",
+    "texte": "texte/E10.txt",
+    "image": "delegation.png",
+    "cta": "Rendez-vous"
+  },
+  {
+    "id": "E11",
+    "jour": 56,
+    "objet": "Avant « je cherche un architecte »",
+    "apercu": "Vos futurs clients ont parfois déjà le besoin, sans avoir lancé la recherche.",
+    "html": "html/E11.html",
+    "texte": "texte/E11.txt",
+    "image": "interieur-bandeau.jpg",
+    "cta": "Méthode"
+  },
+  {
+    "id": "E12",
+    "jour": 70,
+    "objet": "Google ou Instagram ?",
+    "apercu": "Le bon choix dépend du moment où vous voulez rencontrer votre futur client.",
+    "html": "html/E12.html",
+    "texte": "texte/E12.txt",
+    "image": "intentions.png",
+    "cta": "Rendez-vous"
+  },
+  {
+    "id": "E13",
+    "jour": 84,
+    "objet": "Votre agenda, dans trois mois",
+    "apercu": "La publicité et le calendrier des projets doivent se parler.",
+    "html": "html/E13.html",
+    "texte": "texte/E13.txt",
+    "image": "plans-bandeau.jpg",
+    "cta": "Rendez-vous"
+  },
+  {
+    "id": "E14",
+    "jour": 98,
+    "objet": "30 minutes pour votre cabinet",
+    "apercu": "Voici exactement ce que nous regarderons ensemble.",
+    "html": "html/E14.html",
+    "texte": "texte/E14.txt",
+    "image": "echange-bandeau.jpg",
+    "cta": "Rendez-vous"
+  },
+  {
+    "id": "E15",
+    "jour": 112,
+    "objet": "Moins cher… pour quoi ?",
+    "apercu": "Le prix d’un contact peut cacher ce qui compte vraiment.",
+    "html": "html/E15.html",
+    "texte": "texte/E15.txt",
+    "image": "parcours.png",
+    "cta": "Méthode"
+  },
+  {
+    "id": "E16",
+    "jour": 126,
+    "objet": "Sans grand portfolio",
+    "apercu": "Votre façon de concevoir peut déjà donner envie de vous rencontrer.",
+    "html": "html/E16.html",
+    "texte": "texte/E16.txt",
+    "image": "conception-bandeau.jpg",
+    "cta": "Rendez-vous"
+  },
+  {
+    "id": "E17",
+    "jour": 140,
+    "objet": "20 demandes. Et après ?",
+    "apercu": "Ce que le nombre de formulaires ne vous dit pas.",
+    "html": "html/E17.html",
+    "texte": "texte/E17.txt",
+    "image": "comparaison.png",
+    "cta": "Rendez-vous"
+  },
+  {
+    "id": "E18",
+    "jour": 154,
+    "objet": "Booster n’est pas piloter",
+    "apercu": "Une belle publication ne devient pas automatiquement une campagne de demandes.",
+    "html": "html/E18.html",
+    "texte": "texte/E18.txt",
+    "image": "parcours.png",
+    "cta": "Méthode"
+  },
+  {
+    "id": "E19",
+    "jour": 168,
+    "objet": "Déléguer, garder la main",
+    "apercu": "Votre cabinet fixe le cap. Nous gérons les campagnes.",
+    "html": "html/E19.html",
+    "texte": "texte/E19.txt",
+    "image": "delegation.png",
+    "cta": "Rendez-vous"
+  },
+  {
+    "id": "E20",
+    "jour": 182,
+    "objet": "Votre cap a-t-il changé ?",
+    "apercu": "La communication doit suivre le cabinet que vous voulez développer.",
+    "html": "html/E20.html",
+    "texte": "texte/E20.txt",
+    "image": "villa-bandeau.jpg",
+    "cta": "Rendez-vous"
+  },
+  {
+    "id": "E21",
+    "jour": 196,
+    "objet": "Publier plus ? Pas forcément.",
+    "apercu": "Avant de produire du contenu, regardez qui le découvre.",
+    "html": "html/E21.html",
+    "texte": "texte/E21.txt",
+    "image": "conception-bandeau.jpg",
+    "cta": "Méthode"
+  },
+  {
+    "id": "E22",
+    "jour": 210,
+    "objet": "Plus près, plus cohérent",
+    "apercu": "Étendre la zone n’est pas toujours la meilleure façon d’obtenir de bonnes demandes.",
+    "html": "html/E22.html",
+    "texte": "texte/E22.txt",
+    "image": "quartier-bandeau.jpg",
+    "cta": "Rendez-vous"
+  },
+  {
+    "id": "E23",
+    "jour": 224,
+    "objet": "Refaire le site peut attendre",
+    "apercu": "Un site, une campagne et un formulaire ne règlent pas le même problème.",
+    "html": "html/E23.html",
+    "texte": "texte/E23.txt",
+    "image": "plans-bandeau.jpg",
+    "cta": "Rendez-vous"
+  },
+  {
+    "id": "E24",
+    "jour": 238,
+    "objet": "Pourquoi ces demandes ?",
+    "apercu": "Un exemple pour comprendre ce que nous ajustons dans vos campagnes.",
+    "html": "html/E24.html",
+    "texte": "texte/E24.txt",
+    "image": "ajustement.png",
+    "cta": "Méthode"
+  },
+  {
+    "id": "E25",
+    "jour": 252,
+    "objet": "7 jours pour voir comment on travaille",
+    "apercu": "Tester la délégation avec une organisation claire dès le départ.",
+    "html": "html/E25.html",
+    "texte": "texte/E25.txt",
+    "image": "delegation.png",
+    "cta": "Rendez-vous"
+  },
+  {
+    "id": "E26",
+    "jour": 266,
+    "objet": "Le bon clic sur Google",
+    "apercu": "Être visible sur une recherche ne veut pas toujours dire attirer une mission.",
+    "html": "html/E26.html",
+    "texte": "texte/E26.txt",
+    "image": "intentions.png",
+    "cta": "Méthode"
+  },
+  {
+    "id": "E27",
+    "jour": 280,
+    "objet": "Ce que vous ne devriez pas gérer",
+    "apercu": "Déléguer un ensemble, plutôt que quelques réglages.",
+    "html": "html/E27.html",
+    "texte": "texte/E27.txt",
+    "image": "conception-bandeau.jpg",
+    "cta": "Rendez-vous"
+  },
+  {
+    "id": "E28",
+    "jour": 294,
+    "objet": "Une raison de vous choisir",
+    "apercu": "Votre différence doit devenir compréhensible avant le premier échange.",
+    "html": "html/E28.html",
+    "texte": "texte/E28.txt",
+    "image": "interieur-bandeau.jpg",
+    "cta": "Rendez-vous"
+  },
+  {
+    "id": "E29",
+    "jour": 308,
+    "objet": "999 € : ce que vous déléguez",
+    "apercu": "La gestion Meta et les autres leviers ont chacun leur périmètre.",
+    "html": "html/E29.html",
+    "texte": "texte/E29.txt",
+    "image": "delegation.png",
+    "cta": "Rendez-vous"
+  },
+  {
+    "id": "E30",
+    "jour": 322,
+    "objet": "Quel message tester ?",
+    "apercu": "Deux besoins différents peuvent se cacher derrière une même mission.",
+    "html": "html/E30.html",
+    "texte": "texte/E30.txt",
+    "image": "angles.png",
+    "cta": "Méthode"
+  },
+  {
+    "id": "E31",
+    "jour": 343,
+    "objet": "Le prochain cap",
+    "apercu": "Choisir ce qui mérite votre prochain investissement.",
+    "html": "html/E31.html",
+    "texte": "texte/E31.txt",
+    "image": "villa-bandeau.jpg",
+    "cta": "Rendez-vous"
+  },
+  {
+    "id": "E32",
+    "jour": 365,
+    "objet": "La suite pour votre cabinet",
+    "apercu": "Passer des idées du guide à une acquisition que vous pouvez déléguer.",
+    "html": "html/E32.html",
+    "texte": "texte/E32.txt",
+    "image": "echange-bandeau.jpg",
+    "cta": "Rendez-vous"
+  }
+]

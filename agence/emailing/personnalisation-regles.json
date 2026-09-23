@@ -1,0 +1,493 @@
+{
+  "version": 1,
+  "questions": {
+    "metier": [
+      "architecte-de",
+      "architecte-interieur",
+      "maitre-oeuvre",
+      "autre"
+    ],
+    "structure": [
+      "seul",
+      "2-5",
+      "6-plus"
+    ],
+    "origine_projets": [
+      "bouche-a-oreille",
+      "plateformes",
+      "reseaux",
+      "recherche",
+      "publicite"
+    ]
+  },
+  "rules": [
+    {
+      "field": "metier",
+      "value": "architecte-de",
+      "ids": [
+        "*"
+      ],
+      "old": "ARCHITECTES &amp; ARCHITECTES D’INTÉRIEUR",
+      "new": "ARCHITECTES INDÉPENDANTS &amp; PETITES ÉQUIPES"
+    },
+    {
+      "field": "metier",
+      "value": "architecte-interieur",
+      "ids": [
+        "*"
+      ],
+      "old": "ARCHITECTES &amp; ARCHITECTES D’INTÉRIEUR",
+      "new": "ARCHITECTES D’INTÉRIEUR"
+    },
+    {
+      "field": "metier",
+      "value": "architecte-de",
+      "ids": [
+        "E01"
+      ],
+      "old": "Une rénovation complète ? Un réaménagement intérieur ? Une extension dans votre secteur ?",
+      "new": "Une rénovation de maison ? Une transformation de bâtiment existant ? Une extension dans votre secteur ?"
+    },
+    {
+      "field": "metier",
+      "value": "architecte-interieur",
+      "ids": [
+        "E01"
+      ],
+      "old": "Une rénovation complète ? Un réaménagement intérieur ? Une extension dans votre secteur ?",
+      "new": "Un réaménagement complet d’appartement ? Un nouvel agencement de pièce de vie ? Un espace professionnel à repenser ?"
+    },
+    {
+      "field": "metier",
+      "value": "architecte-interieur",
+      "ids": [
+        "E02"
+      ],
+      "old": "rénovation complète de maisons",
+      "new": "réaménagement complet d’appartements"
+    },
+    {
+      "field": "metier",
+      "value": "architecte-interieur",
+      "ids": [
+        "E02"
+      ],
+      "old": "rénovation complète",
+      "new": "réorganisation complète des espaces intérieurs"
+    },
+    {
+      "field": "metier",
+      "value": "architecte-interieur",
+      "ids": [
+        "E20"
+      ],
+      "old": "rénovation complète de maisons",
+      "new": "réaménagement complet d’appartements"
+    },
+    {
+      "field": "metier",
+      "value": "architecte-interieur",
+      "ids": [
+        "E20"
+      ],
+      "old": "rénovation complète",
+      "new": "réorganisation complète des espaces intérieurs"
+    },
+    {
+      "field": "metier",
+      "value": "architecte-de",
+      "ids": [
+        "E05"
+      ],
+      "old": "Exemple de message pour un cabinet d’intérieur : « Vous venez d’acheter un appartement à Nantes ? Repensez les volumes et les usages avant de choisir les finitions. Présentez-nous votre projet. »",
+      "new": "Exemple de message pour un cabinet d’architecture : « Vous envisagez de rénover une maison ? Pensez les volumes et les usages avant de lancer les travaux. Présentez-nous votre projet. »"
+    },
+    {
+      "field": "metier",
+      "value": "architecte-interieur",
+      "ids": [
+        "E08"
+      ],
+      "old": "« Nous repensons les appartements anciens de Bordeaux, de la conception intérieure au suivi des travaux. Présentez-nous votre projet. »",
+      "new": "« Nous repensons les volumes et les usages des appartements anciens. Découvrez notre approche et présentez-nous votre projet. »"
+    },
+    {
+      "field": "metier",
+      "value": "architecte-de",
+      "ids": [
+        "E08"
+      ],
+      "old": "« Nous repensons les appartements anciens de Bordeaux, de la conception intérieure au suivi des travaux. Présentez-nous votre projet. »",
+      "new": "« Notre cabinet conçoit des rénovations et des extensions de maisons dans votre secteur. Présentez-nous votre projet. »"
+    },
+    {
+      "field": "metier",
+      "value": "architecte-interieur",
+      "ids": [
+        "E12"
+      ],
+      "old": "architecte rénovation maison Rennes",
+      "new": "architecte d’intérieur réaménagement appartement Rennes"
+    },
+    {
+      "field": "metier",
+      "value": "architecte-de",
+      "ids": [
+        "E12"
+      ],
+      "old": "architecte d’intérieur rénovation appartement Lille",
+      "new": "architecte rénovation maison Lille"
+    },
+    {
+      "field": "metier",
+      "value": "architecte-interieur",
+      "ids": [
+        "E26"
+      ],
+      "old": "architecte rénovation maison Rennes",
+      "new": "architecte d’intérieur réaménagement appartement Rennes"
+    },
+    {
+      "field": "metier",
+      "value": "architecte-de",
+      "ids": [
+        "E26"
+      ],
+      "old": "architecte d’intérieur rénovation appartement Lille",
+      "new": "architecte rénovation maison Lille"
+    },
+    {
+      "field": "metier",
+      "value": "architecte-interieur",
+      "ids": [
+        "E28"
+      ],
+      "old": "Ou chercher à mieux exploiter les volumes existants avant d’envisager une extension.",
+      "new": "Ou réorganiser un appartement pour faire cohabiter vie familiale et télétravail."
+    },
+    {
+      "field": "metier",
+      "value": "architecte-interieur",
+      "ids": [
+        "E30"
+      ],
+      "old": "rénovation de maison",
+      "new": "réorganisation d’appartement"
+    },
+    {
+      "field": "metier",
+      "value": "architecte-interieur",
+      "ids": [
+        "E30"
+      ],
+      "old": "une maison ancienne",
+      "new": "un appartement ancien"
+    },
+    {
+      "field": "metier",
+      "value": "architecte-interieur",
+      "ids": [
+        "E30"
+      ],
+      "old": "une même mission",
+      "new": "une même mission de conception intérieure"
+    },
+    {
+      "field": "structure",
+      "value": "seul",
+      "ids": [
+        "E06"
+      ],
+      "old": "Vous avez téléchargé le guide pour développer votre cabinet. Cela ne veut pas dire que vous souhaitez ajouter la gestion des publicités à vos journées.",
+      "new": "Vous exercez seul : confier la préparation et la diffusion des annonces permet de développer votre visibilité sans ajouter un second métier à vos journées. Vous gardez les échanges avec les propriétaires et les décisions sur les missions."
+    },
+    {
+      "field": "structure",
+      "value": "2-5",
+      "ids": [
+        "E06"
+      ],
+      "old": "Vous avez téléchargé le guide pour développer votre cabinet. Cela ne veut pas dire que vous souhaitez ajouter la gestion des publicités à vos journées.",
+      "new": "Dans une petite équipe, l’acquisition peut vite devenir une tâche que chacun prend en charge entre deux projets. La confier à Essort permet de désigner un interlocuteur côté cabinet et de garder le reste de l’équipe concentré sur les missions."
+    },
+    {
+      "field": "structure",
+      "value": "seul",
+      "ids": [
+        "E19"
+      ],
+      "old": "Déléguer votre acquisition devrait vous libérer du travail de diffusion, tout en respectant vos choix de dirigeant.",
+      "new": "Quand vous travaillez seul, déléguer doit vous permettre de sortir des réglages publicitaires tout en sachant quels projets arrivent. Nous faisons le point avec vous sur les demandes, sans vous demander de devenir spécialiste de Meta."
+    },
+    {
+      "field": "structure",
+      "value": "2-5",
+      "ids": [
+        "E19"
+      ],
+      "old": "Déléguer votre acquisition devrait vous libérer du travail de diffusion, tout en respectant vos choix de dirigeant.",
+      "new": "Dans une petite équipe, la délégation fonctionne mieux quand chacun sait où retrouver les demandes et qui prend contact. Vous pouvez désigner un référent côté cabinet ; nous gardons un suivi commun pour ajuster les campagnes."
+    },
+    {
+      "field": "structure",
+      "value": "seul",
+      "ids": [
+        "E27"
+      ],
+      "old": "Vous voulez pouvoir vous concentrer sur une esquisse, un échange client ou les décisions d’un projet sans garder une campagne publicitaire dans un coin de la tête.",
+      "new": "Vous exercez seul : le temps consacré aux publicités prend directement sur vos projets. Préparer les messages, suivre la diffusion et les ajuster peut être confié à Essort, avec une vue claire sur les demandes."
+    },
+    {
+      "field": "structure",
+      "value": "2-5",
+      "ids": [
+        "E27"
+      ],
+      "old": "Vous voulez pouvoir vous concentrer sur une esquisse, un échange client ou les décisions d’un projet sans garder une campagne publicitaire dans un coin de la tête.",
+      "new": "Vous souhaitez que votre équipe puisse se concentrer sur les projets sans se répartir les réglages publicitaires. Un interlocuteur côté cabinet peut centraliser les retours sur les demandes ; Essort prend en charge les campagnes."
+    },
+    {
+      "field": "origine_projets",
+      "value": "bouche-a-oreille",
+      "ids": [
+        "E02"
+      ],
+      "old": "Imaginez une nouvelle demande qui vous donne immédiatement envie d’en savoir plus. Le type de projet vous intéresse, le lieu convient, la mission correspond à votre façon de travailler.",
+      "new": "Les recommandations vous apportent déjà des projets. Pour préparer une campagne, nous regardons les missions que vous aimeriez recevoir plus souvent, y compris au-delà du cercle qui connaît votre cabinet."
+    },
+    {
+      "field": "origine_projets",
+      "value": "plateformes",
+      "ids": [
+        "E02"
+      ],
+      "old": "Imaginez une nouvelle demande qui vous donne immédiatement envie d’en savoir plus. Le type de projet vous intéresse, le lieu convient, la mission correspond à votre façon de travailler.",
+      "new": "Les plateformes vous apportent déjà des projets. Une campagne au nom de votre cabinet peut ouvrir un autre chemin : un propriétaire découvre votre approche, puis vous contacte directement pour vous présenter son besoin."
+    },
+    {
+      "field": "origine_projets",
+      "value": "reseaux",
+      "ids": [
+        "E02"
+      ],
+      "old": "Imaginez une nouvelle demande qui vous donne immédiatement envie d’en savoir plus. Le type de projet vous intéresse, le lieu convient, la mission correspond à votre façon de travailler.",
+      "new": "Vos projets viennent notamment des réseaux sociaux. Les missions que vous aimeriez attirer davantage donnent une direction aux prochains messages à diffuser auprès des propriétaires de votre secteur."
+    },
+    {
+      "field": "origine_projets",
+      "value": "recherche",
+      "ids": [
+        "E02"
+      ],
+      "old": "Imaginez une nouvelle demande qui vous donne immédiatement envie d’en savoir plus. Le type de projet vous intéresse, le lieu convient, la mission correspond à votre façon de travailler.",
+      "new": "Google et votre fiche établissement vous apportent déjà des projets. Pour envisager un canal complémentaire, nous partons des missions que vous souhaitez développer, plutôt que de chercher seulement plus de visites."
+    },
+    {
+      "field": "origine_projets",
+      "value": "publicite",
+      "ids": [
+        "E02"
+      ],
+      "old": "Imaginez une nouvelle demande qui vous donne immédiatement envie d’en savoir plus. Le type de projet vous intéresse, le lieu convient, la mission correspond à votre façon de travailler.",
+      "new": "Vous utilisez déjà la publicité. La première question n’est donc pas de vous convaincre d’en faire : c’est de vérifier quels types de missions vos campagnes actuelles vous aident à attirer."
+    },
+    {
+      "field": "origine_projets",
+      "value": "bouche-a-oreille",
+      "ids": [
+        "E03"
+      ],
+      "old": "Quand quelqu’un vous recommande, il a déjà fait une partie du travail : il a donné au propriétaire une raison de vous faire confiance.",
+      "new": "Quand quelqu’un vous recommande, il a déjà donné au propriétaire une raison de vous faire confiance. Pour élargir votre visibilité, votre communication doit rendre cette valeur compréhensible aux personnes qui ne connaissent pas encore le cabinet."
+    },
+    {
+      "field": "origine_projets",
+      "value": "plateformes",
+      "ids": [
+        "E03"
+      ],
+      "old": "Quand quelqu’un vous recommande, il a déjà fait une partie du travail : il a donné au propriétaire une raison de vous faire confiance.",
+      "new": "Une plateforme crée un premier contact dans son propre cadre. Sur une campagne à votre nom, vous choisissez ce que le propriétaire découvre en premier : votre approche, vos missions et la manière de vous présenter son projet."
+    },
+    {
+      "field": "origine_projets",
+      "value": "reseaux",
+      "ids": [
+        "E03"
+      ],
+      "old": "Quand quelqu’un vous recommande, il a déjà fait une partie du travail : il a donné au propriétaire une raison de vous faire confiance.",
+      "new": "Sur les réseaux, une personne peut aimer vos publications longtemps avant de vous contacter. Le message doit lui permettre de reconnaître son propre projet et de comprendre quand faire appel à votre cabinet."
+    },
+    {
+      "field": "origine_projets",
+      "value": "recherche",
+      "ids": [
+        "E03"
+      ],
+      "old": "Quand quelqu’un vous recommande, il a déjà fait une partie du travail : il a donné au propriétaire une raison de vous faire confiance.",
+      "new": "Une recherche Google exprime déjà un besoin. Pour donner envie au visiteur de vous choisir, votre présentation doit relier ce besoin à votre manière de concevoir et aux missions que vous proposez."
+    },
+    {
+      "field": "origine_projets",
+      "value": "publicite",
+      "ids": [
+        "E03"
+      ],
+      "old": "Quand quelqu’un vous recommande, il a déjà fait une partie du travail : il a donné au propriétaire une raison de vous faire confiance.",
+      "new": "Une annonce peut générer des clics sans préparer un échange intéressant. Le travail commence dans le message : le propriétaire doit comprendre pourquoi ce cabinet pourrait répondre à son projet."
+    },
+    {
+      "field": "origine_projets",
+      "value": "bouche-a-oreille",
+      "ids": [
+        "E12"
+      ],
+      "old": "Vous n’avez pas besoin d’être partout pour développer votre cabinet. Vous avez besoin d’un premier canal cohérent avec les missions que vous recherchez.",
+      "new": "Vous n’avez pas à remplacer le bouche-à-oreille qui fonctionne. Google ou Meta peuvent lui ajouter une source de découvertes ; leur intérêt dépend du moment où vous voulez rencontrer le propriétaire."
+    },
+    {
+      "field": "origine_projets",
+      "value": "plateformes",
+      "ids": [
+        "E12"
+      ],
+      "old": "Vous n’avez pas besoin d’être partout pour développer votre cabinet. Vous avez besoin d’un premier canal cohérent avec les missions que vous recherchez.",
+      "new": "Pour développer une source de demandes en complément des plateformes, Google et Meta ouvrent deux parcours différents. Dans les deux cas, c’est votre cabinet que vous mettez en avant."
+    },
+    {
+      "field": "origine_projets",
+      "value": "reseaux",
+      "ids": [
+        "E12"
+      ],
+      "old": "Vous n’avez pas besoin d’être partout pour développer votre cabinet. Vous avez besoin d’un premier canal cohérent avec les missions que vous recherchez.",
+      "new": "Vous connaissez déjà le rôle des réseaux dans la découverte du cabinet. La diffusion payante peut élargir cette visibilité ; Google répond plutôt à une recherche formulée par le propriétaire."
+    },
+    {
+      "field": "origine_projets",
+      "value": "recherche",
+      "ids": [
+        "E12"
+      ],
+      "old": "Vous n’avez pas besoin d’être partout pour développer votre cabinet. Vous avez besoin d’un premier canal cohérent avec les missions que vous recherchez.",
+      "new": "Puisque Google vous apporte déjà des projets, l’enjeu est de voir ce qu’un canal complémentaire pourrait ajouter. Meta peut présenter votre approche avant une recherche explicite, sans abandonner votre présence sur Google."
+    },
+    {
+      "field": "origine_projets",
+      "value": "publicite",
+      "ids": [
+        "E12"
+      ],
+      "old": "Vous n’avez pas besoin d’être partout pour développer votre cabinet. Vous avez besoin d’un premier canal cohérent avec les missions que vous recherchez.",
+      "new": "Vous avez déjà choisi la publicité comme levier, sans forcément utiliser les deux plateformes. Comparer Google et Meta sert à décider quel parcours correspond aux missions recherchées, pas à multiplier les budgets par principe."
+    },
+    {
+      "field": "origine_projets",
+      "value": "bouche-a-oreille",
+      "ids": [
+        "E18"
+      ],
+      "old": "Voir une publication appréciée se transformer en demandes de projets : l’idée est séduisante.",
+      "new": "Pour ajouter une source de demandes aux recommandations, sponsoriser une publication peut sembler suffisant. Il faut pourtant organiser ce qui se passe entre la découverte du cabinet et la présentation du projet."
+    },
+    {
+      "field": "origine_projets",
+      "value": "plateformes",
+      "ids": [
+        "E18"
+      ],
+      "old": "Voir une publication appréciée se transformer en demandes de projets : l’idée est séduisante.",
+      "new": "Pour recevoir des demandes directement, une publication sponsorisée a besoin d’un parcours clair. Le propriétaire doit reconnaître le besoin traité, puis pouvoir vous transmettre les informations utiles sur son projet."
+    },
+    {
+      "field": "origine_projets",
+      "value": "reseaux",
+      "ids": [
+        "E18"
+      ],
+      "old": "Voir une publication appréciée se transformer en demandes de projets : l’idée est séduisante.",
+      "new": "Votre expérience des réseaux vous donne déjà des repères sur les contenus appréciés. Passer à la publicité demande une lecture supplémentaire : quelles publications conduisent réellement à une demande de projet ?"
+    },
+    {
+      "field": "origine_projets",
+      "value": "recherche",
+      "ids": [
+        "E18"
+      ],
+      "old": "Voir une publication appréciée se transformer en demandes de projets : l’idée est séduisante.",
+      "new": "Un clic publicitaire n’exprime pas toujours la même intention qu’une recherche Google précise. Une campagne sur les réseaux doit aussi aider la personne à identifier son besoin et à présenter son projet."
+    },
+    {
+      "field": "origine_projets",
+      "value": "publicite",
+      "ids": [
+        "E18"
+      ],
+      "old": "Voir une publication appréciée se transformer en demandes de projets : l’idée est séduisante.",
+      "new": "Puisque vous utilisez déjà la publicité, cette distinction est surtout un point de contrôle : quel objectif la campagne poursuit-elle, et comment les demandes sont-elles suivies après le clic ?"
+    },
+    {
+      "field": "origine_projets",
+      "value": "bouche-a-oreille",
+      "ids": [
+        "E21"
+      ],
+      "old": "Vous pouvez avoir envie de faire connaître votre travail sans consacrer chaque semaine des heures à alimenter les réseaux.",
+      "new": "En complément des recommandations, publier peut entretenir la visibilité du cabinet. Avant d’y consacrer plus de temps, regardez si ces contenus rencontrent les propriétaires de votre secteur."
+    },
+    {
+      "field": "origine_projets",
+      "value": "plateformes",
+      "ids": [
+        "E21"
+      ],
+      "old": "Vous pouvez avoir envie de faire connaître votre travail sans consacrer chaque semaine des heures à alimenter les réseaux.",
+      "new": "Pour faire connaître votre cabinet au-delà des plateformes, vous n’êtes pas obligé de produire du contenu tous les jours. Un message précis et une diffusion locale peuvent être une première piste à tester."
+    },
+    {
+      "field": "origine_projets",
+      "value": "reseaux",
+      "ids": [
+        "E21"
+      ],
+      "old": "Vous pouvez avoir envie de faire connaître votre travail sans consacrer chaque semaine des heures à alimenter les réseaux.",
+      "new": "Les réseaux vous apportent déjà des projets. Avant d’augmenter votre rythme de publication, identifiez les contenus à l’origine de ces demandes : ils peuvent offrir une base utile pour préparer une diffusion payante."
+    },
+    {
+      "field": "origine_projets",
+      "value": "recherche",
+      "ids": [
+        "E21"
+      ],
+      "old": "Vous pouvez avoir envie de faire connaître votre travail sans consacrer chaque semaine des heures à alimenter les réseaux.",
+      "new": "Vous n’êtes pas obligé d’ajouter une production quotidienne de contenu à votre présence Google. La question est de savoir quel message ferait découvrir votre cabinet à des propriétaires qui ne le recherchent pas encore."
+    },
+    {
+      "field": "origine_projets",
+      "value": "publicite",
+      "ids": [
+        "E21"
+      ],
+      "old": "Vous pouvez avoir envie de faire connaître votre travail sans consacrer chaque semaine des heures à alimenter les réseaux.",
+      "new": "Avant de demander davantage de contenus à votre cabinet, regardons ce que les publicités actuelles permettent d’apprendre. Le message, la zone et le parcours peuvent mériter un ajustement avant une nouvelle production de visuels."
+    },
+    {
+      "field": "departement",
+      "value": "*",
+      "ids": [
+        "E13"
+      ],
+      "old": "Le canal choisi influence le moment où vous rencontrez un propriétaire. Son projet peut être prêt à avancer, ou se préparer pour dans plusieurs mois.",
+      "new": "Le canal choisi influence le moment où vous rencontrez un propriétaire. Son projet peut être prêt à avancer, ou se préparer pour dans plusieurs mois. Votre département déclaré — {departement} — sert de point de départ ; votre zone réelle d’intervention reste à préciser selon les missions."
+    },
+    {
+      "field": "departement",
+      "value": "*",
+      "ids": [
+        "E22"
+      ],
+      "old": "Toucher les bonnes personnes suppose aussi de définir où elles se trouvent. Une campagne plus largement diffusée n’apporte pas toujours des missions plus intéressantes.",
+      "new": "Toucher les bonnes personnes suppose aussi de définir où elles se trouvent. Une campagne plus largement diffusée n’apporte pas toujours des missions plus intéressantes. Votre département déclaré — {departement} — sert de point de départ ; votre zone réelle d’intervention reste à préciser selon les missions."
+    }
+  ]
+}

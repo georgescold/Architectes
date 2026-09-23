@@ -1,0 +1,22 @@
+Bonjour [prénom],
+
+Sur votre site comme dans une annonce, présenter clairement une mission aide le propriétaire à se reconnaître. Cela ne vous oblige pas à renoncer aux autres projets.
+
+Vous pouvez avoir envie de développer un type de mission tout en gardant la diversité qui vous plaît dans votre métier.
+
+Une campagne permet justement de distinguer les deux.
+
+Votre cabinet peut travailler sur plusieurs programmes. L’annonce, elle, a besoin d’une entrée précise pour que quelqu’un se sente concerné.
+
+Exemple : parler de réaménager un appartement après un achat permet d’adresser une situation identifiable. Une autre campagne pourra porter sur la rénovation d’une maison familiale.
+
+Vous n’êtes pas obligé de faire entrer toute l’activité du cabinet dans la même publicité. Vous choisissez ce que vous voulez mettre en avant à ce moment-là.
+
+Cela rend aussi les résultats plus lisibles : vous savez quel message a suscité quel type de demande. Vous pouvez renforcer les missions recherchées au lieu de multiplier les contacts sans direction.
+
+Voyez comment cette logique se traduit dans la méthode Essort : https://essort.agency/.
+
+Loys et Enzo — Essort
+
+{{identite_expediteur}}
+Se désinscrire : {{lien_desinscription}}

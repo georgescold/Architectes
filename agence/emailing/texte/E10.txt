@@ -1,0 +1,22 @@
+Bonjour [prénom],
+
+Choisir les missions à attirer donne une direction aux campagnes. Pour garder la main, vous devez ensuite voir si les demandes vont dans ce sens.
+
+Vous devriez pouvoir confier vos campagnes tout en sachant ce qu’elles apportent à votre cabinet.
+
+Un tableau de clics ne suffit pas pour cela.
+
+Ce qui vous intéresse, c’est de retrouver les demandes : leur projet, leur secteur, où en est le contact et les échanges qui avancent.
+
+Notre plateforme de suivi dédiée rassemble ces informations. Vous disposez d’une vue commune avec Essort, au lieu de devoir reconstituer l’activité à partir de messages dispersés.
+
+Votre retour compte aussi. Si les demandes concernent surtout de petites interventions alors que vous visez des missions complètes, c’est une information pour revoir le message et le formulaire.
+
+Le suivi sert ainsi à ajuster l’acquisition à votre cabinet. Il ne sert pas seulement à présenter des chiffres en fin de mois.
+
+Prenons 30 minutes pour vous présenter le fonctionnement : https://cal.com/essort/30min. Nous regarderons comment les demandes seraient organisées et ce que vous pourriez suivre au quotidien.
+
+Loys et Enzo — Essort
+
+{{identite_expediteur}}
+Se désinscrire : {{lien_desinscription}}
