@@ -174,6 +174,51 @@ quinzaine de cabinets sur les plateformes (signal 1), puis la dizaine d'annonceu
 2). Soit une soixantaine de messages, chacun appuyé sur un fait précis.
 
 
+## Vague nationale, signaux forts seulement — 24/09/2026
+
+Consigne : ne garder que des cabinets qui ont montré qu'ils cherchent des clients, pas
+de simples installations. Architecte ou architecte d'intérieur, indépendant ou petite
+équipe, avec au moins un contact publié par le cabinet lui-même. Chiffres seulement, la
+liste nominative est dans `listes/`, hors Git.
+
+Les sources retenues :
+
+  Publicité Meta en cours. Bibliothèque Meta, France, annonces actives : « architecte
+  d'intérieur » (730 annonces), « architecture intérieure » (160), « architecte » (1 400,
+  1 300 lues). 44 annonceurs examinés un par un, 22 retenus. Écartés : écoles et
+  formations, fabricants et magasins, entreprises de travaux, agences de plus de 5
+  personnes, franchises, cabinets belges, suisses, marocains ou tunisiens.
+  Publicité Meta arrêtée. « architecte d'intérieur », annonces inactives : 418 lues sur
+  13 000. 16 annonceurs examinés, 8 retenus.
+  Trouver mon Architecte. Les architectes s'y inscrivent eux-mêmes pour recevoir des
+  demandes ; leur fiche affiche « disponible pour de nouveaux projets », leurs
+  réalisations et leur délai de réponse. 617 fiches relevées sur les 101 départements, 447
+  avec au moins une réalisation en ligne. Chacune donne un SIRET et un numéro d'Ordre.
+  Trouver mon Décorateur, le site jumeau. 218 fiches, 174 actives ; 85 se présentent
+  elles-mêmes comme architecte d'intérieur. Les décorateurs purs sont écartés.
+
+Les contrôles :
+
+  Taille : le SIRET de la fiche est rapproché de la base Sirene. Retenus : sans salarié
+  déclaré, 0, 1-2 ou 3-5 salariés. Écartés : 9 cabinets de 6 salariés et plus, 14
+  entreprises fermées, 45 fiches dont le SIRET n'a pas été retrouvé.
+  Contacts : lus sur le site du cabinet ou sur les liens de sa propre fiche. Un email n'est
+  gardé que s'il est au nom de domaine du cabinet ou sur une messagerie personnelle — jamais
+  celui du prestataire qui a fait le site. Aucun email reconstruit.
+  Rythme : une page par seconde sur les plateformes.
+
+Résultat : 359 cabinets avec au moins un contact, dont 112 avec les trois (téléphone,
+Instagram, email). 212 joignables par téléphone, 139 par Instagram sans téléphone, 8 par
+email seulement. Paris et petite couronne en tête, puis Gironde, Bouches-du-Rhône, Nord,
+Rhône et Hérault.
+
+Ce que ça apprend :
+  Les plateformes donnent le volume, la publicité donne l'intention la plus forte : le
+  message part de ce qu'ils ont déjà payé.
+  Au passage, au moins cinq acteurs qui vendent aux architectes diffusent en ce moment :
+  formation, accompagnement, outils d'IA. Le plus actif compte 119 annonces actives.
+
+
 ## À vérifier avant de lancer
 
   Les conditions d'utilisation de chaque plateforme avant d'y chercher des profils.
