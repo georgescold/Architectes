@@ -1,0 +1,26 @@
+{#- Mail qui accompagne la brochure, après le premier appel. Signé par l'émetteur (celui qui a
+    mené l'appel), à la première personne. Les montants passent par euros() : espaces ordinaires. -#}
+Objet : Votre essai Essort sur {{ zone.nom }}, le récapitulatif
+
+Bonjour {{ client.prenom }},
+
+Merci pour notre échange {{ appel.quand }}. Comme promis, vous trouverez en pièce jointe le récapitulatif de ce que nous pouvons mettre en place pour vous.
+
+En quelques mots :
+
+- Des annonces Facebook et Instagram diffusées sur {{ zone.nom }}, construites à partir de vos réalisations.
+- Un formulaire qui demande le budget travaux et l'échéance : vous savez avant d'appeler si le projet dépasse vos {{ euros(seuil_travaux) }}.
+- Un essai de {{ essai.jours }} jours sans frais de gestion. Votre seul coût est le budget publicitaire : {{ euros(essai.budget_jour) }} par jour, soit {{ euros(essai.budget_jour * essai.jours) }}, réglés directement à Meta sur votre propre compte.
+
+Si l'essai vous convainc, la gestion est à {{ euros(prix_mensuel) }} par mois, payés en fin de mois. Avec une garantie : {{ garantie.opportunites }} opportunités par mois, selon les critères que nous fixons ensemble, sinon vous ne payez pas le mois. J'ai aussi répondu en dernière page aux questions qu'on me pose le plus souvent.
+
+Comme convenu, je vous laisse revenir vers moi {{ appel.reponse }}. Un simple « oui » en réponse à ce mail suffit pour lancer l'essai : vos annonces peuvent être en ligne sous 48 h.{% if appel.rappel %} Sans nouvelles de votre part d'ici là, je me permettrai de vous appeler {{ appel.rappel }}.{% endif %}
+
+Belle journée,
+
+{{ emetteur.nom }}
+{{ emetteur.role }}, Essort
+{{ emetteur.telephone }} (appel, SMS ou WhatsApp)
+essort.agency
+
+Pièce jointe : {{ piece_jointe }}

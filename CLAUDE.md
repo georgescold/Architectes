@@ -18,11 +18,14 @@ elle se sert (`base-valere/`).
 | `agence/cible/` | Cible, avatar, personas. **Fait foi** pour la manière de parler aux cabinets |
 | `agence/marche/` | Le marché : chiffres (Archigraphie), B2B de l'aménagement, segments, réglementations locales, corpus de recherche |
 | `agence/acquisition/` | `pub/` (angles, benchmark des annonceurs, preuves Meta, montages) · `vsl/` · `leadmagnet/` (le guide gratuit) |
-| `agence/contenu/youtube/` | La chaîne « Essort Architectes » : 20 fiches, connaissance métier, planning |
-| `agence/emailing/` | La séquence de 12 mois après le guide, et les séquences par profil |
+| `agence/contenu/youtube/` | La chaîne « Essort Architectes » : 20 sujets, connaissance métier, registre des preuves |
+| `agence/emailing/` | La séquence de 12 mois après le guide, adaptée à la qualification du lecteur |
+| `agence/onboarding/` | Le questionnaire que le client remplit après l'appel, pour Tally : son offre, ses visuels, sa zone, l'accès Meta et les conditions d'essai signées |
 | `agence/prospection/` | Prospection sortante : signaux, règles, test Gironde. Listes nominatives dans `listes/`, hors Git |
+| `agence/prospection/listes/fiches-appel/` | La veille sur les leads des pubs : une fiche d'appel par demande de RDV, écrite et postée sur Discord 24 h/24 par GitHub Actions — dépôt **privé** séparé `georgescold/essort-veille-leads` |
 | `agence/site/` · `agence/site.md` | Le site essort.agency — dépôt séparé `Enzdo/essort` |
-| `agence/crm/` · `agence/crm.md` | Le CRM Essort — dépôt séparé `Enzdo/crm` |
+| `agence/crm/` · `agence/crm.md` | Le CRM Essort, pour les cabinets clients — dépôt séparé `Enzdo/crm` |
+| `agence/crmspy/` · `agence/crmspy.md` | CRMSpy, l'outil interne de traitement des leads de l'agence (veille concurrentielle) — dépôt séparé `Enzdo/crmspy` |
 | `base-valere/` | La méthode Business OS — voir la seconde partie de ce fichier |
 
 ## Où chercher
@@ -32,17 +35,22 @@ elle se sert (`base-valere/`).
 - **Un chiffre du marché, un argument** → `agence/marche/` puis `agence/contenu/youtube/connaissance-metier.md`
 - **Une pub, un angle, un concurrent** → `agence/acquisition/pub/`
 - **Un épisode YouTube** → `agence/contenu/youtube/README.md`
+- **Le questionnaire client après l'appel** → `agence/onboarding/README.md`
 - **Trouver et contacter des cabinets** → `agence/prospection/prospection-sortante.md`
 - **Le site ou le CRM** → `agence/site.md`, `agence/crm.md`
+- **Nos propres leads (veille, prospects repérés)** → `agence/crmspy.md`
+- **Un lead des pubs à appeler (sa fiche, la veille auto)** → `agence/prospection/listes/fiches-appel/README.md`
+- **La brochure et le mail à envoyer après un appel** → `agence/offre/brochure/README.md` (skill `proposition-apres-appel`)
 - **La méthode (copy, funnel, closing, scaling)** → `base-valere/`, avec les règles ci-dessous
 
 ## Règles de l'agence
 
 1. **Ce dépôt est public** (`georgescold/Architectes`). Jamais de liste de prospects,
    d'export de profils, de clé ou de donnée client dans un fichier versionné.
-2. **Trois dépôts Git** : ce dossier, `agence/site/` et `agence/crm/`. Les deux derniers
-   sont ignorés ici ; leurs commits se font dans leur propre dossier. Pousser le site
-   déclenche un déploiement en production : demander avant.
+2. **Cinq dépôts Git** : ce dossier, `agence/site/`, `agence/crm/`, `agence/crmspy/` et
+   `agence/prospection/listes/fiches-appel/`. Les quatre derniers sont ignorés ici ; leurs
+   commits se font dans leur propre dossier.
+   Pousser le site ou le CRM déclenche un déploiement en production : demander avant.
 3. **Tout ce qui est affirmé en public est vérifié à la source** : chiffres, lois, liens.
 4. **Le contenu sert à avoir des clients.**
 
