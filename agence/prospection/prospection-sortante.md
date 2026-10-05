@@ -219,6 +219,31 @@ Ce que ça apprend :
   formation, accompagnement, outils d'IA. Le plus actif compte 119 annonces actives.
 
 
+## Revérification et entrée dans CRMSpy — 02/10/2026
+
+Les 175 lignes de `listes/prospects-france-signaux-forts.csv` ont été revérifiées une à une :
+fiche Trouver mon Architecte relue (toujours « disponible » ?), SIRET rapproché de Sirene
+(active, effectif, statut de diffusion), site du cabinet appelé, doublons cherchés dans
+CRMSpy par Instagram, email, domaine et nom.
+
+  144 dans le cœur de cible, intégrés à CRMSpy en « Nouveau » : 17 en P0 (pub Meta en
+  cours), 118 en P1 (pub arrêtée ou disponible sur Trouver mon Architecte), 9 en P2
+  (installations récentes, ou confiance moyenne). Source « Prospection sortante » ;
+  téléphone, contrôles et message d'approche dans les notes de chaque fiche.
+  15 écartés : 11 en diffusion partielle Sirene, que la vague du 24/09 n'avait pas filtrés,
+  et 4 hors cible (urbanisme et commande publique, conseil en conduite d'opération,
+  identité non confirmée).
+  14 à vérifier, non intégrés : 3 fiches qui ne disent plus « disponible », 1 SIRET
+  introuvable, 2 rapprochements Sirene par le nom à confirmer (une société cessée, une
+  à 10-19 salariés), 8 profils limites (commande publique, décoration, un concurrent).
+  2 déjà dans CRMSpy.
+
+Le détail nominatif est dans `listes/prospects-france-signaux-forts-verification-2026-10-02.csv`.
+
+Leçon : filtrer la diffusion partielle à la source, à chaque vague — le rapprochement
+Sirene la renvoie (`statut_diffusion = P`, nom « [NON-DIFFUSIBLE] »).
+
+
 ## À vérifier avant de lancer
 
   Les conditions d'utilisation de chaque plateforme avant d'y chercher des profils.
